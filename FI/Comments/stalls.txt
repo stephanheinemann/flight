@@ -1,0 +1,10 @@
+incipient stall
+fully developed stall
+power off stall
+power on stall
+departure stall
+(bank angles, flap settings)
+falling leaf
+secondary stall
+incipient spin
+

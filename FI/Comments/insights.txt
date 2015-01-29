@@ -1,0 +1,18 @@
+any bank angle can be flown uncoordinated
+->
+any bank angle can be flown without adding extra load
+->
+a 90deg bank angle can be flown without turning using elevator as rudder and rudder as elevator
+->
+load factor = 1 / cos b is only valid for coordinated turns
+->
+only inertia creates loads
+->
+without (negative / positive) acceleration, there is no extra load
+->
+horizontal acceleration during a turn is centripetal force
+->
+centripetal force is opposed by inertia to the outside of the turn
+->
+without turning, there is no centripetal force and, hence, no inertia and no additional load
+

@@ -1,0 +1,155 @@
+ground: 9 sessions -> 14.5 hours
+2 sessions	Introduction (4h)
+2 sessions	Attitudes and Movements (4h)
+1 session	Straight-and-Level Flight (2h)
+1 session	Climbing and Descending (improvised) (1h)
+1 session	Part 1: Basic Climbing and Descending with Questions (1.5h)
+1 session	Part 2: Climbing and Descending  (1.5h)
+1 session	Part 1: Gentle and Medium Level Turns (0.5h)
+29.01.2015	Part 2: Advanced Turns - Climbing and Descending Turns / Steep Turns
+
+Air Exercises
+
+27.11.2014 Discovery Flight Video
+28.11.2014 Flight-Operations, Aircraft Familarization
+29.11.2014 Aircraft and Personal Documents
+09.12.2014 Gentle, Medium and Steep Turns Presentations, Videos and Quizzes
+09.12.2014 Climbing Presentation, Videos and Quiz
+10.12.2014 Descending Presentation, Videos and Quiz
+10.12.2014 Attitudes and Movements Presentation, Video and Quiz
+11.12.2014 Aircraft and Personal Docuemnts Presentations, Videos and Quizzes
+11.12.2014 Weight and Balance Part I
+12.12.2014 Weight and Balance Part II, Quiz
+22.12.2014 Walkaround Presentation and Videos
+22.12.2014 Cost of Operating Airplanes Presentation
+22.12.2014 Ancillary Controls (Mixture) Text and Video
+22.12.2014 Taxiing Presentation, Video and Quiz
+20.01.2015 Range and Endurance Presentation and Quiz
+20.01.2015 Slow Flight Presentation, Videos and Quiz
+20.01.2015 Stall Presentation, Vidoes and Quiz
+21.01.2015 Spins Presentation, Videos and Quiz
+21.01.2015 Spiral Dives Presentation, Videos and Quiz
+21.01.2015 Slips Presentation, Videos and Quiz
+21.01.2015 Take-Offs Presentations, Videos and Quizzes
+21.01.2015 Circuits Presentation and Quiz
+22.01.2015 Landings Presentations, Videos and Quizzes
+22.01.2015 Illusions Created by Drift Presentation, Video and Quiz
+22.01.2015 Precautionary Landings Presentation, Video and Quiz
+22.01.2015 Forced Landings Presentation, Video and Quiz
+22.01.2015 Navigation Presentations and Quiz
+22.01.2015 Air Exercise Review Quiz
+22.01.2015 Night Flying Presentation, Video and Quiz
+23.01.2015 Instrument Flying Presentations and Quiz
+
+Air Law
+
+29.11.2014 General Provisions Presentation and Quiz
+25.12.2014 Aerodromes and Airports Presentation and Quiz
+28.12.2014 Personal Lincencing and Training Quiz (IATRA Presentation)
+28.12.2014 Airspace Structure, Classification and Use Quiz (IATRA Presentation)
+28.12.2014 Operating and Flight Rules Quiz (IATRA Presentation)
+28.12.2014 Flight Plans and Itineraries Quiz (IATRA Presentation)
+28.12.2014 Airport Operations Quiz (IATRA Presentations)
+28.12.2014 Aircraft Requirements Quiz (IATRA Presentation)
+28.12.2014 Aircraft Equipment Requirements Quiz (IATRA Presentation)
+28.12.2014 Aircraft Maintenance Requirements Quiz (IATRA Presentation)
+28.12.2014 Technical Maintenance Records and Requirements Quiz (IATRA Presentation)
+28.12.2014 Commercial Maintenance System Quiz (IATRA Presentation)
+30.12.2014 Transportation Safety Board Quiz (IATRA Presentation)
+30.12.2014 Air Traffic Services and Procedures Quiz (IATRA Presentation)
+31.12.2014 Airframes Presentation and Quiz
+31.12.2014 Forest Fire Restrictions Presentation and Quiz
+31.12.2014 Operational and Emergency Eqipment Requirements Presentation and Quiz
+31.12.2014 Pre-Flight and Fuel Requirements Presentation and Quiz
+31.12.2014 Visual Flight Rules Presentation and Quiz
+01.01.2015 Radio Communications Presentation and Quiz
+01.01.2015 Emergency Communications Presentation and Quiz
+01.01.2015 Documents Presentation and Quiz
+01.01.2015 Miscellaneous Presentation and Quiz
+
+Aircraft Systems
+
+01.01.2015 Landing Gear, Brakes and Flaps Presentation and Quiz
+03.01.2015 Piston Engines Presentation and Quiz
+03.01.2015 Propellers Quiz (IATRA Presentations)
+04.01.2015 Constant Speed Propellers Presenation and Quiz
+--> Review Feathering Systems
+05.01.2015 Carburetor Presentation and Quiz
+05.01.2015 Fuel Injection Presentation and Quiz
+05.01.2015 Electrical System Presentation and Quiz
+05.01.2015 Lubricating Systems and Oils Presentation and Quiz
+05.01.2015 Fuel Systems and Fuels Presentation and Quiz
+06.01.2015 Other Aircraft Systems Presentation and Quiz
+
+Instruments
+
+08.01.2015 Pitot Static System Quiz (IATRA Presentation)
+08.01.2015 Airspeed Indicator Quiz (IATRA Presentation)
+08.01.2015 Airspeeds and Definitions Presentation and Quiz
+09.01.2015 Vertical Speed Indicator Presentation and Quiz
+09.01.2015 Altimeter / Encoding Quiz (IATRA Presentation)
+09.01.2015 Magnetic Compass Presentation and Quiz
+09.01.2015 Gyroscope Quiz (IATRA Presentation)
+09.01.2015 Attitude Indicator Quiz (IATRA Presentation)
+09.01.2015 Turn and Bank Indicator / Turn Coordinator Quiz (IATRA Presentation)
+09.01.2015 Instrument Flying Presentation and Quiz
+
+Theory of Flight
+
+10.01.2015 Principles of Flight Presentation and Quiz
+10.01.2015 Forces Acting on an Aircraft Quiz (IATRA Presentation)
+10.01.2015 Aerofoils Quiz (IATRA Presentation)
+10.01.2015 Design of the Wing Quiz (IATRA Presentation)
+10.01.2015 Load Factor Quiz (IATRA Presentation)
+10.01.2015 Stability Presentation and Quiz
+10.01.2015 Flight Controls Presentation and Quiz
+
+Flight Operations
+
+12.01.2015 Flight Operations General Presentation and Quiz
+12.01.2015 Wake Turbulence Presentation and Quiz
+12.01.2015 Search and Rescue Presentation and Quiz
+12.01.2015 Aircraft Critical Surface Contamination Presentation and Quiz
+12.01.2015 Aircraft Icing Presentation and Quiz
+13.01.2015 Weight and Balance Quiz (Air Exercises Presentations)
+13.01.2015 Weight Shift Presentation and Quiz
+
+Aircraft Performance
+
+13.01.2015 Aircraft Performance Presentation and Quiz (I)
+14.01.2015 Use of Performance Charts Presentation
+20.01.2015 Use of Performance Charts Quiz
+20.01.2015 Aircraft Performance Quiz (II)
+
+Pilot Decision Making and Human Factors
+
+15.01.2015 Spatial Orientation Presentation and Quiz
+15.01.2015 Visual Illusions Presentation and Quiz
+15.01.2015 Aviation Physiology Presentation and Quiz
+16.01.2015 Pilot Decision Making Presentation and Quiz
+16.01.2015 The Pilot and the Operating Environment Presentation and Quiz
+16.01.2015 Aviation Psychology Presentation and Quiz
+16.01.2015 Pilot - Equipment / Materials Relationship Presentation and Quiz
+16.01.2015 Interpersonal Relations Presentation and Quiz
+16.01.2015 Cockpit Resource Management Presentation and Quiz
+
+Lesson Planning
+
+18.01.2015 Preparing Lesson Plans Presentation and Quiz
+18.01.2015 How to Give a Lesson Plan Video
+
+Flight Instructor Guide
+
+18.01.2015 Learning Factors Presentation and Quiz
+18.01.2015 Types of Instruction Presentation and Quiz
+18.01.2015 Oral Questions Presentation and Quiz
+19.01.2015 Instructional Techniques Presentation and Quiz
+19.01.2015 Demonstration Performance Method Presentation and Quiz
+19.01.2015 Developmental Teaching Presentation
+19.01.2015 Student Progress Presentation and Quiz
+19.01.2015 Analyzing Student Performance Presentation and Quiz
+19.01.2015 Instructor Qualities and Responsibilities Presentation and Quiz
+
+Licensing Requirements
+
+19.01.2015 Licensing Requirements Presentation and Quiz

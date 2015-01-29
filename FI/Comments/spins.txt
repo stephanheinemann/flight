@@ -1,0 +1,13 @@
+stall aggravated by yaw
+wings produce little lift - outer wing more than inner wing
+power would flatten and fasten the spin
+flaps would flatten spin and could cause damage
+aft CG would flatten the spin and impede recovery
+heavier aicraft increases spin inertia
+less backpressure or rudder input during the spin could lead to a
+	spiral dive (huge acceleration)
+opposite ruder if not combined with reduced angle of attack may lead
+	to a spin in the opposite direction (neutralize rudder after
+	spin has been stopped)
+TODO: review underbanking tendency and angle of attack at each wing
+

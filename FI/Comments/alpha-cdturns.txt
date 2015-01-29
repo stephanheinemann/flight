@@ -1,0 +1,15 @@
+http://www.atpforum.eu/showthread.php?t=7924
+
+Tricky one, but the two staements are not incompatible. The book quote refers to a rolling manoeuvre, the question refersto a turn with steady bank, with no roll.
+A whole series of questions about alpha changes in level, climbing or desending turns invokes the fact that in a turn the outer wing is travelling faster than the inner wing. In a level turn alpa is the same, inner and outer, but as the speed over the outer wing is faster there wil be more lift and the aircraft will tend to roll into the turn.
+In climbing or desending turns there is the added factor that, as with roll damping, alpha is modified by a vertical element in the airflow. In a climb the vertical speed element will act to reduce alpha, but the actual angle change will depend on the forward TAS as well as the vertical TAS. The faster the forward TAS the less angular effect from the vertical TAS. So if the outer wing is going faster than the inner wing it will have a smaller reduction of alpha than the slower inner wing. This means that in climbing turns the outer wing has a larger alpha than the inner wing.
+Contrairywise, in a descending turn the slower inner wing with the larger alpha change, which is now an increase, will finish up with a higher alpha than the outer wing
+You may think this unimportant, but wait until you are in a steep descending turn on finals and the increasing alpha on the inner wing pushes it past critical alpha.
+
+Dick
+Reply With Quote
+
+http://www.av8n.com/how/htm/roll.html#sec-climbing-turn-aoa
+
+9.7  Climbing and Descending Turns
+In a level turn both wingtips are moving horizontally. In a climbing turn, both wingtips will be climbing, but they will not make equal angles to the horizon. This is because the climb angle depends on the ratio of the vertical speed to the forward speed. As a result of the different climb angles, we get different angles of attack for the two wingtips. The geometry of the situation is shown in figure 18.6 (in the chapter on spins). Another way to think about this is to recognize that it involves rotating in a non-horizontal plane, as discussed in section 19.7.4.

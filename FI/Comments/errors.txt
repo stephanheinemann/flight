@@ -1,0 +1,15 @@
+General Aircraft Knowledge
+- Radial explained wrong
+
+Attitudes and Movements
+- Question 9:
+	None of the answers is really correct - the least incorrect
+	is, however a wrong one. Counter example to the correct one:
+	Turn Coordinator (Inclinometer or Aircraft will change depending
+	on rudder application)
+
+Weight and Balance:
+- Horizontal Stablizer versus Elevator Downforce
+- Question 5:
+	W&B Reports are updated by a contracted AME after equipment changes
+
