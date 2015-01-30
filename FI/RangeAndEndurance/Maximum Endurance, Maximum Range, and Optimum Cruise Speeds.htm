@@ -1,0 +1,279 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+
+<title>Maximum Endurance, Maximum Range, and Optimum Cruise Speeds
+</title>
+</head>
+
+<body text="#000000" bgcolor="#ffffff">
+
+<h1><a name="Top"></a>Maximum Endurance, Maximum Range, and Optimum
+Cruise Speeds </h1>
+
+<p>
+Russ Erb
+</p><p>
+Originally published October 1993
+</p><p>
+<a href="#Fuel_Flow_and_Power">Fuel Flow and Power</a>
+<br>
+<a href="#Performance_Charts">Performance Charts</a>
+<br>
+<a href="#Maximum_Endurance">Maximum Endurance</a>
+<br>
+<a href="#Maximum_Range">Maximum Range</a>
+<br>
+<a href="#Optimum_Cruising_Speed">Optimum Cruising Speed (Carson's Speed)</a>
+<br>
+<a href="#How_Do_I">How Do I Find These Speeds Without A Drag Polar For My Airplane?</a>
+<br>
+<a href="#Final_Thoughts">Final Thoughts</a>
+<br>
+<a href="#References">References</a>
+</p><p>
+This article was inspired by the excellent CAFE Foundation flight
+test article on the RV-6A in the September 1993 <i>Sport Aviation</i>.
+On page 37, the author (there are so many, I don't know who wrote
+this part) talks about an optimum cruise speed he call's "Carson's
+Speed." Well, in 13 years of studying and working in flight
+mechanics (performance, stability and control), I have never heard
+of "Carson's Speed." For that matter, neither had any
+of the flight mechanics gurus in the USAF Academy Department of
+Aeronautics. Needless to say, this new concept caught our attention.
+</p><p>
+Fortunately, the author cited the AIAA paper where Carson developed
+this concept (AIAA-80-1847). So I cruised on over to the USAF
+Academy library and picked up a copy. After studying the paper,
+this seemed like a good time to review the basic performance speeds.
+</p><p>
+Of course, Norm would prefer that I go through a detailed, rigorous
+mathematical derivation of these concepts, including stuff such
+as triple integrals as found in Green's Theorem:
+</p><p>
+</p><center><img src="Maximum%20Endurance,%20Maximum%20Range,%20and%20Optimum%20Cruise%20Speeds_files/eqn1.gif" alt="Green's Theorem" align="BOTTOM" width="199" height="45"></center>
+<p>
+(Whoa! I'm starting to have flashbacks to my partial differential
+equations course!) Norm seems to think this would improve our
+standing for next year's McKillop award. Unfortunately, the only
+thing I want to do less than read something like that is to write
+something like that. Therefore, we'll take the "Math-lite"
+or qualitative approach for this explanation. If you want the
+heavy duty mathematics, get a copy of Carson's paper.
+</p><p>
+<a href="#Top">Go to Top</a>
+</p><h2><a name="Fuel_Flow_and_Power"></a>Fuel Flow and Power </h2>
+
+<p>
+Before launching into the various performance speeds, we need
+to first establish a relationship between power and fuel flow.
+As it turns out, fuel flow is directly proportional to power output.
+The constant of proportionality is the specific fuel consumption
+(SFC), defined as such:
+</p><p>
+</p><center><img src="Maximum%20Endurance,%20Maximum%20Range,%20and%20Optimum%20Cruise%20Speeds_files/eqn2.gif" alt="SFC = lb of fuel/(BHP*hr)" align="BOTTOM" width="116" height="41"></center>
+<p>
+The SFC is normally a constant, and will be considered such for
+these analyses. A typical value of SFC for reciprocating engines
+is 0.5 lbs of fuel/BHP-hour. The important concept for these analyses
+is that fuel flow is proportional to power output, that is:
+</p><p>
+</p><center><img src="Maximum%20Endurance,%20Maximum%20Range,%20and%20Optimum%20Cruise%20Speeds_files/eqn3.gif" alt="Fuel Flow proportional to Power" align="BOTTOM" width="112" height="18"></center>
+<p>
+Note also that propeller efficiency will be considered constant.
+</p><p>
+<a href="#Top">Go to Top</a>
+</p><h2><a name="Performance_Charts"></a>Performance Charts </h2>
+
+<p>
+To analyze our cruise performance, we start out with the Drag
+Polar. This is shown in the bottom half of <a href="#Figure_1">Figure 1</a>.
+The drag polar is simply a plot of aircraft drag vs. aircraft
+velocity. The drag polar shown is the same as the RV-6A drag polar
+presented on page 37 of the September 1993 <i>Sport Aviation</i>.
+Note that the velocity is expressed in calibrated airspeed. For
+you aeronautical engineering purists out there, this is technically
+the equivalent airspeed. However, for the airspeeds we are talking
+about, the calibrated and equivalent airspeed are essentially
+equal. To get the drag back to coefficient form, you would need
+to use the density for sea level.
+</p><p>
+<a name="Figure_1"></a></p><center><img src="Maximum%20Endurance,%20Maximum%20Range,%20and%20Optimum%20Cruise%20Speeds_files/fig1.gif" alt="Thrust and Power Curves" align="BOTTOM" width="552" height="558">
+<p>
+<b>Figure 1</b></p></center>
+<p>
+Since thrust (T) is equal to drag (D) in level flight at constant
+speed, the lower chart also tells us the <i>thrust required</i>
+to overcome drag to maintain a given velocity. Thus, it is also
+called the <b>thrust required chart</b>.
+</p><p>
+The upper chart of <a href="#Figure_1">Figure 1</a> is the <b>power
+required chart</b>. Power is simply thrust multiplied by velocity
+(TV), so we get the power required chart by taking each point
+on the thrust required chart and multiplying by the corresponding
+velocity. This chart tells us the power required to maintain a
+given velocity.
+</p><p>
+<a href="#Top">Go to Top</a>
+</p><h2><a name="Maximum_Endurance"></a>Maximum Endurance </h2>
+
+<p>
+To maximize the endurance, we want to maximize the amount of <b>time</b>
+that we can stay in the air. In order to do this, we must minimize
+the fuel flow. Since the fuel flow is proportional to the power
+required, the fuel flow will be minimized at the point where the
+power required is a minimum. The speed corresponding to the bottom
+of the power required curve is the speed for maximum endurance
+(<a href="#Figure_1">Figure 1</a>).
+</p><p>
+<a href="#Top">Go to Top</a>
+</p><h2><a name="Maximum_Range"></a>Maximum Range </h2>
+
+<p>
+To maximize the range, we want to get the maximum distance for
+each pound of fuel burned. Starting with our basic relation
+</p><p>
+</p><center><img src="Maximum%20Endurance,%20Maximum%20Range,%20and%20Optimum%20Cruise%20Speeds_files/eqn3.gif" alt="Fuel Flow proportional to Power" align="BOTTOM" width="112" height="18"></center>
+<p>
+or, splitting out the units
+</p><p>
+</p><center><img src="Maximum%20Endurance,%20Maximum%20Range,%20and%20Optimum%20Cruise%20Speeds_files/eqn4.gif" alt="lb fuel/hr proportional to Power" align="BOTTOM" width="109" height="36"></center>
+<p>
+Now if we divide both sides by velocity, we get
+</p><p>
+</p><center><img src="Maximum%20Endurance,%20Maximum%20Range,%20and%20Optimum%20Cruise%20Speeds_files/eqn5.gif" alt="lb fuel/(hr*(nm/hr)) proportional to Power/V" align="BOTTOM" width="132" height="58"></center>
+<p>
+Dividing out the hours, we get
+</p><p>
+</p><center><img src="Maximum%20Endurance,%20Maximum%20Range,%20and%20Optimum%20Cruise%20Speeds_files/eqn6.gif" alt="lb fuel/nm proportional to Power/V" align="BOTTOM" width="110" height="35"></center>
+<p>
+Note that the left side is what we wanted, pounds of fuel per
+nautical mile. To minimize the pounds of fuel per nautical mile,
+we can minimize the ratio of power over velocity. Looking at the
+<a href="#Figure_1">power required chart</a>, a line from the
+origin to any point on the curve has the slope of power over velocity
+(P/V). As you trace a line from the origin to each point on the
+curve, the slope will be a minimum when the line is tangent to
+the power required curve. Therefore, the maximum range airspeed
+occurs where a line from the origin is tangent to the power required
+curve. This also corresponds to the minimum point on the thrust
+required curve (drag polar).
+</p><p>
+<a href="#Top">Go to Top</a>
+</p><h2><a name="Optimum_Cruising_Speed"></a>Optimum Cruising Speed
+(Carson's Speed) </h2>
+
+<p>
+Unfortunately the maximum range airspeed is generally a lot slower
+than most people wish to fly. After all, you built an airplane
+to get places fast. Since we are also interested in getting places
+fast, we must consider speed. So consider a parameter of fuel
+flow per knot (Fuel Flow/knot). This would tell us how much fuel
+per hour we are burning for each knot of velocity. The optimum
+speed would then be the speed where this parameter is a minimum.
+Mathematically, the derivative with respect to velocity would
+equal zero, or
+</p><p>
+</p><center><img src="Maximum%20Endurance,%20Maximum%20Range,%20and%20Optimum%20Cruise%20Speeds_files/eqn7.gif" alt="d(Fuel Flow/knot)/dV = 0" align="BOTTOM" width="117" height="56"></center>
+<p>
+Qualitatively, at this point, if we increase the velocity, the
+parameter (Fuel Flow/knot) would increase. Likewise, if we decrease
+the velocity, the parameter (Fuel Flow/knot) would increase. Thus,
+this would seem to be the optimum cruise speed.
+</p><p>
+To find this speed, consider that since fuel flow is proportional
+to power, we would have
+</p><p>
+</p><center><img src="Maximum%20Endurance,%20Maximum%20Range,%20and%20Optimum%20Cruise%20Speeds_files/eqn8.gif" alt="Fuel Flow/knot proportional to Power/V" align="BOTTOM" width="117" height="35"></center>
+<p>
+Well, power divided by velocity is just thrust, so we can use
+the thrust required curve (drag polar). A line from the origin
+to any point on the thrust required curve has a slope of T/V.
+If we divide both sides of the above equation by velocity, we
+get
+</p><p>
+</p><center><img src="Maximum%20Endurance,%20Maximum%20Range,%20and%20Optimum%20Cruise%20Speeds_files/eqn9.gif" alt="((Fuel Flow/knot)/knot) proportional to ((Power/V)/V)" align="BOTTOM" width="175" height="56"></center>
+<p>
+The left side is what we want to minimize, and the right side
+is the slope of the line from the origin to a point on the <a href="#Figure_1">thrust required curve</a>.
+The minimum slope of this line occurs when it is tangent to the
+thrust required curve. This velocity, then, is the optimum cruising
+speed (Carson's Speed).
+</p><p>
+<a href="#Top">Go to Top</a>
+</p><h2><a name="How_Do_I"></a>How Do I Find These Speeds Without
+A Drag Polar For My Airplane? </h2>
+
+<p>
+You can find the speed for the maximum lift to drag ratio (L/D<sub>max</sub>)
+right in your Pilot's Operating Handbook (if you have one). Look
+under emergency procedures for engine failure. Find the recommended
+glide speed for maximum range. This glide speed is the speed for
+L/D<sub>max</sub>  (I'll save you the derivation). This speed
+also corresponds to the bottom of the drag polar. After all, if
+lift is a constant for level flight, L/D<sub>max</sub> will occur
+at the minimum drag. According to Carson, these three speeds are
+related by factors of 3<sup>1/4</sup>, or about 1.316. So this
+means:
+</p><p>
+</p><center>V<sub>max endurance</sub> = <img src="Maximum%20Endurance,%20Maximum%20Range,%20and%20Optimum%20Cruise%20Speeds_files/eqn10.gif" alt="Best Glide Speed/1.316" align="MIDDLE" width="102" height="36">
+<p>
+V<sub>max range</sub> = Best Glide Speed
+</p><p>
+V<sub>optimum cruise</sub> = (Best Glide Speed) * 1.316</p></center>
+<p>
+So now you can find these speeds for your airplane.
+</p><p>
+<a href="#Top">Go to Top</a>
+</p><h2><a name="Final_Thoughts"></a>Final Thoughts </h2>
+
+<p>
+Aircraft are not designed solely for cruising; they must also
+takeoff and climb. As a result, your airplane is carrying around
+a lot more power than is required for cruising. Many production
+aircraft ended up cruising around the optimum cruise speed by
+empirical power sizing. For instance, the optimum cruise speed
+for a Piper Tomahawk would be (70)*1.316 = 92 knots, which corresponds
+to about 75% power. Of course, many of today's homebuilts, like
+the RV-6A, have a much higher power to weight ratio, and are capable
+of speeds well in excess of the optimum cruise speed. Check out
+the reported cruise speeds for the RV-6A in <i>Sport Aviation</i>
+compared to the reported optimum cruise speed. Just remember the
+time honored axiom of all forms of transportation - <i><b>Speed
+cost money...how fast do you want to go?</b></i>
+</p><p>
+<a href="#Top">Go to Top</a>
+</p><h2><a name="References"></a>References </h2>
+
+<ol>
+<li>Anderson, John D. Jr., <i>Introduction to Flight</i>, 3rd
+edition, McGraw-Hill Book Company, New York, 1989.
+</li><li>"CAFE Foundation Aircraft Performance Report, RV6A,"
+<i>Sport Aviation</i>, September 1993.
+</li><li>Carson, B.H., "Fuel Efficiency of Small Aircraft,"
+AIAA Paper AIAA-80-1847. 
+</li></ol>
+
+<p>
+</p><hr>
+
+<a href="http://www.eaa1000.av.org/index.htm"><img src="Maximum%20Endurance,%20Maximum%20Range,%20and%20Optimum%20Cruise%20Speeds_files/chp1000s.gif" align="bottom" width="100" height="75" border="0">EAA Chapter 1000 Home Page</a>
+
+<address>
+E-Mail: <a href="mailto:erbman@pobox.com">Web Site Director Russ Erb at erbman@pobox.com</a>
+<br>
+
+</address>
+URL: <a href="http://www.eaa1000.av.org/technicl/perfspds/perfspds.htm"> http://www.eaa1000.av.org/technicl/perfspds/perfspds.htm</a>
+<br>
+Contents of The Leading Edge and these web pages are the viewpoints
+of the authors. No claim is made and no liability is assumed,
+expressed or implied as to the technical accuracy or safety of
+the material presented. The viewpoints expressed are not necessarily
+those of Chapter 1000 or the Experimental Aircraft Association.
+<br>
+Revised -- 22 February 1997 
+
+
+
+
+</body></html>
