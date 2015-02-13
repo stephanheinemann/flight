@@ -6,9 +6,11 @@ ground: 9 sessions -> 14.5 hours
 1 session	Part 1: Basic Climbing and Descending with Questions (1.5h)
 1 session	Part 2: Climbing and Descending  (1.5h)
 1 session	Part 1: Gentle and Medium Level Turns (0.5h)
-29.01.2015	Part 2: Advanced Turns - Climbing and Descending Turns / Steep Turns
+29.01.2015	Part 2: Advanced Turns - Climbing and Descending Turns / Steep Turns (1.5)
 03.02.2015	Flight for Range and Endurance (1.5h)
 05.02.2015	Slow Flight (2h)
+12.02.2015	Stalls (1h)
+13.02.2015	Spins (1h)
 
 Air Exercises
 
