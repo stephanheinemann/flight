@@ -11,7 +11,9 @@ ground: 9 sessions -> 14.5 hours
 05.02.2015	Slow Flight (2h)
 12.02.2015	Stalls (1h)
 13.02.2015	Spins (1h)
-17.02.2015	Spirals (1.5)
+17.02.2015	Spirals (1.5h)
+19.02.2015	Slips (1h)
+24.02.2015	Take-Off (2h)
 
 Air Exercises
 
