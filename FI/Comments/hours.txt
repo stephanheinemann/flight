@@ -15,6 +15,7 @@ ground: 9 sessions -> 14.5 hours
 19.02.2015	Slips (1h)
 24.02.2015	Take-Off (2h)
 26.02.2015	Circuits (1h)
+03.02.2015	Approach and Landing (1h)
 
 Air Exercises
 
