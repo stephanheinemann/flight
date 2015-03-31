@@ -1,0 +1,11 @@
+- use concrete qualification in the cockpit and PGIs if possible (e.g. few millimeters)
+- brief comments instead of long explanation
+- teach LP not exercise and always include fam demo
+- review, demo, practice, fam demo with different levels of feedback
+- student levels:
+	I.   They don't know
+	II.  They know but have to correct
+	III. They know and anticipate
+
+- avoid "...as I said before..."
+- keep it simple - more doing than explaining
