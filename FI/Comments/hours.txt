@@ -19,6 +19,10 @@ ground: 9 sessions -> 14.5 hours
 05.03.2015	Illusions Created by Drift (1h)
 11.03 2015	Precautionary Landings (1h)
 12.03.2015	Forced Landings (1h)
+17.03.2015	Pilot Navigation (1h)
+28.04.2015	Instrument Flying (2h)
+05.05.2015	Radio and Satellite Navigation (2h)
+06.05.2015	Night Flying
 
 Air Exercises
 
