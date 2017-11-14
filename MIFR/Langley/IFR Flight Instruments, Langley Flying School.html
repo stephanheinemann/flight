@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta name="google-site-verification" content="WYFCKVA-AjPGp-UxQXBPWr4fvQ9uWSAzcLBZDDdBFfM"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>IFR Flight Instruments, Langley Flying School</title><link href="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/bootstrap.css" rel="stylesheet" media="screen"><link href="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/jquery-ui-1.css" rel="stylesheet" media="screen"><link href="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/lightbox.css" rel="stylesheet"><link href="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/main.css" rel="stylesheet"><link rel="shortcut icon" href="http://lfsbooking.com/booking/favicon.ico" type="image/x-icon"><style>
+            textarea {
+                min-height: 110px;
+            }
+
+            #brand {
+                background: rgba(0, 0, 0, 0.5) url(/overlay.png);
+                height: 300px;
+                position: absolute;
+                top: 0;
+                width: 100%;
+            }
+
+            #brand a {
+                background: url(/brand.png) no-repeat;
+                display: block;
+                height: 91px;
+                left: 50%;
+                position: absolute;
+                top: 194px;
+                margin-left: -458px;
+                width: 400px;
+            }
+
+            #map {
+                height: 400px;
+                width: 600px;
+            }
+
+            #content {
+                padding: 20px 0;
+            }
+
+            #header {
+                height: 300px;
+            }
+
+            #footer {
+                min-height: 100px;
+                background: #131313;
+                border-top: 1px solid #666;
+                padding-top: 10px;
+            }
+
+            #jumbotron .carousel-inner, #jumbotron .item {
+                height: 300px;
+            }
+            
+            #jumbotron .item {
+                overflow: hidden;
+            }
+
+            #jumbotron img {
+                max-width: 2000px;
+                position: relative;
+                margin-left: -1000px;
+                left: 50%;
+            }
+       </style></head><body>
+
+<div id="header">
+    <div id="jumbotron" class="carousel slide">
+        <!-- Carousel items -->
+        <div class="carousel-inner">
+
+            <div class="item"><img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/DSC_0186.JPG"></div><div class="item active"><img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/Jody%2520Martens%2520PPL.jpg"></div><div class="item"><img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/DSC_0192.JPG"></div><div class="item"><img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/DSC_0029.JPG"></div>
+
+        </div>
+        <!-- Carousel nav -->
+        <!--<a class="carousel-control left" href="#jumbotron" data-slide="prev">&lsaquo;</a>
+        <a class="carousel-control right" href="#jumbotron" data-slide="next">&rsaquo;</a>-->
+    </div>
+
+    <div id="brand">
+        <a href="http://www.langleyflyingschool.com/"></a>
+    </div>
+</div>
+
+        <div class="navbar navbar-inverse navbar-static-top">
+            <div class="navbar-inner">
+
+<div class="container">
+                <ul class="nav"><li><a href="http://www.langleyflyingschool.com/">Home</a></li>
+                    <li><a href="http://www.langleyflyingschool.com/Pages/Mission%20Statement.html">Our Mission</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Flight Training <b class="caret"></b></a>
+                        <ul class="dropdown-menu"><!--<li><a href="">Getting started</a></li>--><li><a href="http://www.langleyflyingschool.com/Pages/Professional%20Pilot%20Program.html">Professional Pilot Program</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Summer%20Camp.html">Pilot Summer Camp</a></li>
+
+                            <li class="dropdown-submenu">
+                                <a href="#">Licences</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/Private%20Pilot%20Program.html">Private Pilot Licence</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Commercial%20Pilot%20Program.html">Commercial Pilot Licence</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Recreational_Pilot_Permit.html">Recreation Pilot Permit</a></li>
+                                    
+                                </ul></li>
+
+                            <li class="dropdown-submenu">
+                                <a href="#">Ratings</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/Multi-engine%20Rating%20Program.html">Multi-engine Class</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Instrument%20Rating%20Program.html">Instrument</a></li>
+                                    
+                                    <!-- <li><a href="/Pages/Instructor Rating Program.html">Instructor</a></li>-->
+                                    
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Night%20Rating%20Program.html">Night</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/VFR%20OTT%20Program.html">VFR Over-the-top</a></li>
+                                </ul></li>
+
+                            <li class="dropdown-submenu">
+                                <a href="#">Others</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/English%20Language%20Proficiency%20for%20Pilots.html">Language Profiency for Pilots</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Multi-crew%20Standard%20Operating%20Procedures%20Training.html">Multi-crew Standard Operating Procedures Training</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Gift%20Ideas.html">Gift Ideas</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Multi-engine%20Flight%20Excursions%20Program.html">Multi-engine Flight Excursion Program</a></li>
+                                </ul></li>
+                        </ul></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Prospective Students <b class="caret"></b></a>
+                        <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/The%20School.html">The School</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Staff.html">The Staff</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Getting%20Started.html">Getting Started . . . </a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Flying%20as%20a%20Career.html">Flying as a Career</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Student_Loans.html">Student Loans</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/International%20Students.html">International Students</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/International%20Students_Working_Off-campus.html">International Students Off-campus Work</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Question%20Main%20Index.html">Frequently Asked Questions</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Langley%20Flying%20School%20Graduates.html">Graduates' List and Staff Alumni</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Student%20Awards.html">Langley Flying School Bursaries and Awards</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Calender.html">Calendar</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Chief%20Flying%20Instructor%27s%20Page.html">Chief Flying Instructor's Page</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Groundschool%20Schedules.html">Groundschool Schedules</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Student%20Accomodation.html">Student Accomodation</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Bus%20Route.html">Bicycle and Bus Transportation</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Famous%20Pilots.html">Famous Contemporary Pilots</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Language_Testing.html">Language Testing References</a></li>
+                            
+                           
+                        </ul></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Students <b class="caret"></b></a>
+                        <ul class="dropdown-menu"><li><a href="http://lfsbooking.com/">Booking Sheet</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Ready%20Room.html">Ready Room</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Classroom.html">Classroom</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Flight%20Training%20and%20Safety%20Precautions.html">Flight Rules and Safety Precautions</a></li>
+                            <li><a href="http://docs.google.com/forms/d/10g6eRTIH1yFbh7K8tsIYRL0OZR6LkSNSlDLH0Uk1Rgg/viewform">Anonymous Safety Reporting</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Safety%20Threat%20List.html">Flight Operations Safety Threats List</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Flight%20Operation%20Notices.html">Flight Operation Notices</a></li>
+                            <li><a href="http://docs.google.com/forms/d/1OWEQdiJGu9_un_yw0bUbtf2HiD39RZ5mXptg4wcX3ko/viewform">Near Mid-air Collision Report</a></li>
+                            
+                            <li class="dropdown-submenu">
+                                <a href="#awards">Student Feedback</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/Instructor%20Evaluations.html">Student Feedback: Instructor Evaluations</a></li>
+                                                                        
+                                                                        
+                          
+                                    <li><a href="http://docs.google.com/forms/d/1tAF6jaATilRexb8nTBOEvr_9w5selRfamRoPEhey0Vk/viewform">Student Feedback: Aircraft Improvements</a></li>
+                                    <li><a href="http://docs.google.com/forms/d/1SvLxTkFbOgNuYHJ9sB6dCjJXqEhB7qXLtnrLPTYtFcM/viewform">Student Feedback: Facilities Improvements</a></li>
+                                    <li><a href="http://docs.google.com/forms/d/1TmZ2RNJrjLFh5cGGS4CvvEdPEjEcUGpjdxcbxgOmY9o/viewform">Student Feedback: Service/Organization Improvements</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Program%20Review.html">Student Feedback: Program Review</a></li> 
+
+                                
+                                </ul></li> 
+      
+                            
+                            
+                            <li class="dropdown-submenu">
+                                <a href="#awards">Resources</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/Safety%20Management%20System.html">Safety Management Systems</a></li>
+                                    <li><a href="http://exam.langleyflyingschool.com/">Examination Room</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Map%20Room,%20Main%20Page.html">Map Room</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Airport%20Instrument%20Procedures,%20Main%20Page.html">Airport Instrument Procedures</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Tutors%27%20List.html">Tutors' List</a></li>
+                                    <li><a href="http://youtube.com/watch?v=veYR3ZC9wMQ">Carpe Diem</a></li>
+                                    <li><a href="http://youtube.com/watch?v=Hd_ptbiPoXM">Steve Jobs: Stay Hungry, Stay Foolish</a></li>
+                                    <li><a href="http://youtube.com/watch?v=aXrpmN6hHqc">For the Love of the Game: Clear the Mechanism</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/people_and_places.html">People &amp; Places</a></li>                                       
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Bus%20Route.html">Bicycle and Bus Transportation</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Writers%27%20Corner.html">Writers' Corner</a></li>
+                                    <li><a href="http://docs.google.com/forms/d/1V9k963qpv-R85bweTLwWA78lzquo07FuhS5rmvfjq-w/viewform">Request for a Langley Flying School Email Account</a></li>
+                                
+                                </ul></li>
+
+                            <li class="dropdown-submenu">
+                                <a href="http://www.langleyflyingschool.com/Pages/Student%20Awards.html">Student Awards</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/Student%20Awards.html">Langley Flying School Bursaries and Awards</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Student%20Award%20Recipients.html">Recipients</a></li>
+                                </ul></li>
+                            
+                            <li class="dropdown-submenu">
+                                </li><li><a href="http://www.langleyflyingschool.com/Pages/Calender.html">Calendar</a></li>
+                                <li><a href="http://www.langleyflyingschool.com/Pages/Price_List.html">Student Supplies and Price List</a></li>
+                                <li><a href="http://www.langleyflyingschool.com/Pages/Chief%20Flying%20Instructor%27s%20Page.html">Chief Flying Instructor's Page</a></li>
+                                <li><a href="http://www.langleyflyingschool.com/Pages/Langley%20Flying%20School%20Graduates.html">Graduates' List and Staff Alumni</a></li>                               
+                                <li><a href="http://www.langleyflyingschool.com/Pages/News%20Archives.html">News Archives</a></li>
+                                <ul class="dropdown-menu"></ul></ul></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Staff and Administration <b class="caret"></b></a>
+                        <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/Standard%20Operating%20Procedures.html">Standard Operating Procedures</a></li>
+                            <li><a href="http://docs.google.com/forms/d/10g6eRTIH1yFbh7K8tsIYRL0OZR6LkSNSlDLH0Uk1Rgg/viewform">Anonymous Operations Safety Reporting</a></li>
+                            <li><a href="http://docs.google.com/forms/d/10g6eRTIH1yFbh7K8tsIYRL0OZR6LkSNSlDLH0Uk1Rgg/viewform">Anonymous Workplace Safety Reporting</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Safety%20Threat%20List.html">Flight Operations Safety Threats List</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Workplace%20Safety%20Threat%20List.html">Workplace Safety Threats List</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Maintenance%20Control%20Manual,%20Langley%20Flying%20School.pdf">Maintenance Control Manual</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Maintenance%20Control%20Manual%20Documents%20Incorporated%20by%20Reference,%20Langley%20Flying%20School.pdf">Maintenance Control Manual Documents Incorporated by Reference</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/SOPs%20Aircraft%20Responsibility%20List.html">Flight Instructor Aircraft Responsibility</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Flight%20Operation%20Notices.html">Flight Operation Notices</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Authorized_Persons%27_List.html">Authorized Persons' List</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/SOPs_Class_IV_Instructor_Supervision_Status.html">Class IV Instructor Supervision Status</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/SOPs%20Staff%20Meeting%20Minutes.html">Staff Meeting Minutes</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Staff%20Safety%20Training.html">Staff Safety Training Record</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Staff_Training.html">Staff Training Policy</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Aircraft_Maintenance_Supervisor_Training_Record.html">Aircraft Maintenance Supervisor Training Record</a></li>
+                            <li><a href="http://docs.google.com/forms/d/1kwq29deruTmQ2uLoRxio_t85Wax9C2ncca7aKraJMww/viewform">Classroom Monitoring Evaluation Report</a></li>
+                            <li><a href="http://docs.google.com/forms/d/1GZxt8qa7_-L12UnSodJ1Sdkm2pizn0g343XpI1vAdug/viewform">Chief Engineer's Report of Student Pilot Maintenance Completion</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Student_Enrolment_Contracts.html">Student Enrolment Contracts</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Language_Testing.html">Student Language Testing</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Request_to_start_training.html">Request to Start Advanced Flight Training</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Flight_Training_Authorization.html">Flight Training Authorization</a></li>
+                            <li><a href="http://docs.google.com/forms/d/1R67E1YlbO8i9CqivHqY_hyMAOOJTEnI0pYTRq28xanI/viewform">Prior Learning Assessment Report</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Education%20Quality%20Assurance%20Tasks.html">Quality Assurance</a></li>
+                                                     
+                            <li class="dropdown-submenu">
+                                <a href="#awards">Staff Feedback</a>
+                                <ul class="dropdown-menu"><li><a href="http://docs.google.com/forms/d/1tAF6jaATilRexb8nTBOEvr_9w5selRfamRoPEhey0Vk/viewform">Aircraft Improvements</a></li>
+                                    <li><a href="http://docs.google.com/forms/d/1SvLxTkFbOgNuYHJ9sB6dCjJXqEhB7qXLtnrLPTYtFcM/viewform">Facilities Improvements</a></li>
+                                    <li><a href="http://docs.google.com/forms/d/1TmZ2RNJrjLFh5cGGS4CvvEdPEjEcUGpjdxcbxgOmY9o/viewform">Service/Organization Improvements</a></li>
+
+                                
+                                </ul></li> 
+                            
+                           
+                            
+                            <li class="dropdown-submenu">
+                                <a href="#">Safety</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/Safety%20Management%20System.html">Safety Management Systems</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Flight%20Training%20and%20Safety%20Precautions.html">Flight Rules and Safety Precautions</a></li>
+                                    <li><a href="http://docs.google.com/forms/d/10g6eRTIH1yFbh7K8tsIYRL0OZR6LkSNSlDLH0Uk1Rgg/viewform">Anonymous Operations Safety Reporting</a></li>
+                                </ul></li>     
+                            
+                            
+                        </ul></li>
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact Us <b class="caret"></b></a>
+                        <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/contact_us/address_&amp;_map.html">Address &amp; Map</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/contact_us/contact_form.html">Contact Form</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Employment%20Opportunities.html">Employment Opportunities</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Student%20Awards--Giving%20to%20Langley%20Flying%20School%20Students.html">Giving to Langley Flying School Students</a></li>
+                            
+
+                            <li class="dropdown-submenu">
+                                <a href="#">International Students</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/contact_us/international_students/registration_form.html">Registration Form</a></li>
+                                </ul></li>
+
+                        </ul></li>
+
+                    <!--<li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">This page <b class="caret"></b></a>
+                        <ul class="dropdown-menu" id="summary" />
+                    </li>
+
+                    <!--<form class="navbar-form pull-left">
+                        <input type="text" class="span2">
+                        <button type="submit" class="btn">Search</button>
+                    </form>-->
+                </ul></div>
+
+            </div>
+        </div>
+
+<div id="content">
+<div class="container">
+    <div class="row">
+        <div class="span12">
+<ul class="breadcrumb"><li><a href="http://www.langleyflyingschool.com/">Home</a>&nbsp;/</li>
+	<li>&nbsp;Students / Resources / Classroom / Instrument Rating&nbsp;Groundschool Reading References&nbsp; /&nbsp;</li>
+	<li class="active">FLIGHT INSTRUMENTS</li>
+</ul><a id="FLIGHT INSTRUMENTS"></a><h1>FLIGHT INSTRUMENTS</h1>
+
+<p></p><ul id="summary"><li><a href="#FLIGHT%20INSTRUMENTS">FLIGHT INSTRUMENTS</a></li><li><ul><li><a href="#Pitot-static%20Instruments">Pitot-static Instruments</a></li><li><ul><li><a href="#Airspeed%20Indicator">Airspeed Indicator</a></li><li><a href="#Altimeter">Altimeter</a></li><li><a href="#Vertical%20Speed%20Indicator">Vertical Speed Indicator</a></li></ul></li><li><a href="#Malfunction%20of%20the%20Pitot-Static%20System">Malfunction of the Pitot-Static System</a></li><li><a href="#Gyro%20Instruments">Gyro Instruments</a></li><li><ul><li><a href="#Slip%20and%20Skid%20Indications">Slip and Skid Indications</a></li><li><a href="#Turns%20and%20Turn%20Indications">Turns and Turn Indications</a></li></ul></li><li><a href="#Instrument%20Scanning">Instrument Scanning</a></li><li><ul><li><a href="#Control%20and%20Performance%20Instruments">Control and Performance Instruments</a></li><li><a href="#Selective%20Radial%20Scan">Selective Radial Scan</a></li></ul></li><li><a href="#Magnetic%20Compass">Magnetic Compass</a></li><li><a href="#References:">References:</a></li></ul></li></ul><p>There are two flight-instrument systems, producing two types of flight instruments: <em>pitot-static instruments</em>&nbsp;and <em>gyro instruments</em>.&nbsp;
+ You can think of them as families.&nbsp; The Pitot-Statics are an 
+extraordinary lazy bunch.&nbsp; They are slow moving, and always lagging
+ behind the action—you can’t always trust what they say.&nbsp; In 
+contrast, the Gyro are a really honest bunch; they always keep up with 
+the latest trends and are always on time—the Gyros are always in the 
+centre of the action when it happens.</p>
+
+<a id="Pitot-static Instruments"></a><h2>Pitot-static Instruments</h2>
+
+<p>The pitot-static system records static and dynamic air pressure, 
+providing the pilot with information related to airspeed and altitude.</p>
+
+<p>These pressures typically enter the system by way of ports located on the fuselage (<em>static pressure sources</em>) and the wing (<em>dynamic pressure source</em>).&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/Flight%252520Instruments%252520Pitot-static%252520Instruments%252520.gif"></p>
+
+<p>&nbsp;</p>
+
+<p>Of the flight instruments which make use of the pitot-static 
+system—the airspeed indicator (ASI), the vertical speed indicator (VSI),
+ and the altimeter (ALT), only the ASI is connected to both pressure 
+sources.</p>
+
+<a id="Airspeed Indicator"></a><h3>Airspeed Indicator</h3>
+
+<p>Connected to both the static and pitot (dynamic) ports, the ASI records the <em>pressure difference</em> (speed); each is measured by an expansion box referred to as an <em>aneroid capsule</em>.</p>
+
+<p>&nbsp;</p>
+
+<p><img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/Flight%252520Instruments%252520Airspeed%252520Indicator%252520Langle.gif"></p>
+
+<p>As altitudes above 10000’ and at calibrated airspeed in excess of 200 KTS, an error in airspeed indications—referred to as <em>compressibility error</em>—will occur as a result of air being <em>compressed at the pitot tube inlet</em>.&nbsp; Compressibility error generally produces ASI readings that are <em>too high</em>.</p>
+
+<p>There are three primary types of airspeed:</p>
+
+<table class="table table-bordered table-striped"><tbody><tr><td style="text-align:center; vertical-align:middle">
+			<p>Indicated Airspeed (IAS)</p>
+			</td>
+			<td style="vertical-align:middle">
+			<p>Uncorrected speed is read from the ASI.&nbsp; As altitude is increased, the ASI under-reads approximately 2% per 1000’.</p>
+			</td>
+		</tr><tr><td style="text-align:center; vertical-align:middle">
+			<p>Calibrated Airspeed&nbsp;(CAS)</p>
+			</td>
+			<td style="vertical-align:middle">
+			<p>IAS corrected for instrument and installation error; such errors 
+are especially prominent in flights involving high angles of 
+attack.&nbsp; Correction charts are usually found in the <em>Pilot Operating Handbook</em>.</p>
+			</td>
+		</tr><tr><td style="text-align:center; vertical-align:middle">
+			<p>True Airspeed&nbsp;(TAS)</p>
+			</td>
+			<td style="vertical-align:middle">
+			<p>CAS (usually IAS) corrected for air density (altitude and 
+temperature); used primarily for flight planning groundspeed.&nbsp; 
+Pressure altitude (discussed below), temperature, and IAS are entered on
+ the appropriate flight calculator scales.&nbsp; (Note: the scales on 
+E6B computer indicate CAS, rather than IAS, but should be interpreted as
+ IAS for most practical purposes.)</p>
+			</td>
+		</tr></tbody></table><p>Here are the markings on an ASI:</p>
+
+<p>&nbsp;</p>
+
+<p>Red line:&nbsp;&nbsp; never-exceed speed&nbsp;(Vne).</p>
+
+<p>Yellow arc:&nbsp;caution speed range, never to be intentionally 
+entered, with the upper limit being Vne, and the lower limit being the 
+maximum structural cruising speed (Vno).</p>
+
+<p>Green arc:&nbsp;normal operating speed range, with the lower limit 
+being the power-off stall speed, including flaps and gear up (Vsl), and 
+the upper limit being Vno.</p>
+
+<p>White arc:&nbsp;flaps extension speed range—where flaps can be used, 
+with the lower limit being the power-off stall speed with flaps and gear
+ down (Vso), and the upper limit being the “maximum flaps extension 
+speed” (Vfe).</p>
+
+<p><strong>Note that manoeuvring speed&nbsp;(Va) is not indicated on the instrument.</strong></p>
+
+<p>Also, for multi-engine aircraft, two additional markings appear on 
+the ASI.&nbsp; A red radial line or arc appears above the stall speeds 
+indicating the minimum speed, below which control of the aircraft could 
+be lost when operating with one engine out—this speed is the minimum 
+control speed&nbsp;(<strong>Vmc</strong>).&nbsp; The second marking is a blue radial line or arc, which indicates the best rate single-engine climb speed (<strong>Vyse)</strong>.</p>
+
+<a id="Altimeter"></a><h3>Altimeter</h3>
+
+<p>The ALT is an airtight instrument case connected <em>only to the static port</em>;
+ when the altitude of an aircraft increases, the pressure within the 
+case decreases and a sealed aneroid capsule within the case expands, 
+this expansion registered on the instrument face.</p>
+
+<p><img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/Flight%252520Instruments%252520Altimeter%252520Langley%252520Flying%25.gif"></p>
+
+<p>It is calibrated on the basis of <em>ICAO Standard Atmosphere</em> 
+assumptions of standard sea level pressure (29.92” Hg), a pressure lapse
+ rate of 1 inch per 1000’, and a standard temperature lapse rate (1.98°C
+ per 1000’).</p>
+
+<p>In the case that a <em>static port</em> <em>becomes blocked during flight</em>, most aircraft have an <em>alternate static source</em>&nbsp;switch in the cockpit that can be selected by the pilot.</p>
+
+<p>If an altimeter indicates in excess of a 50’ error at sea level when set to the ALT pressure setting, the instrument is <em>unserviceable</em>; this tolerance increases with altitude (from ± 50’ at sea level to ± 230’ at 40000’).</p>
+
+<p>There are two errors associated with the ALT: <em>temperature errors</em> and <em>pressure errors</em>.&nbsp;
+ When flying from a high-pressure area to a low-pressure area, the ALT 
+will read higher than actual altitude; similarly, when flying from warm 
+air to cold air, the ALT will again read higher than actual 
+altitude.&nbsp; <em>“From high to low, watch out below.”&nbsp; “From warm to cold, watch out . .”</em></p>
+
+<p>In addition to temperature and pressure errors, human error is not an
+ uncommon cause of accidents.&nbsp; The effect of pressure is the same 
+here, but the phraseology is slightly different: <em>Too high subscale setting means a too high altimeter reading</em>—that is, the aircraft would be at a lower level than is indicated, while <em>too low subscale setting means a too low altimeter reading</em>—that is, the aircraft would be at a higher level than is indicated.</p>
+
+<p>The <em>only time</em> an altimeter will read an accurate or “true” 
+altitude of an aircraft during flight is when ICAO Standard Atmosphere 
+exists—an unlikely event.</p>
+
+<p>When an altimeter set to the altimeter setting of an airport, the <em>only time a pilot can be certain the altimeter is an accurate indication of “true” altitude</em> is when the aircraft is on the ground at that airport.</p>
+
+<p>Lag is associated with this instrument during climbs and descents (as
+ a result of hysteresis, the period of time required for the aneroid to 
+catch up to the changing pressure in the instrument case), and for this 
+reason a good rule of thumb is to “lead” the altimeter indications—i.e.,
+ begin the levelling procedure with the necessary pitch inputs—using 10%
+ of the vertical speed indications.&nbsp; For example, descending at 
+100’/min., the levelling inputs should be started 100’ above the target 
+altitude.</p>
+
+<p>There are five types of altitudes:</p>
+
+<table class="table table-bordered table-striped"><tbody><tr><td>
+			<p>Indicated Altitude</p>
+			</td>
+			<td>
+			<p>The reading on the altimeter when it is set to the current barometric pressure.</p>
+			</td>
+		</tr><tr><td>
+			<p>Pressure Altitude</p>
+			</td>
+			<td>
+			<p>The reading on the altimeter when it is set to standard pressure 
+(29.92” Hg); this is used primarily in the calculation of aircraft 
+performance and for calculating “true altitude.”</p>
+			</td>
+		</tr><tr><td>
+			<p>Density Altitude</p>
+			</td>
+			<td>
+			<p>Pressure altitude corrected for non-standard temperature, use 
+primarily to predict aircraft performance during takeoffs.&nbsp; To 
+calculate, the altimeter is set to 29.92” Hg (pressure altitude) and 
+this figure entered on a flight computer on the appropriate scale.&nbsp;
+ If an altimeter is not available, use the difference between standard 
+pressure and the current altimeter setting; if the current pressure is 
+lower than standard pressure, altitude is increased at a rate of 1000’ 
+per 1-inch difference; if it is higher, the altitude is decreased.&nbsp;
+ Aircraft performance graphs in the <em>Pilot Operating Handbook</em> usually provide a built-in calculation.</p>
+			</td>
+		</tr><tr><td>
+			<p>True Altitude</p>
+			</td>
+			<td>
+			<p>“Exact height above mean sea level.”&nbsp; This is used when a 
+pilot wants the most accurate calculation of altitude—for example, when 
+flying over mountainous regions.&nbsp; The current altimeter setting and
+ elevation of the reporting station is noted.&nbsp; The pressure 
+altitude of the aircraft is set into the E6B opposite ambient 
+temperature (at altitude); the height of airspace lying between the 
+aircraft (specifically, the indicated altitude) and the reporting 
+station is then marked on the inner scale and the true altitude of that 
+airspace is read on the outer scale.&nbsp; Finally, the true altitude 
+figure is then added back to the reporting station’s elevation to give 
+the aircraft’s true altitude.</p>
+			</td>
+		</tr><tr><td>
+			<p>Absolute Altitude&nbsp;&nbsp;</p>
+			</td>
+			<td>
+			<p>“Height of the aircraft above the surface of earth.”&nbsp; Not commonly used, unless the aircraft has radar.</p>
+			</td>
+		</tr></tbody></table><a id="Vertical Speed Indicator"></a><h3>Vertical Speed Indicator</h3>
+
+<p>The final pitot-static instrument is the VSI, which indicates the 
+vertical speed of the aircraft—i.e., the vertical component of the 
+aircraft’s flight path—in hundreds of feet per minute.&nbsp; The sealed 
+instrument case is connected to <em>static pressure by way of a calibrated leak—i.e., a “slow bleeding” leak referred to as a restricted diffuser</em><em>.</em>&nbsp;
+ Inside the case is a diaphragm that flexes in response to the pressure 
+changes associated with a change in altitude; when the aircraft levels 
+off, the diffuser equalises the pressures on either side of the 
+diaphragm causing the instrument readings to go to zero.&nbsp; The 
+diffuser is designed to equalise pressures in approximately six to nine 
+seconds.</p>
+
+<p>&nbsp;</p>
+
+<p><img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/Flight%252520Instruments%252520Vertical%252520Speed%252520Indicator%25.gif"></p>
+
+<p>The VSI&nbsp;is most accurate recording <em>small changes in altitude</em>, but becomes <em>less accurate the greater the rate of descent or climb.</em></p>
+
+<p>It is connected to the static port, so an alternate means of 
+restoring static pressure for the altimeter if the static port becomes 
+blocked is to deliberately break the glass on the VSI.</p>
+
+<a id="Malfunction of the Pitot-Static System"></a><h2>Malfunction of the Pitot-Static System</h2>
+
+<p>Instrument pilots are literally <em>hanging</em> from the 
+pilot-static instruments.&nbsp; The penultimate line of defence is the 
+gyro-system instruments, but if they fail or malfunction, survival 
+depends on the expansion and contraction of the aneroid capsules which, 
+in turn, give us very basic information concerning the aircraft’s 
+attitude.&nbsp; In cloud, it is the pitot-static system which is, 
+essentially, our lifejackets.&nbsp; So, you want to be smart with 
+respect to possible malfunctions.</p>
+
+<p>In the case of a <em>sudden blockage</em> of the <em>static port</em> , <em>the ASI will under-read in a climb, and over-read in a descent</em>.&nbsp;
+ This is because there are no correction for the pitot pressure with 
+respect to vertical changes in air density.&nbsp; Conversely, in the 
+event of a <em>sudden blockage</em> of the <em>pitot tube</em> &nbsp;(port), the ASI will <em>over-read during a climb, and under-read during a descent</em>.&nbsp; In this case, trapped pitot pressure is being overpowered by vertical changes in air density.</p>
+
+<p>It should be kept in mind, however, that blockages can occur<em> slowly</em>—as
+ would be the case, for example, in the case of gradual ice 
+accumulations.&nbsp; As you would expect, a gradual reduction in pitot 
+pressure <em>will cause a slow reduction in indicated airspeed.</em></p>
+
+<p>&nbsp;</p>
+
+<table class="table table-bordered table-striped" style="width:70%"><tbody><tr><td style="text-align:center">
+			<p><strong>INSTRUMENT</strong></p>
+			</td>
+			<td style="text-align:center">
+			<p><strong>STATIC BLOCKAGE</strong></p>
+			</td>
+			<td style="text-align:center">
+			<p><strong>PITOT BLOCKAGE</strong></p>
+			</td>
+		</tr><tr><td style="text-align:center">
+			<p><strong><em>Altimeter</em></strong></p>
+			</td>
+			<td>
+			<p>Freezes at constant value.</p>
+			</td>
+			<td>
+			<p>n/a</p>
+			</td>
+		</tr><tr><td style="text-align:center; white-space:nowrap">
+			<p><strong><em>Vertical-speed Indicator</em></strong></p>
+			</td>
+			<td>
+			<p>Freezes at zero.</p>
+			</td>
+			<td>
+			<p>n/a</p>
+			</td>
+		</tr><tr><td style="text-align:center; white-space:nowrap">
+			<p><strong><em>Airspeed Indicator</em></strong></p>
+			</td>
+			<td>
+			<p>Under-reads in climb and over-reads in descent.</p>
+			</td>
+			<td>
+			<p>Over-reads in climb and under-reads in descent.</p>
+			</td>
+		</tr></tbody></table><a id="Gyro Instruments"></a><h2>Gyro Instruments</h2>
+
+<p>There are three primary gyro instruments: heading indicator (HI), 
+attitude indicator (AI), and the turn and slip indicator/turn 
+co-ordinator.</p>
+
+<p>All gyros consist of a spinning rotor held in a <em>universal mounting</em>&nbsp;or <em>gimbals</em>, which enables the rotor to remain in a constant position when the instrument casing is moved.</p>
+
+<p>The spinning of the gyro is powered by two means.&nbsp; The HI and AI are driven by <em>vacuum pressure</em>&nbsp;(engine-driven
+ or venturi).&nbsp; Engine-driven vacuum pressure is included among the 
+pre-takeoff check whereby the air pressure driving the gyro can be read 
+in inches of mercury (“Hg.).&nbsp; By comparison, the gyros on the turn 
+co-ordinator (or the older turn and slip indicator) is driven by an <em>electric motor</em>; if the electric motor provides insufficient RPMs to the gyro, a “flag” appears on the instrument display.</p>
+
+<p>Most gyros require approximately 5 minutes to come to rotation speed.</p>
+
+<p>In conditions of poor to zero visibility, it is impossible to fly an 
+aircraft without flight instruments that depict pitch, roll, and yaw; in
+ cloud, a <em>pilot’s life rests with the correct function of these instruments.</em>&nbsp;
+ The electric/vacuum drive systems provide backup whereby all of the 
+instruments cannot fail simultaneously.&nbsp; For added security, the 
+gyro instruments are always checked during taxiing before takeoff.</p>
+
+<p>Two principles affect all gyros: <em>gyroscopic inertia</em>&nbsp;(<em>rigidity in space</em>), and <em>precession</em>&nbsp;(perpendicular force on a gyro causes reaction 90° along the rotation direction).</p>
+
+<p>The HI gyro <em>spins around a horizontal axis</em> and provides aircraft heading information; it is set to the aircraft compass.</p>
+
+<p><img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/Flight%252520Instruments%252520Heading%252520Indicator%252520Langley.gif"></p>
+
+<p>Because of the earth’s rotation, the HI is subject to a <em>precession error</em>&nbsp;of approximately 3° every 15 minutes.</p>
+
+<p>The <em>AI gyro spins around a vertical axis</em> and provides pitch and bank information.</p>
+
+<p>The turn and slip indicator consists of a ball and needle; the ball 
+indicates yaw (skid or slip), while the needle indicates direction and <em>rate of turn</em>.</p>
+
+<p>&nbsp;</p>
+
+<p><img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/Flight%252520Instruments%252520Turn%252520Co-ordinator%252520and%25252.gif"></p>
+
+<p>&nbsp;</p>
+
+<p>The gyro of the <em>turn and slip indicator</em>&nbsp;<em>spins around a horizontal axis</em> whereby a turn causes precession and gyro movement, while a spring returns the gyro to neutral when the turn stops.</p>
+
+<p>When the ball is centred, the needle markings indicate a <em>standard rate turn</em>&nbsp;of
+ 3° per second.&nbsp; Thus a timed turn with the needle on the indicator
+ will turn the aircraft 180° in one minute.&nbsp; The turn rate 
+indicator (the needle deflection) is accurate <em>only when the ball is centred</em> with rudder (no yaw).&nbsp; This shortcoming is described in the <em>Instrument Procedures Manual</em> as follows:</p>
+
+<p><em>It is important that both the needle and ball are used 
+together.&nbsp; The problem associated with using these instruments 
+separately is that although the ball will positively indicate that the 
+aircraft is slipping or skidding, just which one of these the aircraft 
+is doing can only be determined by reference to the needle.&nbsp; 
+Furthermore, the needle will not positively indicate a bank 
+attitude.&nbsp; An aircraft could be in a bank attitude and yet the 
+needle could remain centred or indicate a turn in the opposite 
+direction, if controls are not co-ordinated </em>(P. 2-19).<a href="#_ftn1" name="_ftnref1" style="background-color: rgb(19, 19, 19);" title="">1</a></p>
+
+<p>Most modern aircraft have a <em>turn co-ordinator</em>&nbsp;where the <em>gyro is canted 35</em><em>°</em> and resultantly indicates <em>accurate turn rate irrespective of the ball position</em> (yaw).</p>
+
+<a id="Slip and Skid Indications"></a><h3>Slip and Skid Indications</h3>
+
+<p><img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/Flight%252520Instruments%252520Turn%252520Co-ordinator%252520Indicat.gif"></p>
+
+<p><em>A slip occurs if the rate of turn is too slow for the angle of bank</em>—the ball is displaced to the inside of a turn as there is a lack of centrifugal (outward) force.</p>
+
+<p>A slip&nbsp;is corrected by decreasing the angle of bank or using 
+rudder to increase the rate of turn (or a combination of both).</p>
+
+<p><em>A skid occurs if the rate of turn is too fast for the angle of bank</em>—in this case excessive centrifugal force&nbsp;pushes the ball to the outside of the turn.</p>
+
+<p>A skid&nbsp;is corrected by increasing the angle of bank or using 
+rudder to decrease the rate of turn (or a combination of both).</p>
+
+<a id="Turns and Turn Indications"></a><h3>Turns and Turn Indications</h3>
+
+<p>When two aircraft are turning using the <em>same angle of bank</em>, the <em>slower aircraft has the shorter turning radius and the highest rate of turn</em>.&nbsp;
+ For example, if two aircraft are turning using a 20° bank, the faster 
+is travelling at 350 KTS, and the slower travelling at 130 KTS, the 
+faster will take approximately 5.3 minutes to complete a 360° turn, 
+while the slower will complete the same turn in only two minutes.</p>
+
+<p>The <em>relationship between radius of turn</em><em>&nbsp;and airspeed varies exponentially</em>—since
+ the speed of a 350 knot aircraft is almost three-times faster than the 
+speed of 130 knot aircraft, the radius of its turn will be approximately
+ nine-times bigger than the radius required for the 130 knot aircraft.</p>
+
+<a id="Instrument Scanning"></a><h2>Instrument Scanning</h2>
+
+<a id="Control and Performance Instruments"></a><h3>Control and Performance Instruments</h3>
+
+<p><img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/Flight%252520Instruments%252520Performance%252520and%252520Control%252.gif"></p>
+
+<p>For the purposes of instrument scanning, the standard panel array is 
+divided into two groups—those instruments that provide information on 
+the aircraft behaviour are referred to as <em>performance instruments</em>, while those instruments that are used to change the behaviour of the aircraft are referred to as <em>control instruments</em>.&nbsp;
+ The performance instruments are the airspeed indicator, the turn 
+co-ordinator, the heading indicator, the altimeter, and the vertical 
+speed indicator, while control instruments are the attitude indicator 
+and the manifold pressure or RPM gauge.&nbsp; Here is a summary:</p>
+
+<p><em>When the performance instruments show unwanted change in 
+performance, your attention must be directed to the control instruments 
+to allow you to make the required changes.&nbsp; For example, if the 
+performance instruments indicate that the heading or the altitude has 
+changed, attention is directed to the control instruments (attitude 
+indicator and/or tachometer) while adjusting attitude and power 
+sufficiently to make a correction.&nbsp; You then confirm that the 
+required correction is in progress by referring again to the performance
+ instruments.</em><a href="#_ftn2" name="_ftnref2" style="background-color: rgb(19, 19, 19);" title=""><em>2</em></a></p>
+
+<p>It is in relation to the control and performance group that the statement&nbsp; <strong><em>“attitude plus power equals performance.”</em></strong>&nbsp;
+ That is, if either the attitude indicator or manifold pressure 
+indications are changed, corresponding changes in aircraft performance 
+will result.</p>
+
+<a id="Selective Radial Scan"></a><h3>Selective Radial Scan</h3>
+
+<p>The concept of a <em>Selective Radial Scan</em>&nbsp;describes what is considered to be the most <em>natural</em>, yet <em>practical</em> pattern of instrument scanning. &nbsp;It draws attention to the fact that the <em>attitude indicator</em>
+ is the hub of the scan pattern, and that the pilot must selectively 
+move between supportive instrument displays depending on the flying 
+tasks at hand.&nbsp; Accordingly, while attitude indicator information 
+is supported by altimeter and heading indications in straight and level 
+flight, the attitude indicator is supported by airspeed and heading 
+indications during a straight climb.</p>
+
+<p>&nbsp;</p>
+
+<p><img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/Flight%252520Instruments%252520Selective%252520Radial%252520Scan%25252.gif"></p>
+
+<p>Note that in straight and level flight the primary source for pitch 
+information is the altimeter, while during climbs and descents pitch 
+information is derived from the airspeed indicator.</p>
+
+<a id="Magnetic Compass"></a><h2>Magnetic Compass</h2>
+
+<p>The compass is mounted usually in acid-free kerosene&nbsp;that dampens movement.</p>
+
+<p>There are <em>two primary errors</em> associated with a compass—<em>compass deviation</em>&nbsp;and <em>magnetic dip</em>.</p>
+
+<p>Compass deviation is deviation errors of the compass caused by the <em>aircraft’s magnetic fields</em>.&nbsp; It is checked regularly as part of aircraft maintenance.&nbsp; Effects of deviation are minimised by <em>corrector magnets</em>&nbsp;attached
+ to the compass housing, while the remaining deviation errors are 
+recorded and displayed in the cockpit on the compass deviation card.</p>
+
+<p>Headings flown by the pilot are corrected for magnetic variations <em>and</em> for compass deviation.</p>
+
+<p>The compass also has errors because of <em>magnetic dip</em>.&nbsp; 
+At the earth’s equator, magnetic lines run parallel to the earth’s 
+surface, but towards the north and south poles, the lines “dip” towards 
+the surface and gradually become vertical.&nbsp; As the needle of a 
+compass attempt to align itself with these descending magnetic lines, it
+ too attempts to dip.&nbsp; To minimise this effect, the compass is 
+mounted as a <em>pendulum</em> (“pendulous mounting”), but two errors remain related to magnetic dip—<em>Northerly Turning Error</em>, and the <em>Acceleration/Deceleration Error</em>.</p>
+
+<p>The <strong><em>Northerly Turning</em></strong> <strong><em>Error</em></strong>&nbsp;occurs
+ during shallow turns through southerly and northerly headings.&nbsp; As
+ a rule, the compass “leads” when turning from southerly headings, and 
+“lags” when turning from northerly headings.&nbsp; There is 
+approximately no turning error when turning east and west headings.</p>
+
+<p>The <strong><em>Acceleration/Deceleration Error</em></strong>&nbsp;occurs
+ on easterly and westerly headings whereby acceleration causes the 
+compass to show a northerly error, and deceleration causes a southerly 
+error.&nbsp; Remember this by “ANDS.”&nbsp; There is approximately no 
+such error on northerly and southerly headings.</p>
+
+<p>&nbsp;</p>
+
+<a id="References:"></a><h2>References:</h2>
+
+<p><a href="#_ftnref1" name="_ftn1" title="">1</a> <em>Instrument Procedures Manual</em> (Fourth Edition 1997), Transport Canada, Safety and Security.</p>
+
+<p><a href="#_ftnref2" name="_ftn2" title="">2</a> Flight Training Manual (Fourth Edition), Transport Canada, Aviation (Gage Educational Publishing Company), P. 148.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>© 2007 David L. Parry</strong></p>
+
+<p>&nbsp;</p>
+<script src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/analytics.js" async=""></script><script type="text/javascript"> 
+document.onselectstart=new Function ("return false");
+if (window.sidebar){
+document.onmousedown=new Function("return false"); 
+document.onclick=new Function("return true") ; 
+}
+</script></div>
+    </div>
+</div>
+</div>
+
+<div id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="span12">
+<p>
+    <a href="http://lfsbooking.com/">Booking Sheet</a> | 
+    <a href="http://www.langleyflyingschool.com/contact_us/contact_form.html">Contact Form</a> | 
+    <a href="http://www.langleyflyingschool.com/contact_us/address_&amp;_map.html">Address &amp; Map</a> | 
+    <a href="http://www.langleyflyingschool.com/Pages/Standard%20Operating%20Procedures.html">Standard Operating Procedures</a> | 
+    <a href="http://docs.google.com/forms/d/10g6eRTIH1yFbh7K8tsIYRL0OZR6LkSNSlDLH0Uk1Rgg/viewform">Anonymous Safety Reporting</a> | 
+    <a href="http://www.langleyflyingschool.com/people_and_places.html">People &amp; Places</a>
+</p>
+
+<div id="training_logo">
+	<img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/logo.png"><style>
+		#training_logo {
+		    float: right;
+		}
+	</style></div> 
+
+<p>© 2016 Langley Flying School, Inc. <small>The content of this website
+ is protected by copyright and reproduction in whole or in part is only 
+authorized with the written consent of Kamy Farrd, Chief Flying 
+Instructor, Langley Flying School.</small></p>  
+
+
+<p><i>"Choose a job you love, and you will never have to work a day in your life."</i> Confucius
+</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+		
+		<script> 
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-71053516-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script><script src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/jquery.js"></script><script src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/bootstrap.js"></script><script src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/jquery-ui-1.js"></script><script src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/lightbox.js"></script><script src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/scripts.js"></script>
+<div style="display: none;" id="lightboxOverlay"></div><div style="display: none;" id="lightbox"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image"><div class="lb-nav"><a class="lb-prev"></a><a class="lb-next"></a></div><div class="lb-loader"><a class="lb-cancel"><img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/loading.gif"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"><img src="IFR%20Flight%20Instruments,%20Langley%20Flying%20School_files/close.png"></a></div></div></div></div></body></html>

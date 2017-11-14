@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta name="google-site-verification" content="WYFCKVA-AjPGp-UxQXBPWr4fvQ9uWSAzcLBZDDdBFfM"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>IFR Instrument Navigation, Langley Flying School</title><link href="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/bootstrap.css" rel="stylesheet" media="screen"><link href="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/jquery-ui-1.css" rel="stylesheet" media="screen"><link href="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/lightbox.css" rel="stylesheet"><link href="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/main.css" rel="stylesheet"><link rel="shortcut icon" href="http://lfsbooking.com/booking/favicon.ico" type="image/x-icon"><style>
+            textarea {
+                min-height: 110px;
+            }
+
+            #brand {
+                background: rgba(0, 0, 0, 0.5) url(/overlay.png);
+                height: 300px;
+                position: absolute;
+                top: 0;
+                width: 100%;
+            }
+
+            #brand a {
+                background: url(/brand.png) no-repeat;
+                display: block;
+                height: 91px;
+                left: 50%;
+                position: absolute;
+                top: 194px;
+                margin-left: -458px;
+                width: 400px;
+            }
+
+            #map {
+                height: 400px;
+                width: 600px;
+            }
+
+            #content {
+                padding: 20px 0;
+            }
+
+            #header {
+                height: 300px;
+            }
+
+            #footer {
+                min-height: 100px;
+                background: #131313;
+                border-top: 1px solid #666;
+                padding-top: 10px;
+            }
+
+            #jumbotron .carousel-inner, #jumbotron .item {
+                height: 300px;
+            }
+            
+            #jumbotron .item {
+                overflow: hidden;
+            }
+
+            #jumbotron img {
+                max-width: 2000px;
+                position: relative;
+                margin-left: -1000px;
+                left: 50%;
+            }
+       </style></head><body>
+
+<div id="header">
+    <div id="jumbotron" class="carousel slide">
+        <!-- Carousel items -->
+        <div class="carousel-inner">
+
+            <div class="item"><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/DSC_0186.JPG"></div><div class="item active"><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/Jody%2520Martens%2520PPL.jpg"></div><div class="item"><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/DSC_0192.JPG"></div><div class="item"><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/DSC_0029.JPG"></div>
+
+        </div>
+        <!-- Carousel nav -->
+        <!--<a class="carousel-control left" href="#jumbotron" data-slide="prev">&lsaquo;</a>
+        <a class="carousel-control right" href="#jumbotron" data-slide="next">&rsaquo;</a>-->
+    </div>
+
+    <div id="brand">
+        <a href="http://www.langleyflyingschool.com/"></a>
+    </div>
+</div>
+
+        <div class="navbar navbar-inverse navbar-static-top">
+            <div class="navbar-inner">
+
+<div class="container">
+                <ul class="nav"><li><a href="http://www.langleyflyingschool.com/">Home</a></li>
+                    <li><a href="http://www.langleyflyingschool.com/Pages/Mission%20Statement.html">Our Mission</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Flight Training <b class="caret"></b></a>
+                        <ul class="dropdown-menu"><!--<li><a href="">Getting started</a></li>--><li><a href="http://www.langleyflyingschool.com/Pages/Professional%20Pilot%20Program.html">Professional Pilot Program</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Summer%20Camp.html">Pilot Summer Camp</a></li>
+
+                            <li class="dropdown-submenu">
+                                <a href="#">Licences</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/Private%20Pilot%20Program.html">Private Pilot Licence</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Commercial%20Pilot%20Program.html">Commercial Pilot Licence</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Recreational_Pilot_Permit.html">Recreation Pilot Permit</a></li>
+                                    
+                                </ul></li>
+
+                            <li class="dropdown-submenu">
+                                <a href="#">Ratings</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/Multi-engine%20Rating%20Program.html">Multi-engine Class</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Instrument%20Rating%20Program.html">Instrument</a></li>
+                                    
+                                    <!-- <li><a href="/Pages/Instructor Rating Program.html">Instructor</a></li>-->
+                                    
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Night%20Rating%20Program.html">Night</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/VFR%20OTT%20Program.html">VFR Over-the-top</a></li>
+                                </ul></li>
+
+                            <li class="dropdown-submenu">
+                                <a href="#">Others</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/English%20Language%20Proficiency%20for%20Pilots.html">Language Profiency for Pilots</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Multi-crew%20Standard%20Operating%20Procedures%20Training.html">Multi-crew Standard Operating Procedures Training</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Gift%20Ideas.html">Gift Ideas</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Multi-engine%20Flight%20Excursions%20Program.html">Multi-engine Flight Excursion Program</a></li>
+                                </ul></li>
+                        </ul></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Prospective Students <b class="caret"></b></a>
+                        <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/The%20School.html">The School</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Staff.html">The Staff</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Getting%20Started.html">Getting Started . . . </a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Flying%20as%20a%20Career.html">Flying as a Career</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Student_Loans.html">Student Loans</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/International%20Students.html">International Students</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/International%20Students_Working_Off-campus.html">International Students Off-campus Work</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Question%20Main%20Index.html">Frequently Asked Questions</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Langley%20Flying%20School%20Graduates.html">Graduates' List and Staff Alumni</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Student%20Awards.html">Langley Flying School Bursaries and Awards</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Calender.html">Calendar</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Chief%20Flying%20Instructor%27s%20Page.html">Chief Flying Instructor's Page</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Groundschool%20Schedules.html">Groundschool Schedules</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Student%20Accomodation.html">Student Accomodation</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Bus%20Route.html">Bicycle and Bus Transportation</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Famous%20Pilots.html">Famous Contemporary Pilots</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Language_Testing.html">Language Testing References</a></li>
+                            
+                           
+                        </ul></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Students <b class="caret"></b></a>
+                        <ul class="dropdown-menu"><li><a href="http://lfsbooking.com/">Booking Sheet</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Ready%20Room.html">Ready Room</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Classroom.html">Classroom</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Flight%20Training%20and%20Safety%20Precautions.html">Flight Rules and Safety Precautions</a></li>
+                            <li><a href="http://docs.google.com/forms/d/10g6eRTIH1yFbh7K8tsIYRL0OZR6LkSNSlDLH0Uk1Rgg/viewform">Anonymous Safety Reporting</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Safety%20Threat%20List.html">Flight Operations Safety Threats List</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Flight%20Operation%20Notices.html">Flight Operation Notices</a></li>
+                            <li><a href="http://docs.google.com/forms/d/1OWEQdiJGu9_un_yw0bUbtf2HiD39RZ5mXptg4wcX3ko/viewform">Near Mid-air Collision Report</a></li>
+                            
+                            <li class="dropdown-submenu">
+                                <a href="#awards">Student Feedback</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/Instructor%20Evaluations.html">Student Feedback: Instructor Evaluations</a></li>
+                                                                        
+                                                                        
+                          
+                                    <li><a href="http://docs.google.com/forms/d/1tAF6jaATilRexb8nTBOEvr_9w5selRfamRoPEhey0Vk/viewform">Student Feedback: Aircraft Improvements</a></li>
+                                    <li><a href="http://docs.google.com/forms/d/1SvLxTkFbOgNuYHJ9sB6dCjJXqEhB7qXLtnrLPTYtFcM/viewform">Student Feedback: Facilities Improvements</a></li>
+                                    <li><a href="http://docs.google.com/forms/d/1TmZ2RNJrjLFh5cGGS4CvvEdPEjEcUGpjdxcbxgOmY9o/viewform">Student Feedback: Service/Organization Improvements</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Program%20Review.html">Student Feedback: Program Review</a></li> 
+
+                                
+                                </ul></li> 
+      
+                            
+                            
+                            <li class="dropdown-submenu">
+                                <a href="#awards">Resources</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/Safety%20Management%20System.html">Safety Management Systems</a></li>
+                                    <li><a href="http://exam.langleyflyingschool.com/">Examination Room</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Map%20Room,%20Main%20Page.html">Map Room</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Airport%20Instrument%20Procedures,%20Main%20Page.html">Airport Instrument Procedures</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Tutors%27%20List.html">Tutors' List</a></li>
+                                    <li><a href="http://youtube.com/watch?v=veYR3ZC9wMQ">Carpe Diem</a></li>
+                                    <li><a href="http://youtube.com/watch?v=Hd_ptbiPoXM">Steve Jobs: Stay Hungry, Stay Foolish</a></li>
+                                    <li><a href="http://youtube.com/watch?v=aXrpmN6hHqc">For the Love of the Game: Clear the Mechanism</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/people_and_places.html">People &amp; Places</a></li>                                       
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Bus%20Route.html">Bicycle and Bus Transportation</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Writers%27%20Corner.html">Writers' Corner</a></li>
+                                    <li><a href="http://docs.google.com/forms/d/1V9k963qpv-R85bweTLwWA78lzquo07FuhS5rmvfjq-w/viewform">Request for a Langley Flying School Email Account</a></li>
+                                
+                                </ul></li>
+
+                            <li class="dropdown-submenu">
+                                <a href="http://www.langleyflyingschool.com/Pages/Student%20Awards.html">Student Awards</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/Student%20Awards.html">Langley Flying School Bursaries and Awards</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Student%20Award%20Recipients.html">Recipients</a></li>
+                                </ul></li>
+                            
+                            <li class="dropdown-submenu">
+                                </li><li><a href="http://www.langleyflyingschool.com/Pages/Calender.html">Calendar</a></li>
+                                <li><a href="http://www.langleyflyingschool.com/Pages/Price_List.html">Student Supplies and Price List</a></li>
+                                <li><a href="http://www.langleyflyingschool.com/Pages/Chief%20Flying%20Instructor%27s%20Page.html">Chief Flying Instructor's Page</a></li>
+                                <li><a href="http://www.langleyflyingschool.com/Pages/Langley%20Flying%20School%20Graduates.html">Graduates' List and Staff Alumni</a></li>                               
+                                <li><a href="http://www.langleyflyingschool.com/Pages/News%20Archives.html">News Archives</a></li>
+                                <ul class="dropdown-menu"></ul></ul></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Staff and Administration <b class="caret"></b></a>
+                        <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/Standard%20Operating%20Procedures.html">Standard Operating Procedures</a></li>
+                            <li><a href="http://docs.google.com/forms/d/10g6eRTIH1yFbh7K8tsIYRL0OZR6LkSNSlDLH0Uk1Rgg/viewform">Anonymous Operations Safety Reporting</a></li>
+                            <li><a href="http://docs.google.com/forms/d/10g6eRTIH1yFbh7K8tsIYRL0OZR6LkSNSlDLH0Uk1Rgg/viewform">Anonymous Workplace Safety Reporting</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Safety%20Threat%20List.html">Flight Operations Safety Threats List</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Workplace%20Safety%20Threat%20List.html">Workplace Safety Threats List</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Maintenance%20Control%20Manual,%20Langley%20Flying%20School.pdf">Maintenance Control Manual</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Maintenance%20Control%20Manual%20Documents%20Incorporated%20by%20Reference,%20Langley%20Flying%20School.pdf">Maintenance Control Manual Documents Incorporated by Reference</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/SOPs%20Aircraft%20Responsibility%20List.html">Flight Instructor Aircraft Responsibility</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Flight%20Operation%20Notices.html">Flight Operation Notices</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Authorized_Persons%27_List.html">Authorized Persons' List</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/SOPs_Class_IV_Instructor_Supervision_Status.html">Class IV Instructor Supervision Status</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/SOPs%20Staff%20Meeting%20Minutes.html">Staff Meeting Minutes</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Staff%20Safety%20Training.html">Staff Safety Training Record</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Staff_Training.html">Staff Training Policy</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Aircraft_Maintenance_Supervisor_Training_Record.html">Aircraft Maintenance Supervisor Training Record</a></li>
+                            <li><a href="http://docs.google.com/forms/d/1kwq29deruTmQ2uLoRxio_t85Wax9C2ncca7aKraJMww/viewform">Classroom Monitoring Evaluation Report</a></li>
+                            <li><a href="http://docs.google.com/forms/d/1GZxt8qa7_-L12UnSodJ1Sdkm2pizn0g343XpI1vAdug/viewform">Chief Engineer's Report of Student Pilot Maintenance Completion</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Student_Enrolment_Contracts.html">Student Enrolment Contracts</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Language_Testing.html">Student Language Testing</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Request_to_start_training.html">Request to Start Advanced Flight Training</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Flight_Training_Authorization.html">Flight Training Authorization</a></li>
+                            <li><a href="http://docs.google.com/forms/d/1R67E1YlbO8i9CqivHqY_hyMAOOJTEnI0pYTRq28xanI/viewform">Prior Learning Assessment Report</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/staff/Education%20Quality%20Assurance%20Tasks.html">Quality Assurance</a></li>
+                                                     
+                            <li class="dropdown-submenu">
+                                <a href="#awards">Staff Feedback</a>
+                                <ul class="dropdown-menu"><li><a href="http://docs.google.com/forms/d/1tAF6jaATilRexb8nTBOEvr_9w5selRfamRoPEhey0Vk/viewform">Aircraft Improvements</a></li>
+                                    <li><a href="http://docs.google.com/forms/d/1SvLxTkFbOgNuYHJ9sB6dCjJXqEhB7qXLtnrLPTYtFcM/viewform">Facilities Improvements</a></li>
+                                    <li><a href="http://docs.google.com/forms/d/1TmZ2RNJrjLFh5cGGS4CvvEdPEjEcUGpjdxcbxgOmY9o/viewform">Service/Organization Improvements</a></li>
+
+                                
+                                </ul></li> 
+                            
+                           
+                            
+                            <li class="dropdown-submenu">
+                                <a href="#">Safety</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/Pages/Safety%20Management%20System.html">Safety Management Systems</a></li>
+                                    <li><a href="http://www.langleyflyingschool.com/Pages/Flight%20Training%20and%20Safety%20Precautions.html">Flight Rules and Safety Precautions</a></li>
+                                    <li><a href="http://docs.google.com/forms/d/10g6eRTIH1yFbh7K8tsIYRL0OZR6LkSNSlDLH0Uk1Rgg/viewform">Anonymous Operations Safety Reporting</a></li>
+                                </ul></li>     
+                            
+                            
+                        </ul></li>
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact Us <b class="caret"></b></a>
+                        <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/contact_us/address_&amp;_map.html">Address &amp; Map</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/contact_us/contact_form.html">Contact Form</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Employment%20Opportunities.html">Employment Opportunities</a></li>
+                            <li><a href="http://www.langleyflyingschool.com/Pages/Student%20Awards--Giving%20to%20Langley%20Flying%20School%20Students.html">Giving to Langley Flying School Students</a></li>
+                            
+
+                            <li class="dropdown-submenu">
+                                <a href="#">International Students</a>
+                                <ul class="dropdown-menu"><li><a href="http://www.langleyflyingschool.com/contact_us/international_students/registration_form.html">Registration Form</a></li>
+                                </ul></li>
+
+                        </ul></li>
+
+                    <!--<li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">This page <b class="caret"></b></a>
+                        <ul class="dropdown-menu" id="summary" />
+                    </li>
+
+                    <!--<form class="navbar-form pull-left">
+                        <input type="text" class="span2">
+                        <button type="submit" class="btn">Search</button>
+                    </form>-->
+                </ul></div>
+
+            </div>
+        </div>
+
+<div id="content">
+<div class="container">
+    <div class="row">
+        <div class="span12">
+<ul class="breadcrumb"><li><a href="http://www.langleyflyingschool.com/">Home</a>&nbsp;/</li>
+	<li>&nbsp;Students / Resources / Classroom / Instrument Rating&nbsp;Groundschool Reading References&nbsp; /&nbsp;</li>
+	<li class="active">INSTRUMENT NAVIGATION</li>
+</ul><a id="INSTRUMENT NAVIGATION"></a><h1>INSTRUMENT NAVIGATION</h1>
+
+<p></p><ul id="summary"><li><a href="#INSTRUMENT%20NAVIGATION">INSTRUMENT NAVIGATION</a></li><li><ul><li><a href="#IFR%20Navigation%20Charts">IFR Navigation Charts</a></li><li><ul><li><a href="#Communication">Communication</a></li><li><a href="#Scale">Scale</a></li><li><a href="#Airspace">Airspace</a></li><li><a href="#MOCA%20and%20MEA">MOCA and MEA</a></li><li><a href="#Minimum%20Reception%20Altitude">Minimum Reception Altitude</a></li><li><a href="#Radio%20Aids,%20Distance%20and%20Course%20Data">Radio Aids, Distance and Course Data</a></li><li><a href="#Navigation%20and%20Communication%20Data%20Boxes">Navigation and Communication Data Boxes</a></li><li><a href="#Airport%20Data">Airport Data</a></li><li><a href="#Changeover%20Points">Changeover Points</a></li></ul></li><li><a href="#ADF,%20VOR,%20and%20GPS%20Navigation%20Procedures">ADF, VOR, and GPS Navigation Procedures</a></li><li><ul><li><a href="#Homing%20and%20Tracking">Homing and Tracking</a></li><li><a href="#Orientation%E2%80%94Paralleling%20the%20Track">Orientation—Paralleling the Track</a></li></ul></li><li><a href="#Navigation%20Formula">Navigation Formula</a></li><li><ul><li><a href="#Relative%20Bearing">Relative Bearing</a></li><li><a href="#Time%20and%20Distance%20to%20Station">Time and Distance to Station</a></li></ul></li><li><a href="#Track%20Measurement">Track Measurement</a></li><li><a href="#References:">References:</a></li></ul></li></ul><a id="IFR Navigation Charts"></a><h2>IFR Navigation Charts</h2>
+
+<p><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/Instrument%252520Navigation%252520LO%252520Charts%252520Back%252520Pag.gif"></p>
+
+<p>There are three types of IFR Charts: 1) <em>Terminal Charts</em>, which provide radio navigation data for some of the busier airports (quite similar to VTAs; 2) <em>Enroute Low Altitude Charts</em>, which provide radio navigation data for the en route portion of flights, up to, but not including 18000’ ASL, and, 3) <em>Enroute High Altitude Charts</em>, which provide similar data for the airspace at FL180 and above.&nbsp;</p>
+
+<p>LE Charts are <em>Lambert Conformal Conic Projection</em>&nbsp;charts, and are similar to VNC Charts in that a straight line on an LE represent a great circle route.</p>
+
+<a id="Communication"></a><h3>Communication</h3>
+
+<p>On <em>back page</em> of the LE are two blocks of information, the 
+first concerning the VHF frequencies assigned to each of the major 
+airports on the chart with control towers (including ATIS, Tower and 
+Ground frequencies), and the second concerning the Area Control Centre 
+and Terminal Control VHF frequencies, including peripheral station radio
+ frequencies.</p>
+
+<p>On the chart itself, the name of the applicable Area Control Centre, 
+as well as the PAL frequencies, are identified using a boxed 
+format.&nbsp; The PAL box on the right shows that Vancouver Centre can 
+be contacted on 134.0 MHz., as well 381.4 MHz. (UHF).</p>
+
+<p>&nbsp;</p>
+
+<p><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/Instrument%252520Navigation%252520PAL%252520Depiction%252520Langley%25.gif"></p>
+
+<a id="Scale"></a><h3>Scale</h3>
+
+<p>The scale of the LE Charts vary—in the above example, for instance, 
+the upper left and right corners of the back page show that LO 2 
+provides a scale of 18 NM per 1”, while LO 1is scaled at 20 NM to 
+1”.&nbsp; This variation in scale, however, is of little consequence, 
+since all distances along airways between navigation aids and between 
+intersections are published on the chart.&nbsp; In the case that a 
+measurement is required—for example between a navigation aid and an 
+airport—a scale bar that appears at the top and bottom of the chart can 
+be used.&nbsp; Simply mark the distance on the edge of a scrap piece of 
+paper and then position the paper next to the scale to read the 
+distance.</p>
+
+<a id="Airspace"></a><h3>Airspace</h3>
+
+<p><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/Instrument%252520Navigation%252520LO%252520General%252520Chart%252520F.gif"></p>
+
+<p>Note carefully the Legend that appears on LE charts.&nbsp; On the bottom right-hand corner of the Legend—under <em>Miscellaneous</em>—we are told that all <em>green-shaded areas</em> of the Chart indicate uncontrolled airspace below 18000’ ASL, while the <em>white areas</em> indicate controlled airspace <em>below</em>
+ this altitude, including Low Level Airways, and Transition Areas.&nbsp;
+ The Chart further delineates areas where controlled airspace exists <em>above</em> 12500’ ASL (Low Level Airways and Control Area Extensions)—all <em>green areas patterned with white square (with green shade) hatching</em>.&nbsp; Finally, note under this section is the description of isogonic lines (darker green and dashed).&nbsp; Note also the <em>Area Minimum Altitudes</em> (AMAs), which provides 2000’ clearance over the obstacle within the quadrantal (established by degrees longitude and latitude).</p>
+
+<a id="MOCA and MEA"></a><h3>MOCA and MEA</h3>
+
+<p>Perhaps the most important information on the LE for the IFR pilot is the<em> MOCA</em>&nbsp;(<em>Minimum Obstruction Clearance Altitudes</em>), which is marked with an asterisk, and <em>MEA</em>&nbsp;(Minimum En Route Altitudes), which lack an asterisk (see depiction below).</p>
+
+<p><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/Instrument%252520Navigation%252520MOCA%252520and%252520MEA%252520Langl.gif"></p>
+
+<p>The <em>MOCA</em> provides an <em>altitude above sea level in effect 
+between radio fixes on low level airways or air routes that meet the IFR
+ obstruction clearance requirement for the route segment</em>.<a href="#_ftn1" name="_ftnref1" style="background-color: rgb(19, 19, 19);" title="">1</a>&nbsp; <strong><em>Importantly</em></strong>, the IFR obstruction clearance requirement varies with whether or not an airway or air route is located inside or outside a <strong><em>Designated Mountainous Area</em></strong>&nbsp;(DMA).&nbsp;
+ Outside the DMAs, the MOCA provides 1000’ clearance over the highest 
+obstacle within 5 NM of the aircraft; inside DMAs 2, 3, and 4, this 
+clearance increases to 1500’, and in DMAs 1 and 5 this clearance 
+increases to 2000’.</p>
+
+<p>&nbsp;In contrast, the MEA provides an <em>altitude above sea level 
+between specified fixes on airways or air routes that assures acceptable
+ navigational coverage, and which meets the IFR obstruction clearance 
+requirements</em>.<a href="#_ftn2" name="_ftnref2" style="background-color: rgb(19, 19, 19);" title="">2</a>&nbsp; Accordingly, MEA will always be higher than MOCA.&nbsp;</p>
+
+<p>Also note that VHF/UHF airways&nbsp;are depicted in <em>black ink</em>, while LF/MF airways&nbsp;are in <em>green</em>.&nbsp;
+ You will not have difficulty determining the proper odd/even altitude 
+to fly as the even altitude direction associated with an airway is 
+indicated by the <em>pointed end</em> of the airway identification box.</p>
+
+<p>The following show the relationship between MEA and MOCA as they are applied to airway segments:</p>
+
+<p>&nbsp;</p>
+
+<p><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/Instrument%252520Navigation%252520MOCA%252520and%252520MEA%252520profi.gif"></p>
+
+<p>&nbsp;</p>
+
+<p>Note that each of the fixes depicted above will actually appear as an
+ intersection on the LE chart, including the means by which the 
+intersection is determined—i.e., DME, a radial or bearing from a 
+neighbouring radio aid.</p>
+
+<a id="Minimum Reception Altitude"></a><h3>Minimum Reception Altitude</h3>
+
+<p>The <em>Minimum Reception Altitude</em>&nbsp;(MRA) should not get 
+confused with the MOCA and the MEA.&nbsp; While the latter provides 
+obstruction clearance data, the MRA only provides reception altitude 
+guidance for published intersections.&nbsp; Specifically, the MRA is 
+provided for specific VHF/UHF intersections and specifies <em>the lowest altitude above sea level at which acceptable navigational signal coverage is received to determine the intersection.</em></p>
+
+<p>Two intersections are depicted below—Ronch and Kanoo 
+Intersections.&nbsp; They share the same MRA (14000’ ASL).&nbsp; Note 
+that the co-ordinates for the intersections are provided, as is the 
+radial, identifier, and frequency for the VOR used to establish the 
+positions.</p>
+
+<p>&nbsp;</p>
+
+<p><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/Instrument%252520Navigation%252520MRA%252520Langley%252520Flying%25252.gif"></p>
+
+<a id="Radio Aids, Distance and Course Data"></a><h3>Radio Aids, Distance and Course Data</h3>
+
+<p>All radio Aids—i.e., NDB, VOR, VORTAC—are orientated to <strong><em>magnetic north</em></strong> in the <em>Southern Domestic Airspace</em>, and <strong><em>true north</em></strong> in the <em>Northern Domestic Airspace</em>.&nbsp; While the azimuths are correctly positioned, other navigation aid symbols may be positioned for sake of clarity.</p>
+
+<p>The radio aid, distance and course data for the airway V112 between 
+Calgary VORTAC and Cranbrook VOR is examined in detail 
+below.&nbsp;&nbsp;&nbsp; Note that the actual distances between symbols 
+are only approximated for the sake of clarity.</p>
+
+<p>&nbsp;</p>
+
+<p><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/Instrument%252520Navigation%252520Airway%252520Depiction%252520Langl.gif"></p>
+
+<a id="Navigation and Communication Data Boxes"></a><h3>Navigation and Communication Data Boxes</h3>
+
+<p>The radio aid data boxes&nbsp;are virtually identical to the pattern used on VFR charts.&nbsp; A <em>heavy line</em> around the navigation aid data box indicates the facility is co-located with FSS.&nbsp; In the case a <em>thin-lined</em>
+ box, FSS is not co-located with the facility.&nbsp; Remote FSS 
+communication equipment is established at many radio aid sites, and 
+these are indicated by the appearance of a <em>sub-box</em> below the navigation aid data box.</p>
+
+<p>Standard frequencies—126.7, 121.5, and 243 MHz—are available for 
+contacting FSS where FSS is co-located at the radio aid facility (heavy 
+lined data boxes), unless otherwise noted.&nbsp; Additional frequencies 
+used by FSS will be published above the data box, but note that the 
+standard frequencies will not appear here—instead, it is implied that 
+they are usable.&nbsp; If any of the standard frequencies are not 
+available, they will be shown with a line through them.&nbsp; Note that 
+the standard frequencies do not apply to thin-lined data boxes showing 
+remote FSS communication; in these cases, only the frequencies published
+ above the data boxes can be used.</p>
+
+<p>Below appear three varieties.</p>
+
+<p>&nbsp;</p>
+
+<p><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/Instrument%252520Navigation%252520Navigation%252520and%252520Communi.gif"></p>
+
+<a id="Airport Data"></a><h3>Airport Data</h3>
+
+<p>The <em>Aerodrome </em>and<em> Aerodrome Data</em> depiction on IFR 
+charts are conventional, and do not vary substantially for VFR chart 
+references.&nbsp; Importantly, however, airports with <em>published instrument approach</em> procedures are displayed in <em>black ink</em>.</p>
+
+<a id="Changeover Points"></a><h3>Changeover Points</h3>
+
+<p>Normally the radio aid used for tracking an airway is changed between
+ the anchoring facilities at the half-way mark.&nbsp; Where this 
+changeover point&nbsp;is different, it is marked as indicated 
+below..&nbsp; En route from VOR A to VOR B, the VOR A is selected until 
+the 102-NM mark is reached, and then VOR B is selected.</p>
+
+<p>&nbsp;</p>
+
+<p><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/Instrument%252520Navigation%252520Changeover%252520Point%252520Langl.gif"></p>
+
+<a id="ADF, VOR, and GPS Navigation Procedures"></a><h2>ADF, VOR, and GPS Navigation Procedures</h2>
+
+<p><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/Instrument%252520Navigation%252520GPS%252520Waypont%252520Quandrants.gif"></p>
+
+<a id="Homing and Tracking"></a><h3>Homing and Tracking</h3>
+
+<p><strong><em>To “home” to a VOR station or GPS waypoint:</em></strong></p>
+
+<ul><li>tune and identify the VOR station&nbsp;or GPS waypoint;</li>
+	<li>centre the CDI with OBS that provides a “to” indication;</li>
+	<li>fly a heading to maintain the track—if the CDI migrates left, you 
+are to the right of track; if the CDI migrates right, you are to the 
+left of track.</li>
+</ul><p><strong><em>To intercept a pre-determined track using VOR or GPS waypoint:</em></strong></p>
+
+<ul><li>tune and identify the VOR station or GPS waypoint;</li>
+	<li>select the track desired using the OBS;</li>
+	<li>orient the aircraft so that the desired track to or from the VOR or
+ GPS waypoint is the same as the aircraft’s heading (paralleling the 
+track);</li>
+	<li>note whether the VOR or GPS waypoint is ahead of the lateral axis 
+of the aircraft (indicated by a “to” indication), or behind the lateral 
+axis (indicated by a&nbsp; “from” indication);</li>
+	<li>if the CDI is on the right of centre, add the desired intercept 
+angle to the current orientated heading and fly the intercept; if the 
+CDI is on left, subtract the desired intercept angle;</li>
+	<li>when the CDI centres during the intercept, alter course to maintain the desired track.</li>
+</ul><p><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/Instrument%252520Navigation%252520NDB%252520Quandrants%252520Langley.gif"></p>
+
+<p><strong><em>To “home” to a station using ADF:</em></strong></p>
+
+<ul><li>tune, identify, and test the NDB;<a href="#_ftn3" name="_ftnref3" title="">3</a></li>
+	<li>note the relative bearing to the NDB and turn the aircraft so that 
+the relative bearing is 360° (i.e., the magnetic heading of the aircraft
+ equals the magnetic bearing to the NDB);</li>
+	<li>fly to maintain a relative bearing of 360°.</li>
+</ul><p><strong><em>To intercept a pre-determined track using ADF:</em></strong></p>
+
+<ul><li>tune, identify, and test the NDB;</li>
+	<li>orient the aircraft so that the desired track to or from the NDB is the same as the aircraft’s heading (paralleling the track);</li>
+	<li>note whether the bearing indicator (the needle) is indicating right or left of the longitudinal axis&nbsp;of the aircraft;</li>
+	<li>if the bearing indicator points to the right of longitudinal axis, 
+add the desired intercept angle to the current orientated heading and 
+fly the intercept; if the bearing indicator points to the right of 
+longitudinal axis, subtract the desired intercept angle;<a href="#_ftn4" name="_ftnref4" title="">4</a></li>
+	<li>if you are intercepting a track <strong><em>from</em></strong> the 
+NDB, you slowly “pull the tail” of the bearing indicator to match the 
+intercept angle—when the tail “opens” to match your intercept angle, you
+ are “on track” and should now turn on course; if&nbsp; you are 
+intercepting a track <strong><em>to</em></strong> the NDB, you slowly 
+“push the head” of the bearing indictor to match the intercept 
+angle—when the tail “opens” to match the intercept angle, again you are 
+“on track” and should now turn on course.<a href="#_ftn5" name="_ftnref5" title="">5</a></li>
+</ul><p>The intercept angles used are the same (unless otherwise 
+prescribed): a 45° angle is used when intercepting a track&nbsp;from a 
+station (radio navigation aid), and a 90° angle is used when 
+intercepting a track to a station.</p>
+
+<a id="Orientation—Paralleling the Track"></a><h3>Orientation—Paralleling the Track</h3>
+
+<p>The key to intercepting a desired track is first paralleling the 
+track.&nbsp; When you get comfortable with interceptions, you will start
+ skipping this phase, but until you get proficient at it, always 
+parallel the track before you intercept it.&nbsp; By paralleling the 
+track, you are effectively orienting yourself and the aircraft to the 
+ground transmitter or waypoint.&nbsp; Is it located in front of or 
+behind the aircraft?&nbsp; Is it located to the left or to the 
+right?&nbsp; With a VOR or GPS waypoint, once the track is paralleled, 
+the information derived from the instrument display can be directly 
+applied to your mental picture of your location—you are looking for the 
+“To” or&nbsp; “From” indication to determine if it is ahead or behind, 
+and you look for the needle deflection to determine if it is right or 
+left.&nbsp; Consider the depiction below:</p>
+
+<p>&nbsp;</p>
+
+<p><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/Instrument%252520Navigation%252520Intercepts%252520and%252520Trackin.gif"></p>
+
+<a id="Navigation Formula"></a><h2>Navigation Formula</h2>
+
+<a id="Relative Bearing"></a><h3>Relative Bearing</h3>
+
+<p><em>Magnetic bearing</em>, sometimes simply referred to as <em>bearing</em>,
+ denotes the horizontal magnetic direction to or from any point.&nbsp; 
+If the magnetic bearing (or bearing) to a station is 270°, for example, 
+this means that we are directly <em>east</em> of the station; similarly, if our bearing to a station is 180°, we are directly <em>north</em>.</p>
+
+<p>Relative bearing is the <em>position of an object relative to the longitudinal axis of the aircraft</em>.&nbsp; If an object lies directly off the <em>right wing</em>
+ of an aircraft, it would be considered to be at a relative bearing of 
+090°.&nbsp; If the aircraft is eastbound and an object is directly to 
+the north of the aircraft, the object still remains at a relative 
+bearing of 270°, even though the <em>magnetic bearing</em> is 360°.</p>
+
+<p>An aircraft is flying on a magnetic heading of 270°.&nbsp; An ADF 
+indicator shows a relative bearing to a local NDB as 010°.&nbsp; To 
+proceed directly to the NDB, what magnetic heading would be flown?</p>
+
+<p>Here is the formula to be used:</p>
+
+<p><strong>Magnetic Bearing = Magnetic Heading + Relative Bearing</strong><a href="#_ftn6" name="_ftnref6" style="background-color: rgb(19, 19, 19);" title=""><strong>6</strong></a></p>
+
+<p>or,&nbsp; <strong>MB = MH + RB</strong></p>
+
+<p>MB = 270 + 010</p>
+
+<p>MB = 280</p>
+
+<p>To fly to the NDB (or beacon), the pilot would fly 280°.</p>
+
+<p>Now, what would happen if the <em>magnetic heading</em> and <em>relative bearing</em>, added together, <em>equalled a value greater than 360</em>.&nbsp; The solution is straightforward—<em>simply take the sum and subtract 360</em>.&nbsp;
+ For example, an aircraft is flying a heading of 270° and the relative 
+bearing to the station is 180°.&nbsp; What magnetic bearing should the 
+pilot fly to proceed directly to the station?</p>
+
+<p>MB = MH + RB</p>
+
+<p>MB = 270 + 180</p>
+
+<p>MB = 450</p>
+
+<p>MB = (450 – 360)</p>
+
+<p>MB = 090</p>
+
+<p>&nbsp;</p>
+
+<p>To fly to the NDB (or beacon), the pilot would fly 090°.</p>
+
+<p>A similar variation on the formula can be encountered when 
+determining the relative bearing.&nbsp; To establish relative bearing by
+ itself on one side of the equation, simply subtract MH from both sides:</p>
+
+<p>MB = MH + RB</p>
+
+<p>MB - MH = (MH + RB) - MH</p>
+
+<p>MB - MH = RB&nbsp; or,</p>
+
+<p>RB&nbsp; =&nbsp; MB - MH</p>
+
+<p>On occasion you will find that the <em>magnetic bearing is greater than the aircraft’s magnetic heading</em>.&nbsp; A negative answer will not do, of course, but the solution is quite straight forward—<em>simply add 360</em><em>° to the magnetic bearing</em>.&nbsp;
+ Here is an example: The aircraft’s magnetic heading is 270° and the 
+magnetic bearing to an NDB is 180°.&nbsp; What is the relative bearing 
+to the NDB?</p>
+
+<p>RB&nbsp; =&nbsp; MB - MH</p>
+
+<p>RB&nbsp; =&nbsp; 180 - 270</p>
+
+<p>RB&nbsp; =&nbsp; (180 + 360) - 270</p>
+
+<p>RB&nbsp; =&nbsp; 540 - 270</p>
+
+<p>RB&nbsp; =&nbsp; 270</p>
+
+<p>&nbsp;</p>
+
+<p>So, let’s see if this makes sense.&nbsp; The aircraft is flying 
+westbound (i.e., from right to left across your piece of paper).&nbsp; 
+The magnetic bearing to the station is 180°, so that would put the 
+station below the aircraft at the bottom of the page (i.e., the 
+south).&nbsp; What would be the relative bearing of this station with 
+respect to the nose of the aircraft—yes, it would be directly off the 
+left wing, or 270° measured clockwise from the aircraft’s longitudinal 
+axis!</p>
+
+<a id="Time and Distance to Station"></a><h3>Time and Distance to Station</h3>
+
+<p>There are two formulas&nbsp;to be aware of which allow a pilot to determine the <em>time or distance</em>
+ to an NDB or VOR station.&nbsp; To use the formula, the pilot must 
+first be tracking directly to the station in question; then the aircraft
+ is turned 90° from that heading to a perpendicular track.&nbsp; The 
+pilot then notes the changes in the bearing to the station and the 
+amount of time required produce the bearing change.</p>
+
+<p>The two equations are as follows:</p>
+
+<table><tbody><tr><td rowspan="2">
+			<p><strong>Time to Station (minutes)&nbsp; </strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>=</strong></p>
+			</td>
+			<td style="text-align: center;">
+			<p><strong>Time (seconds) required for degrees or radials change</strong></p>
+
+			<hr><p><strong>Number of&nbsp; degrees/radials changed</strong></p>
+			</td>
+		</tr></tbody></table><p><strong>&nbsp;</strong></p>
+
+<table><tbody><tr><td rowspan="2">
+			<p><strong>Distance to Station (NM)&nbsp; </strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>=</strong></p>
+			</td>
+			<td style="text-align: center;">
+			<p><strong>TAS x</strong><strong>&nbsp; Time to station&nbsp; in (minutes)</strong></p>
+
+			<hr><p><strong>60</strong></p>
+			</td>
+		</tr></tbody></table><p>Applying these formulas to VORs, for example, 
+let us assume that an aircraft is tracking inbound on the 270° Radial of
+ a VOR.&nbsp; The pilot wishes to know the aircraft’s <em>distance from the VOR station</em>.&nbsp;
+ To do this, the pilot then turns the aircraft to a heading of 360°, and
+ starts timing.&nbsp; After two minutes the pilot notes that the CDI has
+ deflected 1 ½ dots—or what is three degrees.&nbsp; Here comes the math:</p>
+
+<table><tbody><tr><td rowspan="2">
+			<p><strong>Time to Station (minutes)</strong></p>
+			</td>
+			<td rowspan="2">
+			<p><strong>=</strong></p>
+			</td>
+			<td style="text-align: center;">
+			<p><strong>120</strong></p>
+
+			<hr><p><strong>3</strong></p>
+			</td>
+		</tr></tbody></table><table><tbody><tr><td>
+			<p><strong>Time to Station (minutes)</strong></p>
+			</td>
+			<td>
+			<p><strong>=</strong></p>
+			</td>
+			<td>
+			<p><strong>40</strong></p>
+			</td>
+		</tr></tbody></table><p>The aircraft is 40 minutes from the VOR.</p>
+
+<p>Assuming that the aircraft travels at 120 KTS TAS, the pilot then 
+wishes to estimate the distance of the aircraft from the VOR.&nbsp; Here
+ we go:</p>
+
+<table><tbody><tr><td colspan="2" rowspan="2">
+			<p><strong>Distance to Station (NM)&nbsp; </strong></p>
+			</td>
+			<td colspan="2" rowspan="2">
+			<p><strong>=</strong></p>
+			</td>
+			<td colspan="3" style="text-align:center">
+			<p><strong>120 x</strong><strong>&nbsp; 40</strong></p>
+
+			<hr><p><strong>60</strong></p>
+			</td>
+		</tr></tbody></table><p>&nbsp;</p>
+
+<table><tbody><tr><td colspan="2">
+			<p><strong>Distance to Station (NM)</strong></p>
+			</td>
+			<td colspan="2">
+			<p><strong>=</strong></p>
+			</td>
+			<td>
+			<p><strong>80</strong></p>
+			</td>
+		</tr></tbody></table><p>The aircraft is 80 NM from the VOR.</p>
+
+<p>Now let us apply these formulas to use of NDBs.&nbsp; Again, the 
+aircraft is tracking directly to an NDB and the pilot wishes to 
+determine the exact time and distance required for station 
+passage.&nbsp; Using a fixed card ADF the pilot turns 90° from the 
+course and notes that it takes 2 minutes for the relative bearing to the
+ NDB to change from 270° to 262°.&nbsp; Again, here comes the math: 120 
+seconds divided by 8 equals 15—the aircraft is therefore 15 minutes from
+ the NDB.&nbsp; If the TAS of the aircraft is 150 KTS, 150 is multiplied
+ by 15 to equal 2250, and 2250 is divided by 60 to equal 37.5—the 
+aircraft is therefore 37.5 NM from the NDB.</p>
+
+<a id="Track Measurement"></a><h2>Track Measurement</h2>
+
+<p>Whenever it is required to produce a quick measurement of estimated 
+en route along an airway with a dogleg, or a series of airways with 
+different tracks, an effective way to do this is to “eyeball-estimate” 
+an average track.&nbsp; When the average track is determined, the 
+forecast winds can be applied to determine the average groundspeed, and 
+the total distance of the actual routing can be applied to the average 
+groundspeed to determine the total time en route.</p>
+
+<p>Here are some examples of average tracks:</p>
+
+<p>&nbsp;</p>
+
+<p><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/Instrument%252520Navigation%252520Track%252520Measurement%252520Lang.gif"></p>
+
+<p>&nbsp;</p>
+
+<a id="References:"></a><h2>References:</h2>
+
+<p><a href="#_ftnref1" name="_ftn1" title="">1</a> <em>AIM</em> GEN 5.1 (<em>Glossary of Aeronautical Terms</em>)</p>
+
+<p><a href="#_ftnref2" name="_ftn2" title="">2</a> <em>Ibid</em>.</p>
+
+<p><a href="#_ftnref3" name="_ftn3" title="">3</a> Unlike a VOR, the NDB
+ signal is tested every time a new NDB is selected.&nbsp; If the ADF is 
+equipped with a “test” button, this is pressed and the bearing indicator
+ will move to the 090° relative bearing position; if the ADF does not 
+have a test feature, move the function selector switch from the ADF 
+position to the ANT position (the ANT position removes the directional 
+“loop antenna” from the system, allowing only the non-directional “sense
+ antenna” to receive the signal), and again the 090° relative bearing 
+will be received.</p>
+
+<p><a href="#_ftnref4" name="_ftn4" title="">4</a> In fact, you do not 
+add or subtract, but instead simply glance at the ADF rotating card and 
+read the intercept heading—presuming, of course that you have “bugged” 
+the orientation heading.&nbsp; In the event of a fixed card ADF, simply 
+transpose the bearing indication onto the heading indicator; as you turn
+ to the intercept heading, you should see the desired track under either
+ the 45° or 90° marker on the heading indicator.</p>
+
+<p><a href="#_ftnref5" name="_ftn5" title="">5</a> This is quite tricky 
+business and you should spend time on the ground reviewing this “tail 
+pulling” and “head pushing” on a scrap of paper—but of course it is best
+ seen in the air.</p>
+
+<p><a href="#_ftnref6" name="_ftn6" title="">6</a> “<em>Mary Barfed after Mary Had Roast Beef</em>” or “<em>Mary Had Roast Beef—Mary Barfed</em>.”&nbsp; Thanks to Gerry Unger for this.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<script src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/analytics.js" async=""></script><script type="text/javascript"> 
+document.onselectstart=new Function ("return false");
+if (window.sidebar){
+document.onmousedown=new Function("return false"); 
+document.onclick=new Function("return true") ; 
+}
+</script></div>
+    </div>
+</div>
+</div>
+
+<div id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="span12">
+<p>
+    <a href="http://lfsbooking.com/">Booking Sheet</a> | 
+    <a href="http://www.langleyflyingschool.com/contact_us/contact_form.html">Contact Form</a> | 
+    <a href="http://www.langleyflyingschool.com/contact_us/address_&amp;_map.html">Address &amp; Map</a> | 
+    <a href="http://www.langleyflyingschool.com/Pages/Standard%20Operating%20Procedures.html">Standard Operating Procedures</a> | 
+    <a href="http://docs.google.com/forms/d/10g6eRTIH1yFbh7K8tsIYRL0OZR6LkSNSlDLH0Uk1Rgg/viewform">Anonymous Safety Reporting</a> | 
+    <a href="http://www.langleyflyingschool.com/people_and_places.html">People &amp; Places</a>
+</p>
+
+<div id="training_logo">
+	<img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/logo.png"><style>
+		#training_logo {
+		    float: right;
+		}
+	</style></div> 
+
+<p>© 2016 Langley Flying School, Inc. <small>The content of this website
+ is protected by copyright and reproduction in whole or in part is only 
+authorized with the written consent of Kamy Farrd, Chief Flying 
+Instructor, Langley Flying School.</small></p>  
+
+
+<p><i>"Choose a job you love, and you will never have to work a day in your life."</i> Confucius
+</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+		
+		<script> 
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-71053516-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script><script src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/jquery.js"></script><script src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/bootstrap.js"></script><script src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/jquery-ui-1.js"></script><script src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/lightbox.js"></script><script src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/scripts.js"></script>
+<div style="display: none;" id="lightboxOverlay"></div><div style="display: none;" id="lightbox"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image"><div class="lb-nav"><a class="lb-prev"></a><a class="lb-next"></a></div><div class="lb-loader"><a class="lb-cancel"><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/loading.gif"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"><img src="IFR%20Instrument%20Navigation,%20Langley%20Flying%20School_files/close.png"></a></div></div></div></div></body></html>
