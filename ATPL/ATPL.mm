@@ -55,11 +55,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1568327213275" ID="ID_666978895" MODIFIED="1568327228722" TEXT="1.08 Commercial Air Services and Flight Duty Rules">
+<node CREATED="1568327213275" ID="ID_666978895" MODIFIED="1568941345808" TEXT="1.08 Commercial Air Services and Flight Duty Rules">
 <node CREATED="1568327234243" ID="ID_1382274443" MODIFIED="1568327353767">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -78,8 +77,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568327544891" ID="ID_1922978008" MODIFIED="1568336883235">
 <richcontent TYPE="NODE"><html>
@@ -126,8 +124,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568327614580" ID="ID_114771698" MODIFIED="1568327782122">
 <richcontent TYPE="NODE"><html>
@@ -153,8 +150,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568327837237" ID="ID_176350889" MODIFIED="1568327957445">
 <richcontent TYPE="NODE"><html>
@@ -180,8 +176,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568334563134" ID="ID_1456146745" MODIFIED="1568335090868">
 <richcontent TYPE="NODE"><html>
@@ -222,6 +217,182 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1568939215743" ID="ID_115231217" MODIFIED="1568939583477">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flight Crew Members on Reserve
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        min. 8 consecutive hours sleep in 24 hours
+      </li>
+      <li>
+        24 hours notice of rest period commencement
+      </li>
+      <li>
+        max. 3 hours rest shift from the previous rest period
+      </li>
+      <li>
+        max. 8 hours rest shift in 7 consecutive days
+      </li>
+      <li>
+        min. 10 hours notice for the assignment without any other assignment
+      </li>
+      <li>
+        no interruptions in between 2200 to 0600 LT
+      </li>
+      <li>
+        if unable to comply with the above, then max. 10 consecutive hours flight duty followed by a rest period extended by min. half of the preceding flight duty time&#160;
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1568939780393" ID="ID_924830446" MODIFIED="1568939963234">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Long Range Flights
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        more than 4 hours time shift limited to 3 sectors followed by rest min. length of the preceding flight duty time (except NDA)
+      </li>
+      <li>
+        max. 1 additional sector after transoceanic flight (excluding unscheduled technical stop)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1568939989087" ID="ID_1035279483" MODIFIED="1568940089256">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Controlled Rest on the Fight Deck
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        max. 45 minutes catnap controlled rest program
+      </li>
+      <li>
+        completed min. 30 minutes before planned descent
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1568941349966" ID="ID_411903113" MODIFIED="1568941539412">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2020 New Flight Time Limitations (excluding aerial work and medivac)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        max. 112 hours in 28 consecutive days
+      </li>
+      <li>
+        max. 300 hours in 90 consecutive days
+      </li>
+      <li>
+        max. 1000 hours in 365 consecutive days
+      </li>
+      <li>
+        max. 8 hours in 24 consecutive hours if single-pilot
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1568941757956" ID="ID_789879009" MODIFIED="1568942289511">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2020 New Flight Duty Time Limitations (excluding aerial work and medivac)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        based on average flight duation, time of flight, and numbers of flight
+      </li>
+      <li>
+        tables on page 25
+      </li>
+      <li>
+        acclimatization within 72 hours including required rest for max. 3 hours time shift, otherwise 96 hours including required rest, or 24 hours for each hour time shift
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1568942407116" ID="ID_215437811" MODIFIED="1568942873762">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2020 New Maximum Work Hours (excluding aerial work and medivac)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        2200 hours in 365 consecutive days
+      </li>
+      <li>
+        192 hours in 28 consecutive days
+      </li>
+      <li>
+        60 hours in 7 consecutive days if 1 day off in 168 consecutive hours, 4 days off in 672 consecutive hours
+      </li>
+      <li>
+        70 hours in 7 consecutive days if 120 consecutive hours off including 5 consecutive local nights in 504 consecutive hours (no early, late, or night duty) with max. 12 hours flight duty and 24 hours in any consecutive 48 hours
+      </li>
+      <li>
+        33% of reserve time, 100% of standby time
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
@@ -239,13 +410,50 @@
 </node>
 </node>
 <node CREATED="1568172247782" ID="ID_1312210863" MODIFIED="1568243307685" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1568174672093" TEXT="Meteorology">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1568659766238" TEXT="Meteorology">
 <node CREATED="1568174438816" ID="ID_208638027" MODIFIED="1568174450928" TEXT="The Earth&apos;s Atmosphere"/>
 </node>
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
 <icon BUILTIN="closed"/>
 </node>
 <node CREATED="1568172671136" ID="ID_1053951536" MODIFIED="1568172701231" TEXT="Radio Communication and Navigation Aids"/>
+</node>
+<node CREATED="1568671682779" ID="ID_1658639647" MODIFIED="1568671690230" POSITION="right" TEXT="Study Material">
+<node CREATED="1568671700482" ID="ID_217896736" MODIFIED="1568671704535" TEXT="Culhane">
+<node CREATED="1568671752273" ID="ID_386732757" MODIFIED="1568672230580" TEXT="ATPL Textbook">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1568671764479" ID="ID_1828774730" MODIFIED="1568671768441" TEXT="ATPL Workbook"/>
+</node>
+<node CREATED="1568671709147" ID="ID_1353218623" MODIFIED="1568671715740" TEXT="AeroCourse">
+<node CREATED="1568671773681" ID="ID_474000531" MODIFIED="1568671798374" TEXT="Aviation &amp; Meteorology"/>
+<node CREATED="1568671807552" ID="ID_1406305443" MODIFIED="1568671824509" TEXT="Airframe Icing Ammendum"/>
+<node CREATED="1568671831051" ID="ID_1489961178" MODIFIED="1568671836644" TEXT="ATPL Workbook"/>
+</node>
+<node CREATED="1568671726237" ID="ID_1380778162" MODIFIED="1568674580394" TEXT="TC / NavCanada">
+<node CREATED="1568671734720" ID="ID_1022674447" MODIFIED="1568671737822" TEXT="AIP"/>
+<node CREATED="1568671740725" ID="ID_825659791" MODIFIED="1568672239215" TEXT="AIM">
+<icon BUILTIN="idea"/>
+<node CREATED="1568678096877" ID="ID_494792293" MODIFIED="1568678157624" TEXT="GEN">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1568678150806" ID="ID_1234422180" MODIFIED="1568740702900" TEXT="AGA">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1568740708354" ID="ID_1615310614" MODIFIED="1568740716741" TEXT="COM">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1568674586021" ID="ID_1727617852" MODIFIED="1568674598849" TEXT="Aerodrome Standards and Recommended Practices"/>
+</node>
+<node CREATED="1568671893663" ID="ID_1218729693" MODIFIED="1568671898697" TEXT="Weather">
+<node CREATED="1568671904065" ID="ID_1030988294" MODIFIED="1568671911048" TEXT="Air Command Weather Manual"/>
+<node CREATED="1568671914218" ID="ID_886306784" MODIFIED="1568672057251" TEXT="BC Weather Guide / Aviation Weather Hazards"/>
+<node CREATED="1568671967758" ID="ID_1483860915" MODIFIED="1568671975335" TEXT="AWS Services Guide"/>
+<node CREATED="1568671984132" ID="ID_1627165801" MODIFIED="1568672006890" TEXT="Weather Hazards Guide"/>
+<node CREATED="1568672156942" ID="ID_1232469084" MODIFIED="1568672159670" TEXT="TP 14052 - Guidelines for Aircraft Ground - Icing Operations - Transport Canada"/>
+<node CREATED="1568672206364" ID="ID_556857642" MODIFIED="1568672208314" TEXT="TP 10643 - When in Doubt... - Transport Canada"/>
+</node>
 </node>
 </node>
 </map>
