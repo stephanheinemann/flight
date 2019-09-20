@@ -255,8 +255,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568939780393" ID="ID_924830446" MODIFIED="1568939963234">
 <richcontent TYPE="NODE"><html>
@@ -279,8 +278,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568939989087" ID="ID_1035279483" MODIFIED="1568940089256">
 <richcontent TYPE="NODE"><html>
@@ -303,8 +301,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568941349966" ID="ID_411903113" MODIFIED="1568941539412">
 <richcontent TYPE="NODE"><html>
@@ -333,8 +330,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568941757956" ID="ID_789879009" MODIFIED="1568942289511">
 <richcontent TYPE="NODE"><html>
@@ -360,8 +356,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568942407116" ID="ID_215437811" MODIFIED="1568942873762">
 <richcontent TYPE="NODE"><html>
@@ -393,8 +388,85 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1568996218527" ID="ID_381676043" MODIFIED="1568996800902">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Air Taxi Operations (CARS 703)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        air transport service, aerial work, sight-seeing
+      </li>
+      <li>
+        single- or multi-engine non-turbo jet aircraft
+      </li>
+      <li>
+        max. MCTOW 19000 lbs, max. 9 PAX
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
+<node CREATED="1568999209156" ID="ID_1754657585" MODIFIED="1568999339101">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Protective Breathing Equipment
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        15 minutes oxygen at 8000 PALT at each flight crew position
+      </li>
+      <li>
+        equipment may be used to meet crew member requirements
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1568999230424" ID="ID_1923730970" MODIFIED="1568999536157">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      First Aid Oxygen
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        for one PAX for min. 1 hour above FL 250, or
+      </li>
+      <li>
+        for the entire flight duration above FL 080 following emergency descent,
+      </li>
+      <li>
+        whichever is longer
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </node>
