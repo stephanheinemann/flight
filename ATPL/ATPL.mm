@@ -390,21 +390,21 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1568996218527" ID="ID_381676043" MODIFIED="1568996800902">
+<node CREATED="1568996218527" ID="ID_381676043" MODIFIED="1569277524644">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Air Taxi Operations (CARS 703)
+      Air Taxi Operations (CARs 703)
     </p>
     <p>
       
     </p>
     <ul>
       <li>
-        air transport service, aerial work, sight-seeing
+        air transport service, aerial work, sightseeing
       </li>
       <li>
         single- or multi-engine non-turbo jet aircraft
@@ -414,7 +414,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1568999209156" ID="ID_1754657585" MODIFIED="1568999339101">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -507,8 +508,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569272752308" ID="ID_439516675" MODIFIED="1569272954998">
 <richcontent TYPE="NODE"><html>
@@ -534,13 +534,244 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1569277821797" ID="ID_854673184" MODIFIED="1569277978329">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fuel Requirements
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        As per CARs, and additionally
+      </li>
+      <li>
+        IFR flights require fuel to descend from any cruise altitude to the lower of single-engine service ceiling or 10000 ft, then cruise to suitable alternate, conduct missed approach, hold 30 min at 1500 ft
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569278398982" ID="ID_253945643" MODIFIED="1569278494618">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Obstacle Clearance
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Night VFR: min. 1000 ft within 3 NM above obstacle
+      </li>
+      <li>
+        Day VFR: min. 300 ft within 300 ft above obstacle
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569278567909" ID="ID_167821188" MODIFIED="1569278760010">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flight Visibility
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Day VFR: less than 2 SM below 1000 ft AGL in uncontrolled airspace with special authorization including 500 hours PIC experience, training, and equipment requirements
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
 </node>
-<node CREATED="1569274082808" ID="ID_96945613" MODIFIED="1569274089779" TEXT="Aerial Work Operations"/>
-<node CREATED="1569274096513" ID="ID_1509217189" MODIFIED="1569274107001" TEXT="Commuter Operations"/>
-<node CREATED="1569274115428" ID="ID_366097208" MODIFIED="1569274126922" TEXT="Airline Operations"/>
+<node CREATED="1569274082808" ID="ID_96945613" MODIFIED="1569277092818">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Aerial Work Operations (CARs 702)
+    </p>
+    <ul>
+      <li>
+        aerial product dispersal, banner towing, fire prevention/fighting
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1569276803155" ID="ID_894625942" MODIFIED="1569276951567">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Qualification and Regaining Qualification
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        PPC conducted by TC
+      </li>
+      <li>
+        PPC valid for 24 months, CC valid for 12 months
+      </li>
+      <li>
+        PPC expired for 24 months or more: complete initial training
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569278273880" ID="ID_286554040" MODIFIED="1569278525315">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flight Visibility
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Day VFR: less than 2 SM below 1000 ft AGL in uncontrolled airspace if authorized in AOC
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1569274096513" ID="ID_1509217189" MODIFIED="1569277515004">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Commuter Operations (CARs 704)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        air transport service, aerial work, sightseeing
+      </li>
+      <li>
+        multi-engine aircraft with max. MCTOW 19000 lbs and 10 to 19 PAX
+      </li>
+      <li>
+        turbo-jet aircraft with max. MZFW 50000 lbs and max. 19 PAX
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1569277998461" ID="ID_1773039314" MODIFIED="1569278065849">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fuel Requirements
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        As per CARs, and additionally
+      </li>
+      <li>
+        IFR flights require fuel to descend from any cruise altitude to the lower of single-engine service ceiling or 10000 ft, then cruise to suitable alternate, conduct missed approach, hold 30 min at 1500 ft
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569278115246" ID="ID_1636033233" MODIFIED="1569278241970">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Obstacle Clearance
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Night VFR: min. 1000 ft within 3 NM above obstacle
+      </li>
+      <li>
+        Day VFR: min. 500 ft within 500 ft above obstacle
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569278887082" ID="ID_1573739209" MODIFIED="1569279070972">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      IFR Alternate Requirements
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        max. 9 PAX: 60 min at normal cruise for twin-engine, 120 min at normal cruise for three or more engines
+      </li>
+      <li>
+        max. 19 PAX: 60 min at OEI cruise for twin engine, 120 min at OEI cruise for three or more engines
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1569274115428" ID="ID_366097208" MODIFIED="1569276329159" TEXT="Airline Operations (CARs 705)"/>
 </node>
 </node>
 <node CREATED="1568173327294" ID="ID_1056315969" MODIFIED="1568173426446" TEXT="Aircraft, Power Plants, Propellers and Systems"/>
