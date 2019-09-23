@@ -58,7 +58,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568327213275" ID="ID_666978895" MODIFIED="1568941345808" TEXT="1.08 Commercial Air Services and Flight Duty Rules">
+<node CREATED="1568327213275" ID="ID_666978895" MODIFIED="1569274079010" TEXT="1.08 Commercial Air Services and Flight Duty Rules">
 <node CREATED="1568327234243" ID="ID_1382274443" MODIFIED="1568327353767">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -414,8 +414,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1568999209156" ID="ID_1754657585" MODIFIED="1568999339101">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -437,8 +436,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1568999230424" ID="ID_1923730970" MODIFIED="1568999536157">
 <richcontent TYPE="NODE"><html>
@@ -464,10 +462,85 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1569269996228" ID="ID_683137543" MODIFIED="1569270935435">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Personal Requirements
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        <p>
+          <font size="3">IFR requires two crew members unless TC has authorized the operation and PIC has </font>
+        </p>
+        <ul>
+          <li>
+            <font size="3">min. 1000 hours flight time </font>
+          </li>
+          <li>
+            <font size="3">min. 100 hours multi time if multi-engine aircraft </font>
+          </li>
+          <li>
+            <font size="3">min. 50 hours simulated or actual IMC </font>
+          </li>
+          <li>
+            <font size="3">min. 50 hours on type </font>
+          </li>
+          <li>
+            <font size="3">current PPC on type, at or below FL 250</font>
+          </li>
+        </ul>
+      </li>
+      <li>
+        Night VFR with PAX requires IFR rating
+      </li>
+      <li>
+        min. 5 hours for single and min. 15 hours for multi-engine on type (can be reduced to 50% with each take-off and landing giving credit for 1 hour)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569272752308" ID="ID_439516675" MODIFIED="1569272954998">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Qualification and Regaining Qualification
+    </p>
+    <ul>
+      <li>
+        3 take-offs and landings within previous 90 days
+      </li>
+      <li>
+        PPC expired for less than 6 months: emergency procedures and PPC
+      </li>
+      <li>
+        PPC expired for 6 to 24 months: emergency procedures, PPC, and technical ground training
+      </li>
+      <li>
+        PPC expired for more than 24 months: complete initial type rating
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
 </node>
+<node CREATED="1569274082808" ID="ID_96945613" MODIFIED="1569274089779" TEXT="Aerial Work Operations"/>
+<node CREATED="1569274096513" ID="ID_1509217189" MODIFIED="1569274107001" TEXT="Commuter Operations"/>
+<node CREATED="1569274115428" ID="ID_366097208" MODIFIED="1569274126922" TEXT="Airline Operations"/>
 </node>
 </node>
 <node CREATED="1568173327294" ID="ID_1056315969" MODIFIED="1568173426446" TEXT="Aircraft, Power Plants, Propellers and Systems"/>
