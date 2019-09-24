@@ -414,8 +414,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1568999209156" ID="ID_1754657585" MODIFIED="1568999339101">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -439,7 +438,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1568999230424" ID="ID_1923730970" MODIFIED="1568999536157">
+<node CREATED="1568999230424" ID="ID_1923730970" MODIFIED="1569283339300">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -456,16 +455,17 @@
         for one PAX for min. 1 hour above FL 250, or
       </li>
       <li>
-        for the entire flight duration above FL 080 following emergency descent,
+        for the entire flight duration above 8000 CPALT following emergency descent,
       </li>
       <li>
         whichever is longer
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1569269996228" ID="ID_683137543" MODIFIED="1569270935435">
+<node CREATED="1569269996228" ID="ID_683137543" MODIFIED="1569283668419">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -496,7 +496,7 @@
             <font size="3">min. 50 hours on type </font>
           </li>
           <li>
-            <font size="3">current PPC on type, at or below FL 250</font>
+            <font size="3">valid PPC on type, at or below FL 250</font>
           </li>
         </ul>
       </li>
@@ -508,7 +508,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1569272752308" ID="ID_439516675" MODIFIED="1569272954998">
 <richcontent TYPE="NODE"><html>
@@ -557,8 +558,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569278398982" ID="ID_253945643" MODIFIED="1569278494618">
 <richcontent TYPE="NODE"><html>
@@ -581,8 +581,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569278567909" ID="ID_167821188" MODIFIED="1569278760010">
 <richcontent TYPE="NODE"><html>
@@ -602,8 +601,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1569274082808" ID="ID_96945613" MODIFIED="1569277092818">
@@ -621,8 +619,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1569276803155" ID="ID_894625942" MODIFIED="1569276951567">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -647,8 +644,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569278273880" ID="ID_286554040" MODIFIED="1569278525315">
 <richcontent TYPE="NODE"><html>
@@ -668,11 +664,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1569274096513" ID="ID_1509217189" MODIFIED="1569277515004">
+<node CREATED="1569274096513" ID="ID_1509217189" MODIFIED="1569284025563">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -696,8 +691,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1569277998461" ID="ID_1773039314" MODIFIED="1569278065849">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -719,8 +713,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569278115246" ID="ID_1636033233" MODIFIED="1569278241970">
 <richcontent TYPE="NODE"><html>
@@ -743,8 +736,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569278887082" ID="ID_1573739209" MODIFIED="1569279070972">
 <richcontent TYPE="NODE"><html>
@@ -764,6 +756,236 @@
       </li>
       <li>
         max. 19 PAX: 60 min at OEI cruise for twin engine, 120 min at OEI cruise for three or more engines
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1569281573442" ID="ID_1729397033" MODIFIED="1569281867992">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Take-Off Weight Limitations
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        PALT, OAT
+      </li>
+      <li>
+        surface, slope and direction
+      </li>
+      <li>
+        max. 50% HWC, min. 150% TWC
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569281689747" ID="ID_362596889" MODIFIED="1569281993698">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Net Take-Off Flight Path
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        obstacle clearance 35 ft vertically, 200 ft or 300 ft horizontally inside or outside aerodrome boundaries, respectively
+      </li>
+      <li>
+        PALT, OAT
+      </li>
+      <li>
+        surface, slope, direction
+      </li>
+      <li>
+        max. 50% HWC, min. 150% TWC
+      </li>
+      <li>
+        bank angle: max. 0 deg below 50 ft, 15 deg below 400 ft (if authorized in the AOC), 25 deg above 400 ft AGL
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569282090422" ID="ID_1714540541" MODIFIED="1569282210016">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Enroute Limitations OEI
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        MOCA in IMC / IFR on airways or air routes
+      </li>
+      <li>
+        MOCA in IMC / NVFR
+      </li>
+      <li>
+        500 ft AGL in VFR
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569282289327" ID="ID_1154728603" MODIFIED="1569282568118">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Dispatch Limitations - Landing at Destination or Alternate
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        turbo jet: 60% LDA, wet conditions: 115% LDR &lt;= LDA
+      </li>
+      <li>
+        propeller: 70% LDA
+      </li>
+      <li>
+        PALT
+      </li>
+      <li>
+        max. 50% HWC, min. 150% TWC
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569282848364" ID="ID_1839277223" MODIFIED="1569283058524">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Protective Breathing Equipment
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        15 minutes oxygen at 8000 PALT at each flight crew position
+      </li>
+      <li>
+        equipment may be used to meet crew member requirements
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569282870504" ID="ID_1274712609" MODIFIED="1569283372623">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      First Aid Oxygen
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        min. 1 hour oxygen for 1 PAX at or above FL 250, or
+      </li>
+      <li>
+        the entire flight duration following emergency descent to 8000 CPALT,
+      </li>
+      <li>
+        whichever is longer
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569283449348" ID="ID_990899543" MODIFIED="1569283921724">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Personal Requirements
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        minimum two crew for 10 or more PAX, or IFR PAX flight
+      </li>
+      <li>
+        3 take-offs and landings within the previous 90 days
+      </li>
+      <li>
+        valid PPC
+      </li>
+      <li>
+        ground and air training programs
+      </li>
+      <li>
+        min. 1200 hours flight time as PIC for IFR PAX flight
+      </li>
+      <li>
+        min. 500 hours flight time as PIC for VFR PAX flight
+      </li>
+      <li>
+        NVFR PAX operations require IFR rating
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569284043350" ID="ID_1450281365" MODIFIED="1569284113465">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      PPC Validity
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        12 months
+      </li>
+      <li>
+        PPC expired for 24 months or more: complete initial training
       </li>
     </ul>
   </body>
