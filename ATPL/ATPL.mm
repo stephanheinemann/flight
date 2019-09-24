@@ -462,8 +462,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569269996228" ID="ID_683137543" MODIFIED="1569283668419">
 <richcontent TYPE="NODE"><html>
@@ -508,8 +507,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569272752308" ID="ID_439516675" MODIFIED="1569272954998">
 <richcontent TYPE="NODE"><html>
@@ -785,10 +783,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1569281689747" ID="ID_362596889" MODIFIED="1569281993698">
+<node CREATED="1569281689747" ID="ID_362596889" MODIFIED="1569358672003">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -814,7 +811,7 @@
         max. 50% HWC, min. 150% TWC
       </li>
       <li>
-        bank angle: max. 0 deg below 50 ft, 15 deg below 400 ft (if authorized in the AOC), 25 deg above 400 ft AGL
+        bank angle: max. 0 deg below 50 ft, 15 deg below 400 ft (if authorized in the AOC), 25 deg at or above 400 ft AGL
       </li>
     </ul>
   </body>
@@ -845,10 +842,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1569282289327" ID="ID_1154728603" MODIFIED="1569282568118">
+<node CREATED="1569282289327" ID="ID_1154728603" MODIFIED="1569359969278">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -862,7 +858,7 @@
     </p>
     <ul>
       <li>
-        turbo jet: 60% LDA, wet conditions: 115% LDR &lt;= LDA
+        turbo jet: 60% LDA, wet conditions: 115% LDR &lt;= LDA (+ 15%)
       </li>
       <li>
         propeller: 70% LDA
@@ -899,8 +895,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569282870504" ID="ID_1274712609" MODIFIED="1569283372623">
 <richcontent TYPE="NODE"><html>
@@ -926,8 +921,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569283449348" ID="ID_990899543" MODIFIED="1569283921724">
 <richcontent TYPE="NODE"><html>
@@ -965,8 +959,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569284043350" ID="ID_1450281365" MODIFIED="1569284113465">
 <richcontent TYPE="NODE"><html>
@@ -989,11 +982,570 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1569274115428" ID="ID_366097208" MODIFIED="1569287192480">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Airline Operations (CARs 705)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        air transport service, aerial work, sightseeing
+      </li>
+      <li>
+        more than MCTOW 19000 lbs
+      </li>
+      <li>
+        20 or more PAX
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+<node CREATED="1569287429711" ID="ID_293470951" MODIFIED="1569288415067">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fuel Requirements
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        VFR: to destination + 45 minutes at normal cruise
+      </li>
+      <li>
+        IFR in designated areas: to destination + 5% reserve
+      </li>
+      <li>
+        IFR without ETOPS: descend to the lower of OEI service ceiling or 10000 feet ASL, normal cruise to suitable aerodrome, approach, missed approach, 30 minutes hold at 1500 feet AAE
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1569288441269" ID="ID_263318218" MODIFIED="1569288762493">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Extended Range Twin-Engined Operations (ETOPS)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        max. 60 minutes at OEI cruise to adequate aerodrome unless wholly within CDA
+      </li>
+      <li>
+        ETOPS approval for operators of turbine powered aeroplanes removes this restriction&#160;
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1569355197333" ID="ID_860289433" MODIFIED="1569355382081">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Obstacle Clearance
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Day VFR: 1000 ft AGL within 1000 ft horizontal distance
+      </li>
+      <li>
+        NVFR: 1000 ft above highest obstacle within 5 NM, 2000 ft above highest obstacle within 5 NM in designated mountainous regions
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569355545849" ID="ID_1836421546" MODIFIED="1569355877937">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Alternate Aerodrome
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        twin-engine aircraft: 60 minutes at OEI cruise
+      </li>
+      <li>
+        3 or more engine aircraft, or ETOPS: 120 minutes at OEI cruise
+      </li>
+      <li>
+        alternate not required if authorized in the AOC
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569357621019" ID="ID_1746123140" MODIFIED="1569357701696">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Night VFR
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        within 25 NM of the departure aerodrome
+      </li>
+      <li>
+        visual approach following an IFR flight
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569358234733" ID="ID_67926328" MODIFIED="1569358348095">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Take-Off Weight Limitations
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        PALT, OAT
+      </li>
+      <li>
+        runway surface, slope direction
+      </li>
+      <li>
+        max. 50% HWC, min 150% TWC
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569358260400" ID="ID_1507685893" MODIFIED="1569358731141">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Net Take-Off Flight Path
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        min. 35 ft vertically and 200 ft horizontally above obstacle within, 300 ft horizontally outside aerodrome boundaries
+      </li>
+      <li>
+        PALT, OAT
+      </li>
+      <li>
+        runway surface, slope, direction
+      </li>
+      <li>
+        max. 50% HWC, min. 150% TWC
+      </li>
+      <li>
+        bank angle: max. 0 deg below 50 ft, max. 15 deg (or greater if authorized in the AOC) below 400 ft, max. 25 deg at and above 400 ft AGL
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569358813534" ID="ID_886476863" MODIFIED="1569359033197">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Enroute Limitations OEI
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        positive slope at 1000 ft vertically from obstructions and terrain and 5 NM laterally either side of intended track / diversion
+      </li>
+      <li>
+        to aerodrome meeting landing weight / LDA requirements 2000 ft vertically from obstructions and terrain and 5 NM laterally either side of intended track
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569359200071" ID="ID_1154435980" MODIFIED="1569359538789">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Enroute Limitations TEI
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        max. 90 minutes to aerodrome meeting landing weight / LDA requirements with all engines cruise
+      </li>
+      <li>
+        min. 2000 ft above terrain and obstructions within 5 NM laterally on either side of intended track to aerodrome meeting landing weight / LDA requirements with TEI cruise
+      </li>
+      <li>
+        Wind, OAT, Jettison
+      </li>
+      <li>
+        15 min cruise at 1500 ft AGL at destination aerodrome
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569359591189" ID="ID_1576858109" MODIFIED="1569359986264">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Dispatch Limitations - Landing at Destination or Alternate
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        turbojet: 60% LDA, wet conditions: 115% LDR &lt;= LDA (+ 15%)
+      </li>
+      <li>
+        propeller: 70% LDA
+      </li>
+      <li>
+        PALT, OAT
+      </li>
+      <li>
+        max. 50% HWC, min 150% TWC
+      </li>
+      <li>
+        runway surface, slope, direction
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569360171586" ID="ID_225937438" MODIFIED="1569362742956">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Protective Breathing Equipment / Portable Oxygen
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        15 minutes at 8000 PALT
+      </li>
+      <li>
+        portable breathing units to combat fires: one in each class A, B, E cargo compartment, one per handheld fire extinguisher in each isolated galley, one on flight deck, one within 1 meter of each fire extinguisher in the cabin, at least for each cabin crew member
+      </li>
+      <li>
+        15 minutes for each cabin crew member above FL 250
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569360189484" ID="ID_808169418" MODIFIED="1569360675928">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      First Aid Oxygen
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        2% occupants, at least one person
+      </li>
+      <li>
+        one hour, or the entire flight above 8000 CPALT following emergency descent, whichever is longer
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569361563715" ID="ID_315051367" MODIFIED="1569361692540">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Megaphones
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        min. 1 megaphone per PAX deck
+      </li>
+      <li>
+        1 megaphone for 61-99 PAX seats
+      </li>
+      <li>
+        2 megaphones for 100 or more PAX seats
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569361730439" ID="ID_792947167" MODIFIED="1569361809835">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      First Aid Kits
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        1 kit for 0-50 PAX
+      </li>
+      <li>
+        2 kits for 51-150 PAX
+      </li>
+      <li>
+        3 kits for 151-250 PAX
+      </li>
+      <li>
+        4 kits for 251 or more PAX
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569361878212" ID="ID_783316254" MODIFIED="1569361937219">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Emergency Medical Kit
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        required for more than 100 PAX
+      </li>
+      <li>
+        more advanced medical equipment
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569361992479" ID="ID_792849820" MODIFIED="1569362535612">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fire Extinguishers
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        min. 1 per class E cargo compartment
+      </li>
+      <li>
+        min. 1 per isolated galley
+      </li>
+      <li>
+        min. 1 on the flight deck
+      </li>
+      <li>
+        min. 2 in cabin for 60 or less PAX seats
+      </li>
+      <li>
+        min. 3 in cabin for 61-200 PAX seats
+      </li>
+      <li>
+        one additional unit in cabin for each additional 100 PAX seats
+      </li>
+      <li>
+        min. 2 Halon 1211 or equivalent handheld units
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569363455457" ID="ID_259476876" MODIFIED="1569364473941">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Personal Requirements
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        flight attendants
+
+        <ul>
+          <li>
+            min. 1 attendant for 1-40 PAX aboard
+          </li>
+          <li>
+            min. 2 attendants for 41-80 PAX aboard
+          </li>
+          <li>
+            min. an additional attendant for each 40 PAX or portion thereof
+          </li>
+          <li>
+            sufficient to demonstrate satisfactory emergency performance
+          </li>
+        </ul>
+      </li>
+      <li>
+        pilots
+
+        <ul>
+          <li>
+            license, ratings, endorsements
+          </li>
+          <li>
+            3 take-offs and landings within the previous 90 days
+          </li>
+          <li>
+            5 sectors (50 NM per sector) assigned duty or equivalent training
+          </li>
+          <li>
+            valid PPC
+          </li>
+          <li>
+            indoctrination / training
+          </li>
+          <li>
+            consolidation period for PPC: 50 hours in 60 days, 75 hours in 90 days, 100 hours in 120 days
+          </li>
+          <li>
+            PIC requires aerodrome qualification within the previous 12 months or equivalent area qualification training
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569364534432" ID="ID_886033734" MODIFIED="1569364645827">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      PPC Validity
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        6 months
+      </li>
+      <li>
+        12 months if approved 6 months recurrency training
+      </li>
+      <li>
+        expired for 24 months or more: complete initial training
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
 </node>
-<node CREATED="1569274115428" ID="ID_366097208" MODIFIED="1569276329159" TEXT="Airline Operations (CARs 705)"/>
 </node>
 </node>
 <node CREATED="1568173327294" ID="ID_1056315969" MODIFIED="1568173426446" TEXT="Aircraft, Power Plants, Propellers and Systems"/>
