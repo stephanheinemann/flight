@@ -815,8 +815,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569282090422" ID="ID_1714540541" MODIFIED="1569282210016">
 <richcontent TYPE="NODE"><html>
@@ -871,8 +870,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569282848364" ID="ID_1839277223" MODIFIED="1569283058524">
 <richcontent TYPE="NODE"><html>
@@ -1083,8 +1081,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569355545849" ID="ID_1836421546" MODIFIED="1569355877937">
 <richcontent TYPE="NODE"><html>
@@ -1110,8 +1107,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569357621019" ID="ID_1746123140" MODIFIED="1569357701696">
 <richcontent TYPE="NODE"><html>
@@ -1134,8 +1130,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569358234733" ID="ID_67926328" MODIFIED="1569358348095">
 <richcontent TYPE="NODE"><html>
@@ -1161,8 +1156,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569358260400" ID="ID_1507685893" MODIFIED="1569358731141">
 <richcontent TYPE="NODE"><html>
@@ -1194,8 +1188,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569358813534" ID="ID_886476863" MODIFIED="1569359033197">
 <richcontent TYPE="NODE"><html>
@@ -1218,8 +1211,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569359200071" ID="ID_1154435980" MODIFIED="1569359538789">
 <richcontent TYPE="NODE"><html>
@@ -1248,8 +1240,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569359591189" ID="ID_1576858109" MODIFIED="1569359986264">
 <richcontent TYPE="NODE"><html>
@@ -1281,8 +1272,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569360171586" ID="ID_225937438" MODIFIED="1569362742956">
 <richcontent TYPE="NODE"><html>
@@ -1308,8 +1298,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569360189484" ID="ID_808169418" MODIFIED="1569360675928">
 <richcontent TYPE="NODE"><html>
@@ -1332,8 +1321,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569361563715" ID="ID_315051367" MODIFIED="1569361692540">
 <richcontent TYPE="NODE"><html>
@@ -1359,8 +1347,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569361730439" ID="ID_792947167" MODIFIED="1569361809835">
 <richcontent TYPE="NODE"><html>
@@ -1389,8 +1376,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569361878212" ID="ID_783316254" MODIFIED="1569361937219">
 <richcontent TYPE="NODE"><html>
@@ -1413,8 +1399,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569361992479" ID="ID_792849820" MODIFIED="1569362535612">
 <richcontent TYPE="NODE"><html>
@@ -1452,8 +1437,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569363455457" ID="ID_259476876" MODIFIED="1569364473941">
 <richcontent TYPE="NODE"><html>
@@ -1515,8 +1499,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569364534432" ID="ID_886033734" MODIFIED="1569364645827">
 <richcontent TYPE="NODE"><html>
@@ -1542,9 +1525,146 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1569439775195" ID="ID_1537078320" MODIFIED="1569440261620">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Private Operator Passenger Transport
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        large aeroplanes
+      </li>
+      <li>
+        turbine-powered aircraft
+      </li>
+      <li>
+        pressurized aircraft
+      </li>
+      <li>
+        multi-engine aircraft
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1569440668451" ID="ID_984153876" MODIFIED="1569441122544">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Operational Control System
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        records have to be retained for 180 days (6 months) after the day of a completed flight
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
+<node CREATED="1569441153283" ID="ID_237636273" MODIFIED="1569441589324">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flight Attendants
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        min. 1 for more than 12 PAX
+      </li>
+      <li>
+        min. 1 for each unit of 40 PAX or portion thereof
+      </li>
+      <li>
+        exception: 1 for an aircraft with 50 PAX seats or fewer if evacuation possible in 90 seconds (aircraft certificate, FA seat emergency exit, public address system)
+      </li>
+      <li>
+        exception: 0 for an aircraft with 13-19 PAX if two pilot crew, cabin access, and cockpit-cabin communication possible
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569443249485" ID="ID_1915761200" MODIFIED="1569443344317">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flight Time Limits
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        max. 1200 hours in 12 consecutive months
+      </li>
+      <li>
+        max. 300 hours in 90 consecutive days
+      </li>
+      <li>
+        max. 120 hours in 30 consecutive days
+      </li>
+      <li>
+        max. 8 hours in 24 consecutive hours if single-pilot IFR
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569443258041" ID="ID_451803918" MODIFIED="1569443562408">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flight Duty Limits
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        max. 14 consecutive hours in 24 consecutive hours
+      </li>
+      <li>
+        max. 15 consecutive hours in 24 consecutive hours if max. 70 hours flight duty in the previous 30 consecutive days and min. 24 hours rest before flight duty
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569443788565" ID="ID_407672218" MODIFIED="1569443796796" TEXT="Split Flight Duty Time"/>
+<node CREATED="1569443807610" ID="ID_277989001" MODIFIED="1569443814697" TEXT="Extension of Flight Duty Time"/>
+<node CREATED="1569443837252" ID="ID_685235874" MODIFIED="1569443875600" TEXT="Unforseen Operational Circumstances"/>
 </node>
 </node>
 </node>
