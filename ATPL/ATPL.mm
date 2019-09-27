@@ -509,7 +509,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569272752308" ID="ID_439516675" MODIFIED="1569272954998">
+<node CREATED="1569272752308" ID="ID_439516675" MODIFIED="1569612157902">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -531,9 +531,13 @@
       <li>
         PPC expired for more than 24 months: complete initial type rating
       </li>
+      <li>
+        max. 60 days extension by TC providing reasons
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1569277821797" ID="ID_854673184" MODIFIED="1569277978329">
 <richcontent TYPE="NODE"><html>
@@ -959,7 +963,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569284043350" ID="ID_1450281365" MODIFIED="1569284113465">
+<node CREATED="1569284043350" ID="ID_1450281365" MODIFIED="1569611980062">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -978,9 +982,13 @@
       <li>
         PPC expired for 24 months or more: complete initial training
       </li>
+      <li>
+        max. 60 days extension by TC providing reasons
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1569274115428" ID="ID_366097208" MODIFIED="1569287192480">
@@ -1501,7 +1509,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569364534432" ID="ID_886033734" MODIFIED="1569364645827">
+<node CREATED="1569364534432" ID="ID_886033734" MODIFIED="1569611905742">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1523,9 +1531,13 @@
       <li>
         expired for 24 months or more: complete initial training
       </li>
+      <li>
+        max. 60 days extension by TC providing reasons
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1569439775195" ID="ID_1537078320" MODIFIED="1569440261620">
@@ -1555,8 +1567,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1569440668451" ID="ID_984153876" MODIFIED="1569441122544">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1575,8 +1586,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569441153283" ID="ID_237636273" MODIFIED="1569441589324">
 <richcontent TYPE="NODE"><html>
@@ -1605,8 +1615,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569443249485" ID="ID_1915761200" MODIFIED="1569443344317">
 <richcontent TYPE="NODE"><html>
@@ -1635,8 +1644,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569443258041" ID="ID_451803918" MODIFIED="1569443562408">
 <richcontent TYPE="NODE"><html>
@@ -1659,12 +1667,227 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1569443788565" ID="ID_407672218" MODIFIED="1569609886028">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Split Flight Duty Time
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        flight duty time may be extended to 50%&#160;&#160;of the rest period to max. 4 hours, if
+      </li>
+      <li>
+        advance notification
+      </li>
+      <li>
+        min. 4 hours rest in suitable accomodation
+      </li>
+      <li>
+        next rest period is extended by min. the previous extension
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1569443788565" ID="ID_407672218" MODIFIED="1569443796796" TEXT="Split Flight Duty Time"/>
-<node CREATED="1569443807610" ID="ID_277989001" MODIFIED="1569443814697" TEXT="Extension of Flight Duty Time"/>
-<node CREATED="1569443837252" ID="ID_685235874" MODIFIED="1569443875600" TEXT="Unforseen Operational Circumstances"/>
+<node CREATED="1569443807610" ID="ID_277989001" MODIFIED="1569610195896">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Extension of Flight Duty Time
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        if flight crew augmented by min. 1 flight crew member, balanced flight deck duty time distribution, next rest period equals min. previous flight duty time, then
+      </li>
+      <li>
+        17 hours with max. 12 hours flight deck duty and flight relieve facility: seat
+      </li>
+      <li>
+        20 hours with max. 14 hours flight deck duty and flight relieve facility: bunk
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569443837252" ID="ID_685235874" MODIFIED="1569610460123">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Unforseen Operational Circumstances
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        extension up to max. 3 hours if
+      </li>
+      <li>
+        consultation with all crew members (safety)
+      </li>
+      <li>
+        unforeseen circumstances (WX, failures)
+      </li>
+      <li>
+        next rest period is extended by min. this extension
+      </li>
+      <li>
+        operator is notified (dispatch) - retained for 5 years
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569610498006" ID="ID_19255723" MODIFIED="1569610610388">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Delayed Reporting Time
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        applicable if more than 3 hours delayed, and
+      </li>
+      <li>
+        notification received within 12 hours of original reporting time
+      </li>
+      <li>
+        notification received min. 1 hour before leaving the rest facility
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569610638571" ID="ID_913238638" MODIFIED="1569610766068">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      No Assigned Duties Time
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        min. 36 hours within seven consecutive days
+      </li>
+      <li>
+        min. 3 consecutive days&#160;&#160;within 17 consecutive days
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569610825083" ID="ID_1202474878" MODIFIED="1569610939813">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flight Crew Member Repositioning
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        rest extension by 50% of repositioning time in excess of applicable flight duty and rest
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569611162370" ID="ID_1967018689" MODIFIED="1569611303456">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Controlled Rest on Flight Deck
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        finished min. 30 minutes before planned descent (TOD)
+      </li>
+      <li>
+        max. 45 minutes controlled rest duration
+      </li>
+      <li>
+        wake min. 15 minutes before resumption of duties (except emergency)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569611621773" ID="ID_1592305663" MODIFIED="1569611848038">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      PPC and Training Validity
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        3 years for emergency and high altitude training
+      </li>
+      <li>
+        1 year for all other training
+      </li>
+      <li>
+        2 years for PPC
+      </li>
+      <li>
+        max. 60 days extension by&#160;TC providing reasons
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </node>
