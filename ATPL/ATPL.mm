@@ -58,7 +58,33 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568327213275" ID="ID_666978895" MODIFIED="1569274079010" TEXT="1.08 Commercial Air Services and Flight Duty Rules">
+<node CREATED="1568327213275" ID="ID_666978895" MODIFIED="1569614300437">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.08 Commercial Air Services and Flight Duty Rules
+    </p>
+    <p>
+      1.09 Air Taxi Operations
+    </p>
+    <p>
+      1.10 Aerial Work Operations
+    </p>
+    <p>
+      1.11 Commuter Operations
+    </p>
+    <p>
+      1.12 Airline Operations
+    </p>
+    <p>
+      1.13 Private Operations
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1568327234243" ID="ID_1382274443" MODIFIED="1568327353767">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -536,8 +562,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569277821797" ID="ID_854673184" MODIFIED="1569277978329">
 <richcontent TYPE="NODE"><html>
@@ -987,8 +1012,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1569274115428" ID="ID_366097208" MODIFIED="1569287192480">
@@ -1536,8 +1560,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1569439775195" ID="ID_1537078320" MODIFIED="1569440261620">
@@ -1696,8 +1719,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569443807610" ID="ID_277989001" MODIFIED="1569610195896">
 <richcontent TYPE="NODE"><html>
@@ -1723,8 +1745,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569443837252" ID="ID_685235874" MODIFIED="1569610460123">
 <richcontent TYPE="NODE"><html>
@@ -1756,8 +1777,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569610498006" ID="ID_19255723" MODIFIED="1569610610388">
 <richcontent TYPE="NODE"><html>
@@ -1783,8 +1803,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569610638571" ID="ID_913238638" MODIFIED="1569610766068">
 <richcontent TYPE="NODE"><html>
@@ -1807,8 +1826,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569610825083" ID="ID_1202474878" MODIFIED="1569610939813">
 <richcontent TYPE="NODE"><html>
@@ -1828,8 +1846,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569611162370" ID="ID_1967018689" MODIFIED="1569611303456">
 <richcontent TYPE="NODE"><html>
@@ -1855,8 +1872,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569611621773" ID="ID_1592305663" MODIFIED="1569611848038">
 <richcontent TYPE="NODE"><html>
@@ -1885,8 +1901,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
