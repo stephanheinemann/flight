@@ -58,7 +58,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568327213275" ID="ID_666978895" MODIFIED="1569614300437">
+<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1569614494503">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -83,8 +83,7 @@
       1.13 Private Operations
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1568327234243" ID="ID_1382274443" MODIFIED="1568327353767">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1903,6 +1902,209 @@
   </body>
 </html></richcontent>
 </node>
+</node>
+</node>
+<node CREATED="1569785860152" ID="ID_1710772429" MODIFIED="1569788652863" TEXT="1.14 VFR Flight">
+<node CREATED="1569785872890" ID="ID_1158347982" MODIFIED="1569786243735">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      VFR Minimums
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Control Zones / Controlled Airspace
+
+        <ul>
+          <li>
+            Visibility 3SM
+          </li>
+          <li>
+            Cloud Distance 1SM HD, 500ft VD
+          </li>
+          <li>
+            Ground Clearance 500ft
+          </li>
+        </ul>
+      </li>
+      <li>
+        Uncontrolled Airspace below 1000ft AGL
+
+        <ul>
+          <li>
+            Visibility 3SM Night, 2 SM Day
+          </li>
+          <li>
+            Cloud Distance CoC
+          </li>
+        </ul>
+      </li>
+      <li>
+        Uncontolled Airspace above 1000ft AGL
+
+        <ul>
+          <li>
+            Visibility 3SM Night, 1SM Day
+          </li>
+          <li>
+            Cloud Distance 2000ft HD, 500ft VD
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569785889378" ID="ID_608614203" MODIFIED="1569786878333">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Special VFR Minimums
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Visibility 1SM
+      </li>
+      <li>
+        Cloud Distance CoC
+      </li>
+      <li>
+        Ground Clearance 500ft, Contact Visibility
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569785902144" ID="ID_816148342" MODIFIED="1569787349279">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      VFR OTT
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Visibility 3SM
+      </li>
+      <li>
+        Cloud Distance 5SM HD, 1000ft VD, 5000ft LD
+      </li>
+      <li>
+        Destination TAF ETA-1 .. ETA+2
+
+        <ul>
+          <li>
+            Ground Visibility 5SM
+          </li>
+          <li>
+            No ceiling below
+          </li>
+          <li>
+            No adverse WX (Precipitation, FG, TS, DRSN)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569788661680" ID="ID_1685840759" MODIFIED="1569788770111">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Night Navigation Light Specifications
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Red/Green 110deg
+      </li>
+      <li>
+        White 140deg
+      </li>
+      <li>
+        +/-30deg horizontal plane
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569789103838" ID="ID_434943156" MODIFIED="1569789201987">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Aerodrome Lighting
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Aerodrome Beacon 20-30 FPM
+      </li>
+      <li>
+        Helicopter Aerodrome Morse Code &quot;H&quot; 3-4 FPM
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569789857844" ID="ID_842942522" MODIFIED="1569791700145">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Aerodrome Environment
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Minimum Transition Altitude 2000ft AAE (excluding exceptions)
+      </li>
+      <li>
+        Min. 500ft ACA during AC entry/departure procedures
+      </li>
+      <li>
+        ARFF level sufficient for transport OPS with 20 or more PAX (foreign, airline, private operations) except diversions and subsequent departure (notification)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
