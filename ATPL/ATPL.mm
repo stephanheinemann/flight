@@ -1959,8 +1959,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569785889378" ID="ID_608614203" MODIFIED="1569786878333">
 <richcontent TYPE="NODE"><html>
@@ -1986,8 +1985,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569785902144" ID="ID_816148342" MODIFIED="1569787349279">
 <richcontent TYPE="NODE"><html>
@@ -2025,8 +2023,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569788661680" ID="ID_1685840759" MODIFIED="1569788770111">
 <richcontent TYPE="NODE"><html>
@@ -2052,8 +2049,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569789103838" ID="ID_434943156" MODIFIED="1569789201987">
 <richcontent TYPE="NODE"><html>
@@ -2076,10 +2072,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1569789857844" ID="ID_842942522" MODIFIED="1569791700145">
+<node CREATED="1569789857844" ID="ID_842942522" MODIFIED="1569793763154">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2100,6 +2095,9 @@
       </li>
       <li>
         ARFF level sufficient for transport OPS with 20 or more PAX (foreign, airline, private operations) except diversions and subsequent departure (notification)
+      </li>
+      <li>
+        LAHSO requires min. 3SM visibility and 1000ft ceiling (min. 200ft short of intersection)
       </li>
     </ul>
   </body>
