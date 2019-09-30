@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
 <node CREATED="1568171989853" ID="ID_1998192836" MODIFIED="1568243332833" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" ID="ID_62855509" MODIFIED="1568251888907" TEXT="Air Law and Procedures">
+<node CREATED="1568172948798" ID="ID_62855509" MODIFIED="1569875637513" TEXT="Air Law and Procedures">
 <node CREATED="1568245279945" ID="ID_1079797516" MODIFIED="1568245319335" TEXT="1.05 Aircraft Type Ratings">
 <node CREATED="1568245337961" ID="ID_75602462" MODIFIED="1568246099441">
 <richcontent TYPE="NODE"><html>
@@ -2025,14 +2025,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569788661680" ID="ID_1685840759" MODIFIED="1569788770111">
+<node CREATED="1569788661680" ID="ID_1685840759" MODIFIED="1569875590745">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Night Navigation Light Specifications
+      Night Navigation Light Requirements
     </p>
     <p>
       
@@ -2047,9 +2047,13 @@
       <li>
         +/-30deg horizontal plane
       </li>
+      <li>
+        NAV/POS and anti-collision lights on from SS-SR
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1569789103838" ID="ID_434943156" MODIFIED="1569789201987">
 <richcontent TYPE="NODE"><html>
@@ -2101,9 +2105,65 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1569875417037" ID="ID_212791878" MODIFIED="1569875484650">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      VFR Enroute
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        min. 1000ft AGL / obstructions within 2000ft radius
+      </li>
+      <li>
+        min. 2000ft AGL above livestock
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
+</node>
+<node CREATED="1569875637516" ID="ID_909655799" MODIFIED="1569876477162">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.15 Altimeter Setting Procedures / Testing
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Altimeter Setting Region: nearest station prior entering
+      </li>
+      <li>
+        Standard Pressure Region: 29.92&quot;Hg after entering, maintain 29.92&quot;Hg at cruise level after climb until before descent
+      </li>
+      <li>
+        18000ft or above 29.92&quot;Hg
+      </li>
+      <li>
+        31.00 cap below 18000ft, IFR: +100ft, 1/4SM per 0.1&quot;Hg for DH/MDA, maintain 29.92&quot;Hg in SPR during holds
+      </li>
+      <li>
+        IFR/CVFR require altimeter/static test every 24 months
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1568173327294" ID="ID_1056315969" MODIFIED="1568173426446" TEXT="Aircraft, Power Plants, Propellers and Systems"/>
