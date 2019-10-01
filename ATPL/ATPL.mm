@@ -58,7 +58,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1569614494503">
+<node CREATED="1568327213275" ID="ID_666978895" MODIFIED="1569968145774">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2052,8 +2052,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569789103838" ID="ID_434943156" MODIFIED="1569789201987">
 <richcontent TYPE="NODE"><html>
@@ -2128,18 +2127,20 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1569875637516" ID="ID_909655799" MODIFIED="1569876477162">
+<node CREATED="1569875637516" ID="ID_909655799" MODIFIED="1569963698555">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      1.15 Altimeter Setting Procedures / Testing
+      1.15 Altimeter Setting Procedures
+    </p>
+    <p>
+      1.16 Altimeter Testing
     </p>
     <p>
       
@@ -2164,6 +2165,123 @@
   </body>
 </html>
 </richcontent>
+</node>
+<node CREATED="1569963709100" ID="ID_505197160" MODIFIED="1569964039149">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.17 Transponder Operation
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Mandatory in A, B, C
+      </li>
+      <li>
+        D and E if TMZ
+      </li>
+      <li>
+        E between 10.000ft to 12500ft ASL with radar coverage
+      </li>
+      <li>
+        VFR default 1200 at or below 12500ft, 1400 above 12500ft
+      </li>
+      <li>
+        IFR default 1000 at or below 12500ft, 2000 above 12500ft
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569964452061" ID="ID_1954294482" MODIFIED="1569965260281">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.18 Flight Preparation, Flight Plans, Flight Itineraries
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        VFR beyond 25NM, IFR always (itinerary uncontrolled / inadequate) 30 minutes before ETD
+      </li>
+      <li>
+        Update VFR: change of route, duration or destination
+      </li>
+      <li>
+        Update IFR: change of altitude/level, route, destination, speed changes 5% TAS, 0.1 Mach
+      </li>
+      <li>
+        Overdue plan 1h after ETA, itinerary 24h after ETA
+      </li>
+      <li>
+        Mandatory transborder flight plans
+      </li>
+      <li>
+        Intermediate stops (short duration) CYCD (0+30) CYCD
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1569967506203" ID="ID_1449553423" MODIFIED="1569967976018">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fuel Requirements
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        VFR
+
+        <ul>
+          <li>
+            &#160;Destination, 30 minutes DVFR
+          </li>
+          <li>
+            &#160;Destination, 45 minutes NVFR
+          </li>
+        </ul>
+      </li>
+      <li>
+        IFR
+
+        <ul>
+          <li>
+            With Alternate: Approach, Missed Approach, Alternate, 45 minutes
+          </li>
+          <li>
+            &#160;Without Alternate (AOC, POC): Approach, Missed Approach, 45 minutes
+          </li>
+          <li>
+            With Alternate Turbo-Jet: Approach, Missed Approach, Alternate 30 minutes
+          </li>
+          <li>
+            Without Alternate (AOC, POC): Approach, MIssed Approach, 30 minutes
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1568173327294" ID="ID_1056315969" MODIFIED="1568173426446" TEXT="Aircraft, Power Plants, Propellers and Systems"/>
