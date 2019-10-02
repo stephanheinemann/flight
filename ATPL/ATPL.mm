@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
 <node CREATED="1568171989853" ID="ID_1998192836" MODIFIED="1568243332833" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" ID="ID_62855509" MODIFIED="1569875637513" TEXT="Air Law and Procedures">
+<node CREATED="1568172948798" ID="ID_62855509" MODIFIED="1569972734832" TEXT="Air Law and Procedures">
 <node CREATED="1568245279945" ID="ID_1079797516" MODIFIED="1568245319335" TEXT="1.05 Aircraft Type Ratings">
 <node CREATED="1568245337961" ID="ID_75602462" MODIFIED="1568246099441">
 <richcontent TYPE="NODE"><html>
@@ -2163,8 +2163,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569963709100" ID="ID_505197160" MODIFIED="1569964039149">
 <richcontent TYPE="NODE"><html>
@@ -2196,8 +2195,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569964452061" ID="ID_1954294482" MODIFIED="1569965260281">
 <richcontent TYPE="NODE"><html>
@@ -2232,8 +2230,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1569967506203" ID="ID_1449553423" MODIFIED="1569967976018">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2276,6 +2273,197 @@
             Without Alternate (AOC, POC): Approach, MIssed Approach, 30 minutes
           </li>
         </ul>
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1569972736927" ID="ID_514782042" MODIFIED="1569972743312" TEXT="1.19 IFR Flight">
+<node CREATED="1569972903894" ID="ID_1927607732" MODIFIED="1569973965577">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Alternate Minima
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        2 or more usable (WX, NOTAM) precision approaches: <b>400-1</b>&#160;(or <i>200-1/2</i>&#160; above lowest usable HAT whichever is greater)
+      </li>
+      <li>
+        1 usable (WX, NOTAM) precision approach: <b>600-2</b>&#160;(or <i>300-1</i>&#160; above lowest usable HAT whichever is greater)
+      </li>
+      <li>
+        non-precision approach only: <b>800-2</b>&#160;(or <i>300-1</i>&#160;above lowest usable HAT whichever is greater)
+      </li>
+      <li>
+        no IFR approach: <b>500</b>&#160;above minimum IFR altitude (MOCA, MEA) permitting VFR approach
+      </li>
+      <li>
+        no TAF but Aerodrome Advisory: 500 above the lowest usable HAT/HAA and 3 SM
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      Sliding Scale
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Standard alternate minima: <b>600-2</b>&#160;and <b>800-2</b>
+      </li>
+      <li>
+        600-2: 700-1 1/2, 800-1
+      </li>
+      <li>
+        800-2: 900-1 1/2, 1000-1
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      Rounding
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        HAT or HAA: 20ft
+      </li>
+      <li>
+        HAA = 620 -&gt; HAA = 600
+      </li>
+      <li>
+        HAA = 621 -&gt; HAA = 700
+      </li>
+      <li>
+        1 3/4 -&gt; 2, 2 1/4 -&gt; 2
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569974466249" ID="ID_1657905488" MODIFIED="1569974997129">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Minimum Altitudes
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        AMA, SA 100NM, MOCA, MEA, MSA, MVA, MDA, DA
+      </li>
+      <li>
+        No lower than 1000ft above the highest obstacle within&#160;5NM
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569975187120" ID="ID_1247740820" MODIFIED="1569975454429">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Aircraft Approach Categories
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        A Vref up to 90 KIAS
+      </li>
+      <li>
+        B Vref 91 to 120 KIAS
+      </li>
+      <li>
+        C Vref 121 to 140 KIAS
+      </li>
+      <li>
+        D Vref 141 to 165 KIAS
+      </li>
+      <li>
+        E Vref over 165 KIAS
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569975801377" ID="ID_647390504" MODIFIED="1569975895765">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      RVR / Ground Visibility
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        GVIS 1, RVR 5000
+      </li>
+      <li>
+        GVIS 3/4, RVR 4000
+      </li>
+      <li>
+        GVIS 1/2, RVR 2600
+      </li>
+      <li>
+        GVIS 1/4, RVR 1400
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569975971914" ID="ID_1241632014" MODIFIED="1569976357997">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Approach Ban (non CARs Part VII / non air operators)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        RVR A only: 1200
+      </li>
+      <li>
+        RVR A and B: 1200/600
+      </li>
+      <li>
+        RVR B only: 1200
       </li>
     </ul>
   </body>
