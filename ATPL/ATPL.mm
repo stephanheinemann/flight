@@ -2355,7 +2355,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569974466249" ID="ID_1657905488" MODIFIED="1569974997129">
+<node CREATED="1569974466249" ID="ID_1657905488" MODIFIED="1570054105342">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2374,9 +2374,13 @@
       <li>
         No lower than 1000ft above the highest obstacle within&#160;5NM
       </li>
+      <li>
+        No lower than 1500ft/2000ft above the highest obstacle within 5NM in defined mountainous areas
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1569975187120" ID="ID_1247740820" MODIFIED="1569975454429">
 <richcontent TYPE="NODE"><html>
@@ -2491,7 +2495,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569978569428" ID="ID_1973426945" MODIFIED="1569978861999">
+<node CREATED="1569978569428" ID="ID_1973426945" MODIFIED="1570048813506">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2537,7 +2541,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1570039214997" ID="ID_1496885480" MODIFIED="1570039353154">
+<node CREATED="1570039214997" ID="ID_1496885480" MODIFIED="1570052287126">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2551,10 +2555,70 @@
     </p>
     <ul>
       <li>
+        Start inbound timing at wings level
+      </li>
+      <li>
+        Start outbound timing abeam fix
+      </li>
+      <li>
         Outbound +1/3 of inbound error short, -2/3 of inbound error long
       </li>
       <li>
-        WCA single on inbound, triple on outbound
+        1:00 outbound, 1:10 inbound -&gt; 0:54 outbound
+      </li>
+      <li>
+        0:55 outbound, 1:15 inbound -&gt; 0:45 outbound
+      </li>
+      <li>
+        1:00 outbound, 0:50 inbound -&gt; 1:03 outbound
+      </li>
+      <li>
+        1:20 outbound, 0:55 inbound -&gt; 1:23 outbound
+      </li>
+      <li>
+        WCA single on inbound (freeze heading), triple on outbound
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1570048813514" ID="ID_1352143971" MODIFIED="1570050724221">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      BoldMethod Corrections
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Start inbound timing at wings level and CDI alive (intercept), or CDI overshoot
+      </li>
+      <li>
+        Start outbound timing abeam fix
+      </li>
+      <li>
+        +2 times inbound error short, -2 times inbound error long
+      </li>
+      <li>
+        1:00 outbound, 1:10 inbound -&gt; 0:40 outbound
+      </li>
+      <li>
+        0:55 outbound, 1:15 inbound -&gt; 0:25 outbound
+      </li>
+      <li>
+        1:00 outbound, 0:50 inbound -&gt; 1:20 outbound
+      </li>
+      <li>
+        1:20 outbound, 0:55 inbound -&gt; 1:30 outbound
+      </li>
+      <li>
+        WCA single inbound (freeze heading), triple on outbound
       </li>
     </ul>
   </body>
