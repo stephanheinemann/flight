@@ -2489,8 +2489,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569978569428" ID="ID_1973426945" MODIFIED="1569978861999">
 <richcontent TYPE="NODE"><html>
@@ -2537,8 +2536,31 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+<node CREATED="1570039214997" ID="ID_1496885480" MODIFIED="1570039353154">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      VFC Holding Corrections (Find Derivation)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Outbound +1/3 of inbound error short, -2/3 of inbound error long
+      </li>
+      <li>
+        WCA single on inbound, triple on outbound
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
+</node>
 </node>
 </node>
 </node>
