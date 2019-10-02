@@ -2353,8 +2353,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569974466249" ID="ID_1657905488" MODIFIED="1569974997129">
 <richcontent TYPE="NODE"><html>
@@ -2377,8 +2376,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569975187120" ID="ID_1247740820" MODIFIED="1569975454429">
 <richcontent TYPE="NODE"><html>
@@ -2410,8 +2408,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569975801377" ID="ID_647390504" MODIFIED="1569975895765">
 <richcontent TYPE="NODE"><html>
@@ -2440,8 +2437,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569975971914" ID="ID_1241632014" MODIFIED="1569976357997">
 <richcontent TYPE="NODE"><html>
@@ -2464,6 +2460,80 @@
       </li>
       <li>
         RVR B only: 1200
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1569976929588" ID="ID_1529647965" MODIFIED="1569977468899">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Reduced / Low Visibility Operations
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        RVOP: below RVR 2600 (1/2 SM) - plan strongly recommended
+      </li>
+      <li>
+        LVOP: below RVR 1200 (1/4 SM) - plan mandatory
+      </li>
+      <li>
+        below RVR 600 not authorized
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1569978569428" ID="ID_1973426945" MODIFIED="1569978861999">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Holding Procedures
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Speed limits
+
+        <ul>
+          <li>
+            max. 200 KIAS at or below 6000ft ASL
+          </li>
+          <li>
+            max. 230 KIAS above 6000ft up to including 14000ft ASL
+          </li>
+          <li>
+            max. 265 KIAS above 14000ft ASL
+          </li>
+        </ul>
+      </li>
+      <li>
+        Leg timing
+
+        <ul>
+          <li>
+            1 minute inbound at or below 14000ft ASL
+          </li>
+          <li>
+            1.5 minutes inbound above 14000ft ASL
+          </li>
+          <li>
+            adjust outbound to accomplish inbound timing
+          </li>
+        </ul>
       </li>
     </ul>
   </body>
