@@ -2579,8 +2579,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1570048813514" ID="ID_1352143971" MODIFIED="1570050724221">
 <richcontent TYPE="NODE"><html>
@@ -2624,7 +2623,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1570119212294" ID="ID_1672773467" MODIFIED="1570120578511">
+<node CREATED="1570119212294" ID="ID_1672773467" MODIFIED="1570128095448">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2649,11 +2648,158 @@
       <li>
         120KGS / 60 = 2NM/min, 3deg * 2NM/min * 100 = 600ft/min
       </li>
+      <li>
+        Example CZBB VOR 07: FAF 2000ft, MDA 420ft, 5.1NM, 2000ft - 420ft = 1580ft, 1580ft / 5.1NM = 310 ft/NM -&gt; 3deg, 3 * 2 * 100 = 600ft/min (use 700-800ft/min to be at MDA before MAP)
+      </li>
+      <li>
+        Check GPS GS for correct approach speed
+      </li>
     </ul>
   </body>
 </html>
 </richcontent>
 </node>
+</node>
+<node CREATED="1570128169387" ID="ID_377019714" MODIFIED="1570129083887">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.20 Canadian Airspace Structure
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        low-level airspace below, high-level airspace at and above 18000ft
+      </li>
+      <li>
+        CZ radius 7, 5 or 3NM, 3000ft AAE vertical extension
+      </li>
+      <li>
+        CAE based at 2200ft AGL to 18000ft ASL
+      </li>
+      <li>
+        TCA radius 45NM based at 9500ft, 35NM based at 2200ft, 12NM based at 1200ft
+      </li>
+      <li>
+        TA radius 15NM based at 700AGL up to overlying controlled airspace
+      </li>
+      <li>
+        A 18000ft ASL to FL600
+      </li>
+      <li>
+        B the higher of above 12500ft ASL or MEA to below 18000ft
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1570129088326" ID="ID_1540591317" MODIFIED="1570129127234">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Forest Fire Restrictions
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        radius 5NM up to 3000ft AGL
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1570129141480" ID="ID_788719889" MODIFIED="1570129579498">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Airways and Air Routes
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        low-level airways: controlled airspace from 2200ft AGL up to below 18000ft ASL
+
+        <ul>
+          <li>
+            VHF airways: 4NM wide from centerline (8NM), 4.5deg from fix beyond width intersection
+          </li>
+          <li>
+            LF/MF airways: 4.34NM wide from centerline (8.68NM), 5deg from fix beyond width intersection
+          </li>
+        </ul>
+      </li>
+      <li>
+        air routes: same dimensions as airways in uncontrolled airspace from surface
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1570129659132" ID="ID_1425881350" MODIFIED="1570130163281">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      T-Routes and L-Routes
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        T-Route: low-level controlled fixed RNAV, 4NM primary, 2NM secondary obstacle protection, 10NM wide from centerline (20NM) (4NM MOCA + 2NM 1000ft ROC + 4NM MEA or 2200ft AGL) - black dashed
+      </li>
+      <li>
+        L-Route: uncontrolled fixed RNAV, 6NM MOCA from centerline (12NM) - green dashed
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1570131692655" ID="ID_1788939260" MODIFIED="1570131913054">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.20A International Flight Procedures
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        CPB to be notified 60 minutes before flight via eAPIS
+      </li>
+      <li>
+        Customs 1-888-226-7277 at least 2 hours but not more than 48 hours before arrival in Canada
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1568173327294" ID="ID_1056315969" MODIFIED="1568173426446" TEXT="Aircraft, Power Plants, Propellers and Systems"/>
