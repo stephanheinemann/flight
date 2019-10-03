@@ -2279,7 +2279,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569972736927" ID="ID_514782042" MODIFIED="1569972743312" TEXT="1.19 IFR Flight">
+<node CREATED="1569972736927" ID="ID_514782042" MODIFIED="1570119209430" TEXT="1.19 IFR Flight">
 <node CREATED="1569972903894" ID="ID_1927607732" MODIFIED="1569973965577">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2379,8 +2379,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569975187120" ID="ID_1247740820" MODIFIED="1569975454429">
 <richcontent TYPE="NODE"><html>
@@ -2541,7 +2540,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1570039214997" ID="ID_1496885480" MODIFIED="1570052287126">
+<node CREATED="1570039214997" ID="ID_1496885480" MODIFIED="1570119109559">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2561,7 +2560,7 @@
         Start outbound timing abeam fix
       </li>
       <li>
-        Outbound +1/3 of inbound error short, -2/3 of inbound error long
+        Outbound +4/3 of inbound error short, -2/3 of inbound error long
       </li>
       <li>
         1:00 outbound, 1:10 inbound -&gt; 0:54 outbound
@@ -2570,10 +2569,10 @@
         0:55 outbound, 1:15 inbound -&gt; 0:45 outbound
       </li>
       <li>
-        1:00 outbound, 0:50 inbound -&gt; 1:03 outbound
+        1:00 outbound, 0:50 inbound -&gt; 1:13 outbound
       </li>
       <li>
-        1:20 outbound, 0:55 inbound -&gt; 1:23 outbound
+        1:20 outbound, 0:55 inbound -&gt; 1:33 outbound
       </li>
       <li>
         WCA single on inbound (freeze heading), triple on outbound
@@ -2622,9 +2621,38 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1570119212294" ID="ID_1672773467" MODIFIED="1570120578511">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      BoldMethod CDA
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        1/60 Rule: 1deg climb/descent = 100ft/NM gradient
+      </li>
+      <li>
+        1deg, 1NM -&gt; 100ft, 500ft/NM -&gt; 5deg
+      </li>
+      <li>
+        DA[deg] * GS [NM/min] * 100 = VS [ft/min]
+      </li>
+      <li>
+        120KGS / 60 = 2NM/min, 3deg * 2NM/min * 100 = 600ft/min
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
-</node>
 </node>
 </node>
 </node>
