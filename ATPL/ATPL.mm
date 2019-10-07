@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
 <node CREATED="1568171989853" ID="ID_1998192836" MODIFIED="1568243332833" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" ID="ID_62855509" MODIFIED="1569972734832" TEXT="Air Law and Procedures">
+<node CREATED="1568172948798" ID="ID_62855509" MODIFIED="1570483309155" TEXT="Air Law and Procedures">
 <node CREATED="1568245279945" ID="ID_1079797516" MODIFIED="1568245319335" TEXT="1.05 Aircraft Type Ratings">
 <node CREATED="1568245337961" ID="ID_75602462" MODIFIED="1568246099441">
 <richcontent TYPE="NODE"><html>
@@ -2656,8 +2656,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1570128169387" ID="ID_377019714" MODIFIED="1570129083887">
@@ -2696,8 +2695,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1570129088326" ID="ID_1540591317" MODIFIED="1570129127234">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2716,8 +2714,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1570129141480" ID="ID_788719889" MODIFIED="1570129579498">
 <richcontent TYPE="NODE"><html>
@@ -2749,8 +2746,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1570129659132" ID="ID_1425881350" MODIFIED="1570130163281">
 <richcontent TYPE="NODE"><html>
@@ -2773,8 +2769,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1570131692655" ID="ID_1788939260" MODIFIED="1570131913054">
@@ -2795,6 +2790,268 @@
       </li>
       <li>
         Customs 1-888-226-7277 at least 2 hours but not more than 48 hours before arrival in Canada
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1570481596004" ID="ID_1588304105" MODIFIED="1570481604745" TEXT="1.22 Air Traffic Services">
+<node CREATED="1570478913077" ID="ID_74301925" MODIFIED="1570482196772">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      IFR Separation
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Vertical:
+
+        <ul>
+          <li>
+            1000ft at or below FL290, 2000ft above FL290
+          </li>
+          <li>
+            1000ft RVSM between FL290 and FL410
+          </li>
+        </ul>
+      </li>
+      <li>
+        Lowest Usable Flight Level
+
+        <ul>
+          <li>
+            Altimeter 29.92 and higher: FL180
+          </li>
+          <li>
+            Altimeter between 28.92 and 29.91: FL190
+          </li>
+          <li>
+            Altimeter between 27.92 and 28.91: FL200
+          </li>
+        </ul>
+      </li>
+      <li>
+        Lateral: protected airspace (airways, tracks, holds, procedures)
+
+        <ul>
+          <li>
+            45NM cross track distance
+          </li>
+          <li>
+            At and above FL180 for more than 15deg track change: on the manoeuvering side
+          </li>
+        </ul>
+      </li>
+      <li>
+        Wake turbulence
+
+        <ul>
+          <li>
+            Super (S) 560.000kg
+          </li>
+          <li>
+            Heavy (H) 136.000kg to less than 560.000kg
+          </li>
+          <li>
+            Medium (M) more than 7.000kg to less than 136.000kg
+          </li>
+          <li>
+            Light (L) 7000kg or less
+          </li>
+        </ul>
+      </li>
+      <li>
+        Radar Departures
+
+        <ul>
+          <li>
+            L behind S: 8NM
+          </li>
+          <li>
+            M behind S: 7NM
+          </li>
+          <li>
+            H behind S, L behind H: 6NM
+          </li>
+          <li>
+            M behind H: 5NM
+          </li>
+          <li>
+            S behind S, H behind H, L behind M: 4NM
+          </li>
+        </ul>
+      </li>
+      <li>
+        Non-Radar Departures
+
+        <ul>
+          <li>
+            2min behind H for same or adjacent runway less than 2500ft lateral distance
+          </li>
+          <li>
+            Any behind H, L behind M: 3min for intersection departures or if longer TODR
+          </li>
+          <li>
+            crossing projected flight path of preceding H: up to 3min
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1570482259585" ID="ID_1764166283" MODIFIED="1570482520989">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.23 Cruising Altitudes and Flight Levels
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        MC SDA, TC NDA
+      </li>
+      <li>
+        VFR below 18000ft: E odd+500ft, W even+500ft
+      </li>
+      <li>
+        IFR/CVFR below 18000ft: E odd, W even
+      </li>
+      <li>
+        At or above 18000ft and below FL290: E odd, W even
+      </li>
+      <li>
+        At or above FL290: E, W odd
+      </li>
+      <li>
+        At or above FL290 to FL410 RVSM: E odd, W even&#160;
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1570482282606" ID="ID_246237701" MODIFIED="1570482787035">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.24 Designated Mountainous Regions
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        see 1.19 IFR Flight minimum altitudes
+      </li>
+      <li>
+        2000ft within 5NM in areas 1 and 5 (West, Rockies, North)
+      </li>
+      <li>
+        1500ft within 5NM in areas 2, 3 and 4 (Central, East)
+      </li>
+      <li>
+        at least 1000ft above MEA in designated mountainous regions during extreme cold temperatures
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1570482902637" ID="ID_1779694424" MODIFIED="1570483163824">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.25 Major Errors of the Pressure Altimeter
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Altitude correction chart (CAP/AIM) applicable to all IFR minima
+      </li>
+      <li>
+        Vectors contain temperature corrections
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1570483309158" ID="ID_1855335900" MODIFIED="1570483535630">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.26 Speed Adjustment - Radar Controlled Aircraft
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Minimum ATC speed adjustment
+
+        <ul>
+          <li>
+            At or above 10000ft within 20NM of destination: 250KIAS
+          </li>
+          <li>
+            Below 10000ft within 20NM of destination: 210KIAS
+          </li>
+          <li>
+            Turbo-jet less than 20NM of destination: 160KIAS
+          </li>
+          <li>
+            Propeller aircraft less than 20NM of destination: 120KIAS
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1570483919978" ID="ID_1794622499" MODIFIED="1570483968566">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.27 Aircraft General Operating Rules
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Bottle to throttle 8 vs. 12 hours
+      </li>
+      <li>
+        Intoxicating liquor 2.5%
       </li>
     </ul>
   </body>
