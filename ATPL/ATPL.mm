@@ -1905,7 +1905,7 @@
 </node>
 </node>
 <node CREATED="1569785860152" ID="ID_1710772429" MODIFIED="1569788652863" TEXT="1.14 VFR Flight">
-<node CREATED="1569785872890" ID="ID_1158347982" MODIFIED="1569786243735">
+<node CREATED="1569785872890" ID="ID_1158347982" MODIFIED="1570560102326">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1957,9 +1957,19 @@
           </li>
         </ul>
       </li>
+      <li>
+        Exceptions to Minima:
+
+        <ul>
+          <li>
+            police, medivac, fire-fighting, fishery patrol, parks, aerial work, flight instruction
+          </li>
+        </ul>
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1569785889378" ID="ID_608614203" MODIFIED="1569786878333">
 <richcontent TYPE="NODE"><html>
@@ -2904,8 +2914,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1570482259585" ID="ID_1764166283" MODIFIED="1570482520989">
@@ -2941,8 +2950,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1570482282606" ID="ID_246237701" MODIFIED="1570482787035">
 <richcontent TYPE="NODE"><html>
@@ -2971,8 +2979,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1570482902637" ID="ID_1779694424" MODIFIED="1570483163824">
 <richcontent TYPE="NODE"><html>
@@ -2995,8 +3002,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1570483309158" ID="ID_1855335900" MODIFIED="1570483535630">
 <richcontent TYPE="NODE"><html>
@@ -3031,10 +3037,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1570483919978" ID="ID_1794622499" MODIFIED="1570483968566">
+<node CREATED="1570483919978" ID="ID_1794622499" MODIFIED="1570562102838">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3042,6 +3047,18 @@
   <body>
     <p>
       1.27 Aircraft General Operating Rules
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1570562037627" ID="ID_62023360" MODIFIED="1570562116176">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Alcohol and Drugs
     </p>
     <p>
       
@@ -3058,6 +3075,82 @@
 </html>
 </richcontent>
 </node>
+<node CREATED="1570562068303" ID="ID_1594507187" MODIFIED="1570562257641">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Aerobatic Manoeuvres
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        3SM VIS, 2000ft AGL, uncontrolled airspace
+      </li>
+      <li>
+        exceptions as per SFOC
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1570562576611" ID="ID_453533135" MODIFIED="1570562587034" TEXT="1.27A Special Flight Operations"/>
+<node CREATED="1570562975474" ID="ID_396874921" MODIFIED="1570562990603" TEXT="1.27B Aircraft Marking and Registration">
+<node CREATED="1570563342316" ID="ID_1066593393" MODIFIED="1570563443725">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Transfer of Legal Custody and Control
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Notify TC within 7 days in writing after change of registered owner
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1570563472185" ID="ID_450576414" MODIFIED="1570563480674" TEXT="1.28 Aircraft Airworthiness">
+<node CREATED="1570564775598" ID="ID_91071007" MODIFIED="1570564810096">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Journey Log Requirements
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Retain journey log entries for not less than 1 year
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1570571426538" ID="ID_1271413056" MODIFIED="1570571438211" TEXT="1.28A Aerodromes and Airports"/>
 </node>
 <node CREATED="1568173327294" ID="ID_1056315969" MODIFIED="1568173426446" TEXT="Aircraft, Power Plants, Propellers and Systems"/>
 <node CREATED="1568173515599" ID="ID_228371769" MODIFIED="1568173519521" TEXT="Instruments"/>
