@@ -1968,8 +1968,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569785889378" ID="ID_608614203" MODIFIED="1569786878333">
 <richcontent TYPE="NODE"><html>
@@ -3049,8 +3048,7 @@
       1.27 Aircraft General Operating Rules
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1570562037627" ID="ID_62023360" MODIFIED="1570562116176">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3072,8 +3070,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1570562068303" ID="ID_1594507187" MODIFIED="1570562257641">
 <richcontent TYPE="NODE"><html>
@@ -3099,8 +3096,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1570562576611" ID="ID_453533135" MODIFIED="1570562587034" TEXT="1.27A Special Flight Operations"/>
@@ -3123,8 +3119,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1570563472185" ID="ID_450576414" MODIFIED="1570563480674" TEXT="1.28 Aircraft Airworthiness">
@@ -3146,11 +3141,262 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1570571426538" ID="ID_1271413056" MODIFIED="1570649421679" TEXT="1.28A Aerodromes and Airports">
+<node CREATED="1570648881237" ID="ID_1814832997" MODIFIED="1570649085336">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Markers and Markings
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Closed Markings
+
+        <ul>
+          <li>
+            1220m (4000ft) or longer runway: each end and intervals not exceeding 300m (1000ft)
+          </li>
+          <li>
+            longer than 450m (1500ft) runway: each end and mid-runway
+          </li>
+          <li>
+            450m (1500ft) or shorter runway: each end
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1570649421683" ID="ID_1158159317" MODIFIED="1570649960521">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Lighting
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        visible from 2NM, 1000ft AAE
+      </li>
+      <li>
+        equidistant adjacent lights not more than 60m (200ft) apart
+      </li>
+      <li>
+        not less than 8 lights or markers and lighted or marked line at least 420m (1377ft)
+      </li>
+      <li>
+        heliports: floodlight or
+
+        <ul>
+          <li>
+            rectangular area: min. 8 adjacent lights, max. 13m (42.5ft) apart
+          </li>
+          <li>
+            circular area: min. 5 adjacent lights, max. 13m (42.5ft) apart
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
 </node>
-<node CREATED="1570571426538" ID="ID_1271413056" MODIFIED="1570571438211" TEXT="1.28A Aerodromes and Airports"/>
+<node CREATED="1570650825564" ID="ID_540856566" MODIFIED="1570650834223" TEXT="1.28B Munitions of War"/>
+<node CREATED="1570650867182" ID="ID_1934850657" MODIFIED="1570652053658">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.28C Liability Insurance
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1570650895240" ID="ID_1985439884" MODIFIED="1570651203771">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Air Carriers
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        passenger liability: min. CAD 300.000 per PAX
+      </li>
+      <li>
+        public liability
+
+        <ul>
+          <li>
+            min. CAD 1.000.000 for 7500 lbs MCTOW or less
+          </li>
+          <li>
+            min. CAD 2.000.000 for 18000 lbs MCTOW or less&#160;&#160;but more than 7500 lbs MCTOW
+          </li>
+          <li>
+            min. CAD 2.000.000 + CAD 150 per 1 lbs in excess of 18000 lbs MCTOW
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1570650913060" ID="ID_747148192" MODIFIED="1570651745421">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Other Commercial Aircraft
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        passenger liability: CAD 300.000 per PAX (excluding parachuters)
+      </li>
+      <li>
+        public liability:
+
+        <ul>
+          <li>
+            min. CAD 1.000.000 for 7500 lbs MCTOW or less
+          </li>
+          <li>
+            min. CAD 2.000.000 for 18000 lbs MCTOW or less but more than 7500 lbs MCTOW
+          </li>
+          <li>
+            min. CAD 2.000.000 + CAD 150 per 1 lbs in excess of 18000 lbs MCTOW
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1570651750309" ID="ID_1119441821" MODIFIED="1570651986368">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Other Private Aircraft
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        public liability:
+
+        <ul>
+          <li>
+            min. CAD 100.000 for 2300 lbs MCTOW or less
+          </li>
+          <li>
+            min. CAD 500.000 for 5000 lbs MCTOW or less but more than 2300 lbs MCTOW
+          </li>
+          <li>
+            min. CAD 1.000.000 for 12000 lbs MCTOW or less but more than 5000 lbs MCTOW
+          </li>
+          <li>
+            min. CAD 2.000.000 for 75000 lbs MCTOW or less but more than 12000 lbs MCTOW
+          </li>
+          <li>
+            min. CAD 3.000.000 for more than 75000 lbs MCTOW
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1570652066741" ID="ID_1174295759" MODIFIED="1570652541049">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.28D Synthetic Flight Training Equipment
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        flight simulator re-evaluation every 6 months
+      </li>
+      <li>
+        flight training device re-evaluation every 12 months
+      </li>
+      <li>
+        max. 60 days extension by TC
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1570652568145" ID="ID_1810978569" MODIFIED="1570652756551">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.29 Aircraft Speed Limit
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        max. 200 KIAS below 3000ft AGL within 10 NM of controlled airport
+      </li>
+      <li>
+        max. 250 KIAS below 10000ft ASL
+      </li>
+      <li>
+        exceptions: cruise climb, minimum safe speed, SFOC (airshow)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1568173327294" ID="ID_1056315969" MODIFIED="1568173426446" TEXT="Aircraft, Power Plants, Propellers and Systems"/>
 <node CREATED="1568173515599" ID="ID_228371769" MODIFIED="1568173519521" TEXT="Instruments"/>
