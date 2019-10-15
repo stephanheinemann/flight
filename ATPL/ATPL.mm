@@ -3,7 +3,7 @@
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
 <node CREATED="1568171989853" ID="ID_1998192836" MODIFIED="1568243332833" POSITION="right" TEXT="SARON">
 <node CREATED="1568172948798" ID="ID_62855509" MODIFIED="1570483309155" TEXT="Air Law and Procedures">
-<node CREATED="1568245279945" ID="ID_1079797516" MODIFIED="1568245319335" TEXT="1.05 Aircraft Type Ratings">
+<node CREATED="1568245279945" FOLDED="true" ID="ID_1079797516" MODIFIED="1571166287057" TEXT="1.05 Aircraft Type Ratings">
 <node CREATED="1568245337961" ID="ID_75602462" MODIFIED="1568246099441">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -30,7 +30,7 @@
 <node CREATED="1568248671336" ID="ID_1155718466" MODIFIED="1568248678874" TEXT="1.04 Aeroplane Class Ratings"/>
 <node CREATED="1568248686329" ID="ID_162885590" MODIFIED="1568248696287" TEXT="1.05 Aircraft Type Ratings"/>
 <node CREATED="1568248706165" ID="ID_314960253" MODIFIED="1568248713473" TEXT="1.06 Instrument Rating"/>
-<node CREATED="1568248720694" ID="ID_544994370" MODIFIED="1568248734245" TEXT="1.07 CARs General Provisions">
+<node CREATED="1568248720694" FOLDED="true" ID="ID_544994370" MODIFIED="1571166285495" TEXT="1.07 CARs General Provisions">
 <node CREATED="1568251901677" ID="ID_228267398" MODIFIED="1568327093033">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -58,7 +58,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568327213275" ID="ID_666978895" MODIFIED="1569968145774">
+<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1571166259623">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -415,7 +415,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1568996218527" ID="ID_381676043" MODIFIED="1569277524644">
+<node CREATED="1568996218527" FOLDED="true" ID="ID_381676043" MODIFIED="1571166253440">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -630,7 +630,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569274082808" ID="ID_96945613" MODIFIED="1569277092818">
+<node CREATED="1569274082808" FOLDED="true" ID="ID_96945613" MODIFIED="1571166249311">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -693,7 +693,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569274096513" ID="ID_1509217189" MODIFIED="1569284025563">
+<node CREATED="1569274096513" FOLDED="true" ID="ID_1509217189" MODIFIED="1571166246376">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1014,7 +1014,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569274115428" ID="ID_366097208" MODIFIED="1569287192480">
+<node CREATED="1569274115428" FOLDED="true" ID="ID_366097208" MODIFIED="1571166242785">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1562,7 +1562,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569439775195" ID="ID_1537078320" MODIFIED="1569440261620">
+<node CREATED="1569439775195" FOLDED="true" ID="ID_1537078320" MODIFIED="1571166235924">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1904,7 +1904,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1569785860152" ID="ID_1710772429" MODIFIED="1569788652863" TEXT="1.14 VFR Flight">
+<node CREATED="1569785860152" FOLDED="true" ID="ID_1710772429" MODIFIED="1571166264896" TEXT="1.14 VFR Flight">
 <node CREATED="1569785872890" ID="ID_1158347982" MODIFIED="1570560102326">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2206,7 +2206,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569964452061" ID="ID_1954294482" MODIFIED="1569965260281">
+<node CREATED="1569964452061" FOLDED="true" ID="ID_1954294482" MODIFIED="1571166271825">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2288,7 +2288,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569972736927" ID="ID_514782042" MODIFIED="1570119209430" TEXT="1.19 IFR Flight">
+<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1571166276145" TEXT="1.19 IFR Flight">
 <node CREATED="1569972903894" ID="ID_1927607732" MODIFIED="1569973965577">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2668,7 +2668,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1570128169387" ID="ID_377019714" MODIFIED="1570129083887">
+<node CREATED="1570128169387" FOLDED="true" ID="ID_377019714" MODIFIED="1571166280288">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3038,7 +3038,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1570483919978" ID="ID_1794622499" MODIFIED="1570562102838">
+<node CREATED="1570483919978" FOLDED="true" ID="ID_1794622499" MODIFIED="1571166298497">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3100,7 +3100,7 @@
 </node>
 </node>
 <node CREATED="1570562576611" ID="ID_453533135" MODIFIED="1570562587034" TEXT="1.27A Special Flight Operations"/>
-<node CREATED="1570562975474" ID="ID_396874921" MODIFIED="1570562990603" TEXT="1.27B Aircraft Marking and Registration">
+<node CREATED="1570562975474" FOLDED="true" ID="ID_396874921" MODIFIED="1571166300104" TEXT="1.27B Aircraft Marking and Registration">
 <node CREATED="1570563342316" ID="ID_1066593393" MODIFIED="1570563443725">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3122,7 +3122,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1570563472185" ID="ID_450576414" MODIFIED="1570563480674" TEXT="1.28 Aircraft Airworthiness">
+<node CREATED="1570563472185" FOLDED="true" ID="ID_450576414" MODIFIED="1571166302716" TEXT="1.28 Aircraft Airworthiness">
 <node CREATED="1570564775598" ID="ID_91071007" MODIFIED="1570564810096">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3144,7 +3144,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1570571426538" ID="ID_1271413056" MODIFIED="1570649421679" TEXT="1.28A Aerodromes and Airports">
+<node CREATED="1570571426538" FOLDED="true" ID="ID_1271413056" MODIFIED="1571166304946" TEXT="1.28A Aerodromes and Airports">
 <node CREATED="1570648881237" ID="ID_1814832997" MODIFIED="1570649085336">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3175,8 +3175,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1570649421683" ID="ID_1158159317" MODIFIED="1570649960521">
 <richcontent TYPE="NODE"><html>
@@ -3214,12 +3213,11 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1570650825564" ID="ID_540856566" MODIFIED="1570650834223" TEXT="1.28B Munitions of War"/>
-<node CREATED="1570650867182" ID="ID_1934850657" MODIFIED="1570652053658">
+<node CREATED="1570650867182" FOLDED="true" ID="ID_1934850657" MODIFIED="1571166309021">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3229,8 +3227,7 @@
       1.28C Liability Insurance
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1570650895240" ID="ID_1985439884" MODIFIED="1570651203771">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3264,8 +3261,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1570650913060" ID="ID_747148192" MODIFIED="1570651745421">
 <richcontent TYPE="NODE"><html>
@@ -3300,8 +3296,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1570651750309" ID="ID_1119441821" MODIFIED="1570651986368">
 <richcontent TYPE="NODE"><html>
@@ -3339,8 +3334,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1570652066741" ID="ID_1174295759" MODIFIED="1570652541049">
@@ -3367,8 +3361,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1570652568145" ID="ID_1810978569" MODIFIED="1570652756551">
 <richcontent TYPE="NODE"><html>
@@ -3391,6 +3384,406 @@
       </li>
       <li>
         exceptions: cruise climb, minimum safe speed, SFOC (airshow)
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1571165571714" ID="ID_6501042" MODIFIED="1571165652019">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.30 Security Controll of Air Traffic
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        ADIZ penetration time must be provided and revised if more than
+      </li>
+      <li>
+        +/- 5 minutes, or +/- 20 NM
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571166316411" ID="ID_865272226" MODIFIED="1571166338194" TEXT="1.31 Transportation Safety Board and Aircraft Accidents"/>
+<node CREATED="1571166347496" FOLDED="true" ID="ID_289569663" MODIFIED="1571167658702">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.32 High Level Airspace
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        at and above 18000ft ASL
+      </li>
+      <li>
+        contains controlled airspaces
+
+        <ul>
+          <li>
+            SCA with floor at 18000ft ASL
+          </li>
+          <li>
+            NCA with floor at FL220
+          </li>
+          <li>
+            ACA with floor at FL270
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1571166968721" ID="ID_49890539" MODIFIED="1571167256246">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      NCA Reporting
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        North-South tracks (315T-045T and reciprocals): 5deg latitude reporting lines
+      </li>
+      <li>
+        East-West tracks (046T-134T and reciprocals): 10deg longitude reporting lines (20deg if traversed in less than 60 minutes)
+      </li>
+      <li>
+        Bravo tracks (longitutes): 100W, 90W, 80W, 70W, 60W
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571166980146" ID="ID_1559112834" MODIFIED="1571167305544">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ACA Reporting
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        141W, 115W, 60W reporting meridians
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571167665117" FOLDED="true" ID="ID_738976037" MODIFIED="1571171035333" TEXT="1.33 Operational and Emergency Equipment">
+<node CREATED="1571167683745" ID="ID_628907529" MODIFIED="1571167861193">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Life Preservers and Floating Devices
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        required for each person on board for distances
+
+        <ul>
+          <li>
+            beyond gliding distance to shore
+          </li>
+          <li>
+            50NM from shore
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571167830450" ID="ID_506173388" MODIFIED="1571168578930">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Life Rafts and Survival Equipment
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        non-altitude-maintaining single or multi-engine aircraft to accommodate all persons aboard for distances
+
+        <ul>
+          <li>
+            of more than 100NM from shore, or
+          </li>
+          <li>
+            of more than 30 minutes at cruise flight, whichever is lesser
+          </li>
+        </ul>
+      </li>
+      <li>
+        altitude-maintaining multi-engine aircraft to accommodate all persons aboard for distances
+
+        <ul>
+          <li>
+            of more than 200NM from shore, or
+          </li>
+          <li>
+            of more than 60 minutes at cruise flight, whichever is lesser
+          </li>
+        </ul>
+      </li>
+      <li>
+        transport category airplane
+
+        <ul>
+          <li>
+            of more than 400NM from shore, or
+          </li>
+          <li>
+            of more than 120 minutes at cruise flight, whichever is lesser
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571168751901" ID="ID_13730826" MODIFIED="1571168767440" TEXT="1.34 Aircraft Seats, Belts and Harnesses"/>
+<node CREATED="1571168779387" FOLDED="true" ID="ID_1082738327" MODIFIED="1571171732971">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.35 Oxygen Equipment Requirements
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i>Note that all altitudes are given in cabin pressure. Most pressurized aircraft operate at cabin pressure altitudes of 8000ft or below. Does an aircraft with CPALT 8000ft flying at FL250 not require oxygen? The definitions do not appear to be correct. CARs 605.31</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1571168801765" ID="ID_1090588926" MODIFIED="1571169842543">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Unpressurized Aircraft
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        above 10000ft ASL up to 13000ft ASL CPALT oxygen for
+
+        <ul>
+          <li>
+            all crew members and 10% PAX (at least one)
+          </li>
+          <li>
+            entire flight period exceeding 30 minutes
+          </li>
+        </ul>
+      </li>
+      <li>
+        above 13000ft ASL CPALT oxygen for
+
+        <ul>
+          <li>
+            all persons on board
+          </li>
+          <li>
+            entire flight period
+          </li>
+          <li>
+            air transport service: at least one hour oxygen
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571168818324" ID="ID_1112778612" MODIFIED="1571171022547">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Pressurized Aircraft
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        above 10000ft up to 13000ft ASL CPALT oxygen for
+
+        <ul>
+          <li>
+            all crew members and 10% PAX (at least one)
+          </li>
+          <li>
+            entire flight period exceeding 30 minutes
+          </li>
+        </ul>
+      </li>
+      <li>
+        above 13000ft ASL CPALT up to FL250
+
+        <ul>
+          <li>
+            all persons on board
+          </li>
+          <li>
+            entire flight period
+          </li>
+          <li>
+            air transport service: at least 10 minutes for all PAX, at least 30 minutes for 10% PAX (at least one)
+          </li>
+        </ul>
+      </li>
+      <li>
+        above 13000ft ASL CPALT above FL250
+
+        <ul>
+          <li>
+            all persons on board
+          </li>
+          <li>
+            entire flight period
+          </li>
+          <li>
+            air transport service: at least 10 minutes for all PAX, at least 30 minutes for 10% PAX (at least one), 2 hours for flight crew members
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571171072086" ID="ID_1037070784" MODIFIED="1571171675889">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Use of Oxygen
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        above 10000ft up to 13000ft ASL CPALT
+
+        <ul>
+          <li>
+            oxygen mask to be worn by each crew member (cockpit and cabin) for any part of the flight exceeding 30 minutes
+          </li>
+        </ul>
+      </li>
+      <li>
+        above 13000ft ASL CPALT up to FL250
+
+        <ul>
+          <li>
+            oxygen mask to be worn by each person on board for the entire flight period
+          </li>
+        </ul>
+      </li>
+      <li>
+        above FL250 up to FL410
+
+        <ul>
+          <li>
+            oxygen mask to be worn by pilot flying if quick donning mask not available
+          </li>
+        </ul>
+      </li>
+      <li>
+        above FL410
+
+        <ul>
+          <li>
+            oxygen mask to be worn by pilot flying at all times
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571171758809" ID="ID_588647730" MODIFIED="1571171931928">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.36 Emergency Radio Frequency and Visual Interception Signals
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        121.5 MHz, 243.0 MHz
+      </li>
+      <li>
+        121.5 must be monitored 50NM from shore whenever possible
+      </li>
+      <li>
+        Interception: advice ATC, attempt contact on 121.5, squawk 7700, follow visual instructions
       </li>
     </ul>
   </body>
