@@ -3,7 +3,11 @@
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
 <node CREATED="1568171989853" ID="ID_1998192836" MODIFIED="1568243332833" POSITION="right" TEXT="SARON">
 <node CREATED="1568172948798" ID="ID_62855509" MODIFIED="1570483309155" TEXT="Air Law and Procedures">
-<node CREATED="1568245279945" FOLDED="true" ID="ID_1079797516" MODIFIED="1571166287057" TEXT="1.05 Aircraft Type Ratings">
+<node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
+<node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
+<node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
+<node CREATED="1568248671336" ID="ID_1155718466" MODIFIED="1568248678874" TEXT="1.04 Aeroplane Class Ratings"/>
+<node CREATED="1568248686329" ID="ID_162885590" MODIFIED="1568248696287" TEXT="1.05 Aircraft Type Ratings">
 <node CREATED="1568245337961" ID="ID_75602462" MODIFIED="1568246099441">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -24,11 +28,6 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
-<node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
-<node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
-<node CREATED="1568248671336" ID="ID_1155718466" MODIFIED="1568248678874" TEXT="1.04 Aeroplane Class Ratings"/>
-<node CREATED="1568248686329" ID="ID_162885590" MODIFIED="1568248696287" TEXT="1.05 Aircraft Type Ratings"/>
 <node CREATED="1568248706165" ID="ID_314960253" MODIFIED="1568248713473" TEXT="1.06 Instrument Rating"/>
 <node CREATED="1568248720694" FOLDED="true" ID="ID_544994370" MODIFIED="1571166285495" TEXT="1.07 CARs General Provisions">
 <node CREATED="1568251901677" ID="ID_228267398" MODIFIED="1568327093033">
@@ -3410,8 +3409,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571166316411" ID="ID_865272226" MODIFIED="1571166338194" TEXT="1.31 Transportation Safety Board and Aircraft Accidents"/>
 <node CREATED="1571166347496" FOLDED="true" ID="ID_289569663" MODIFIED="1571167658702">
@@ -3447,8 +3445,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571166968721" ID="ID_49890539" MODIFIED="1571167256246">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3473,8 +3470,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571166980146" ID="ID_1559112834" MODIFIED="1571167305544">
 <richcontent TYPE="NODE"><html>
@@ -3494,8 +3490,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571167665117" FOLDED="true" ID="ID_738976037" MODIFIED="1571171035333" TEXT="1.33 Operational and Emergency Equipment">
@@ -3526,8 +3521,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571167830450" ID="ID_506173388" MODIFIED="1571168578930">
 <richcontent TYPE="NODE"><html>
@@ -3580,8 +3574,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571168751901" ID="ID_13730826" MODIFIED="1571168767440" TEXT="1.34 Aircraft Seats, Belts and Harnesses"/>
@@ -3601,8 +3594,7 @@
       <i>Note that all altitudes are given in cabin pressure. Most pressurized aircraft operate at cabin pressure altitudes of 8000ft or below. Does an aircraft with CPALT 8000ft flying at FL250 not require oxygen? The definitions do not appear to be correct. CARs 605.31</i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571168801765" ID="ID_1090588926" MODIFIED="1571169842543">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3645,8 +3637,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571168818324" ID="ID_1112778612" MODIFIED="1571171022547">
 <richcontent TYPE="NODE"><html>
@@ -3705,8 +3696,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571171072086" ID="ID_1037070784" MODIFIED="1571171675889">
 <richcontent TYPE="NODE"><html>
@@ -3759,8 +3749,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571171758809" ID="ID_588647730" MODIFIED="1571171931928">
@@ -3787,9 +3776,237 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1571176304711" FOLDED="true" ID="ID_1344938252" MODIFIED="1571178679270">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.37 Canadian Minimum Navigation Performance Specifications (CMNPS) Airspace
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        CDA between FL330 and FL410 within ACA, NCA and SCA
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1571176542343" ID="ID_213901516" MODIFIED="1571176630674">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      CMNPS Transition Airspace
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        FL270 to below FL330 underlying lateral CMNPS airspace
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
+<node CREATED="1571176687100" ID="ID_997838483" MODIFIED="1571176870567">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      CMNPS Aircraft Certification
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        less than 6.3 NM standard deviation of lateral track error
+      </li>
+      <li>
+        less than 1 hour in 2000 flight hours 30 NM or more off track
+      </li>
+      <li>
+        less than 1 hour in 8000 flight hours 50-70 NM off track
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571177177491" ID="ID_167217762" MODIFIED="1571177189673" TEXT="1.38 Aeronautical Information Publications"/>
+<node CREATED="1571177501778" FOLDED="true" ID="ID_1962137839" MODIFIED="1571178674809" TEXT="1.39 Flight Data Recorders and Cockpit Voice Recorders">
+<node CREATED="1571177575068" ID="ID_1295878581" MODIFIED="1571178209567">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flight Data Recorder (is required by)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        multi-engine turbine-powered pressurized aeroplane with MCTOW of 5700 kg (12600 lbs) or more, 10 PAX seats or more, manufactured after October 11th 1991, and operated by commuter operator
+      </li>
+      <li>
+        multi-engine turbine-powered aeroplane operated by airline operator
+      </li>
+      <li>
+        after July 31st 1997, or for an aircraft operated commercially, after Februrary 28th 1997, any other multi-engine turbine-powered aircraft, with 10 PAX seats or more, and manufactured after October 11th 1991
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571177589967" ID="ID_1076799880" MODIFIED="1571178446370">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cockpit Voice Recorder (is required by)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        multi-engine turbine-powered pressurized aeroplane with MCTOW of 5700 kg (12600 lbs) or more, 6 PAX seats or more, multi-crew, and operated by commuter operator
+      </li>
+      <li>
+        multi-engine turbine-powered aeroplane operated by airline operator
+      </li>
+      <li>
+        after July 31st 1997, or for an aircraft operated commercially, after Februrary 28th 1997, any other multi-engine turbine-powered aircraft, with 6 PAX seats or more, and multi-crew
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571178546877" ID="ID_1847699632" MODIFIED="1571178656619">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Unserviceable FDR / CVR
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        according to established MEL, or otherwise
+      </li>
+      <li>
+        max. 90 days for FDR (documented) if CVR is serviceable, or
+      </li>
+      <li>
+        max. 90 days for CVR (documented) if FDR is serviceable
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571178687846" FOLDED="true" ID="ID_1698057109" MODIFIED="1571180236868" TEXT="1.40 Altitude Alerting Systems and Ground Proximity Warning System (GPWS)">
+<node CREATED="1571178865632" ID="ID_1197022434" MODIFIED="1571179343377">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      AAS (is required for)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        all turbo-jet powered aeroplane
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571178875405" ID="ID_789732569" MODIFIED="1571179353550">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      GPWS (is required for)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        all turbo-jet powered aeroplane with MCTOW of more than 15000 kg (33069 lbs), 10 or more PAX, operated by commuter or airline
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571179085250" ID="ID_926128685" MODIFIED="1571179100592" TEXT="1.41 De-Icing and Anti-Icling Equipment"/>
+<node CREATED="1571179144541" ID="ID_318052441" MODIFIED="1571179445427">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.42 Third Attitude Indicator
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        all turbo-jet powered aeroplane operated commercially
+      </li>
+      <li>
+        after July 31st 1997, all transport category aircraft
+      </li>
+      <li>
+        independent system, 30 minutes endurance after total failure of electrical generating system
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571179475463" ID="ID_1119316590" MODIFIED="1571179489433" TEXT="1.43 Emergency Locator Transmitter (ELT)"/>
+<node CREATED="1571180135378" ID="ID_251276485" MODIFIED="1571180145888" TEXT="1.44 ATC Special Procedures"/>
+<node CREATED="1571180165952" ID="ID_1126967731" MODIFIED="1571180177001" TEXT="1.45 North Atlantic Operations"/>
+<node CREATED="1571180185340" ID="ID_554894088" MODIFIED="1571180220845" TEXT="1.46 Reduced Vertical Separation Minimum (RVSM)"/>
 </node>
 <node CREATED="1568173327294" ID="ID_1056315969" MODIFIED="1568173426446" TEXT="Aircraft, Power Plants, Propellers and Systems"/>
 <node CREATED="1568173515599" ID="ID_228371769" MODIFIED="1568173519521" TEXT="Instruments"/>
