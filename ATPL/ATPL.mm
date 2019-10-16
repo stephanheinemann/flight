@@ -3778,7 +3778,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571176304711" ID="ID_1344938252" MODIFIED="1571248309210">
+<node CREATED="1571176304711" FOLDED="true" ID="ID_1344938252" MODIFIED="1571264811652">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3995,7 +3995,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1571179475463" ID="ID_1119316590" MODIFIED="1571179489433" TEXT="1.43 Emergency Locator Transmitter (ELT)"/>
-<node CREATED="1571180135378" FOLDED="true" ID="ID_251276485" MODIFIED="1571256574375" TEXT="1.44 ATC Special Procedures">
+<node CREATED="1571180135378" FOLDED="true" ID="ID_251276485" MODIFIED="1571264808607" TEXT="1.44 ATC Special Procedures">
 <node CREATED="1571184407079" ID="ID_1388520184" MODIFIED="1571250451489">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4032,8 +4032,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571184543295" ID="ID_908370237" MODIFIED="1571185181045">
 <richcontent TYPE="NODE"><html>
@@ -4068,7 +4067,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571180165952" FOLDED="true" ID="ID_1126967731" MODIFIED="1571256579157" TEXT="1.45 North Atlantic Operations">
+<node CREATED="1571180165952" FOLDED="true" ID="ID_1126967731" MODIFIED="1571266200612" TEXT="1.45 North Atlantic Operations">
 <node CREATED="1571247817344" ID="ID_554157276" MODIFIED="1571252044121">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4093,8 +4092,67 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+<node CREATED="1571248573043" ID="ID_1613433291" MODIFIED="1571264689449">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Minimum Navigation Performance Specification Airspace (MNPSA)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        FL285 to FL420, usable FL290 to FL410
+      </li>
+      <li>
+        long-range navigation equipment and special crew training
+      </li>
+      <li>
+        air operator certificate (AOC)
+      </li>
+      <li>
+        max. 6.3 NM standard deviation for lateral track errors
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
+</node>
+<node CREATED="1571258168246" ID="ID_459652569" MODIFIED="1571258179712" TEXT="Oceanic Entry Points (OEPs)"/>
+<node CREATED="1571252047501" ID="ID_323140129" MODIFIED="1571257475153">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Oceanic Transition Areas (OTAs)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        NOTA
+      </li>
+      <li>
+        SOTA
+      </li>
+      <li>
+        BOTA
+      </li>
+      <li>
+        GOTA
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1571248089590" ID="ID_769466220" MODIFIED="1571252040894">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4125,64 +4183,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
-</node>
-<node CREATED="1571252047501" ID="ID_323140129" MODIFIED="1571252153053">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Oceanic Transition Areas (OTAs)
-    </p>
-    <p>
-      
-    </p>
-    <ul>
-      <li>
-        NOTA
-      </li>
-      <li>
-        SOTA
-      </li>
-      <li>
-        BOTA
-      </li>
-    </ul>
-  </body>
-</html>
-</richcontent>
-</node>
-<node CREATED="1571248573043" ID="ID_1613433291" MODIFIED="1571249554688">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Minimum Navigation Performance Specification Airspace (MNPSA)
-    </p>
-    <p>
-      
-    </p>
-    <ul>
-      <li>
-        FL285 to FL420, usable FL290 to FL410
-      </li>
-      <li>
-        long-range navigation equipment and special crew training
-      </li>
-      <li>
-        air operator certificate (AOC)
-      </li>
-    </ul>
-  </body>
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571248068922" ID="ID_1165574146" MODIFIED="1571252230984">
+<node CREATED="1571248068922" ID="ID_1165574146" MODIFIED="1571265606248">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4200,7 +4204,7 @@
 
         <ul>
           <li>
-            2 independent long-range (RNAV) systems (e.g., GNSS, INS, IRS)
+            2 independent long-range navigation systems (LRNS) (e.g., GNSS, INS, FMS/IRS)
           </li>
           <li>
             HF (SSB) radios
@@ -4229,11 +4233,14 @@
         </ul>
       </li>
     </ul>
+    <p>
+      <i>Note that&#160;TCAS is not a requirement according to Culhane.</i>
+    </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1571249531298" ID="ID_69179964" MODIFIED="1571250390597">
+<node CREATED="1571249531298" ID="ID_69179964" MODIFIED="1571265260406">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4263,7 +4270,7 @@
 
         <ul>
           <li>
-            1000ft vertical separation unidirectional
+            FL290 to FL410, 1000ft vertical separation unidirectional
           </li>
           <li>
             directions are determined by time of day
@@ -4271,13 +4278,17 @@
           <li>
             climb and decent rates max. 1500ft/min (ideally 500-1000ft/min) to avoid TCAS RA
           </li>
+          <li>
+            RVSM may be cancelled due to adverse WX (e.g., CAT)
+          </li>
         </ul>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1571247837199" ID="ID_567481223" MODIFIED="1571254487199">
+<node CREATED="1571247837199" ID="ID_567481223" MODIFIED="1571264998819">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4304,7 +4315,7 @@
             westbound (day): 1130-1900 UTC, A, B, C ... (North-South)
           </li>
           <li>
-            buffer period, 30W midpoint
+            buffer period, 30W midpoint UTC reference
           </li>
           <li>
             time schedule issued by responsible OCAs (e.g., Gander at 1200UTC for eastbound and Shanwick at 0000UTC for westbound)
@@ -4322,13 +4333,19 @@
       </li>
       <li>
         Blue Spruce Routes (GA)
+
+        <ul>
+          <li>
+            one LRNS (e.g., one failed) and ground-based radio navigation (VOR/DME, ADF)
+          </li>
+        </ul>
       </li>
     </ul>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1571252278585" ID="ID_1312997842" MODIFIED="1571255561086">
+<node CREATED="1571252278585" ID="ID_1312997842" MODIFIED="1571261929696">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4354,9 +4371,6 @@
         6 HF frequency groups: NAT A to NAT F
       </li>
       <li>
-        mandatory 10 deg longitude position reports, or +/-3 minutes
-      </li>
-      <li>
         SelCal system and checks to avoid HF monitoring
       </li>
       <li>
@@ -4366,8 +4380,47 @@
   </body>
 </html>
 </richcontent>
+<node CREATED="1571261888520" ID="ID_67184243" MODIFIED="1571264039315">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Reporting
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        format: current position, next position, ETO next position
+      </li>
+      <li>
+        mandatory 10 deg longitude position reports south of 70N
+      </li>
+      <li>
+        mandatory 20 deg longitude position reports north of 70N
+      </li>
+      <li>
+        no longer than 1 hour in between reports (additional reporting points)
+      </li>
+      <li>
+        no shorter than 30 minutes in between reports (skipped reporting points)
+      </li>
+      <li>
+        ETO changes in +/- 3 minutes are to be reported
+      </li>
+      <li>
+        north-south direction routes with significant points of 10deg longitude and 5deg latitude
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1571255033898" ID="ID_1811159599" MODIFIED="1571255425625">
+</node>
+<node CREATED="1571255033898" ID="ID_1811159599" MODIFIED="1571266114638">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4387,7 +4440,34 @@
         enter parallel track at 45deg
       </li>
       <li>
-        wake turbulence avoidance: SLOP 1NM or 2NM lateral distance
+        wake turbulence avoidance: Strategic Lateral Offset Procedure (SLOP) 1NM or 2NM lateral distance
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571262785247" ID="ID_1603469160" MODIFIED="1571263197511">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Filing
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        3 hours prior ETD for NAT flights departing in NAT adjacent areas without intermediate stop
+      </li>
+      <li>
+        ideally 4 hours prior ETO OEP (coast-out fix) for eastbound NAT flights
+      </li>
+      <li>
+        Preferred Routing Messages (PRMs) are to be sent no later than 1000UTC for eastbound and 1900UTC for westbound NAT flights
       </li>
     </ul>
   </body>
@@ -4395,7 +4475,60 @@
 </richcontent>
 </node>
 </node>
-<node CREATED="1571180185340" ID="ID_554894088" MODIFIED="1571180220845" TEXT="1.46 Reduced Vertical Separation Minimum (RVSM)"/>
+<node CREATED="1571180185340" FOLDED="true" ID="ID_554894088" MODIFIED="1571266204353">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.46 Reduced Vertical Separation Minimum (RVSM)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        FL290 to FL410 in CDA including RVSM transition areas
+      </li>
+      <li>
+        1000ft vertical separation
+      </li>
+      <li>
+        may be cancelled due to adverse WX (e.g., CAT) defaulting to 2000ft vertical separation
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1571265809239" ID="ID_627612123" MODIFIED="1571265892502">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Equipment Requirements
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        two primary altitude measurement systems
+      </li>
+      <li>
+        one automatic altitude keeping device
+      </li>
+      <li>
+        one altitude alerting device
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 <node CREATED="1568173327294" ID="ID_1056315969" MODIFIED="1568173426446" TEXT="Aircraft, Power Plants, Propellers and Systems"/>
 <node CREATED="1568173515599" ID="ID_228371769" MODIFIED="1568173519521" TEXT="Instruments"/>
