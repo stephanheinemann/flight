@@ -3412,7 +3412,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1571166316411" ID="ID_865272226" MODIFIED="1571166338194" TEXT="1.31 Transportation Safety Board and Aircraft Accidents"/>
-<node CREATED="1571166347496" FOLDED="true" ID="ID_289569663" MODIFIED="1571167658702">
+<node CREATED="1571166347496" FOLDED="true" ID="ID_289569663" MODIFIED="1571187003470">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3493,7 +3493,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571167665117" FOLDED="true" ID="ID_738976037" MODIFIED="1571171035333" TEXT="1.33 Operational and Emergency Equipment">
+<node CREATED="1571167665117" FOLDED="true" ID="ID_738976037" MODIFIED="1571187006156" TEXT="1.33 Operational and Emergency Equipment">
 <node CREATED="1571167683745" ID="ID_628907529" MODIFIED="1571167861193">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3578,7 +3578,7 @@
 </node>
 </node>
 <node CREATED="1571168751901" ID="ID_13730826" MODIFIED="1571168767440" TEXT="1.34 Aircraft Seats, Belts and Harnesses"/>
-<node CREATED="1571168779387" FOLDED="true" ID="ID_1082738327" MODIFIED="1571171732971">
+<node CREATED="1571168779387" FOLDED="true" ID="ID_1082738327" MODIFIED="1571187009282">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3778,7 +3778,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571176304711" FOLDED="true" ID="ID_1344938252" MODIFIED="1571178679270">
+<node CREATED="1571176304711" FOLDED="true" ID="ID_1344938252" MODIFIED="1571187013634">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3796,8 +3796,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571176542343" ID="ID_213901516" MODIFIED="1571176630674">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3816,8 +3815,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571176687100" ID="ID_997838483" MODIFIED="1571176870567">
 <richcontent TYPE="NODE"><html>
@@ -3843,8 +3841,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571177177491" ID="ID_167217762" MODIFIED="1571177189673" TEXT="1.38 Aeronautical Information Publications"/>
@@ -3873,8 +3870,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571177589967" ID="ID_1076799880" MODIFIED="1571178446370">
 <richcontent TYPE="NODE"><html>
@@ -3900,8 +3896,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571178546877" ID="ID_1847699632" MODIFIED="1571178656619">
 <richcontent TYPE="NODE"><html>
@@ -3927,8 +3922,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571178687846" FOLDED="true" ID="ID_1698057109" MODIFIED="1571180236868" TEXT="1.40 Altitude Alerting Systems and Ground Proximity Warning System (GPWS)">
@@ -3950,8 +3944,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571178875405" ID="ID_789732569" MODIFIED="1571179353550">
 <richcontent TYPE="NODE"><html>
@@ -3971,8 +3964,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571179085250" ID="ID_926128685" MODIFIED="1571179100592" TEXT="1.41 De-Icing and Anti-Icling Equipment"/>
@@ -4000,11 +3992,74 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1571179475463" ID="ID_1119316590" MODIFIED="1571179489433" TEXT="1.43 Emergency Locator Transmitter (ELT)"/>
+<node CREATED="1571180135378" FOLDED="true" ID="ID_251276485" MODIFIED="1571187019747" TEXT="1.44 ATC Special Procedures">
+<node CREATED="1571184407079" ID="ID_1388520184" MODIFIED="1571184533944">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Required Navigation Performance Capability Airspace (RNPC)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        position determination within +/- 4 NM
+      </li>
+      <li>
+        R: RNPC
+      </li>
+      <li>
+        Y: CMNPS
+      </li>
+      <li>
+        X: NAT MNPS
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1571179475463" ID="ID_1119316590" MODIFIED="1571179489433" TEXT="1.43 Emergency Locator Transmitter (ELT)"/>
-<node CREATED="1571180135378" ID="ID_251276485" MODIFIED="1571180145888" TEXT="1.44 ATC Special Procedures"/>
+<node CREATED="1571184543295" ID="ID_908370237" MODIFIED="1571185181045">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Traffic Alert and Collision Avoidance System (TCAS / ACAS)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        702 Aerial Work: TCAS II (TA and RA) for turbine-powered aircraft with more than MCTOW 15000 kg (33069 lbs)
+      </li>
+      <li>
+        703 Air Taxi: TCAS I (TA) for aircraft with more than MCTOW 5700 kg (12500 lbs) outside RVSM, TCAS II (TA and RA) inside RVSM
+      </li>
+      <li>
+        704 Commuter: TCAS I (TA) for aircraft with more than MCTOW 5700 kg (12500 lbs), TCAS II (TA and RA) for turbine-powered aircraft with more than MCTOW 15000 kg (33069 lbs)
+      </li>
+      <li>
+        705 Airline: TCAS I (TA) for non-turbine-powered aircraft outside RVSM, TCAS II (TA and RA) for turbine-powered aircraft
+      </li>
+      <li>
+        US: TCAS I (TA) for 10-30 PAX seats, TCAS II (TA and RA) for turbine-powered aircraft with more than MCTOW 33000 lbs
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node CREATED="1571180165952" ID="ID_1126967731" MODIFIED="1571180177001" TEXT="1.45 North Atlantic Operations"/>
 <node CREATED="1571180185340" ID="ID_554894088" MODIFIED="1571180220845" TEXT="1.46 Reduced Vertical Separation Minimum (RVSM)"/>
 </node>
