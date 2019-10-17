@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" ID="ID_1998192836" MODIFIED="1568243332833" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" ID="ID_62855509" MODIFIED="1570483309155" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" ID="ID_1998192836" MODIFIED="1571340147109" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1571335225419" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -4067,7 +4067,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571180165952" FOLDED="true" ID="ID_1126967731" MODIFIED="1571266200612" TEXT="1.45 North Atlantic Operations">
+<node CREATED="1571180165952" FOLDED="true" ID="ID_1126967731" MODIFIED="1571326550969" TEXT="1.45 North Atlantic Operations">
 <node CREATED="1571247817344" ID="ID_554157276" MODIFIED="1571252044121">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4120,8 +4120,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571258168246" ID="ID_459652569" MODIFIED="1571258179712" TEXT="Oceanic Entry Points (OEPs)"/>
 <node CREATED="1571252047501" ID="ID_323140129" MODIFIED="1571257475153">
@@ -4237,8 +4236,7 @@
       <i>Note that&#160;TCAS is not a requirement according to Culhane.</i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571249531298" ID="ID_69179964" MODIFIED="1571265260406">
 <richcontent TYPE="NODE"><html>
@@ -4285,8 +4283,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571247837199" ID="ID_567481223" MODIFIED="1571264998819">
 <richcontent TYPE="NODE"><html>
@@ -4342,8 +4339,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571252278585" ID="ID_1312997842" MODIFIED="1571261929696">
 <richcontent TYPE="NODE"><html>
@@ -4378,8 +4374,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571261888520" ID="ID_67184243" MODIFIED="1571264039315">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4416,8 +4411,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571255033898" ID="ID_1811159599" MODIFIED="1571266114638">
@@ -4444,8 +4438,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571262785247" ID="ID_1603469160" MODIFIED="1571263197511">
 <richcontent TYPE="NODE"><html>
@@ -4471,8 +4464,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571180185340" FOLDED="true" ID="ID_554894088" MODIFIED="1571266204353">
@@ -4499,8 +4491,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571265809239" ID="ID_627612123" MODIFIED="1571265892502">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4525,12 +4516,83 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1568173327294" ID="ID_1056315969" MODIFIED="1571339432682" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
+<node CREATED="1571327585082" ID="ID_1625666533" MODIFIED="1571327597526" TEXT="2.02 Reciprocating Engines">
+<node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1571327873060">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      The Carburetor and Fuel Injection
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        chemically correct 15:1 by weight
+      </li>
+      <li>
+        best power 14:1 by weight
+      </li>
+      <li>
+        carburetor icing possible -6 degC to 32 degC
+      </li>
+      <li>
+        carburetor heat 9% power loss
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
 </node>
+<node CREATED="1571329870429" ID="ID_1307000896" MODIFIED="1571329877838" TEXT="2.03 Gas Turbine Engines"/>
+<node CREATED="1571331490943" ID="ID_887788242" MODIFIED="1571331495746" TEXT="2.04 Propellers"/>
+<node CREATED="1571335183691" ID="ID_1931384718" MODIFIED="1571335189256" TEXT="2.05 Fuels">
+<node CREATED="1571335333208" ID="ID_1636736781" MODIFIED="1571335395404">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fuel Density
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Avgas 6.0 lbs / USG
+      </li>
+      <li>
+        Jet A 6.8 lbs / USG
+      </li>
+      <li>
+        Jet B 6.5 lbs / USG
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1568173327294" ID="ID_1056315969" MODIFIED="1568173426446" TEXT="Aircraft, Power Plants, Propellers and Systems"/>
+</node>
+<node CREATED="1571335460648" ID="ID_1255193771" MODIFIED="1571335469850" TEXT="2.06 Fuel Systems"/>
+<node CREATED="1571336538202" ID="ID_1926004849" MODIFIED="1571336545412" TEXT="2.07 Ignition Systems"/>
+<node CREATED="1571336652039" ID="ID_1673304721" MODIFIED="1571336660494" TEXT="2.08 Oil Systems"/>
+<node CREATED="1571337390420" ID="ID_403438234" MODIFIED="1571337401592" TEXT="2.09 Electrical Systems"/>
+<node CREATED="1571339436291" ID="ID_1248214412" MODIFIED="1571339444022" TEXT="2.10 Hydraulic Systems"/>
+<node CREATED="1571339670886" ID="ID_1386068437" MODIFIED="1571339676518" TEXT="2.11 Exhaust Systems"/>
+<node CREATED="1571339719060" ID="ID_1555393324" MODIFIED="1571339730772" TEXT="2.12 Undercarriage and Brake System"/>
+</node>
 <node CREATED="1568173515599" ID="ID_228371769" MODIFIED="1568173519521" TEXT="Instruments"/>
 <node CREATED="1568173570034" ID="ID_1285060949" MODIFIED="1568173574370" TEXT="Navigation"/>
 <node CREATED="1568173802936" ID="ID_851590336" MODIFIED="1568173809889" TEXT="Flight Operations"/>
@@ -4541,7 +4603,7 @@
 <icon BUILTIN="closed"/>
 </node>
 </node>
-<node CREATED="1568172247782" ID="ID_1312210863" MODIFIED="1568243307685" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1571340141939" POSITION="left" TEXT="SAMRA">
 <node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1568659766238" TEXT="Meteorology">
 <node CREATED="1568174438816" ID="ID_208638027" MODIFIED="1568174450928" TEXT="The Earth&apos;s Atmosphere"/>
 </node>
@@ -4550,7 +4612,7 @@
 </node>
 <node CREATED="1568172671136" ID="ID_1053951536" MODIFIED="1568172701231" TEXT="Radio Communication and Navigation Aids"/>
 </node>
-<node CREATED="1568671682779" ID="ID_1658639647" MODIFIED="1568671690230" POSITION="right" TEXT="Study Material">
+<node CREATED="1568671682779" FOLDED="true" ID="ID_1658639647" MODIFIED="1571340135630" POSITION="right" TEXT="Study Material">
 <node CREATED="1568671700482" ID="ID_217896736" MODIFIED="1568671704535" TEXT="Culhane">
 <node CREATED="1568671752273" ID="ID_386732757" MODIFIED="1568672230580" TEXT="ATPL Textbook">
 <icon BUILTIN="idea"/>
