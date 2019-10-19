@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" ID="ID_1998192836" MODIFIED="1571340147109" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1571335225419" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" ID="ID_1998192836" MODIFIED="1571349118254" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1571415265885" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -2287,7 +2287,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1571166276145" TEXT="1.19 IFR Flight">
+<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1571415261879" TEXT="1.19 IFR Flight">
 <node CREATED="1569972903894" ID="ID_1927607732" MODIFIED="1569973965577">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4520,9 +4520,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" ID="ID_1056315969" MODIFIED="1571339432682" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1571427676166" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
-<node CREATED="1571327585082" ID="ID_1625666533" MODIFIED="1571327597526" TEXT="2.02 Reciprocating Engines">
+<node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1571420924909" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1571327873060">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4550,13 +4550,12 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571329870429" ID="ID_1307000896" MODIFIED="1571329877838" TEXT="2.03 Gas Turbine Engines"/>
 <node CREATED="1571331490943" ID="ID_887788242" MODIFIED="1571331495746" TEXT="2.04 Propellers"/>
-<node CREATED="1571335183691" ID="ID_1931384718" MODIFIED="1571335189256" TEXT="2.05 Fuels">
+<node CREATED="1571335183691" FOLDED="true" ID="ID_1931384718" MODIFIED="1571420919177" TEXT="2.05 Fuels">
 <node CREATED="1571335333208" ID="ID_1636736781" MODIFIED="1571335395404">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4581,8 +4580,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571335460648" ID="ID_1255193771" MODIFIED="1571335469850" TEXT="2.06 Fuel Systems"/>
@@ -4591,9 +4589,569 @@
 <node CREATED="1571337390420" ID="ID_403438234" MODIFIED="1571337401592" TEXT="2.09 Electrical Systems"/>
 <node CREATED="1571339436291" ID="ID_1248214412" MODIFIED="1571339444022" TEXT="2.10 Hydraulic Systems"/>
 <node CREATED="1571339670886" ID="ID_1386068437" MODIFIED="1571339676518" TEXT="2.11 Exhaust Systems"/>
-<node CREATED="1571339719060" ID="ID_1555393324" MODIFIED="1571339730772" TEXT="2.12 Undercarriage and Brake System"/>
+<node CREATED="1571339719060" ID="ID_1555393324" MODIFIED="1571417563057">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2.12 Undercarriage and Brake Systems
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1568173515599" ID="ID_228371769" MODIFIED="1568173519521" TEXT="Instruments"/>
+<node CREATED="1571417536290" FOLDED="true" ID="ID_20123901" MODIFIED="1571420912840" TEXT="2.13 Anti-Icing and De-Icing Systems">
+<node CREATED="1571417673651" ID="ID_436647626" MODIFIED="1571418114587">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Freezing Point Depressants (FPD)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Type I, II, III, IV fluids with different viscosities
+      </li>
+      <li>
+        Type I: basic fluid only prevents re-freezing
+      </li>
+      <li>
+        Type II: Vr &gt; 100 knots (due to higher viscosity at lower speeds)
+      </li>
+      <li>
+        Type III: Vr &lt; 100 knots (better shearing and flow-off at lower speeds)
+      </li>
+      <li>
+        Type IV: meets Type II standard but increases holdover time
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571418504480" ID="ID_188700641" MODIFIED="1571418814166">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Holdover Tables
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        tables for fluid types give holdover times depending on OATs, fluid concentration, and precipitation
+      </li>
+      <li>
+        intensity charts (e.g., snow visibility / fall intensity) help to determine the intensity for precipitation to be applied in holdover tables
+      </li>
+      <li>
+        shortest times have to be applied
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571418901746" ID="ID_852356804" MODIFIED="1571419191163">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Lowest Operational Use Temperature (LOUT) is the <i>higher</i>&#160;of
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        aerodynamic acceptance test temperature for the aircraft type
+      </li>
+      <li>
+        &#160;freezing point of the fluid
+
+        <ul>
+          <li>
+            +10 degC for Type I fluid
+          </li>
+          <li>
+            + 7 degC for Type II or IV fluid
+          </li>
+        </ul>
+      </li>
+      <li>
+        contact manufacturer for Type III fluid
+      </li>
+      <li>
+        LOUT must not be higher than OAT or skin temperature
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571420443713" ID="ID_810746995" MODIFIED="1571420629870">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Critical Surface Inspection
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        immediately after final FPD application
+      </li>
+      <li>
+        max. 5 minutes before take-off
+      </li>
+      <li>
+        inspection from cockpit, cabin, and outside (qualified personnel)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571420876034" FOLDED="true" ID="ID_1781514654" MODIFIED="1571423287864" TEXT="2.14 Fire Detection and Extinguishing Systems">
+<node CREATED="1571422631604" ID="ID_383730027" MODIFIED="1571422727742">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fire Classifications
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        A solid combustibles
+      </li>
+      <li>
+        B flammable liquids
+      </li>
+      <li>
+        C electrical fires
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571422947459" ID="ID_1352240490" MODIFIED="1571423277610">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cargo Compartments
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        A: accessible and observable
+      </li>
+      <li>
+        B: accessible and smoke detector
+      </li>
+      <li>
+        C: smoke detector and fire extinguishing system
+      </li>
+      <li>
+        D: fully confining (max. 1000 cuft)
+      </li>
+      <li>
+        E: smoke/fire detector, emergency exits accessible
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571423291475" ID="ID_1304706377" MODIFIED="1571423298158" TEXT="2.15 Pneumatic Systems"/>
+<node CREATED="1571423467329" ID="ID_1285076520" MODIFIED="1571423474124" TEXT="2.16 Oxygen Systems"/>
+<node CREATED="1571423605458" ID="ID_756681702" MODIFIED="1571423742044" TEXT="2.17 Heating Systems"/>
+<node CREATED="1571423731172" FOLDED="true" ID="ID_78825032" MODIFIED="1571424116143" TEXT="2.18 Cabin Pressurization Systems">
+<node CREATED="1571423832130" ID="ID_966658189" MODIFIED="1571423857117">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Pressure Differential
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        8.0 to 8.9 PSI
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571424123744" ID="ID_146942940" MODIFIED="1571424133239" TEXT="2.19 Air Conditioning Systems"/>
+<node CREATED="1571424207731" ID="ID_1043737505" MODIFIED="1571424214506" TEXT="2.20 Autopilot Systems"/>
+</node>
+<node CREATED="1568173515599" ID="ID_228371769" MODIFIED="1568173519521" TEXT="Instruments">
+<node CREATED="1571427682321" ID="ID_452501545" MODIFIED="1571427696475" TEXT="3.01 Pitot Static System"/>
+<node CREATED="1571427847687" FOLDED="true" ID="ID_597355976" MODIFIED="1571428362967" TEXT="3.02 Airspeed Indicator">
+<node CREATED="1571428317400" ID="ID_1249929966" MODIFIED="1571428358882">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Rules of Thumb
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        TAS = IAS + 2% / 1000ft
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571428379561" ID="ID_1681273524" MODIFIED="1571431715446">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      3.03 Machmeter
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1571428423543" ID="ID_1556052632" MODIFIED="1571432469045">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mach Number
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Speed of Sound Factor
+      </li>
+      <li>
+        M = TAS / LSS (Speed of Sound)
+      </li>
+      <li>
+        LSS &lt;- Density &lt;- OAT, Pressure, Humidity
+      </li>
+      <li>
+        LSS = 38.95 / sqrt T (Absolute Temperature degC + 273)
+      </li>
+      <li>
+        Mcrit 0.7 to 0.9
+      </li>
+      <li>
+        1 Mach = 661 knots at ISA 15 degC
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571430781306" ID="ID_1624567171" MODIFIED="1571430894644">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mach Number Presentation
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        MMR ... Mach Meter Reading (uncorrected)
+      </li>
+      <li>
+        IMN ... Indicated Mach Number (instrument error corrected)
+      </li>
+      <li>
+        TMN ... True Mach Number (position error corrected)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571431083099" ID="ID_1042975001" MODIFIED="1571431091660" TEXT="3.04 Vertical Speed Indicator"/>
+<node CREATED="1571431240857" ID="ID_148193878" MODIFIED="1571431245868" TEXT="3.05 Altimeter">
+<node CREATED="1571431330523" ID="ID_4045659" MODIFIED="1571434385661">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Settings and Limits
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        28.0 to 31.0 inHg
+      </li>
+      <li>
+        29.91 in Hg STD = FL = PALT
+      </li>
+      <li>
+        +/- 50 ft tolerance
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571434564960" ID="ID_112752536" MODIFIED="1571434570114" TEXT="Radar Altimeter"/>
+</node>
+<node CREATED="1571434581102" ID="ID_927901678" MODIFIED="1571434607037" TEXT="3.06 Magnetism and Magnetic Compass Systems">
+<node CREATED="1571434977838" ID="ID_1051814367" MODIFIED="1571434994358" TEXT="Gyrosyn Compass Systems (Flux Gates)"/>
+</node>
+<node CREATED="1571435142827" ID="ID_1925289356" MODIFIED="1571435152180" TEXT="3.07 Outside Air Temperature Gauge">
+<node CREATED="1571440425837" ID="ID_873327000" MODIFIED="1571440841714">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Temperature Relationships
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Static Air Temperature (SAT) = Total Air Temperature (TAT) - Total Ram Rise (TRR)
+      </li>
+      <li>
+        TRR is a function of speed (kinematic and adiabatic heating)
+      </li>
+      <li>
+        SAT = Ram Air Temperature (RAT) - Measured Ram Rise (MRR)
+      </li>
+      <li>
+        Recovery Factor (K) * TAT = MRR -&gt; MRR / K = TAT
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571441031045" ID="ID_1589400906" MODIFIED="1571441065547">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Terminology
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        RAT = IOAT
+      </li>
+      <li>
+        SAT = COAT = OAT
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571441181767" ID="ID_277976817" MODIFIED="1571442072691">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Formulas / Rules of Thumb
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        TRR = square (TAS / 100) rule of thumb
+      </li>
+      <li>
+        SAT = TAT / (1 + 0.2 K square (M)) correct formula in Kelvin TAT = RAT
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571435369590" ID="ID_1531909923" MODIFIED="1571435382379" TEXT="3.08 Gyroscopic Instruments">
+<node CREATED="1571436510548" ID="ID_428309827" MODIFIED="1571436545036">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Vaccuum
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        usually 3.5 to 4.5 inHg
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571435405587" ID="ID_131044196" MODIFIED="1571435418305" TEXT="3.09 Attitude Indicator"/>
+<node CREATED="1571435424963" ID="ID_1518706808" MODIFIED="1571435436020" TEXT="3.10 Heading Indicator"/>
+<node CREATED="1571435441568" ID="ID_1097274114" MODIFIED="1571436436323">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      3.11 Turn Coordinator / Turn and Slip Indicator
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1571437234998" ID="ID_316764002" MODIFIED="1571437491827">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Turn Rates
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        SRT 3 deg/s = 180 deg/min = 360 deg / 2 min
+      </li>
+      <li>
+        HSRT 1.5 deg/s = 180 deg / 2 min = 360 deg / 4 min (high speed aircraft)
+      </li>
+      <li>
+        SRBA = IAS / 10 + 7
+      </li>
+      <li>
+        HSRBA = IAS / 20 + 7
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571437800062" ID="ID_1166152142" MODIFIED="1571437806184" TEXT="3.12 Flight Director"/>
+<node CREATED="1571437814568" ID="ID_66141550" MODIFIED="1571437824557" TEXT="3.13 Horizontal Situation Indicator"/>
+<node CREATED="1571437970694" ID="ID_757122130" MODIFIED="1571438253826">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      3.14 Electronic Flight Instrument System (EFIS)
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1571438145867" ID="ID_1849997023" MODIFIED="1571438149713" TEXT="EADI"/>
+<node CREATED="1571438152958" ID="ID_1829984225" MODIFIED="1571438156611" TEXT="EHSI"/>
+<node CREATED="1571438198785" ID="ID_59880814" MODIFIED="1571438202928" TEXT="Symbol Generator"/>
+</node>
+<node CREATED="1571438213436" ID="ID_338551828" MODIFIED="1571438225185" TEXT="3.15 Radio Magnetic Indicator (RMI)"/>
+<node CREATED="1571438315521" ID="ID_716177099" MODIFIED="1571438323148" TEXT="3.16 AoA Indicator"/>
+<node CREATED="1571438351263" ID="ID_1259682556" MODIFIED="1571438358297" TEXT="3.17 Engine Instruments"/>
+<node CREATED="1571438617782" ID="ID_1199287563" MODIFIED="1571438633269" TEXT="3.18 Ground Proximity Warning System (GPWS)">
+<node CREATED="1571438663404" ID="ID_557132684" MODIFIED="1571438705751">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Properties
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        monitors radio altitudes below 2500ft
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571439120077" ID="ID_1500989687" MODIFIED="1571439135468" TEXT="3.19 Central Air Data Computer (CADC)">
+<node CREATED="1571443984600" ID="ID_1273890369" MODIFIED="1571443989609" TEXT="INS / IRS"/>
+</node>
+</node>
 <node CREATED="1568173570034" ID="ID_1285060949" MODIFIED="1568173574370" TEXT="Navigation"/>
 <node CREATED="1568173802936" ID="ID_851590336" MODIFIED="1568173809889" TEXT="Flight Operations"/>
 <node CREATED="1568173868337" ID="ID_1290650653" MODIFIED="1568249056208" TEXT="Theory of Flight">
