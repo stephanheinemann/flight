@@ -4983,8 +4983,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571434581102" ID="ID_927901678" MODIFIED="1571434607037" TEXT="3.06 Magnetism and Magnetic Compass Systems">
@@ -5174,8 +5173,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571439120077" ID="ID_1500989687" MODIFIED="1571512333535">
@@ -5188,8 +5186,7 @@
       3.19 Central Air Data Computer (CADC)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571511813964" ID="ID_1899769253" MODIFIED="1571511832955" TEXT="Advanced Avionics">
 <node CREATED="1571511847731" ID="ID_1043332875" MODIFIED="1571511933660" TEXT="Inertial Guidance / Navigation">
@@ -5220,8 +5217,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571511867118" ID="ID_338059144" MODIFIED="1571512761610">
 <richcontent TYPE="NODE"><html>
@@ -5250,8 +5246,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571511876738" ID="ID_151244063" MODIFIED="1571511881224" TEXT="Flight Management">
@@ -5274,8 +5269,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571511912476" ID="ID_215595653" MODIFIED="1571516267572">
 <richcontent TYPE="NODE"><html>
@@ -5298,11 +5292,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571513515281" ID="ID_1744878599" MODIFIED="1571513565149" TEXT="Control and Display Unit (CDU) / Multifuntional Control and Display Unit (MCDU)"/>
-<node CREATED="1571513740236" ID="ID_361058262" MODIFIED="1571513749133" TEXT="Navigation Display (ND)"/>
 </node>
 <node CREATED="1571512526050" ID="ID_7721974" MODIFIED="1571516301368">
 <richcontent TYPE="NODE"><html>
@@ -5334,8 +5326,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571512616289" ID="ID_313198083" MODIFIED="1571512628497" TEXT="Engine and Fuel Data">
 <node CREATED="1571512631013" ID="ID_1477242060" MODIFIED="1571512829394">
@@ -5348,8 +5339,7 @@
       Full Authority Digital Engine Control (FADEC)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571512651917" ID="ID_198224209" MODIFIED="1571512844574">
 <richcontent TYPE="NODE"><html>
@@ -5361,13 +5351,12 @@
       Engine Control Unit (ECU)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571513597789" ID="ID_1954355217" MODIFIED="1571513615931" TEXT="Engine and Warning Display (EWD)"/>
 </node>
 <node CREATED="1571512691326" ID="ID_1356159857" MODIFIED="1571512696024" TEXT="Flight Guidance">
-<node CREATED="1571512701913" ID="ID_1067228576" MODIFIED="1571512857292">
+<node CREATED="1571512701913" ID="ID_1067228576" MODIFIED="1571526032383">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5376,9 +5365,19 @@
     <p>
       Flight Director (FD)
     </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        dual with master and comparator
+      </li>
+    </ul>
   </body>
 </html>
 </richcontent>
+<node CREATED="1571526470308" ID="ID_1676017106" MODIFIED="1571526828129" TEXT="Mode Control Panel (MCP) / Flight Control Unit (FCU)"/>
+<node CREATED="1571526659877" ID="ID_674644820" MODIFIED="1571526672077" TEXT="Flight Director Computer (FDC)"/>
 </node>
 <node CREATED="1571512714238" ID="ID_142311553" MODIFIED="1571512884973">
 <richcontent TYPE="NODE"><html>
@@ -5390,13 +5389,80 @@
       Auto Flight Control System&#160;&#160;(AFCS) / Autopilot (AP)
     </p>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1571513704646" ID="ID_507011782" MODIFIED="1571513720752" TEXT="Electronic Flight Information System (EFIS)">
+<node CREATED="1571516673519" ID="ID_1100983526" MODIFIED="1571516800491">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Attitude Director Indicator (ADI) / Primary Flight Display (PFD)
+    </p>
+  </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1571513704646" ID="ID_507011782" MODIFIED="1571513720752" TEXT="Electronic Flight Information System (EFIS)"/>
+<node CREATED="1571516689441" ID="ID_365662995" MODIFIED="1571516868895" TEXT="Electronic Horizontal Situation Indicator (EHSI) / Navigation Display (ND)"/>
+<node CREATED="1571516974599" ID="ID_1974457970" MODIFIED="1571516979150" TEXT="Symbol Generator"/>
+<node CREATED="1571516984538" ID="ID_1922557614" MODIFIED="1571517873919">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Control Unit / EFIS Control Panel
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        modes: VOR, ILS, MAP, PLAN
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1571513985884" ID="ID_1528798839" MODIFIED="1571513996878" TEXT="Datalink">
-<node CREATED="1571514001509" ID="ID_573452484" MODIFIED="1571514021599" TEXT="Controller Pilot Datalink Communications (CPDLC)"/>
+<node CREATED="1571517557366" ID="ID_314177880" MODIFIED="1571517581896">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Remote Light Sensor Unit (Display Brightness)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571521886441" ID="ID_1981135394" MODIFIED="1571524360736" TEXT="Head Up Display (HUD)">
+<node CREATED="1571524312636" ID="ID_199638551" MODIFIED="1571524330314" TEXT="Enhanced Vision System (EVS)"/>
+<node CREATED="1571524334787" ID="ID_1038362794" MODIFIED="1571524348210" TEXT="Synthetic Vision System (SVS)"/>
+</node>
+</node>
+<node CREATED="1571513985884" ID="ID_1528798839" MODIFIED="1571524658071" TEXT="Datalink / FANS">
+<node CREATED="1571514001509" ID="ID_573452484" MODIFIED="1571514021599" TEXT="Controller Pilot Datalink Communications (CPDLC)">
+<node CREATED="1571524948493" ID="ID_1574568340" MODIFIED="1571525015271">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Datalink Control Display Unit (DCDU)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node CREATED="1571514026350" ID="ID_354818846" MODIFIED="1571514057039" TEXT="Automatic Depdendent Surveillance Broadcast (ADS-B)"/>
 </node>
 </node>
@@ -5436,8 +5502,7 @@
       <i>Note that nothing of the modern avionics system integration is explained by Culhane. That includes CADC to INS/IRS to FMC to FMS with additional navigation sources such as GPS or DME and additional higher level systems such as AHRS etc. The same applies to the radio altimeter and higher level systems such as GPWS and autoland system. The best source for advanced avionics is the Oxford Aviation Manual or the Aviation Training Network videos. The same applies to many other ATPL topics. If the book really does a good job preparing for the Canadian ATPL writtens, it certainly does not when it comes to actual ATPL knowledge.</i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 <node CREATED="1568671752273" ID="ID_386732757" MODIFIED="1568672230580" TEXT="ATPL Textbook">
 <icon BUILTIN="idea"/>
@@ -5477,8 +5542,12 @@
 <node CREATED="1568672156942" ID="ID_1232469084" MODIFIED="1568672159670" TEXT="TP 14052 - Guidelines for Aircraft Ground - Icing Operations - Transport Canada"/>
 <node CREATED="1568672206364" ID="ID_556857642" MODIFIED="1568672208314" TEXT="TP 10643 - When in Doubt... - Transport Canada"/>
 </node>
-<node CREATED="1571511735162" ID="ID_564986092" MODIFIED="1571511742592" TEXT="Oxford Aviation Manual"/>
-<node CREATED="1571511750823" ID="ID_1637978389" MODIFIED="1571511759057" TEXT="Aviation Training Network"/>
+<node CREATED="1571511735162" ID="ID_564986092" MODIFIED="1571527269317" TEXT="Oxford Aviation Manual">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1571511750823" ID="ID_1637978389" MODIFIED="1571527253576" TEXT="Aviation Training Network">
+<icon BUILTIN="idea"/>
+</node>
 </node>
 </node>
 </map>
