@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
 <node CREATED="1568171989853" ID="ID_1998192836" MODIFIED="1571349118254" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1571415265885" TEXT="Air Law and Procedures">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1571608023082" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -2287,7 +2287,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1571415261879" TEXT="1.19 IFR Flight">
+<node CREATED="1569972736927" ID="ID_514782042" MODIFIED="1571604417502" TEXT="1.19 IFR Flight">
 <node CREATED="1569972903894" ID="ID_1927607732" MODIFIED="1569973965577">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2665,6 +2665,45 @@
     </ul>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1571604461685" ID="ID_284111892" MODIFIED="1571608011403">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Precision Approach Categories
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        CATI&#160;&#160;not below DH 200ft (BALT), VIS 800m, RVR 550m (2600, 1800)
+      </li>
+      <li>
+        CATII below DH 200ft but not below DH 100ft (RALT), RVR 300m (900)
+      </li>
+      <li>
+        CATIII
+
+        <ul>
+          <li>
+            CATIIIa below DH 100ft (RALT), not below RVR 200m (700)
+          </li>
+          <li>
+            CATIIIb below DH 50ft (RALT), below RVR 200m but not below 75m (250)
+          </li>
+          <li>
+            CATIIIc no minima / no external references required
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1570128169387" FOLDED="true" ID="ID_377019714" MODIFIED="1571166280288">
@@ -3143,7 +3182,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1570571426538" FOLDED="true" ID="ID_1271413056" MODIFIED="1571166304946" TEXT="1.28A Aerodromes and Airports">
+<node CREATED="1570571426538" FOLDED="true" ID="ID_1271413056" MODIFIED="1571604039129" TEXT="1.28A Aerodromes and Airports">
 <node CREATED="1570648881237" ID="ID_1814832997" MODIFIED="1570649085336">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3493,7 +3532,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571167665117" FOLDED="true" ID="ID_738976037" MODIFIED="1571187006156" TEXT="1.33 Operational and Emergency Equipment">
+<node CREATED="1571167665117" FOLDED="true" ID="ID_738976037" MODIFIED="1571604080046" TEXT="1.33 Operational and Emergency Equipment">
 <node CREATED="1571167683745" ID="ID_628907529" MODIFIED="1571167861193">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4520,7 +4559,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1571427676166" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1571608027060" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
 <node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1571420924909" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1571327873060">
@@ -4811,7 +4850,28 @@
 </node>
 </node>
 <node CREATED="1571424123744" ID="ID_146942940" MODIFIED="1571424133239" TEXT="2.19 Air Conditioning Systems"/>
-<node CREATED="1571424207731" ID="ID_1043737505" MODIFIED="1571424214506" TEXT="2.20 Autopilot Systems"/>
+<node CREATED="1571424207731" ID="ID_1043737505" MODIFIED="1571597006953">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2.20 Autopilot Systems
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i>Automatic flight control systems are collected under Advanced Avionics </i>
+    </p>
+    <p>
+      <i>in the Instruments section. Since integrated avionics systems are at the heart of any modern aircraft, avionics could be addressed separately.</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1568173515599" ID="ID_228371769" MODIFIED="1568173519521" TEXT="Instruments">
 <node CREATED="1571427682321" ID="ID_452501545" MODIFIED="1571427696475" TEXT="3.01 Pitot Static System"/>
@@ -5151,7 +5211,24 @@
 <node CREATED="1571438213436" ID="ID_338551828" MODIFIED="1571438225185" TEXT="3.15 Radio Magnetic Indicator (RMI)"/>
 <node CREATED="1571438315521" ID="ID_716177099" MODIFIED="1571438323148" TEXT="3.16 AoA Indicator"/>
 <node CREATED="1571438351263" ID="ID_1259682556" MODIFIED="1571438358297" TEXT="3.17 Engine Instruments"/>
-<node CREATED="1571438617782" ID="ID_1199287563" MODIFIED="1571438633269" TEXT="3.18 Ground Proximity Warning System (GPWS)">
+<node CREATED="1571438617782" ID="ID_1199287563" MODIFIED="1571608348116">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      3.18 Ground Proximity Warning System (GPWS)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i>Warning systems could be organized separately.</i>
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1571438663404" ID="ID_557132684" MODIFIED="1571509871382">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5250,7 +5327,7 @@
 </node>
 </node>
 <node CREATED="1571511876738" ID="ID_151244063" MODIFIED="1571511881224" TEXT="Flight Management">
-<node CREATED="1571511900989" ID="ID_127469512" MODIFIED="1571512777278" TEXT="Air Data Computer (ADC)"/>
+<node CREATED="1571511900989" ID="ID_127469512" MODIFIED="1571598621332" TEXT="Air Data Computer (ADC) / Central Air Data Computer (CADC)"/>
 <node CREATED="1571511907083" ID="ID_1442524877" MODIFIED="1571514603717">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5374,12 +5451,11 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571526470308" ID="ID_1676017106" MODIFIED="1571526828129" TEXT="Mode Control Panel (MCP) / Flight Control Unit (FCU)"/>
 <node CREATED="1571526659877" ID="ID_674644820" MODIFIED="1571526672077" TEXT="Flight Director Computer (FDC)"/>
 </node>
-<node CREATED="1571512714238" ID="ID_142311553" MODIFIED="1571512884973">
+<node CREATED="1571512714238" ID="ID_142311553" MODIFIED="1571598673797">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5388,8 +5464,104 @@
     <p>
       Auto Flight Control System&#160;&#160;(AFCS) / Autopilot (AP)
     </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        inner loop vs. outer loop
+      </li>
+      <li>
+        basic vs. complex modes
+      </li>
+    </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<node CREATED="1571596411107" ID="ID_187168671" MODIFIED="1571596447496" TEXT="Flight Augmentation System (FAS) / Flight Envelope Protection"/>
+<node CREATED="1571597431561" ID="ID_479720438" MODIFIED="1571597435950" TEXT="Yaw Damper"/>
+<node CREATED="1571597800238" ID="ID_437718041" MODIFIED="1571597804467" TEXT="Autotrim">
+<node CREATED="1571597939240" ID="ID_1213303883" MODIFIED="1571598871408">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mach Trim System
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i>The Mach trim system is independent of the automatic trim system.</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571598322448" ID="ID_705373333" MODIFIED="1571598337310" TEXT="Control Wheel Steering (CWS) / Tactile Steering"/>
+<node CREATED="1571597488979" ID="ID_48911752" MODIFIED="1571603097332">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Autoland
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        min. 2 fail-passive (soft) APs operating simultaneously
+      </li>
+      <li>
+        min. 3 fail-active (operational) APs operating simultaneously
+      </li>
+      <li>
+        LAND 2, LAND 3 annunciations
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1571609252892" ID="ID_1499882816" MODIFIED="1571609262345" TEXT="Runway Guidance System (RGS)"/>
+</node>
+<node CREATED="1571597495922" ID="ID_257490741" MODIFIED="1571609082180">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Autothrottle
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        target speed / Mach number vs. target thrust N1 / EPR
+      </li>
+      <li>
+        FCU vs. FMS source
+      </li>
+      <li>
+        disconnect and TOGA switches
+      </li>
+      <li>
+        does <b>not</b>&#160;control reverse thrust
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1571609409386" ID="ID_1641487280" MODIFIED="1571609938978" TEXT="Autothrottle Computer / Thrust Computer"/>
+</node>
+<node CREATED="1571598677320" ID="ID_500380032" MODIFIED="1571598684527" TEXT="Flight Control Computer (FCC)"/>
 </node>
 <node CREATED="1571513704646" ID="ID_507011782" MODIFIED="1571513720752" TEXT="Electronic Flight Information System (EFIS)">
 <node CREATED="1571516673519" ID="ID_1100983526" MODIFIED="1571516800491">
@@ -5402,8 +5574,8 @@
       Attitude Director Indicator (ADI) / Primary Flight Display (PFD)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<node CREATED="1571598057400" ID="ID_1495454146" MODIFIED="1571598070353" TEXT="Flight Mode Annunciator (FMA)"/>
 </node>
 <node CREATED="1571516689441" ID="ID_365662995" MODIFIED="1571516868895" TEXT="Electronic Horizontal Situation Indicator (EHSI) / Navigation Display (ND)"/>
 <node CREATED="1571516974599" ID="ID_1974457970" MODIFIED="1571516979150" TEXT="Symbol Generator"/>
@@ -5425,8 +5597,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571517557366" ID="ID_314177880" MODIFIED="1571517581896">
 <richcontent TYPE="NODE"><html>
@@ -5438,8 +5609,7 @@
       Remote Light Sensor Unit (Display Brightness)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571521886441" ID="ID_1981135394" MODIFIED="1571524360736" TEXT="Head Up Display (HUD)">
@@ -5459,8 +5629,7 @@
       Datalink Control Display Unit (DCDU)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571514026350" ID="ID_354818846" MODIFIED="1571514057039" TEXT="Automatic Depdendent Surveillance Broadcast (ADS-B)"/>
@@ -5486,7 +5655,7 @@
 <node CREATED="1568172671136" ID="ID_1053951536" MODIFIED="1568172701231" TEXT="Radio Communication and Navigation Aids"/>
 </node>
 <node CREATED="1568671682779" ID="ID_1658639647" MODIFIED="1571511537883" POSITION="right" TEXT="Study Material">
-<node CREATED="1568671700482" ID="ID_217896736" MODIFIED="1571511712592">
+<node CREATED="1568671700482" ID="ID_217896736" MODIFIED="1571595691756">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5499,10 +5668,11 @@
       
     </p>
     <p>
-      <i>Note that nothing of the modern avionics system integration is explained by Culhane. That includes CADC to INS/IRS to FMC to FMS with additional navigation sources such as GPS or DME and additional higher level systems such as AHRS etc. The same applies to the radio altimeter and higher level systems such as GPWS and autoland system. The best source for advanced avionics is the Oxford Aviation Manual or the Aviation Training Network videos. The same applies to many other ATPL topics. If the book really does a good job preparing for the Canadian ATPL writtens, it certainly does not when it comes to actual ATPL knowledge.</i>
+      <i>Note that nothing of the modern avionics system integration is explained by Culhane. That includes CADC to INS/IRS to FMC to FMS with additional navigation sources such as GPS or DME and additional higher level systems such as AHRS etc. The same applies to the radio altimeter and higher level systems such as GPWS and AFCS. The best source for advanced avionics is the Oxford Aviation Manual or the Aviation Training Network videos. The same applies to many other ATPL topics. If the book really does a good job preparing for the Canadian ATPL written exams, it certainly does not when it comes to actual ATPL knowledge.</i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="messagebox_warning"/>
 <node CREATED="1568671752273" ID="ID_386732757" MODIFIED="1568672230580" TEXT="ATPL Textbook">
 <icon BUILTIN="idea"/>
