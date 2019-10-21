@@ -5439,8 +5439,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571512651917" ID="ID_198224209" MODIFIED="1571512844574">
 <richcontent TYPE="NODE"><html>
@@ -5465,8 +5464,7 @@
       Engine Indicating and Crew Alerting System (EICAS) / Electronic Centralized Aircraft Monitor (ECAM)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571512691326" FOLDED="true" ID="ID_1356159857" MODIFIED="1571689751168" TEXT="Flight Guidance">
@@ -5538,8 +5536,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571597431561" ID="ID_479720438" MODIFIED="1571686856540">
 <richcontent TYPE="NODE"><html>
@@ -5559,8 +5556,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571597800238" ID="ID_437718041" MODIFIED="1571597804467" TEXT="Autotrim">
 <node CREATED="1571597939240" ID="ID_1213303883" MODIFIED="1571598871408">
@@ -5755,8 +5751,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571688235461" ID="ID_908331825" MODIFIED="1571688239177" TEXT="Altitude Alert"/>
 <node CREATED="1571688255182" ID="ID_1554790256" MODIFIED="1571688260091" TEXT="Overspeed and Stall Warning"/>
 <node CREATED="1571688272457" FOLDED="true" ID="ID_686133653" MODIFIED="1571692861595" TEXT="Ground Proximity Warning System (GPWS)">
@@ -5784,8 +5779,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571691534034" ID="ID_143390873" MODIFIED="1571691549890" TEXT="Runway Awareness and Advisory System (RAAS)"/>
 </node>
@@ -5822,8 +5816,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571688364420" FOLDED="true" ID="ID_945861241" MODIFIED="1571689379139" TEXT="Recording Systems">
@@ -5836,6 +5829,36 @@
 <node CREATED="1568173802936" ID="ID_851590336" MODIFIED="1568173809889" TEXT="Flight Operations"/>
 <node CREATED="1568173868337" ID="ID_1290650653" MODIFIED="1568249056208" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
+<node CREATED="1571698150394" ID="ID_330232180" MODIFIED="1571699835984">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      High Speed Flight
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Free stream Mach number vs. local Mach number (critical Mach number)
+      </li>
+      <li>
+        subsonic (to M0.7) - all local M &lt; 1.0
+      </li>
+      <li>
+        transonic (from M0.7 to M1.2) - some local M &gt; 1.0
+      </li>
+      <li>
+        supersonic (above M1.2) - all local M &gt; 1.0
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1568173906119" ID="ID_1943574224" MODIFIED="1568249061487" TEXT="Human Factors">
 <icon BUILTIN="closed"/>
@@ -5851,7 +5874,7 @@
 <node CREATED="1568172671136" ID="ID_1053951536" MODIFIED="1568172701231" TEXT="Radio Communication and Navigation Aids"/>
 </node>
 <node CREATED="1568671682779" ID="ID_1658639647" MODIFIED="1571511537883" POSITION="right" TEXT="Study Material">
-<node CREATED="1568671700482" ID="ID_217896736" MODIFIED="1571595691756">
+<node CREATED="1568671700482" ID="ID_217896736" MODIFIED="1571698186021">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5864,10 +5887,11 @@
       
     </p>
     <p>
-      <i>Note that nothing of the modern avionics system integration is explained by Culhane. That includes CADC to INS/IRS to FMC to FMS with additional navigation sources such as GPS or DME and additional higher level systems such as AHRS etc. The same applies to the radio altimeter and higher level systems such as GPWS and AFCS. The best source for advanced avionics is the Oxford Aviation Manual or the Aviation Training Network videos. The same applies to many other ATPL topics. If the book really does a good job preparing for the Canadian ATPL written exams, it certainly does not when it comes to actual ATPL knowledge.</i>
+      <i>Note that nothing of the modern avionics system integration is explained by Culhane. That includes CADC to INS/IRS to FMC to FMS with additional navigation sources such as GPS or DME and additional higher level systems such as AHRS etc. The same applies to the radio altimeter and higher level systems such as GPWS and AFCS. The best source for advanced avionics is the Oxford Aviation Manual or the Aviation Training Network videos. The same applies to many other ATPL topics such as Theory of Flight. If the book really does a good job preparing for the Canadian ATPL written exams, it certainly does not when it comes to actual ATPL knowledge.</i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="messagebox_warning"/>
 <node CREATED="1568671752273" ID="ID_386732757" MODIFIED="1568672230580" TEXT="ATPL Textbook">
 <icon BUILTIN="idea"/>
