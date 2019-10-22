@@ -5829,7 +5829,7 @@
 <node CREATED="1568173802936" ID="ID_851590336" MODIFIED="1568173809889" TEXT="Flight Operations"/>
 <node CREATED="1568173868337" ID="ID_1290650653" MODIFIED="1568249056208" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
-<node CREATED="1571698150394" ID="ID_330232180" MODIFIED="1571699835984">
+<node CREATED="1571698150394" ID="ID_330232180" MODIFIED="1571772756420">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5858,6 +5858,118 @@
   </body>
 </html>
 </richcontent>
+<node CREATED="1571772713614" ID="ID_1223245095" MODIFIED="1571774094314">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Transition to Supersonic Flight
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        normal vs. oblique shockwave (pressure, temperature, speed of sound)
+      </li>
+      <li>
+        up to M8.4: static pressure increases significantly within shockwave and reduces aerofoil pressure difference moving Cp rearwards initially (Mach tuck)
+      </li>
+      <li>
+        shockwave continues to move rearwards moving Cp forward again and causing high speed buffet, bottom surface shockwave forms
+      </li>
+      <li>
+        both shockwaves move aft until supersonic transition is complete while Cp moves rearward again, lift recovers, drag reaches maximum
+      </li>
+      <li>
+        bow wave forms after supersonic transition and attaches between M1.3 and M1.4 moving Cp to 50% cord rearward (upwash)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571705477861" ID="ID_1408529317" MODIFIED="1571774471671">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Climbing / Descending
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        changeover / crossover altitude
+
+        <ul>
+          <li>
+            climb maintaining constant Mach number below critical Mach number, TAS and CAS decrease above, TAS constant above tropopause - maximum operating Mach number Mmo
+          </li>
+          <li>
+            descent maintaining constant TAS below maximum operating TAS Vmo
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571705639473" ID="ID_1841809956" MODIFIED="1571774888019">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mach Tuck
+    </p>
+    <ul>
+      <li>
+        initial rearward movement of Cp causes Mach tuck
+      </li>
+      <li>
+        Mach trim adjusts longitudinal trim at high Mach numbers
+      </li>
+      <li>
+        Mach trim applies higher compensation to maintain linear stick force
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571774993544" ID="ID_1008799141" MODIFIED="1571775225855">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Straight and Level Flight
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        increasing AoA increases local Mach and decreases critical Mach number
+      </li>
+      <li>
+        upwash increases with higher Mach numbers above M0.4 (compression) increasing effective AoA
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571705497997" ID="ID_667976416" MODIFIED="1571705500617" TEXT="Turning"/>
 </node>
 </node>
 <node CREATED="1568173906119" ID="ID_1943574224" MODIFIED="1568249061487" TEXT="Human Factors">
@@ -5890,8 +6002,7 @@
       <i>Note that nothing of the modern avionics system integration is explained by Culhane. That includes CADC to INS/IRS to FMC to FMS with additional navigation sources such as GPS or DME and additional higher level systems such as AHRS etc. The same applies to the radio altimeter and higher level systems such as GPWS and AFCS. The best source for advanced avionics is the Oxford Aviation Manual or the Aviation Training Network videos. The same applies to many other ATPL topics such as Theory of Flight. If the book really does a good job preparing for the Canadian ATPL written exams, it certainly does not when it comes to actual ATPL knowledge.</i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 <node CREATED="1568671752273" ID="ID_386732757" MODIFIED="1568672230580" TEXT="ATPL Textbook">
 <icon BUILTIN="idea"/>
