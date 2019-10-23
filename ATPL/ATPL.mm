@@ -4558,7 +4558,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1571692804729" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1571786631057" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
 <node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1571420924909" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1571327873060">
@@ -5829,7 +5829,57 @@
 <node CREATED="1568173802936" ID="ID_851590336" MODIFIED="1568173809889" TEXT="Flight Operations"/>
 <node CREATED="1568173868337" ID="ID_1290650653" MODIFIED="1568249056208" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
-<node CREATED="1571698150394" ID="ID_330232180" MODIFIED="1571772756420">
+<node CREATED="1571791842521" ID="ID_416036682" MODIFIED="1571791853252" TEXT="4.01 General Theory of Flight">
+<node CREATED="1571791871556" ID="ID_1614108199" MODIFIED="1571791894566">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Load Factor
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        n = 1 / cos b
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571791977756" ID="ID_620857148" MODIFIED="1571792983377">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Stall Speed
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        1G stall speed: Vs1g = sqrt (W / cl 1/2 rho S )
+      </li>
+      <li>
+        nG stall speed Vsng = Vs sqrt (n)
+      </li>
+      <li>
+        weighted stall speed Vsw1 = Vsw2 sqrt (w1 / w2)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571698150394" ID="ID_330232180" MODIFIED="1571786598782">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5843,7 +5893,10 @@
     </p>
     <ul>
       <li>
-        Free stream Mach number vs. local Mach number (critical Mach number)
+        free stream airflow&#160;(reference airflow undisturbed by the aircraft) vs. effective airflow (disturbed by the aircraft - upwash)
+      </li>
+      <li>
+        free stream Mach number vs. local Mach number (critical Mach number)
       </li>
       <li>
         subsonic (to M0.7) - all local M &lt; 1.0
@@ -5856,8 +5909,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571772713614" ID="ID_1223245095" MODIFIED="1571774094314">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5888,8 +5940,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571705477861" ID="ID_1408529317" MODIFIED="1571774471671">
 <richcontent TYPE="NODE"><html>
@@ -5918,8 +5969,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571705639473" ID="ID_1841809956" MODIFIED="1571774888019">
 <richcontent TYPE="NODE"><html>
@@ -5942,10 +5992,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1571774993544" ID="ID_1008799141" MODIFIED="1571775225855">
+<node CREATED="1571774993544" ID="ID_1008799141" MODIFIED="1571791494146">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5962,12 +6011,17 @@
         increasing AoA increases local Mach and decreases critical Mach number
       </li>
       <li>
-        upwash increases with higher Mach numbers above M0.4 (compression) increasing effective AoA
+        upwash increases with higher Mach numbers above M0.4 (compression) increasing effective AoA and decreasing the maximum lift coefficient while increasing 1G stall speed
+      </li>
+      <li>
+        stall speed remains constant initially but increases with altitude as the Mach speed approaches M0.4 (at a constant EAS with increasing TAS and Mach number)
+      </li>
+      <li>
+        above M1.0 the maximum lift coefficient increases again
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571705497997" ID="ID_667976416" MODIFIED="1571705500617" TEXT="Turning"/>
 </node>
