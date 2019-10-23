@@ -5848,8 +5848,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571791977756" ID="ID_620857148" MODIFIED="1571792983377">
 <richcontent TYPE="NODE"><html>
@@ -5875,11 +5874,39 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1571795030438" ID="ID_1185899766" MODIFIED="1571795130828">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Lift and Drag
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        L = cl 1/2 rho S square (v)
+      </li>
+      <li>
+        D = cd 1/2 rho S square (v)
+      </li>
+      <li>
+        L / D = cl / cd
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
+<node CREATED="1571795140889" ID="ID_591096612" MODIFIED="1571795152185" TEXT="Span, Taper and Aspect Ratio"/>
+<node CREATED="1571795169821" ID="ID_1283277097" MODIFIED="1571795179785" TEXT="Mean Aerodynamic Cord (MAC)"/>
 </node>
-<node CREATED="1571698150394" ID="ID_330232180" MODIFIED="1571786598782">
+<node CREATED="1571698150394" ID="ID_330232180" MODIFIED="1571794961115">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5907,10 +5934,17 @@
       <li>
         supersonic (above M1.2) - all local M &gt; 1.0
       </li>
+      <li>
+        LSS = 39 sqrt ( t [K] )
+      </li>
+      <li>
+        M = TAS / LSS
+      </li>
     </ul>
   </body>
-</html></richcontent>
-<node CREATED="1571772713614" ID="ID_1223245095" MODIFIED="1571774094314">
+</html>
+</richcontent>
+<node CREATED="1571772713614" ID="ID_1223245095" MODIFIED="1571797657106">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5930,17 +5964,68 @@
         up to M8.4: static pressure increases significantly within shockwave and reduces aerofoil pressure difference moving Cp rearwards initially (Mach tuck)
       </li>
       <li>
-        shockwave continues to move rearwards moving Cp forward again and causing high speed buffet, bottom surface shockwave forms
+        above M8.4: shockwave continues to move rearwards moving Cp forward again and causing high speed buffet, bottom surface shockwave forms
       </li>
       <li>
         both shockwaves move aft until supersonic transition is complete while Cp moves rearward again, lift recovers, drag reaches maximum
       </li>
       <li>
-        bow wave forms after supersonic transition and attaches between M1.3 and M1.4 moving Cp to 50% cord rearward (upwash)
+        bow wave forms after supersonic transition and attaches between M1.3 and M1.4 moving Cp to 50% cord rearward (upwash), lift and drag coefficients decrease (level off)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571705639473" ID="ID_1841809956" MODIFIED="1571774888019">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mach Tuck
+    </p>
+    <ul>
+      <li>
+        initial rearward movement of Cp causes Mach tuck
+      </li>
+      <li>
+        Mach trim adjusts longitudinal trim at high Mach numbers
+      </li>
+      <li>
+        Mach trim applies higher compensation to maintain linear stick force
       </li>
     </ul>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1571794608360" ID="ID_1560593153" MODIFIED="1571797743372">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      High Speed Buffet
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        above M8.4: shock stall
+      </li>
+      <li>
+        turbulent air behind shockwave affecting the tail section
+      </li>
+      <li>
+        Mmo keeps the aircraft below high speed buffet
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1571705477861" ID="ID_1408529317" MODIFIED="1571774471671">
 <richcontent TYPE="NODE"><html>
@@ -5966,29 +6051,6 @@
             descent maintaining constant TAS below maximum operating TAS Vmo
           </li>
         </ul>
-      </li>
-    </ul>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1571705639473" ID="ID_1841809956" MODIFIED="1571774888019">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Mach Tuck
-    </p>
-    <ul>
-      <li>
-        initial rearward movement of Cp causes Mach tuck
-      </li>
-      <li>
-        Mach trim adjusts longitudinal trim at high Mach numbers
-      </li>
-      <li>
-        Mach trim applies higher compensation to maintain linear stick force
       </li>
     </ul>
   </body>
@@ -6023,7 +6085,90 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571705497997" ID="ID_667976416" MODIFIED="1571705500617" TEXT="Turning"/>
+<node CREATED="1571705497997" ID="ID_667976416" MODIFIED="1571798542321">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Turning
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        higher effective angle of attack in turns may increase local Mach number and decrease critical Mach number
+      </li>
+      <li>
+        bank angle at higher Mach numbers must not be excessive
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571798571089" ID="ID_351132262" MODIFIED="1571799018844">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Buffet Boundaries
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        low speed buffet boundary (stall)
+      </li>
+      <li>
+        high speed buffet boundary (exceeding Mmo)
+      </li>
+      <li>
+        aerodynamic ceiling / coffin corner (lsb = hsb)
+      </li>
+      <li>
+        1.3G altitude (0.3G margin)
+      </li>
+      <li>
+        buffet onset diagram (low speed and high speed buffet ends)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571799168963" ID="ID_1712252056" MODIFIED="1571799321684">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Wing Design
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        thinner wings (lower local Mach number)
+      </li>
+      <li>
+        swept wings (usually swept back, increased effective cord, lower local Mach number)
+      </li>
+      <li>
+        any design that reduces local Mach number and increases Mcrit
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1568173906119" ID="ID_1943574224" MODIFIED="1568249061487" TEXT="Human Factors">
