@@ -5826,10 +5826,319 @@
 </node>
 </node>
 <node CREATED="1568173570034" ID="ID_1285060949" MODIFIED="1568173574370" TEXT="Navigation"/>
-<node CREATED="1568173802936" ID="ID_851590336" MODIFIED="1568173809889" TEXT="Flight Operations"/>
-<node CREATED="1568173868337" ID="ID_1290650653" MODIFIED="1568249056208" TEXT="Theory of Flight">
+<node CREATED="1568173802936" ID="ID_851590336" MODIFIED="1568173809889" TEXT="Flight Operations">
+<node CREATED="1571851864451" FOLDED="true" ID="ID_416756973" MODIFIED="1571862754740">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      4.01 General Theory of Flight
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i>Note that Culhane organizes some Theory of Flight and Human Performance topics under Flight Operations and mixes Aerdynamics and Performance considerations.&#160; Hence, some points can be found under the main Theory of Flight and Human Factors branches.</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1571852091199" FOLDED="true" ID="ID_439706302" MODIFIED="1571862602336">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cruise / En-route Performance
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        maximum endurance and maximum range
+      </li>
+      <li>
+        reciprocating engine
+
+        <ul>
+          <li>
+            maximum endurance at minimum power required
+          </li>
+          <li>
+            maximum range at optimum speed to power ratio
+          </li>
+          <li>
+            maximum range at maximum L / D
+          </li>
+        </ul>
+      </li>
+      <li>
+        jet engine
+
+        <ul>
+          <li>
+            maximum endurance at minimum thrust required
+          </li>
+          <li>
+            maximum range at at optimum speed to thrust ratio
+          </li>
+          <li>
+            maximum endurance at maximum L / D
+          </li>
+          <li>
+            maximum range at max ( sqrt(cl) / cd)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1571856245414" ID="ID_1387124390" MODIFIED="1571859262369">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Endurance
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        endurance E = time / fuel
+      </li>
+      <li>
+        specific endurance SE = 1 / fuel flow (normalized)
+      </li>
+      <li>
+        jet engine:
+
+        <ul>
+          <li>
+            fuel flow = fuel per unit of thrust (specific fuel consumption) * thrust
+          </li>
+          <li>
+            FF = SFC * T
+          </li>
+          <li>
+            SFC is minimized for low OAT and high RPM at high altitudes
+          </li>
+          <li>
+            minimize thrust at highest possible altitude (lowest possible SFC)
+          </li>
+          <li>
+            maintain thrust for minimum drag Vmd
+          </li>
+        </ul>
+      </li>
+      <li>
+        prop/turboprop engine:
+
+        <ul>
+          <li>
+            fuel flow = fuel per unit of power (specific fuel consumption) * power
+          </li>
+          <li>
+            FF = SFC * P
+          </li>
+          <li>
+            SFC is minimized at low altitudes for piston (manifold pressure) and middle to high altitudes for turboprop engines (propeller effectiveness)
+          </li>
+          <li>
+            maintain power for minimum power Vmp
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571858496187" FOLDED="true" ID="ID_819240980" MODIFIED="1571862597924">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Range
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        range R = distance / fuel
+      </li>
+      <li>
+        specific air range SR = TAS / FF (divided by time)
+      </li>
+      <li>
+        maximize TAS while minimizing FF
+      </li>
+      <li>
+        jet engine:
+
+        <ul>
+          <li>
+            SR = TAS / SFC * T
+          </li>
+          <li>
+            T = D
+          </li>
+          <li>
+            maximize TAS while minimizing D (thrust curve tangent)
+          </li>
+          <li>
+            achieved at 1.32 Vmd = MRC (maximum range cruise)
+          </li>
+        </ul>
+      </li>
+      <li>
+        prop/turboprop engine:
+
+        <ul>
+          <li>
+            SR = TAS / SFC * P
+          </li>
+          <li>
+            maximize TAS while minimizing P (power curve tangent)
+          </li>
+          <li>
+            achieved at Vmd
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1571860546638" ID="ID_671274066" MODIFIED="1571860775426">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Wind Speed Changes
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        maximum range is affected by wind and can be adjusted
+      </li>
+      <li>
+        tangents in diagrams have wind speed origins (+HWC, -TWC)
+      </li>
+      <li>
+        head wind - increase speed to reduce time for head wind effect
+      </li>
+      <li>
+        tail wind - decrease speed to increase time for tail wind effect
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571860937457" ID="ID_1543397951" MODIFIED="1571861885344">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Altitude and Weight
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Optimum altitude provides highest specific range
+      </li>
+      <li>
+        jet engine:
+
+        <ul>
+          <li>
+            TAS increases and SFC decreases with altitude but Mach number increases and approaches Mmo above which drag increases
+          </li>
+          <li>
+            weight reduces during flight
+          </li>
+          <li>
+            speed has to be reduced to maintain maximum range
+          </li>
+          <li>
+            as speed and Mach number decrease, higher altitudes are possible
+          </li>
+          <li>
+            optimum altitude increases with decreasing weight
+          </li>
+          <li>
+            step climbs due to ATC restrictions
+          </li>
+        </ul>
+      </li>
+      <li>
+        prop/turboprop engine:
+
+        <ul>
+          <li>
+            full throttle altitude
+          </li>
+          <li>
+            maximum range altitude
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571862056501" ID="ID_1755246062" MODIFIED="1571862133458">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cruise Speeds
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        maximum range cruise (MRC)
+      </li>
+      <li>
+        long range cruise (LRC) with approximately 4% higher speed and 1% lower range
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1568173868337" ID="ID_1290650653" MODIFIED="1571862624734" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
-<node CREATED="1571791842521" ID="ID_416036682" MODIFIED="1571791853252" TEXT="4.01 General Theory of Flight">
+<node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1571862737839" TEXT="4.01 General Theory of Flight">
 <node CREATED="1571791871556" ID="ID_1614108199" MODIFIED="1571791894566">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5850,7 +6159,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571791977756" ID="ID_620857148" MODIFIED="1571792983377">
+<node CREATED="1571791977756" ID="ID_620857148" MODIFIED="1571851747379">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5864,6 +6173,9 @@
     </p>
     <ul>
       <li>
+        usual stall AoA 16-18deg
+      </li>
+      <li>
         1G stall speed: Vs1g = sqrt (W / cl 1/2 rho S )
       </li>
       <li>
@@ -5874,9 +6186,10 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1571795030438" ID="ID_1185899766" MODIFIED="1571795130828">
+<node CREATED="1571795030438" ID="ID_1185899766" MODIFIED="1571851654580">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5896,7 +6209,7 @@
         D = cd 1/2 rho S square (v)
       </li>
       <li>
-        L / D = cl / cd
+        L / D = cl / cd, max L / D usually at AoA 4-6deg
       </li>
     </ul>
   </body>
@@ -5906,14 +6219,14 @@
 <node CREATED="1571795140889" ID="ID_591096612" MODIFIED="1571795152185" TEXT="Span, Taper and Aspect Ratio"/>
 <node CREATED="1571795169821" ID="ID_1283277097" MODIFIED="1571795179785" TEXT="Mean Aerodynamic Cord (MAC)"/>
 </node>
-<node CREATED="1571698150394" ID="ID_330232180" MODIFIED="1571794961115">
+<node CREATED="1571698150394" FOLDED="true" ID="ID_330232180" MODIFIED="1571862642521">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      High Speed Flight
+      4.02 High Speed Flight
     </p>
     <p>
       
@@ -5944,7 +6257,7 @@
   </body>
 </html>
 </richcontent>
-<node CREATED="1571772713614" ID="ID_1223245095" MODIFIED="1571797657106">
+<node CREATED="1571772713614" ID="ID_1223245095" MODIFIED="1571849961307">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5967,7 +6280,7 @@
         above M8.4: shockwave continues to move rearwards moving Cp forward again and causing high speed buffet, bottom surface shockwave forms
       </li>
       <li>
-        both shockwaves move aft until supersonic transition is complete while Cp moves rearward again, lift recovers, drag reaches maximum
+        both shockwaves move aft until supersonic transition is complete while Cp moves rearward again, lift recovers, drag reaches maximum (wave drag)
       </li>
       <li>
         bow wave forms after supersonic transition and attaches between M1.3 and M1.4 moving Cp to 50% cord rearward (upwash), lift and drag coefficients decrease (level off)
@@ -5977,7 +6290,7 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1571705639473" ID="ID_1841809956" MODIFIED="1571774888019">
+<node CREATED="1571705639473" ID="ID_1841809956" MODIFIED="1571854070345">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5996,11 +6309,15 @@
       <li>
         Mach trim applies higher compensation to maintain linear stick force
       </li>
+      <li>
+        Mach trim = pitch trim compensator
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1571794608360" ID="ID_1560593153" MODIFIED="1571797743372">
+<node CREATED="1571794608360" ID="ID_1560593153" MODIFIED="1571854175301">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6021,6 +6338,9 @@
       </li>
       <li>
         Mmo keeps the aircraft below high speed buffet
+      </li>
+      <li>
+        overspeed warnings and protections
       </li>
     </ul>
   </body>
@@ -6106,8 +6426,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571798571089" ID="ID_351132262" MODIFIED="1571799018844">
 <richcontent TYPE="NODE"><html>
@@ -6139,30 +6458,98 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1571799168963" ID="ID_1712252056" MODIFIED="1571799321684">
+<node CREATED="1571799168963" ID="ID_1712252056" MODIFIED="1571853929280">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Wing Design
+      Aircraft Design
     </p>
     <p>
       
     </p>
     <ul>
       <li>
-        thinner wings (lower local Mach number)
+        wings
+
+        <ul>
+          <li>
+            any design that reduces local Mach number and increases Mcrit
+          </li>
+          <li>
+            thinner wings (lower local Mach number)
+          </li>
+          <li>
+            swept wings (usually swept back, increased effective cord, lower local Mach number)
+
+            <ul>
+              <li>
+                advantage: improved lateral and directional static stability, increased effective cord, low gust cl increase
+              </li>
+              <li>
+                disadvantages: high AoA at low speed, reduced maximum cl with higher stall speeds (increased take-off and landing distances), dutch roll tendency, pitch-up stall, Mach tuck, reduced primary control effectiveness
+              </li>
+              <li>
+                modifications: vortex generators, wing fences, stall strips, kruger flaps
+              </li>
+            </ul>
+          </li>
+          <li>
+            super-critical aerofoil
+          </li>
+        </ul>
       </li>
       <li>
-        swept wings (usually swept back, increased effective cord, lower local Mach number)
+        fuselage
       </li>
       <li>
-        any design that reduces local Mach number and increases Mcrit
+        bottleneck design
+
+        <ul>
+          <li>
+            area rule - cross-sectional area (engine mountings, flap tracks, wing root fairing)
+          </li>
+          <li>
+            bottleneck design
+          </li>
+        </ul>
+      </li>
+      <li>
+        engines
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571850468847" ID="ID_1891582572" MODIFIED="1571850978762">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Supersonic Flight
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Mach line, Mach angle, Mach cone (zone of influence)
+      </li>
+      <li>
+        higher Mach number -&gt; lower Mach angle
+      </li>
+      <li>
+        sin u = 1 / M
+      </li>
+      <li>
+        sonic bang (bow wave, tail wave) travels at ground speed
       </li>
     </ul>
   </body>
@@ -6170,12 +6557,13 @@
 </richcontent>
 </node>
 </node>
+<node CREATED="1571853418545" ID="ID_1219340529" MODIFIED="1571853423895" TEXT="Stability"/>
 </node>
 <node CREATED="1568173906119" ID="ID_1943574224" MODIFIED="1568249061487" TEXT="Human Factors">
 <icon BUILTIN="closed"/>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1571514085332" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1571858768659" POSITION="left" TEXT="SAMRA">
 <node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1568659766238" TEXT="Meteorology">
 <node CREATED="1568174438816" ID="ID_208638027" MODIFIED="1568174450928" TEXT="The Earth&apos;s Atmosphere"/>
 </node>
