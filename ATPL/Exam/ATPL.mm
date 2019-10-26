@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
 <node CREATED="1568171989853" ID="ID_1998192836" MODIFIED="1571349118254" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1571692801065" TEXT="Air Law and Procedures">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1571951774391" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -3254,7 +3254,7 @@
 </node>
 </node>
 <node CREATED="1570650825564" ID="ID_540856566" MODIFIED="1570650834223" TEXT="1.28B Munitions of War"/>
-<node CREATED="1570650867182" FOLDED="true" ID="ID_1934850657" MODIFIED="1571166309021">
+<node CREATED="1570650867182" FOLDED="true" ID="ID_1934850657" MODIFIED="1571951762434">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4558,7 +4558,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1571786631057" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1571951677179" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
 <node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1571420924909" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1571327873060">
@@ -4593,7 +4593,7 @@
 </node>
 <node CREATED="1571329870429" ID="ID_1307000896" MODIFIED="1571329877838" TEXT="2.03 Gas Turbine Engines"/>
 <node CREATED="1571331490943" ID="ID_887788242" MODIFIED="1571331495746" TEXT="2.04 Propellers"/>
-<node CREATED="1571335183691" FOLDED="true" ID="ID_1931384718" MODIFIED="1571420919177" TEXT="2.05 Fuels">
+<node CREATED="1571335183691" FOLDED="true" ID="ID_1931384718" MODIFIED="1571951675843" TEXT="2.05 Fuels">
 <node CREATED="1571335333208" ID="ID_1636736781" MODIFIED="1571335395404">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5827,7 +5827,7 @@
 </node>
 <node CREATED="1568173570034" ID="ID_1285060949" MODIFIED="1568173574370" TEXT="Navigation"/>
 <node CREATED="1568173802936" ID="ID_851590336" MODIFIED="1568173809889" TEXT="Flight Operations">
-<node CREATED="1571851864451" FOLDED="true" ID="ID_416756973" MODIFIED="1571862754740">
+<node CREATED="1571851864451" ID="ID_416756973" MODIFIED="1572034838730">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5843,10 +5843,9 @@
       <i>Note that Culhane organizes some Theory of Flight and Human Performance topics under Flight Operations and mixes Aerdynamics and Performance considerations.&#160; Hence, some points can be found under the main Theory of Flight and Human Factors branches.</i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
-<node CREATED="1571852091199" FOLDED="true" ID="ID_439706302" MODIFIED="1571862602336">
+<node CREATED="1571852091199" ID="ID_439706302" MODIFIED="1572034855385">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5897,9 +5896,8 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
-<node CREATED="1571856245414" ID="ID_1387124390" MODIFIED="1571859262369">
+</html></richcontent>
+<node CREATED="1571856245414" ID="ID_1387124390" MODIFIED="1572036648952">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5947,7 +5945,7 @@
             fuel flow = fuel per unit of power (specific fuel consumption) * power
           </li>
           <li>
-            FF = SFC * P
+            FF = SFC * P, P = T * TAS
           </li>
           <li>
             SFC is minimized at low altitudes for piston (manifold pressure) and middle to high altitudes for turboprop engines (propeller effectiveness)
@@ -5959,10 +5957,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1571858496187" FOLDED="true" ID="ID_819240980" MODIFIED="1571862597924">
+<node CREATED="1571858496187" ID="ID_819240980" MODIFIED="1572036686812">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6007,7 +6004,7 @@
 
         <ul>
           <li>
-            SR = TAS / SFC * P
+            SR = TAS / SFC * P, P = T * TAS
           </li>
           <li>
             maximize TAS while minimizing P (power curve tangent)
@@ -6019,8 +6016,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571860546638" ID="ID_671274066" MODIFIED="1571860775426">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6048,8 +6044,57 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+</node>
+<node CREATED="1572034859067" ID="ID_1125331148" MODIFIED="1572109929449">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Altitude
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        density decreases with altitude
+      </li>
+      <li>
+        at the same TAS (and lower CAS) less lift is produced and a higher AoA is to be flown to maintain straight and level
+      </li>
+      <li>
+        induced drag increases due to higher AoA, parasite drag decreases due to reduced density
+      </li>
+      <li>
+        the drag (thrust) curve shifts towards higher TAS
+      </li>
+      <li>
+        jet engine:
+
+        <ul>
+          <li>
+            Vmd and 1.32Vmd shift to higher TAS
+          </li>
+          <li>
+            same thrust required at higher TAS gives higher range
+          </li>
+          <li>
+            low range at low altitudes, high range at high altitudes
+          </li>
+          <li>
+            FF increases during descent and decreases during climb
+          </li>
+        </ul>
+      </li>
+      <li>
+        prop/turboprop engine:
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
 </node>
 <node CREATED="1571860937457" ID="ID_1543397951" MODIFIED="1571861885344">
 <richcontent TYPE="NODE"><html>
@@ -6105,8 +6150,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571862056501" ID="ID_1755246062" MODIFIED="1571862133458">
 <richcontent TYPE="NODE"><html>
@@ -6129,16 +6173,163 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 </node>
+<node CREATED="1571947425006" ID="ID_1900218758" MODIFIED="1571947439597" TEXT="4.02 Weight and Balance">
+<node CREATED="1571950107330" ID="ID_1908410094" MODIFIED="1571951362753">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Passenger Weights
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i>Note that the tables specify segmented weights for aircraft up to 25 PAX seats, but should only be used up to 11 PAX seats.</i>
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        actual weights (1-4 PAX seats)
+      </li>
+      <li>
+        standard weights (aircraft with at least 12 PAX seats)
+      </li>
+      <li>
+        segmented weights (aircraft with 5-11 PAX seats) with the following assumptions included:
+
+        <ul>
+          <li>
+            13 lbs carry-on baggage
+          </li>
+          <li>
+            8 lbs summer clothing, 14 lbs winter clothing
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1571950897158" ID="ID_281168524" MODIFIED="1571951120946">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Passenger Standard Weights
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Male: 212 lbs / 206 lbs
+      </li>
+      <li>
+        Female: 178 lbs / 172 lbs
+      </li>
+      <li>
+        Gender X same as Male
+      </li>
+      <li>
+        Infant up to 2 years: 30 lbs
+      </li>
+      <li>
+        Child with 2-11 years: 75 lbs
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
 </node>
-<node CREATED="1568173868337" ID="ID_1290650653" MODIFIED="1571862624734" TEXT="Theory of Flight">
+<node CREATED="1571951547700" ID="ID_1273451880" MODIFIED="1571951731875">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Standard Fuel and Oil Weights
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Avgas 6.0 lbs / USG
+      </li>
+      <li>
+        Jet A 6.8 lbs / USG
+      </li>
+      <li>
+        Jet B 6.5 lbs / USG, 7.8 lbs / ImpG
+      </li>
+      <li>
+        oil: 7.5 lbs / USG, 9.0 lbs / ImpG
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1571951982740" ID="ID_316693755" MODIFIED="1571952061152">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mean Aerodynamic Cord (MAC)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        %MAC = 100 * (ARM - LEMAC) / MAC
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1571952402300" ID="ID_1739109253" MODIFIED="1571952506971">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Weight Shift
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        w / W = d / D
+      </li>
+      <li>
+        shifting a small weight w by a big distance D causes a small CG shift of d in an aircraft of big weight W
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1571947322541" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
-<node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1571862737839" TEXT="4.01 General Theory of Flight">
+<node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1571941308277" TEXT="4.01 General Theory of Flight">
 <node CREATED="1571791871556" ID="ID_1614108199" MODIFIED="1571791894566">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6186,8 +6377,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571795030438" ID="ID_1185899766" MODIFIED="1571851654580">
 <richcontent TYPE="NODE"><html>
@@ -6213,13 +6403,12 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571795140889" ID="ID_591096612" MODIFIED="1571795152185" TEXT="Span, Taper and Aspect Ratio"/>
 <node CREATED="1571795169821" ID="ID_1283277097" MODIFIED="1571795179785" TEXT="Mean Aerodynamic Cord (MAC)"/>
 </node>
-<node CREATED="1571698150394" FOLDED="true" ID="ID_330232180" MODIFIED="1571862642521">
+<node CREATED="1571698150394" ID="ID_330232180" MODIFIED="1571941320055">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6255,8 +6444,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571772713614" ID="ID_1223245095" MODIFIED="1571849961307">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6287,8 +6475,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571705639473" ID="ID_1841809956" MODIFIED="1571854070345">
 <richcontent TYPE="NODE"><html>
@@ -6314,8 +6501,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571794608360" ID="ID_1560593153" MODIFIED="1571854175301">
 <richcontent TYPE="NODE"><html>
@@ -6344,8 +6530,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571705477861" ID="ID_1408529317" MODIFIED="1571774471671">
 <richcontent TYPE="NODE"><html>
@@ -6460,7 +6645,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571799168963" ID="ID_1712252056" MODIFIED="1571853929280">
+<node CREATED="1571799168963" ID="ID_1712252056" MODIFIED="1571941341661">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6488,7 +6673,7 @@
 
             <ul>
               <li>
-                advantage: improved lateral and directional static stability, increased effective cord, low gust cl increase
+                advantages: improved lateral and directional static stability, increased effective cord, low gust cl increase
               </li>
               <li>
                 disadvantages: high AoA at low speed, reduced maximum cl with higher stall speeds (increased take-off and landing distances), dutch roll tendency, pitch-up stall, Mach tuck, reduced primary control effectiveness
@@ -6523,8 +6708,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571850468847" ID="ID_1891582572" MODIFIED="1571850978762">
 <richcontent TYPE="NODE"><html>
@@ -6553,8 +6737,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571853418545" ID="ID_1219340529" MODIFIED="1571853423895" TEXT="Stability"/>
