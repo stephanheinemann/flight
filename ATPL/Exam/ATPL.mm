@@ -5827,7 +5827,7 @@
 </node>
 <node CREATED="1568173570034" ID="ID_1285060949" MODIFIED="1568173574370" TEXT="Navigation"/>
 <node CREATED="1568173802936" ID="ID_851590336" MODIFIED="1568173809889" TEXT="Flight Operations">
-<node CREATED="1571851864451" ID="ID_416756973" MODIFIED="1572034838730">
+<node CREATED="1571851864451" FOLDED="true" ID="ID_416756973" MODIFIED="1572115818798">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5845,7 +5845,7 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
-<node CREATED="1571852091199" ID="ID_439706302" MODIFIED="1572034855385">
+<node CREATED="1571852091199" FOLDED="true" ID="ID_439706302" MODIFIED="1572115816661">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5959,7 +5959,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571858496187" ID="ID_819240980" MODIFIED="1572036686812">
+<node CREATED="1571858496187" FOLDED="true" ID="ID_819240980" MODIFIED="1572115808854">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5986,10 +5986,7 @@
 
         <ul>
           <li>
-            SR = TAS / SFC * T
-          </li>
-          <li>
-            T = D
+            SR = TAS / SFC * T, T = D
           </li>
           <li>
             maximize TAS while minimizing D (thrust curve tangent)
@@ -6004,7 +6001,7 @@
 
         <ul>
           <li>
-            SR = TAS / SFC * P, P = T * TAS
+            SR = TAS / SFC * P, P = T * TAS, T = D
           </li>
           <li>
             maximize TAS while minimizing P (power curve tangent)
@@ -6016,7 +6013,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1571860546638" ID="ID_671274066" MODIFIED="1571860775426">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6046,7 +6044,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572034859067" ID="ID_1125331148" MODIFIED="1572109929449">
+<node CREATED="1572034859067" ID="ID_1125331148" MODIFIED="1572114439565">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6079,6 +6077,9 @@
             Vmd and 1.32Vmd shift to higher TAS
           </li>
           <li>
+            thrust available for TAS remains approximately constant
+          </li>
+          <li>
             same thrust required at higher TAS gives higher range
           </li>
           <li>
@@ -6087,14 +6088,30 @@
           <li>
             FF increases during descent and decreases during climb
           </li>
+          <li>
+            SFC decreases with decreasing temperature due to improved compression and expansion and with increasing N1
+          </li>
         </ul>
       </li>
       <li>
         prop/turboprop engine:
+
+        <ul>
+          <li>
+            power available decreases with increasing altitude and TAS
+          </li>
+          <li>
+            power required increases with increasing altitude and TAS
+          </li>
+          <li>
+            range remains approximately the same at higher altitude with higher TAS
+          </li>
+        </ul>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1571860937457" ID="ID_1543397951" MODIFIED="1571861885344">
 <richcontent TYPE="NODE"><html>
@@ -6152,7 +6169,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571862056501" ID="ID_1755246062" MODIFIED="1571862133458">
+<node CREATED="1571862056501" ID="ID_1755246062" MODIFIED="1572115741156">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6171,9 +6188,16 @@
       <li>
         long range cruise (LRC) with approximately 4% higher speed and 1% lower range
       </li>
+      <li>
+        cost index shifts speed in between MRC and LRC based on hourly variables (fuel cost, crew cost, maintenance cost, lease cost)
+      </li>
+      <li>
+        CI = HC / FC (cost index = hourly costs / fuel costs)
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
@@ -6327,10 +6351,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1571947322541" TEXT="Theory of Flight">
+<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1572115152558" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
-<node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1571941308277" TEXT="4.01 General Theory of Flight">
-<node CREATED="1571791871556" ID="ID_1614108199" MODIFIED="1571791894566">
+<node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1572115149945" TEXT="4.01 General Theory of Flight">
+<node CREATED="1571791871556" ID="ID_1614108199" MODIFIED="1572115126055">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6344,11 +6368,18 @@
     </p>
     <ul>
       <li>
-        n = 1 / cos b
+        n = 1 / cos b (bank angle change)
+      </li>
+      <li>
+        n = w / W (weight change)
+      </li>
+      <li>
+        Van = Va * sqrt ( n ) (manouvering speed with load factor change)
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1571791977756" ID="ID_620857148" MODIFIED="1571851747379">
 <richcontent TYPE="NODE"><html>
@@ -6408,7 +6439,7 @@
 <node CREATED="1571795140889" ID="ID_591096612" MODIFIED="1571795152185" TEXT="Span, Taper and Aspect Ratio"/>
 <node CREATED="1571795169821" ID="ID_1283277097" MODIFIED="1571795179785" TEXT="Mean Aerodynamic Cord (MAC)"/>
 </node>
-<node CREATED="1571698150394" ID="ID_330232180" MODIFIED="1571941320055">
+<node CREATED="1571698150394" FOLDED="true" ID="ID_330232180" MODIFIED="1572114978316">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6532,7 +6563,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571705477861" ID="ID_1408529317" MODIFIED="1571774471671">
+<node CREATED="1571705477861" ID="ID_1408529317" MODIFIED="1572114971928">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6555,11 +6586,15 @@
           <li>
             descent maintaining constant TAS below maximum operating TAS Vmo
           </li>
+          <li>
+            flat rated engines could limit the available thrust to below Mmo at all times
+          </li>
         </ul>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1571774993544" ID="ID_1008799141" MODIFIED="1571791494146">
 <richcontent TYPE="NODE"><html>
