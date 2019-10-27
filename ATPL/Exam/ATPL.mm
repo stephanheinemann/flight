@@ -6013,8 +6013,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571860546638" ID="ID_671274066" MODIFIED="1571860775426">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6110,8 +6109,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571860937457" ID="ID_1543397951" MODIFIED="1571861885344">
 <richcontent TYPE="NODE"><html>
@@ -6196,8 +6194,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -6244,7 +6241,7 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
-<node CREATED="1571950897158" ID="ID_281168524" MODIFIED="1571951120946">
+<node CREATED="1571950897158" ID="ID_281168524" MODIFIED="1572200149153">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6255,6 +6252,9 @@
     </p>
     <p>
       
+    </p>
+    <p>
+      <i>Note that standard weights have recently been updated and increased.</i>
     </p>
     <ul>
       <li>
@@ -6274,7 +6274,9 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<icon BUILTIN="messagebox_warning"/>
 </node>
 <node CREATED="1571951547700" ID="ID_1273451880" MODIFIED="1571951731875">
 <richcontent TYPE="NODE"><html>
@@ -6378,8 +6380,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571791977756" ID="ID_620857148" MODIFIED="1571851747379">
 <richcontent TYPE="NODE"><html>
@@ -6593,8 +6594,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571774993544" ID="ID_1008799141" MODIFIED="1571791494146">
 <richcontent TYPE="NODE"><html>
@@ -6791,14 +6791,14 @@
 <node CREATED="1568172671136" ID="ID_1053951536" MODIFIED="1568172701231" TEXT="Radio Communication and Navigation Aids"/>
 </node>
 <node CREATED="1568671682779" ID="ID_1658639647" MODIFIED="1571511537883" POSITION="right" TEXT="Study Material">
-<node CREATED="1568671700482" ID="ID_217896736" MODIFIED="1571698186021">
+<node CREATED="1568671700482" ID="ID_217896736" MODIFIED="1572197462102">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Culhane / Accelerated Aviation
+      <a href="http://www.acceleratedaviation.com/">Accelerated Aviation</a>
     </p>
     <p>
       
@@ -6807,14 +6807,49 @@
       <i>Note that nothing of the modern avionics system integration is explained by Culhane. That includes CADC to INS/IRS to FMC to FMS with additional navigation sources such as GPS or DME and additional higher level systems such as AHRS etc. The same applies to the radio altimeter and higher level systems such as GPWS and AFCS. The best source for advanced avionics is the Oxford Aviation Manual or the Aviation Training Network videos. The same applies to many other ATPL topics such as Theory of Flight. If the book really does a good job preparing for the Canadian ATPL written exams, it certainly does not when it comes to actual ATPL knowledge.</i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="messagebox_warning"/>
-<node CREATED="1568671752273" ID="ID_386732757" MODIFIED="1568672230580" TEXT="ATPL Textbook">
+<node CREATED="1568671752273" ID="ID_386732757" MODIFIED="1572199599792">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <a href="http://www.acceleratedaviation.com/website/updates/updates2020/gsc-atp.html">ATPL Textbook</a>
+    </p>
+  </body>
+</html>
+</richcontent>
 <icon BUILTIN="idea"/>
 </node>
-<node CREATED="1568671764479" ID="ID_1828774730" MODIFIED="1568671768441" TEXT="ATPL Workbook"/>
+<node CREATED="1568671764479" ID="ID_1828774730" MODIFIED="1572200061400">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <a href="http://www.acceleratedaviation.com/website/updates/updates2020/wtb-atp.html">ATPL Workbook</a>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1568671709147" ID="ID_1353218623" MODIFIED="1568671715740" TEXT="AeroCourse">
+</node>
+<node CREATED="1568671709147" ID="ID_1353218623" MODIFIED="1572197547300">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <a href="https://aerocourse.com/">AeroCourse</a>
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1568671773681" ID="ID_474000531" MODIFIED="1568671798374" TEXT="Aviation &amp; Meteorology"/>
 <node CREATED="1568671807552" ID="ID_1406305443" MODIFIED="1568671824509" TEXT="Airframe Icing Ammendum"/>
 <node CREATED="1568671831051" ID="ID_1489961178" MODIFIED="1568671836644" TEXT="ATPL Workbook"/>
@@ -6850,7 +6885,32 @@
 <node CREATED="1571511735162" ID="ID_564986092" MODIFIED="1571527269317" TEXT="Oxford Aviation Manual">
 <icon BUILTIN="idea"/>
 </node>
-<node CREATED="1571511750823" ID="ID_1637978389" MODIFIED="1571527253576" TEXT="Aviation Training Network">
+<node CREATED="1571511750823" ID="ID_1637978389" MODIFIED="1572197120312">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <a href="https://www.youtube.com/channel/UC1hofi8HECjJAIf-IZ3E-Pw">Aviation Training Network</a>
+    </p>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1572196651445" ID="ID_1854639486" MODIFIED="1572197145011">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <a href="https://www.boldmethod.com/">BoldMethod</a>
+    </p>
+  </body>
+</html>
+</richcontent>
 <icon BUILTIN="idea"/>
 </node>
 </node>
