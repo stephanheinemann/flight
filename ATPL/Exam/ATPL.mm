@@ -5827,7 +5827,7 @@
 </node>
 <node CREATED="1568173570034" ID="ID_1285060949" MODIFIED="1568173574370" TEXT="Navigation"/>
 <node CREATED="1568173802936" ID="ID_851590336" MODIFIED="1568173809889" TEXT="Flight Operations">
-<node CREATED="1571851864451" FOLDED="true" ID="ID_416756973" MODIFIED="1572115818798">
+<node CREATED="1571851864451" ID="ID_416756973" MODIFIED="1572288401755">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5845,7 +5845,502 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
-<node CREATED="1571852091199" FOLDED="true" ID="ID_439706302" MODIFIED="1572115816661">
+</node>
+<node CREATED="1571947425006" FOLDED="true" ID="ID_1900218758" MODIFIED="1572288230703">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      4.03 Weight and Balance
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1571950107330" FOLDED="true" ID="ID_1908410094" MODIFIED="1572288222146">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Passenger Weights
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i>Note that the tables specify segmented weights for aircraft up to 25 PAX seats, but should only be used up to 11 PAX seats.</i>
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        actual weights (1-4 PAX seats)
+      </li>
+      <li>
+        standard weights (aircraft with at least 12 PAX seats)
+      </li>
+      <li>
+        segmented weights (aircraft with 5-11 PAX seats) with the following assumptions included:
+
+        <ul>
+          <li>
+            13 lbs carry-on baggage
+          </li>
+          <li>
+            8 lbs summer clothing, 14 lbs winter clothing
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1571950897158" ID="ID_281168524" MODIFIED="1572200149153">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Passenger Standard Weights
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <i>Note that standard weights have recently been updated and increased.</i>
+    </p>
+    <ul>
+      <li>
+        Male: 212 lbs / 206 lbs
+      </li>
+      <li>
+        Female: 178 lbs / 172 lbs
+      </li>
+      <li>
+        Gender X same as Male
+      </li>
+      <li>
+        Infant up to 2 years: 30 lbs
+      </li>
+      <li>
+        Child with 2-11 years: 75 lbs
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node CREATED="1571951547700" ID="ID_1273451880" MODIFIED="1571951731875">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Standard Fuel and Oil Weights
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Avgas 6.0 lbs / USG
+      </li>
+      <li>
+        Jet A 6.8 lbs / USG
+      </li>
+      <li>
+        Jet B 6.5 lbs / USG, 7.8 lbs / ImpG
+      </li>
+      <li>
+        oil: 7.5 lbs / USG, 9.0 lbs / ImpG
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1571951982740" ID="ID_316693755" MODIFIED="1571952061152">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mean Aerodynamic Cord (MAC)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        %MAC = 100 * (ARM - LEMAC) / MAC
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1571952402300" ID="ID_1739109253" MODIFIED="1571952506971">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Weight Shift
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        w / W = d / D
+      </li>
+      <li>
+        shifting a small weight w by a big distance D causes a small CG shift of d in an aircraft of big weight W
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1572287214392" ID="ID_958651418" MODIFIED="1572288166536">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      4.04 V-Speeds
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        V1 = Vcef (engine failure recognition speed during take-off, reach V2 at 35ft AAE)
+      </li>
+      <li>
+        V2 (20% above Vs, 10% above Vmc)
+      </li>
+      <li>
+        V2min
+      </li>
+      <li>
+        V3 (flap retraction)
+      </li>
+      <li>
+        Va (manouvering speed)
+      </li>
+      <li>
+        Vb (max. gust penetration speed), Va ~ Vb
+      </li>
+      <li>
+        Vc (design cruise speed)
+      </li>
+      <li>
+        Vd (design diving speed)
+      </li>
+      <li>
+        Vdf = Mdf (demonstrated flight diving speed)
+      </li>
+      <li>
+        Vef &lt; Vcef (critical engine failure speed during take-off)
+      </li>
+      <li>
+        Vf (flap speed)
+      </li>
+      <li>
+        Vfe (max. flap extension speed)
+      </li>
+      <li>
+        Vfo (max. flap operating speed)
+      </li>
+      <li>
+        Vfto (final take-off speed)
+      </li>
+      <li>
+        Vle (max. landing gear extended speed)
+      </li>
+      <li>
+        Vlo (max. landing gear operation speed)
+      </li>
+      <li>
+        Vlof (lift-off speed)
+      </li>
+      <li>
+        Vmc (min. control speed)
+      </li>
+      <li>
+        Vmo = Mmo (max. operating speed)
+      </li>
+      <li>
+        Vmu (minimum unstick speed)
+      </li>
+      <li>
+        Vne (never exceed speed)
+      </li>
+      <li>
+        Vr (rotation speed)
+      </li>
+      <li>
+        Vra (rough air speed)
+      </li>
+      <li>
+        Vref = 1.3 Vs0 (approach speed reference)
+      </li>
+      <li>
+        Vs (clean stall speed)
+      </li>
+      <li>
+        Vs0 (stall speed in landing configuration)
+      </li>
+      <li>
+        Vs1 (stall speed in specific configuration)
+      </li>
+      <li>
+        Vsi (clean power-off stall speed)
+      </li>
+      <li>
+        Vsr (reference stall speed)
+      </li>
+      <li>
+        Vsr0 (reference stall speed in landing configuration)
+      </li>
+      <li>
+        Vsr1 (reference stall speed in specific configuration)
+      </li>
+      <li>
+        Vs1g (1G stall speed)
+      </li>
+      <li>
+        Vsw (stall warning speed)
+      </li>
+      <li>
+        Vx (best angle of climb speed)
+      </li>
+      <li>
+        Vy (best rate of climb speed)
+      </li>
+      <li>
+        Vxse (best single-engine angle of climb speed)
+      </li>
+      <li>
+        Vyse (best single-engine rate of climb speed)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572288362185" ID="ID_864967113" MODIFIED="1572291309587">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Performance
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        measured performance (test flight / pilot data)
+      </li>
+      <li>
+        gross / demonstrated performance (average pilot - measured performance reduced by a factor)
+      </li>
+      <li>
+        net performance (considers a safety factor to account for one worst-case in a million) - scheduled, planned, dispatched performance
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1572288258686" ID="ID_647059776" MODIFIED="1572292605262">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      4.05 Take-Off Performance
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Runway, Stopway, Clearway
+
+        <ul>
+          <li>
+            Clearway plane with max. 1.25% upward slope, max. 50% TORA usable
+          </li>
+        </ul>
+      </li>
+      <li>
+        ASDA = TORA + Stopway, ASDR
+      </li>
+      <li>
+        TODA = TORA + Clearway, TODR
+      </li>
+      <li>
+        TORA, TORR
+      </li>
+      <li>
+        Balance Field Length (shortest distance to reach V1)
+
+        <ul>
+          <li>
+            balanced field TODA = ASDA
+          </li>
+          <li>
+            unbalanced field TODA != ASDA (Stopway != Clearway)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1572288828692" ID="ID_1666788320" MODIFIED="1572295836550">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      V1 Factors
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        V1 increasing factors (higher abort speed)
+
+        <ul>
+          <li>
+            higher TOW
+          </li>
+          <li>
+            higher HWC / lower TWC (reduced stop distance)
+          </li>
+          <li>
+            upslope runway (reduced stop distance)
+          </li>
+          <li>
+            higher aerodrome elevation (density altitude - reduced performance)
+          </li>
+          <li>
+            higher ambient temperature (density altitude - reduced performance)
+          </li>
+          <li>
+            reduced engine output
+          </li>
+          <li>
+            excess runway available
+          </li>
+        </ul>
+      </li>
+      <li>
+        V1 decreasing factors (lower abort speed)
+
+        <ul>
+          <li>
+            lower TOW
+          </li>
+          <li>
+            lower HWC / higher TWC (increased stop distance)
+          </li>
+          <li>
+            downslope runway (increased stop distance)
+          </li>
+          <li>
+            lower aerodrome elevation (density altitude - improved performance)
+          </li>
+          <li>
+            low ambient temperature (density altitude - improved performance)
+          </li>
+          <li>
+            inoperative anti-skid (increased stop distance)
+          </li>
+          <li>
+            runway contamination (increased stop distance)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572294462845" ID="ID_1600738954" MODIFIED="1572294827909">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Formulas
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        distance for acceleration at a to v: s = 1/2 square (v) / a
+      </li>
+      <li>
+        acceleration in terms of forces - aerodynamic drag Da and wheel drag Dw depending on weight W, lift L and friction coefficient u
+      </li>
+      <li>
+        a = F / m = Da - Dw / m = Da - u (W - L) / m
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572296233015" ID="ID_39531424" MODIFIED="1572297152090">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Performance Factors
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        50% HWC and 150% TWC for performance calculations
+      </li>
+      <li>
+        1% runway slope accounts for 5% TODR change
+      </li>
+      <li>
+        damp runway: color change, wet runway: reflective (not more than 3mm depth), contaminated runway
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1572288287627" ID="ID_860230094" MODIFIED="1572288297154" TEXT="4.06 Climb Performance"/>
+<node CREATED="1572288315992" FOLDED="true" ID="ID_1443800187" MODIFIED="1572288474885" TEXT="4.07 Cruise Performance">
+<node CREATED="1571852091199" FOLDED="true" ID="ID_439706302" MODIFIED="1572288471082">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5959,7 +6454,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571858496187" FOLDED="true" ID="ID_819240980" MODIFIED="1572115808854">
+<node CREATED="1571858496187" FOLDED="true" ID="ID_819240980" MODIFIED="1572288467729">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6199,163 +6694,56 @@
 </node>
 </node>
 </node>
-<node CREATED="1571947425006" ID="ID_1900218758" MODIFIED="1571947439597" TEXT="4.02 Weight and Balance">
-<node CREATED="1571950107330" ID="ID_1908410094" MODIFIED="1571951362753">
+<node CREATED="1572288344914" ID="ID_132736715" MODIFIED="1572292407854">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Passenger Weights
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <i>Note that the tables specify segmented weights for aircraft up to 25 PAX seats, but should only be used up to 11 PAX seats.</i>
+      4.08 Landing Performance
     </p>
     <p>
       
     </p>
     <ul>
       <li>
-        actual weights (1-4 PAX seats)
-      </li>
-      <li>
-        standard weights (aircraft with at least 12 PAX seats)
-      </li>
-      <li>
-        segmented weights (aircraft with 5-11 PAX seats) with the following assumptions included:
-
-        <ul>
-          <li>
-            13 lbs carry-on baggage
-          </li>
-          <li>
-            8 lbs summer clothing, 14 lbs winter clothing
-          </li>
-        </ul>
-      </li>
-    </ul>
-  </body>
-</html></richcontent>
-<icon BUILTIN="messagebox_warning"/>
-<node CREATED="1571950897158" ID="ID_281168524" MODIFIED="1572200149153">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Passenger Standard Weights
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <i>Note that standard weights have recently been updated and increased.</i>
-    </p>
-    <ul>
-      <li>
-        Male: 212 lbs / 206 lbs
-      </li>
-      <li>
-        Female: 178 lbs / 172 lbs
-      </li>
-      <li>
-        Gender X same as Male
-      </li>
-      <li>
-        Infant up to 2 years: 30 lbs
-      </li>
-      <li>
-        Child with 2-11 years: 75 lbs
+        LDA, LDR
       </li>
     </ul>
   </body>
 </html>
 </richcontent>
-<icon BUILTIN="messagebox_warning"/>
 </node>
-<node CREATED="1571951547700" ID="ID_1273451880" MODIFIED="1571951731875">
+<node CREATED="1572292736395" ID="ID_1116530525" MODIFIED="1572293022926">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Standard Fuel and Oil Weights
+      Pavement Strength and Load
     </p>
     <p>
       
     </p>
     <ul>
       <li>
-        Avgas 6.0 lbs / USG
+        Pavement Classification Number (PCN) includes 10% safety margin
       </li>
       <li>
-        Jet A 6.8 lbs / USG
-      </li>
-      <li>
-        Jet B 6.5 lbs / USG, 7.8 lbs / ImpG
-      </li>
-      <li>
-        oil: 7.5 lbs / USG, 9.0 lbs / ImpG
+        Aircraft Classification Number (ACN)
       </li>
     </ul>
   </body>
-</html></richcontent>
-</node>
-<node CREATED="1571951982740" ID="ID_316693755" MODIFIED="1571952061152">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Mean Aerodynamic Cord (MAC)
-    </p>
-    <p>
-      
-    </p>
-    <ul>
-      <li>
-        %MAC = 100 * (ARM - LEMAC) / MAC
-      </li>
-    </ul>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1571952402300" ID="ID_1739109253" MODIFIED="1571952506971">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Weight Shift
-    </p>
-    <p>
-      
-    </p>
-    <ul>
-      <li>
-        w / W = d / D
-      </li>
-      <li>
-        shifting a small weight w by a big distance D causes a small CG shift of d in an aircraft of big weight W
-      </li>
-    </ul>
-  </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
-</node>
-<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1572115152558" TEXT="Theory of Flight">
+<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1572297669528" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
-<node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1572115149945" TEXT="4.01 General Theory of Flight">
+<node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1572297662494" TEXT="4.01 General Theory of Flight">
 <node CREATED="1571791871556" ID="ID_1614108199" MODIFIED="1572115126055">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6411,7 +6799,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571795030438" ID="ID_1185899766" MODIFIED="1571851654580">
+<node CREATED="1571795030438" FOLDED="true" ID="ID_1185899766" MODIFIED="1572297660888">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6436,6 +6824,42 @@
     </ul>
   </body>
 </html></richcontent>
+<node CREATED="1572293949192" FOLDED="true" ID="ID_322875550" MODIFIED="1572294098037" TEXT="Aerodynamic Drag">
+<node CREATED="1572294055205" FOLDED="true" ID="ID_1383169528" MODIFIED="1572294096492" TEXT="Parasite Drag">
+<node CREATED="1572294070034" ID="ID_1904042862" MODIFIED="1572294075453" TEXT="Form Drag"/>
+<node CREATED="1572294079265" ID="ID_1974399835" MODIFIED="1572294083772" TEXT="Interference Drag"/>
+<node CREATED="1572294087381" ID="ID_1127954097" MODIFIED="1572294090831" TEXT="Skin Friction"/>
+</node>
+<node CREATED="1572294063037" ID="ID_507910959" MODIFIED="1572294066357" TEXT="Induced Drag"/>
+</node>
+<node CREATED="1572293961408" ID="ID_1925308638" MODIFIED="1572293973841" TEXT="Hydrodynamic Drag (Floatplane)"/>
+<node CREATED="1572293978368" ID="ID_816459032" MODIFIED="1572294304898">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Wheel Drag (Landplane)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        friction coefficient
+      </li>
+      <li>
+        weight
+      </li>
+      <li>
+        decreases with increased lift during take-off
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1571795140889" ID="ID_591096612" MODIFIED="1571795152185" TEXT="Span, Taper and Aspect Ratio"/>
 <node CREATED="1571795169821" ID="ID_1283277097" MODIFIED="1571795179785" TEXT="Mean Aerodynamic Cord (MAC)"/>
@@ -6807,8 +7231,7 @@
       <i>Note that nothing of the modern avionics system integration is explained by Culhane. That includes CADC to INS/IRS to FMC to FMS with additional navigation sources such as GPS or DME and additional higher level systems such as AHRS etc. The same applies to the radio altimeter and higher level systems such as GPWS and AFCS. The best source for advanced avionics is the Oxford Aviation Manual or the Aviation Training Network videos. The same applies to many other ATPL topics such as Theory of Flight. If the book really does a good job preparing for the Canadian ATPL written exams, it certainly does not when it comes to actual ATPL knowledge.</i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 <node CREATED="1568671752273" ID="ID_386732757" MODIFIED="1572199599792">
 <richcontent TYPE="NODE"><html>
@@ -6820,8 +7243,7 @@
       <a href="http://www.acceleratedaviation.com/website/updates/updates2020/gsc-atp.html">ATPL Textbook</a>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="idea"/>
 </node>
 <node CREATED="1568671764479" ID="ID_1828774730" MODIFIED="1572200061400">
@@ -6834,8 +7256,7 @@
       <a href="http://www.acceleratedaviation.com/website/updates/updates2020/wtb-atp.html">ATPL Workbook</a>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1568671709147" ID="ID_1353218623" MODIFIED="1572197547300">
@@ -6848,8 +7269,7 @@
       <a href="https://aerocourse.com/">AeroCourse</a>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1568671773681" ID="ID_474000531" MODIFIED="1568671798374" TEXT="Aviation &amp; Meteorology"/>
 <node CREATED="1568671807552" ID="ID_1406305443" MODIFIED="1568671824509" TEXT="Airframe Icing Ammendum"/>
 <node CREATED="1568671831051" ID="ID_1489961178" MODIFIED="1568671836644" TEXT="ATPL Workbook"/>
@@ -6895,8 +7315,7 @@
       <a href="https://www.youtube.com/channel/UC1hofi8HECjJAIf-IZ3E-Pw">Aviation Training Network</a>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="idea"/>
 </node>
 <node CREATED="1572196651445" ID="ID_1854639486" MODIFIED="1572197145011">
@@ -6909,8 +7328,7 @@
       <a href="https://www.boldmethod.com/">BoldMethod</a>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="idea"/>
 </node>
 </node>
