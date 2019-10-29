@@ -5846,7 +5846,7 @@
 </html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 </node>
-<node CREATED="1571947425006" FOLDED="true" ID="ID_1900218758" MODIFIED="1572288230703">
+<node CREATED="1571947425006" FOLDED="true" ID="ID_1900218758" MODIFIED="1572384376518">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5857,7 +5857,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1571950107330" FOLDED="true" ID="ID_1908410094" MODIFIED="1572288222146">
+<node CREATED="1571950107330" FOLDED="true" ID="ID_1908410094" MODIFIED="1572384374454">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6136,7 +6136,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572288362185" ID="ID_864967113" MODIFIED="1572291309587">
+<node CREATED="1572288362185" ID="ID_864967113" MODIFIED="1572381905040">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6161,7 +6161,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572288258686" FOLDED="true" ID="ID_647059776" MODIFIED="1572373690258">
+<node CREATED="1572288258686" FOLDED="true" ID="ID_647059776" MODIFIED="1572381875864">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6331,7 +6331,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572288287627" ID="ID_860230094" MODIFIED="1572371405693">
+<node CREATED="1572288287627" FOLDED="true" ID="ID_860230094" MODIFIED="1572384298651">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6358,9 +6358,8 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
-<node CREATED="1572371365302" ID="ID_480925617" MODIFIED="1572375229847">
+</html></richcontent>
+<node CREATED="1572371365302" FOLDED="true" ID="ID_480925617" MODIFIED="1572383775976">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6377,7 +6376,7 @@
         climb gradient % = (excess thrust / weight) * 100
       </li>
       <li>
-        G = (T - Da / W) * 100, G = (V / H) * 100
+        G = ((T - Da) / W) * 100, G = (V / H) * 100
       </li>
       <li>
         maximum excess thrust at minimum drag (speed) Vmd
@@ -6402,7 +6401,7 @@
             thrust available decreases with speed
           </li>
           <li>
-            Vmp = Vx
+            Vmp = Vx, Vmp = 0.76Vmd
           </li>
         </ul>
       </li>
@@ -6497,11 +6496,10 @@
       <i>Flaps do not increase climb performance! Example: Stall recovery with flaps 10deg until end of white arc vs. retraction at safe increasing climb speed.</i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1572371376017" ID="ID_1286313910" MODIFIED="1572376680496">
+<node CREATED="1572371376017" FOLDED="true" ID="ID_1286313910" MODIFIED="1572381867879">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6531,7 +6529,7 @@
 
         <ul>
           <li>
-            thrust available constant with speed
+            thrust available constant with increasing TAS
           </li>
           <li>
             power available linear with speed
@@ -6546,7 +6544,7 @@
 
         <ul>
           <li>
-            thrust decreasing with speed
+            thrust decreasing with increasing TAS
           </li>
           <li>
             power available increases below linear with speed
@@ -6560,7 +6558,7 @@
   </body>
 </html>
 </richcontent>
-<node CREATED="1572375234211" ID="ID_1455168310" MODIFIED="1572377472746">
+<node CREATED="1572375234211" ID="ID_1455168310" MODIFIED="1572380829420">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6612,6 +6610,21 @@
           </li>
           <li>
             thrust and power available decrease with decreasing air density
+
+            <ul>
+              <li>
+                thrust available decreases more than TAS increases
+              </li>
+            </ul>
+          </li>
+          <li>
+            power required increases with decreasing air density
+
+            <ul>
+              <li>
+                drag remains constant (same CAS) while TAS increases
+              </li>
+            </ul>
           </li>
           <li>
             Vy CAS decreases while TAS increases slightly
@@ -6652,8 +6665,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1572288315992" FOLDED="true" ID="ID_1443800187" MODIFIED="1572370344864" TEXT="4.07 Cruise Performance">
-<node CREATED="1571852091199" FOLDED="true" ID="ID_439706302" MODIFIED="1572288471082">
+<node CREATED="1572288315992" FOLDED="true" ID="ID_1443800187" MODIFIED="1572382016107" TEXT="4.07 Cruise Performance">
+<node CREATED="1571852091199" ID="ID_439706302" MODIFIED="1572381299650">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7007,6 +7020,79 @@
 </node>
 </node>
 </node>
+<node CREATED="1572381914920" ID="ID_1801647917" MODIFIED="1572383268846">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Descent Performance
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        descent at TOD or after engine failure, depressurization
+      </li>
+      <li>
+        reduced thrust increases excess drag
+      </li>
+      <li>
+        to maintain speed, excess drag is compensated by weight apparent thrust
+      </li>
+      <li>
+        descent thrust = level thrust - weight apparent thrust
+      </li>
+      <li>
+        excess drag = weight apparent thrust
+      </li>
+      <li>
+        aerodynamic drag = thrust + weight apparent thrust
+      </li>
+      <li>
+        weight apparent thrust = weight * sin angle of descent
+      </li>
+      <li>
+        Da = T + Twa = T + W * sin g&#160;
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1572382075727" ID="ID_466214932" MODIFIED="1572384151192">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Angle of Descent / Descent Range
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        descent gradient % = (excess drag / weight) * 100
+      </li>
+      <li>
+        G = ((Da - T) / W) * 100
+      </li>
+      <li>
+        maximum excess drag at maximum speed without thrust
+      </li>
+      <li>
+        drag devices further increase angle of descent
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572382101682" ID="ID_1747781193" MODIFIED="1572382111952" TEXT="Rate of Descent / Descent Endurance"/>
+</node>
 <node CREATED="1572288344914" ID="ID_132736715" MODIFIED="1572292407854">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -7052,7 +7138,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1572297669528" TEXT="Theory of Flight">
+<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1572384351274" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
 <node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1572297662494" TEXT="4.01 General Theory of Flight">
 <node CREATED="1571791871556" ID="ID_1614108199" MODIFIED="1572115126055">
