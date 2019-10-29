@@ -5856,8 +5856,7 @@
       4.03 Weight and Balance
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571950107330" FOLDED="true" ID="ID_1908410094" MODIFIED="1572288222146">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6135,8 +6134,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572288362185" ID="ID_864967113" MODIFIED="1572291309587">
 <richcontent TYPE="NODE"><html>
@@ -6162,9 +6160,8 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
-<node CREATED="1572288258686" ID="ID_647059776" MODIFIED="1572292605262">
+</html></richcontent>
+<node CREATED="1572288258686" FOLDED="true" ID="ID_647059776" MODIFIED="1572373690258">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6209,8 +6206,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572288828692" ID="ID_1666788320" MODIFIED="1572295836550">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6280,8 +6276,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572294462845" ID="ID_1600738954" MODIFIED="1572294827909">
 <richcontent TYPE="NODE"><html>
@@ -6307,8 +6302,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572296233015" ID="ID_39531424" MODIFIED="1572297152090">
 <richcontent TYPE="NODE"><html>
@@ -6334,12 +6328,331 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1572288287627" ID="ID_860230094" MODIFIED="1572371405693">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      4.06 Climb Performance
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        weight apparent drag = weight * sin angle of climb
+      </li>
+      <li>
+        climb thrust = level thrust + weight apparent drag
+      </li>
+      <li>
+        excess thrust = weight apparent drag
+      </li>
+      <li>
+        excess thrust available = total thrust available - aerodynamic drag
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1572371365302" ID="ID_480925617" MODIFIED="1572375229847">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Best Angle of Climb
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        climb gradient % = (excess thrust / weight) * 100
+      </li>
+      <li>
+        G = (T - Da / W) * 100, G = (V / H) * 100
+      </li>
+      <li>
+        maximum excess thrust at minimum drag (speed) Vmd
+      </li>
+      <li>
+        jet engine:
+
+        <ul>
+          <li>
+            thrust available constant with speed
+          </li>
+          <li>
+            Vmd = Vx
+          </li>
+        </ul>
+      </li>
+      <li>
+        prop/turboprop engine:
+
+        <ul>
+          <li>
+            thrust available decreases with speed
+          </li>
+          <li>
+            Vmp = Vx
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1572371622100" ID="ID_1776468665" MODIFIED="1572377263921">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Factors
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        weight
+
+        <ul>
+          <li>
+            higher weight increases weight apparent drag and reduces excess thrust
+          </li>
+          <li>
+            higher weight increases lift required and, hence, induced drag and total aerodynamic drag
+          </li>
+          <li>
+            total drag curve shifts up and towards higher speeds and Vx increases
+          </li>
+        </ul>
+      </li>
+      <li>
+        configuration (flaps and gear)
+
+        <ul>
+          <li>
+            increase parasite drag
+          </li>
+          <li>
+            total drag curve shifts up and towards lower speeds and Vx decreases
+          </li>
+          <li>
+            flaps decrease climb performance but may improve overall take-off performance, retract flaps as soon as safe after take-off
+          </li>
+        </ul>
+      </li>
+      <li>
+        density altitude (engine and aerodynamic performance)
+
+        <ul>
+          <li>
+            thrust available decreases due to reduced engine performance
+          </li>
+          <li>
+            Vx CAS remains constant while TAS increases
+          </li>
+        </ul>
+      </li>
+      <li>
+        wind (ground gradient)
+
+        <ul>
+          <li>
+            air gradient vs. ground gradient (obstacle clearance)
+          </li>
+          <li>
+            HWC increases ground gradient and TWC decreases ground gradient
+          </li>
+          <li>
+            air gradient * wind factor = ground gradient
+          </li>
+          <li>
+            wind factor = TAS / TGS or TGS / TAS for HWC or TWC
+          </li>
+          <li>
+            50% HWC, 150% TWC
+          </li>
+          <li>
+            V = G * H / 100 (vertical distance)
+          </li>
+          <li>
+            H = V * 100 / G (horizontal distance)
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>
+      <i>Flaps do not increase climb performance! Example: Stall recovery with flaps 10deg until end of white arc vs. retraction at safe increasing climb speed.</i>
+    </p>
+  </body>
 </html>
 </richcontent>
 </node>
 </node>
-<node CREATED="1572288287627" ID="ID_860230094" MODIFIED="1572288297154" TEXT="4.06 Climb Performance"/>
-<node CREATED="1572288315992" FOLDED="true" ID="ID_1443800187" MODIFIED="1572288474885" TEXT="4.07 Cruise Performance">
+<node CREATED="1572371376017" ID="ID_1286313910" MODIFIED="1572376680496">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Best Rate of Climb
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        include velocity into angle of climb function
+      </li>
+      <li>
+        climb rate = (excess power / weight) * 100
+      </li>
+      <li>
+        Pa = Ta * TAS, Pr = Da * TAS
+      </li>
+      <li>
+        R = ((Ta TAS - Da TAS) / W) * 100 = (Pa - Pr / W) * 100
+      </li>
+      <li>
+        jet engine:
+
+        <ul>
+          <li>
+            thrust available constant with speed
+          </li>
+          <li>
+            power available linear with speed
+          </li>
+          <li>
+            maximum excess power at 1.32Vmd = Vy
+          </li>
+        </ul>
+      </li>
+      <li>
+        prop/turboprop engine:
+
+        <ul>
+          <li>
+            thrust decreasing with speed
+          </li>
+          <li>
+            power available increases below linear with speed
+          </li>
+          <li>
+            maximum excess power at Vmd = Vy
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1572375234211" ID="ID_1455168310" MODIFIED="1572377472746">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Factors
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        weight
+
+        <ul>
+          <li>
+            excess power depends on excess thrust
+          </li>
+          <li>
+            higher weight increases thrust and power required
+          </li>
+          <li>
+            power available curve shifts up and towards higher speeds and Vy increases
+          </li>
+        </ul>
+      </li>
+      <li>
+        configuration (flaps and gear)
+
+        <ul>
+          <li>
+            excess power depends on excess thrust
+          </li>
+          <li>
+            higher parasite drag increases thrust and power required
+          </li>
+          <li>
+            power available curve shifts up and towards lower speeds and Vy decreases
+          </li>
+        </ul>
+      </li>
+      <li>
+        density altitude (engine and aerodynamic performance)
+
+        <ul>
+          <li>
+            power available depends on thrust available
+          </li>
+          <li>
+            thrust and power available decrease with decreasing air density
+          </li>
+          <li>
+            Vy CAS decreases while TAS increases slightly
+          </li>
+          <li>
+            Vy decreases until reaching Vx at the absolute ceiling
+          </li>
+          <li>
+            service ceiling below absolute ceiling still provides a positive rate of climb
+          </li>
+        </ul>
+      </li>
+      <li>
+        wind
+
+        <ul>
+          <li>
+            wind has no effect on rate of climb
+          </li>
+          <li>
+            HWC: ground gradient increases while TAS decreases
+          </li>
+          <li>
+            TWC: ground gradient decreases while TAS increases
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      <i>Flaps do not increase climb performance! </i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1572288315992" FOLDED="true" ID="ID_1443800187" MODIFIED="1572370344864" TEXT="4.07 Cruise Performance">
 <node CREATED="1571852091199" FOLDED="true" ID="ID_439706302" MODIFIED="1572288471082">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6712,8 +7025,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572292736395" ID="ID_1116530525" MODIFIED="1572293022926">
 <richcontent TYPE="NODE"><html>
@@ -6736,8 +7048,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -6857,8 +7168,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571795140889" ID="ID_591096612" MODIFIED="1571795152185" TEXT="Span, Taper and Aspect Ratio"/>
