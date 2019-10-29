@@ -6331,7 +6331,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572288287627" FOLDED="true" ID="ID_860230094" MODIFIED="1572384298651">
+<node CREATED="1572288287627" FOLDED="true" ID="ID_860230094" MODIFIED="1572386383991">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6359,7 +6359,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572371365302" FOLDED="true" ID="ID_480925617" MODIFIED="1572383775976">
+<node CREATED="1572371365302" FOLDED="true" ID="ID_480925617" MODIFIED="1572386382293">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6407,8 +6407,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572371622100" ID="ID_1776468665" MODIFIED="1572377263921">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6556,8 +6555,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572375234211" ID="ID_1455168310" MODIFIED="1572380829420">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6660,8 +6658,7 @@
       <i>Flaps do not increase climb performance! </i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -7059,9 +7056,8 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
-<node CREATED="1572382075727" ID="ID_466214932" MODIFIED="1572384151192">
+</html></richcontent>
+<node CREATED="1572382075727" ID="ID_466214932" MODIFIED="1572386678156">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7086,12 +7082,146 @@
       <li>
         drag devices further increase angle of descent
       </li>
+      <li>
+        minimum excess drag at Vmd -&gt; L / D max (4deg AoA)
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      <i>Note that a windmilling propeller increases parasite drag and would shift the drag curve up and towards lower speeds. Why is the best glide speed higher than the best angle of climb speed? Should not Vmd be decreased in this scenario?</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1572386311793" ID="ID_877715852" MODIFIED="1572386607369">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Factors
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        weight
+
+        <ul>
+          <li>
+            higher weight increases weight apparent thrust
+          </li>
+          <li>
+            weight apparent thrust compensates excess drag
+          </li>
+          <li>
+            angle of descent is reduced
+          </li>
+        </ul>
+      </li>
+      <li>
+        configuration
+      </li>
+      <li>
+        density altitude
+      </li>
+      <li>
+        wind
+      </li>
     </ul>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1572382101682" ID="ID_1747781193" MODIFIED="1572382111952" TEXT="Rate of Descent / Descent Endurance"/>
+</node>
+<node CREATED="1572382101682" ID="ID_1747781193" MODIFIED="1572386257142">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Rate of Descent / Descent Endurance
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        include velocity into angle of descent function
+      </li>
+      <li>
+        G = (Da TAS - T TAS) / W * 100 = (Pr - Pa) / W * 100
+      </li>
+      <li>
+        descent gradient = excess power required / weight * 100
+      </li>
+      <li>
+        excess power required = power required - power available
+      </li>
+      <li>
+        minimum excess power required gives minimum rate of descent
+
+        <ul>
+          <li>
+            glide following engine failure
+          </li>
+          <li>
+            Vmp
+          </li>
+        </ul>
+      </li>
+      <li>
+        maximum excess power required gives maximum rate of descent
+
+        <ul>
+          <li>
+            emergency descent following depressurization
+          </li>
+          <li>
+            maximum speed with idle thrust and high drag devices
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1572386322235" ID="ID_1481419778" MODIFIED="1572386417644">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Factors
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        weight
+      </li>
+      <li>
+        configuration
+      </li>
+      <li>
+        density altitude
+      </li>
+      <li>
+        wind
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 <node CREATED="1572288344914" ID="ID_132736715" MODIFIED="1572292407854">
 <richcontent TYPE="NODE"><html>
