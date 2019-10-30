@@ -6137,7 +6137,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572288362185" FOLDED="true" ID="ID_864967113" MODIFIED="1572473280968">
+<node CREATED="1572288362185" ID="ID_864967113" MODIFIED="1572473400989">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6162,7 +6162,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572288258686" FOLDED="true" ID="ID_647059776" MODIFIED="1572473276388">
+<node CREATED="1572288258686" FOLDED="true" ID="ID_647059776" MODIFIED="1572474388809">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6194,6 +6194,9 @@
           <li>
             clear 35ft (A) or 50ft (B) obstacle - take-off screen height
           </li>
+          <li>
+            reference zero at V2
+          </li>
         </ul>
       </li>
       <li>
@@ -6213,7 +6216,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1572288828692" ID="ID_1666788320" MODIFIED="1572295836550">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6336,6 +6340,57 @@
     </ul>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1572473471395" ID="ID_1380699365" MODIFIED="1572474073552">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Segments
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        reference zero at 35ft V2
+      </li>
+      <li>
+        first segment from reference to gear retraction
+      </li>
+      <li>
+        second segment from gear retraction to safe (cleanup) height (400ft AGL)
+
+        <ul>
+          <li>
+            minimum OEI climb gradient
+
+            <ul>
+              <li>
+                two engine 2.4%
+              </li>
+              <li>
+                three engine 2.7%
+              </li>
+              <li>
+                four engine 3.0%
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        third segment from safe (cleanup) height for initial climb at maximum continuous power and Vyse
+      </li>
+      <li>
+        fourth (final) segment up to 1500ft or higher at maximum continuous power and Vyse
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1572288287627" FOLDED="true" ID="ID_860230094" MODIFIED="1572386383991">
@@ -6669,7 +6724,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1572288315992" FOLDED="true" ID="ID_1443800187" MODIFIED="1572382016107" TEXT="4.07 Cruise Performance">
+<node CREATED="1572288315992" ID="ID_1443800187" MODIFIED="1572474392571" TEXT="4.07 Cruise Performance">
 <node CREATED="1571852091199" ID="ID_439706302" MODIFIED="1572381299650">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6784,7 +6839,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571858496187" FOLDED="true" ID="ID_819240980" MODIFIED="1572288467729">
+<node CREATED="1571858496187" ID="ID_819240980" MODIFIED="1572475372457">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6801,7 +6856,7 @@
         range R = distance / fuel
       </li>
       <li>
-        specific air range SR = TAS / FF (divided by time)
+        specific air range SAR = TAS / FF (divided by time)
       </li>
       <li>
         maximize TAS while minimizing FF
@@ -6811,7 +6866,10 @@
 
         <ul>
           <li>
-            SR = TAS / SFC * T, T = D
+            specific fuel consumption SFC is fuel per unit of thrust
+          </li>
+          <li>
+            SAR = TAS / SFC * T, T = D
           </li>
           <li>
             maximize TAS while minimizing D (thrust curve tangent)
@@ -6826,7 +6884,10 @@
 
         <ul>
           <li>
-            SR = TAS / SFC * P, P = T * TAS, T = D
+            specific fuel consumption SFC is fuel per unit of power
+          </li>
+          <li>
+            SAR = TAS / SFC * P, P = T * TAS, T = D
           </li>
           <li>
             maximize TAS while minimizing P (power curve tangent)
@@ -6836,9 +6897,13 @@
           </li>
         </ul>
       </li>
+      <li>
+        specific ground range SGR = GS / FF (same expansion for engine types)
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1571860546638" ID="ID_671274066" MODIFIED="1571860775426">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6992,7 +7057,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571862056501" ID="ID_1755246062" MODIFIED="1572115741156">
+<node CREATED="1571862056501" ID="ID_1755246062" MODIFIED="1572474555724">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7017,9 +7082,13 @@
       <li>
         CI = HC / FC (cost index = hourly costs / fuel costs)
       </li>
+      <li>
+        maximum speed cruise (MSC) ignores costs and optimizes for Vmo / Mmo only
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
