@@ -4558,7 +4558,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" ID="ID_1056315969" MODIFIED="1572467021045" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1572473290052" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
 <node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1571420924909" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1571327873060">
@@ -6137,7 +6137,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572288362185" ID="ID_864967113" MODIFIED="1572381905040">
+<node CREATED="1572288362185" FOLDED="true" ID="ID_864967113" MODIFIED="1572473280968">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6162,7 +6162,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572288258686" FOLDED="true" ID="ID_647059776" MODIFIED="1572467770890">
+<node CREATED="1572288258686" FOLDED="true" ID="ID_647059776" MODIFIED="1572473276388">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6213,8 +6213,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572288828692" ID="ID_1666788320" MODIFIED="1572295836550">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -7180,8 +7179,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1572382101682" FOLDED="true" ID="ID_1747781193" MODIFIED="1572465015351">
@@ -7238,8 +7236,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572386322235" ID="ID_1481419778" MODIFIED="1572464690909">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -7297,12 +7294,11 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1572288344914" ID="ID_132736715" MODIFIED="1572467309083">
+<node CREATED="1572288344914" FOLDED="true" ID="ID_132736715" MODIFIED="1572473268542">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7344,8 +7340,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572465939217" ID="ID_1260584929" MODIFIED="1572465979705">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -7356,8 +7351,7 @@
       Spoilers / Air Brakes
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572465983218" ID="ID_1077920714" MODIFIED="1572466368285">
 <richcontent TYPE="NODE"><html>
@@ -7404,8 +7398,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572466629514" FOLDED="true" ID="ID_832074214" MODIFIED="1572468411108">
 <richcontent TYPE="NODE"><html>
@@ -7443,11 +7436,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572466995815" ID="ID_1746737723" MODIFIED="1572467005096" TEXT="Autobrake / Anti-Skid"/>
 </node>
-<node CREATED="1572467401040" ID="ID_586797977" MODIFIED="1572467676948">
+<node CREATED="1572467401040" FOLDED="true" ID="ID_586797977" MODIFIED="1572473266348">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7474,9 +7466,8 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
-<node CREATED="1572467725984" ID="ID_1848317413" MODIFIED="1572468364026">
+</html></richcontent>
+<node CREATED="1572467725984" ID="ID_1848317413" MODIFIED="1572472442061">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7524,9 +7515,63 @@
       </li>
       <li>
         wind
+
+        <ul>
+          <li>
+            HWC (50%) decreases GS and reduces LDR
+          </li>
+          <li>
+            TWC (150%) increases GS and increases LDR
+          </li>
+        </ul>
       </li>
       <li>
-        brake / friction coefficient
+        slope
+
+        <ul>
+          <li>
+            upslope decreases inertia and LDR (weight augmenting drag)
+          </li>
+          <li>
+            downslope increases inertia and LDR (weight augmenting thrust)
+          </li>
+          <li>
+            1% slope accounts for 5% LDR change
+          </li>
+        </ul>
+      </li>
+      <li>
+        surface (brake / friction coefficient / contamination)
+
+        <ul>
+          <li>
+            grass +15% LDR (increased drag but reduced friction), gravel, asphalt
+          </li>
+          <li>
+            damp (color), wet / standing water (not more 3mm), contaminated
+          </li>
+          <li>
+            snow, slush, ice (SNOWTAM)
+          </li>
+          <li>
+            runway friction index: 0 (minimum) to 1 (maximum)
+          </li>
+          <li>
+            hydroplaning
+
+            <ul>
+              <li>
+                dynamic
+              </li>
+              <li>
+                viscous
+              </li>
+              <li>
+                reverter rubber
+              </li>
+            </ul>
+          </li>
+        </ul>
       </li>
     </ul>
   </body>
