@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
 <node CREATED="1568171989853" ID="ID_1998192836" MODIFIED="1571349118254" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1571951774391" TEXT="Air Law and Procedures">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1572554133387" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -57,7 +57,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1571689252380">
+<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1572548904962">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1013,7 +1013,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569274115428" FOLDED="true" ID="ID_366097208" MODIFIED="1571166242785">
+<node CREATED="1569274115428" FOLDED="true" ID="ID_366097208" MODIFIED="1572548901528">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1903,7 +1903,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1569785860152" FOLDED="true" ID="ID_1710772429" MODIFIED="1571166264896" TEXT="1.14 VFR Flight">
+<node CREATED="1569785860152" FOLDED="true" ID="ID_1710772429" MODIFIED="1572548804182" TEXT="1.14 VFR Flight">
 <node CREATED="1569785872890" ID="ID_1158347982" MODIFIED="1570560102326">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2287,7 +2287,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1571689130825" TEXT="1.19 IFR Flight">
+<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1572553625107" TEXT="1.19 IFR Flight">
 <node CREATED="1569972903894" ID="ID_1927607732" MODIFIED="1569973965577">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3181,7 +3181,18 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1570571426538" FOLDED="true" ID="ID_1271413056" MODIFIED="1571604039129" TEXT="1.28A Aerodromes and Airports">
+<node CREATED="1570571426538" FOLDED="true" ID="ID_1271413056" MODIFIED="1572554129353">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.28A Aerodromes and Airports
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1570648881237" ID="ID_1814832997" MODIFIED="1570649085336">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3252,6 +3263,88 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1572551518140" ID="ID_6286741" MODIFIED="1572551999286">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      4.09 Visual Approach Systems
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        VASIS
+
+        <ul>
+          <li>
+            visible from at least 4NM
+          </li>
+          <li>
+            usually 3deg approach slope
+          </li>
+          <li>
+            6-9deg lateral obstruction clearance
+          </li>
+          <li>
+            3-bar EWH up to 25ft: lower bars
+          </li>
+          <li>
+            3-bar EWH up to 45ft: upper bars
+          </li>
+        </ul>
+      </li>
+      <li>
+        PAPI
+
+        <ul>
+          <li>
+            P1 EWH up to 10ft
+          </li>
+          <li>
+            P2 EWH up to 25ft
+          </li>
+          <li>
+            P3 EWH up to 45ft
+          </li>
+          <li>
+            APAPI
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572551536113" ID="ID_1955421897" MODIFIED="1572552408398">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      4.10 Runways and Runway Markings
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        TDZ first 3000ft or first third, whichever is less
+      </li>
+      <li>
+        hold 200ft from runway if no holding lines are marked
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572551553136" ID="ID_1379620220" MODIFIED="1572551566125" TEXT="4.11 Approach Runway Lighting Systems"/>
 </node>
 <node CREATED="1570650825564" ID="ID_540856566" MODIFIED="1570650834223" TEXT="1.28B Munitions of War"/>
 <node CREATED="1570650867182" FOLDED="true" ID="ID_1934850657" MODIFIED="1571951762434">
@@ -5827,7 +5920,7 @@
 </node>
 </node>
 <node CREATED="1568173570034" ID="ID_1285060949" MODIFIED="1568173574370" TEXT="Navigation"/>
-<node CREATED="1568173802936" ID="ID_851590336" MODIFIED="1568173809889" TEXT="Flight Operations">
+<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1572558232309" TEXT="Flight Operations">
 <node CREATED="1571851864451" ID="ID_416756973" MODIFIED="1572288401755">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6137,7 +6230,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572288362185" ID="ID_864967113" MODIFIED="1572473400989">
+<node CREATED="1572288362185" FOLDED="true" ID="ID_864967113" MODIFIED="1572551590216">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6162,7 +6255,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572288258686" FOLDED="true" ID="ID_647059776" MODIFIED="1572474388809">
+<node CREATED="1572288258686" FOLDED="true" ID="ID_647059776" MODIFIED="1572549746905">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6216,8 +6309,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572288828692" ID="ID_1666788320" MODIFIED="1572295836550">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6289,14 +6381,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572294462845" ID="ID_1600738954" MODIFIED="1572294827909">
+<node CREATED="1572294462845" ID="ID_1600738954" MODIFIED="1572549246499">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Formulas
+      Take-Off Distance
     </p>
     <p>
       
@@ -6313,9 +6405,10 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1572296233015" ID="ID_39531424" MODIFIED="1572297152090">
+<node CREATED="1572296233015" ID="ID_39531424" MODIFIED="1572549741201">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6335,11 +6428,12 @@
         1% runway slope accounts for 5% TODR change
       </li>
       <li>
-        damp runway: color change, wet runway: reflective (not more than 3mm depth), contaminated runway
+        damp runway: color change, wet runway: reflective (not more than 3mm, 0.125&quot; depth), contaminated runway
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1572473471395" ID="ID_1380699365" MODIFIED="1572474073552">
 <richcontent TYPE="NODE"><html>
@@ -6389,11 +6483,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1572288287627" FOLDED="true" ID="ID_860230094" MODIFIED="1572386383991">
+<node CREATED="1572288287627" FOLDED="true" ID="ID_860230094" MODIFIED="1572549224157">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6421,7 +6514,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572371365302" FOLDED="true" ID="ID_480925617" MODIFIED="1572386382293">
+<node CREATED="1572371365302" FOLDED="true" ID="ID_480925617" MODIFIED="1572549219814">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6560,7 +6653,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572371376017" FOLDED="true" ID="ID_1286313910" MODIFIED="1572381867879">
+<node CREATED="1572371376017" FOLDED="true" ID="ID_1286313910" MODIFIED="1572549222225">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6724,8 +6817,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1572288315992" ID="ID_1443800187" MODIFIED="1572474392571" TEXT="4.07 Cruise Performance">
-<node CREATED="1571852091199" ID="ID_439706302" MODIFIED="1572381299650">
+<node CREATED="1572288315992" FOLDED="true" ID="ID_1443800187" MODIFIED="1572548335811" TEXT="4.07 Cruise Performance">
+<node CREATED="1571852091199" FOLDED="true" ID="ID_439706302" MODIFIED="1572548332501">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6839,7 +6932,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571858496187" ID="ID_819240980" MODIFIED="1572475372457">
+<node CREATED="1571858496187" FOLDED="true" ID="ID_819240980" MODIFIED="1572548323631">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6902,8 +6995,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571860546638" ID="ID_671274066" MODIFIED="1571860775426">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -7087,13 +7179,12 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1572381914920" FOLDED="true" ID="ID_1801647917" MODIFIED="1572465022363">
+<node CREATED="1572381914920" FOLDED="true" ID="ID_1801647917" MODIFIED="1572549212031">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7133,7 +7224,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572382075727" FOLDED="true" ID="ID_466214932" MODIFIED="1572465013323">
+<node CREATED="1572382075727" FOLDED="true" ID="ID_466214932" MODIFIED="1572549206682">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7251,7 +7342,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572382101682" FOLDED="true" ID="ID_1747781193" MODIFIED="1572465015351">
+<node CREATED="1572382101682" FOLDED="true" ID="ID_1747781193" MODIFIED="1572549209941">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7367,7 +7458,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1572288344914" FOLDED="true" ID="ID_132736715" MODIFIED="1572473268542">
+<node CREATED="1572288344914" FOLDED="true" ID="ID_132736715" MODIFIED="1572551334794">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7508,14 +7599,14 @@
 </html></richcontent>
 <node CREATED="1572466995815" ID="ID_1746737723" MODIFIED="1572467005096" TEXT="Autobrake / Anti-Skid"/>
 </node>
-<node CREATED="1572467401040" FOLDED="true" ID="ID_586797977" MODIFIED="1572473266348">
+<node CREATED="1572467401040" FOLDED="true" ID="ID_586797977" MODIFIED="1572551327790">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Formulas
+      Landing Distance
     </p>
     <p>
       
@@ -7535,8 +7626,9 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
-<node CREATED="1572467725984" ID="ID_1848317413" MODIFIED="1572472442061">
+</html>
+</richcontent>
+<node CREATED="1572467725984" ID="ID_1848317413" MODIFIED="1572551295995">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7617,13 +7709,31 @@
             grass +15% LDR (increased drag but reduced friction), gravel, asphalt
           </li>
           <li>
-            damp (color), wet / standing water (not more 3mm), contaminated
+            damp (color), wet / standing water (not more 3mm, 0.125&quot;), contaminated
           </li>
           <li>
             snow, slush, ice (SNOWTAM)
           </li>
           <li>
             runway friction index: 0 (minimum) to 1 (maximum)
+          </li>
+          <li>
+            Candian Runway Friction Index (CRFI) 0 to 1
+
+            <ul>
+              <li>
+                required CRFI increases with increasing crosswind
+              </li>
+              <li>
+                10kts XWND require at least 0.3
+              </li>
+              <li>
+                15kts XWND require at least 0.4
+              </li>
+            </ul>
+          </li>
+          <li>
+            Runway Surface Condition (RSC) report
           </li>
           <li>
             hydroplaning
@@ -7636,7 +7746,19 @@
                 viscous
               </li>
               <li>
-                reverter rubber
+                reverted rubber
+              </li>
+              <li>
+                hydroplaning speed [kts] = f * sqrt (tire pressure [PSI]) with
+
+                <ul>
+                  <li>
+                    f = 9.0 for rotating tire
+                  </li>
+                  <li>
+                    f = 7.7 for non-rotating tire
+                  </li>
+                </ul>
               </li>
             </ul>
           </li>
@@ -7647,6 +7769,72 @@
 </html>
 </richcontent>
 </node>
+</node>
+<node CREATED="1572548404408" ID="ID_1887300560" MODIFIED="1572549032033">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Dispatch Limitations
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        propeller-driven large aircraft
+
+        <ul>
+          <li>
+            LDR &lt;= 70% LDA (according to AFM)
+          </li>
+        </ul>
+      </li>
+      <li>
+        turbojet aircraft
+
+        <ul>
+          <li>
+            LDR &lt;= 60% LDA (according to AFM)
+          </li>
+          <li>
+            LDR + 15% &lt;= 60% LDA for wet conditions
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>
+      <i>See Air Law and Procedures section (e.g., CARs 705 Dispatch Limitations). </i>
+    </p>
+    <p>
+      <i>Large aircraft MCTOW &gt; 5700kg.</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572549114642" ID="ID_150094341" MODIFIED="1572549161110">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Crosswind Limitations
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        useful approximation 20% Vso
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1572292736395" ID="ID_1116530525" MODIFIED="1572293022926">
@@ -7673,6 +7861,107 @@
 </html></richcontent>
 </node>
 </node>
+<node CREATED="1572554141069" FOLDED="true" ID="ID_927511902" MODIFIED="1572557883885" TEXT="4.12 Winter Operations">
+<node CREATED="1572555948811" ID="ID_1357109696" MODIFIED="1572555973583" TEXT="Critical Surface Contamination"/>
+<node CREATED="1572555977081" ID="ID_1971333746" MODIFIED="1572556036297">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Frozen Contaminants
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        sandpaper-like contamination -30% lift, +40% drag
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572556040527" ID="ID_1631408050" MODIFIED="1572556083224">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cold Soaking
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        fuel temperature 12-18 degC below ambient temperature
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572556101042" ID="ID_764774725" MODIFIED="1572556110321" TEXT="In-Flight Airframe Icing"/>
+<node CREATED="1572556114210" ID="ID_1287983036" MODIFIED="1572556120341" TEXT="Roll Upset"/>
+<node CREATED="1572556123820" ID="ID_875935384" MODIFIED="1572556128718" TEXT="Tail Plane Stall"/>
+<node CREATED="1572556136425" ID="ID_1984239504" MODIFIED="1572556175958">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Whiteout
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        water fog whiteout
+      </li>
+      <li>
+        blowing snow whiteout
+      </li>
+      <li>
+        precipitation whiteout
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1572556962634" ID="ID_377646237" MODIFIED="1572556978093" TEXT="4.13 Flight in Mountainous Areas"/>
+<node CREATED="1572557047861" ID="ID_143693363" MODIFIED="1572557155268">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      4.14 Flight in Rain
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        lower appearing objects (up to 5deg) due to refraction
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572557190835" ID="ID_1075646042" MODIFIED="1572557197676" TEXT="4.15 Wake Turbulence"/>
+<node CREATED="1572557447513" ID="ID_1466445145" MODIFIED="1572557460843" TEXT="4.16 Low Level Wind Shear"/>
+<node CREATED="1572557841087" ID="ID_1393851454" MODIFIED="1572557849804" TEXT="4.17 Landing Techniques"/>
+<node CREATED="1572557899101" ID="ID_7440582" MODIFIED="1572557905885" TEXT="4.18 Volcanic Ash"/>
 </node>
 <node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1572384351274" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
@@ -8135,6 +8424,8 @@
 </node>
 <node CREATED="1568173906119" ID="ID_1943574224" MODIFIED="1568249061487" TEXT="Human Factors">
 <icon BUILTIN="closed"/>
+<node CREATED="1572558188251" ID="ID_1717275900" MODIFIED="1572558206195" TEXT="4.19 Aviation Physiology"/>
+<node CREATED="1572558220602" ID="ID_128215353" MODIFIED="1572558228740" TEXT="4.20 Aviation Psychology"/>
 </node>
 </node>
 <node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1571858768659" POSITION="left" TEXT="SAMRA">
