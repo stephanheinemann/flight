@@ -3191,8 +3191,7 @@
       1.28A Aerodromes and Airports
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1570648881237" ID="ID_1814832997" MODIFIED="1570649085336">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3317,8 +3316,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572551536113" ID="ID_1955421897" MODIFIED="1572552408398">
 <richcontent TYPE="NODE"><html>
@@ -3341,8 +3339,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572551553136" ID="ID_1379620220" MODIFIED="1572551566125" TEXT="4.11 Approach Runway Lighting Systems"/>
 </node>
@@ -6405,8 +6402,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572296233015" ID="ID_39531424" MODIFIED="1572549741201">
 <richcontent TYPE="NODE"><html>
@@ -6432,8 +6428,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572473471395" ID="ID_1380699365" MODIFIED="1572474073552">
 <richcontent TYPE="NODE"><html>
@@ -7626,8 +7621,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572467725984" ID="ID_1848317413" MODIFIED="1572551295995">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -7766,8 +7760,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1572548404408" ID="ID_1887300560" MODIFIED="1572549032033">
@@ -7812,8 +7805,7 @@
       <i>Large aircraft MCTOW &gt; 5700kg.</i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572549114642" ID="ID_150094341" MODIFIED="1572549161110">
 <richcontent TYPE="NODE"><html>
@@ -7833,8 +7825,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1572292736395" ID="ID_1116530525" MODIFIED="1572293022926">
@@ -7881,8 +7872,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572556040527" ID="ID_1631408050" MODIFIED="1572556083224">
 <richcontent TYPE="NODE"><html>
@@ -7902,8 +7892,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572556101042" ID="ID_764774725" MODIFIED="1572556110321" TEXT="In-Flight Airframe Icing"/>
 <node CREATED="1572556114210" ID="ID_1287983036" MODIFIED="1572556120341" TEXT="Roll Upset"/>
@@ -7932,8 +7921,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1572556962634" ID="ID_377646237" MODIFIED="1572556978093" TEXT="4.13 Flight in Mountainous Areas"/>
@@ -7955,15 +7943,14 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572557190835" ID="ID_1075646042" MODIFIED="1572557197676" TEXT="4.15 Wake Turbulence"/>
 <node CREATED="1572557447513" ID="ID_1466445145" MODIFIED="1572557460843" TEXT="4.16 Low Level Wind Shear"/>
 <node CREATED="1572557841087" ID="ID_1393851454" MODIFIED="1572557849804" TEXT="4.17 Landing Techniques"/>
 <node CREATED="1572557899101" ID="ID_7440582" MODIFIED="1572557905885" TEXT="4.18 Volcanic Ash"/>
 </node>
-<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1572384351274" TEXT="Theory of Flight">
+<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1572642952396" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
 <node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1572297662494" TEXT="4.01 General Theory of Flight">
 <node CREATED="1571791871556" ID="ID_1614108199" MODIFIED="1572115126055">
@@ -8422,13 +8409,326 @@
 </node>
 <node CREATED="1571853418545" ID="ID_1219340529" MODIFIED="1571853423895" TEXT="Stability"/>
 </node>
-<node CREATED="1568173906119" ID="ID_1943574224" MODIFIED="1568249061487" TEXT="Human Factors">
+<node CREATED="1568173906119" FOLDED="true" ID="ID_1943574224" MODIFIED="1572644782410" TEXT="Human Factors">
 <icon BUILTIN="closed"/>
-<node CREATED="1572558188251" ID="ID_1717275900" MODIFIED="1572558206195" TEXT="4.19 Aviation Physiology"/>
-<node CREATED="1572558220602" ID="ID_128215353" MODIFIED="1572558228740" TEXT="4.20 Aviation Psychology"/>
+<node CREATED="1572558188251" FOLDED="true" ID="ID_1717275900" MODIFIED="1572644780408" TEXT="4.19 Aviation Physiology">
+<node CREATED="1572643026817" FOLDED="true" ID="ID_666486395" MODIFIED="1572644184579">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Hypoxia
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        hypoxic hypoxia
+      </li>
+      <li>
+        anaemic hypoxia
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1572643082008" ID="ID_465004204" MODIFIED="1572643229839">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Time of Useful Conciousness (TOC/TUC)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        10000ft hours
+      </li>
+      <li>
+        20000ft 5-12 minutes
+      </li>
+      <li>
+        30000ft 45-75 seconds
+      </li>
+      <li>
+        40000ft 13-30 seconds
+      </li>
+      <li>
+        45000ft 12-15 seconds or less
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572643265781" ID="ID_1454966316" MODIFIED="1572643300694">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Supplemental Oxygen
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        continuous flow
+      </li>
+      <li>
+        diluter demand
+      </li>
+      <li>
+        pressure demand
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572643325826" FOLDED="true" ID="ID_1984416719" MODIFIED="1572644178466">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cabin Pressurization
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        decompression
+      </li>
+      <li>
+        rapid decompression
+      </li>
+      <li>
+        explosive decompression
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1572643416442" ID="ID_1605916307" MODIFIED="1572643459962">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Decompression Sickness
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        nitrogen release - bends (same as scuba diving)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1571858768659" POSITION="left" TEXT="SAMRA">
+<node CREATED="1572643477285" ID="ID_1388532118" MODIFIED="1572643494118" TEXT="Carbon Monoxide Poisoning"/>
+</node>
+<node CREATED="1572643514421" ID="ID_941881103" MODIFIED="1572643517361" TEXT="Vision"/>
+<node CREATED="1572643522038" ID="ID_334579677" MODIFIED="1572643543723" TEXT="Ear / Orientation"/>
+<node CREATED="1572643548258" ID="ID_1505032021" MODIFIED="1572643558067" TEXT="Hypothermia"/>
+<node CREATED="1572643562997" ID="ID_471701871" MODIFIED="1572643591281">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Alcohol
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        12 hours bottle to throttle
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572643597211" ID="ID_1183748930" MODIFIED="1572643774041">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Medication
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        at least 24 hours after local anesthetics before flight
+      </li>
+      <li>
+        consult Aviation Medical Examiner
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572643611558" ID="ID_41671036" MODIFIED="1572643938439">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Scuba Diving
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        at least 12 hours after 33ft dive or less without decompression steps before flight up to 8000ft
+      </li>
+      <li>
+        at least 24 hours after decompression steps before flight up to 8000ft
+      </li>
+      <li>
+        at least 24 hours before any flight above 8000ft (due to possible decompression)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572643620002" ID="ID_499410307" MODIFIED="1572643762523">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Blood Donation
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        at least 48 hours after blood donation before flight
+      </li>
+      <li>
+        consult Aviation Medical Examiner
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572643959402" ID="ID_369845979" MODIFIED="1572643966217" TEXT="Hyperventilation"/>
+<node CREATED="1572643971066" ID="ID_1832774504" MODIFIED="1572643974013" TEXT="Fatique"/>
+<node CREATED="1572644013433" FOLDED="true" ID="ID_1360022806" MODIFIED="1572644167827">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Sensory Illusions
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1572644028659" ID="ID_440112128" MODIFIED="1572644041285" TEXT="Kinesthetic Illusions"/>
+<node CREATED="1572644046921" ID="ID_1265132419" MODIFIED="1572644062382" TEXT="Visual Illusions"/>
+<node CREATED="1572644067180" ID="ID_188695013" MODIFIED="1572644081098" TEXT="Vectional Illusions"/>
+<node CREATED="1572644084922" ID="ID_798073100" MODIFIED="1572644090891" TEXT="Vestibular Illusions"/>
+</node>
+</node>
+<node CREATED="1572558220602" FOLDED="true" ID="ID_128215353" MODIFIED="1572644770435" TEXT="4.20 Aviation Psychology">
+<node CREATED="1572644202151" ID="ID_1876853536" MODIFIED="1572644484197" TEXT="4.21 Pilot Equipment Materials Relationship"/>
+<node CREATED="1572644499849" ID="ID_762532305" MODIFIED="1572644521632" TEXT="4.22 Interpersonal Relations / Crew Resource Management (CRM)"/>
+<node CREATED="1572644542120" ID="ID_171943623" MODIFIED="1572644555627" TEXT="4.23 Controlled Flight Into Terrain (CFIT)"/>
+<node CREATED="1572644565261" ID="ID_1102859267" MODIFIED="1572644754271">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      4.24 Threat Error Management (TEM)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        threats
+
+        <ul>
+          <li>
+            environmental
+          </li>
+          <li>
+            organizational
+          </li>
+          <li>
+            latent
+          </li>
+        </ul>
+      </li>
+      <li>
+        errors
+      </li>
+      <li>
+        undesired aircraft states
+      </li>
+      <li>
+        outcomes
+      </li>
+      <li>
+        countermeasures
+
+        <ul>
+          <li>
+            planning
+          </li>
+          <li>
+            execution
+          </li>
+          <li>
+            review
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1572642990573" POSITION="left" TEXT="SAMRA">
 <node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1568659766238" TEXT="Meteorology">
 <node CREATED="1568174438816" ID="ID_208638027" MODIFIED="1568174450928" TEXT="The Earth&apos;s Atmosphere"/>
 </node>
