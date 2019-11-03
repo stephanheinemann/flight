@@ -5916,7 +5916,322 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173570034" ID="ID_1285060949" MODIFIED="1568173574370" TEXT="Navigation"/>
+<node CREATED="1568173570034" ID="ID_1285060949" MODIFIED="1568173574370" TEXT="Navigation">
+<node CREATED="1572722855252" ID="ID_1252294476" MODIFIED="1572722864170" TEXT="5.01 Basic Navigation Concepts"/>
+<node CREATED="1572723482390" ID="ID_787148057" MODIFIED="1572736767379" TEXT="5.02 Navigation Calculations">
+<node CREATED="1572727356484" ID="ID_590399689" MODIFIED="1572727496625">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Earth
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        oblate spheroid / geoid
+      </li>
+      <li>
+        compression
+
+        <ul>
+          <li>
+            polar diameter
+          </li>
+          <li>
+            equatorial diameter
+          </li>
+          <li>
+            23NM, 0.3% difference
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572725836143" ID="ID_653025251" MODIFIED="1572732706970">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Corrected / Actual True Airspeed
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        COAT (SAT) from IOAT (RAT / TAT) based on TAS
+
+        <ul>
+          <li>
+            Ram Rise Correction
+          </li>
+          <li>
+            Temperature Recovery Coefficient
+          </li>
+          <li>
+            Ram Air Temperature Tables
+          </li>
+        </ul>
+      </li>
+      <li>
+        TAS from COAT and PALT based on Standard Atmosphere
+
+        <ul>
+          <li>
+            -2degC per 1000ft up to 35000ft (Troposphere)
+          </li>
+          <li>
+            -56.5 up to 65000ft (Stratosphere)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572734453660" ID="ID_1199170951" MODIFIED="1572734547425">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      True Altitude
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        (IALT - ELEV / 1000ft) * dT(ISA) * 4ft = dALT
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1572736805785" ID="ID_930874924" MODIFIED="1572736844909" TEXT="5.03 Time and Longitude"/>
+<node CREATED="1572736814796" ID="ID_286450787" MODIFIED="1572736877799">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      5.04 Sun's True Bearing
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572736820506" ID="ID_1857503266" MODIFIED="1572736900726">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      5.05 Astro / Celestial Navigation
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572736905999" ID="ID_158440117" MODIFIED="1572736938068" TEXT="5.06 Maps and Charts / Projections">
+<node CREATED="1572736941182" ID="ID_1468522731" MODIFIED="1572738767649">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Projections
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        only precise at contact points with sphere
+      </li>
+      <li>
+        projection error increase with distance from contact points
+      </li>
+      <li>
+        ideal requirements
+
+        <ul>
+          <li>
+            correct angles (orthomorphism / conformality)
+
+            <ul>
+              <li>
+                highly critical for piloting and navigation
+              </li>
+            </ul>
+          </li>
+          <li>
+            correct and constant distances (scale)
+
+            <ul>
+              <li>
+                minimizing scale distortion at distance from contact points
+              </li>
+            </ul>
+          </li>
+          <li>
+            correct and constant areas
+
+            <ul>
+              <li>
+                not critical for piloting and navigation
+              </li>
+            </ul>
+          </li>
+          <li>
+            correct shapes
+
+            <ul>
+              <li>
+                not critical
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        rhumb lines should be straight lines (constant angle)
+      </li>
+      <li>
+        great circles should be straight lines (variable angle)
+      </li>
+      <li>
+        different projections to capture different properties
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1572736951961" ID="ID_1383404834" MODIFIED="1572739791322">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cylindrical
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Mercator Chart
+
+        <ul>
+          <li>
+            orthomorphic
+          </li>
+          <li>
+            rhumb Lines are straight lines
+          </li>
+        </ul>
+      </li>
+      <li>
+        Normal Mercator
+      </li>
+      <li>
+        Transverse Mercator
+      </li>
+      <li>
+        Oblique Mercator
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572736959045" ID="ID_1239272804" MODIFIED="1572739455089">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Conical
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Lambert (Conformal) Chart
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572736970504" ID="ID_1655967172" MODIFIED="1572737464154">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Azimuthal / Plane
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Polar Stereographic Chart
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572738932018" ID="ID_1810793888" MODIFIED="1572739195070">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Orthomorphism / Conformality
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        meridians and parallels need to intersect at right angles
+      </li>
+      <li>
+        scale and scale change needs to be constant in all directions
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
 <node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1572558232309" TEXT="Flight Operations">
 <node CREATED="1571851864451" ID="ID_416756973" MODIFIED="1572288401755">
 <richcontent TYPE="NODE"><html>
@@ -8433,8 +8748,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572643082008" ID="ID_465004204" MODIFIED="1572643229839">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -8465,8 +8779,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572643265781" ID="ID_1454966316" MODIFIED="1572643300694">
 <richcontent TYPE="NODE"><html>
@@ -8492,8 +8805,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572643325826" FOLDED="true" ID="ID_1984416719" MODIFIED="1572644178466">
 <richcontent TYPE="NODE"><html>
@@ -8519,8 +8831,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572643416442" ID="ID_1605916307" MODIFIED="1572643459962">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -8539,8 +8850,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1572643477285" ID="ID_1388532118" MODIFIED="1572643494118" TEXT="Carbon Monoxide Poisoning"/>
@@ -8566,8 +8876,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572643597211" ID="ID_1183748930" MODIFIED="1572643774041">
 <richcontent TYPE="NODE"><html>
@@ -8590,8 +8899,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572643611558" ID="ID_41671036" MODIFIED="1572643938439">
 <richcontent TYPE="NODE"><html>
@@ -8617,8 +8925,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572643620002" ID="ID_499410307" MODIFIED="1572643762523">
 <richcontent TYPE="NODE"><html>
@@ -8641,8 +8948,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572643959402" ID="ID_369845979" MODIFIED="1572643966217" TEXT="Hyperventilation"/>
 <node CREATED="1572643971066" ID="ID_1832774504" MODIFIED="1572643974013" TEXT="Fatique"/>
@@ -8656,8 +8962,7 @@
       Sensory Illusions
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572644028659" ID="ID_440112128" MODIFIED="1572644041285" TEXT="Kinesthetic Illusions"/>
 <node CREATED="1572644046921" ID="ID_1265132419" MODIFIED="1572644062382" TEXT="Visual Illusions"/>
 <node CREATED="1572644067180" ID="ID_188695013" MODIFIED="1572644081098" TEXT="Vectional Illusions"/>
@@ -8722,8 +9027,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
