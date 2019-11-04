@@ -5952,8 +5952,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572725836143" ID="ID_653025251" MODIFIED="1572732706970">
 <richcontent TYPE="NODE"><html>
@@ -5997,8 +5996,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572734453660" ID="ID_1199170951" MODIFIED="1572734547425">
 <richcontent TYPE="NODE"><html>
@@ -6018,8 +6016,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1572736805785" ID="ID_930874924" MODIFIED="1572736844909" TEXT="5.03 Time and Longitude"/>
@@ -6033,8 +6030,7 @@
       5.04 Sun's True Bearing
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572736820506" ID="ID_1857503266" MODIFIED="1572736900726">
 <richcontent TYPE="NODE"><html>
@@ -6046,11 +6042,10 @@
       5.05 Astro / Celestial Navigation
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572736905999" ID="ID_158440117" MODIFIED="1572736938068" TEXT="5.06 Maps and Charts / Projections">
-<node CREATED="1572736941182" ID="ID_1468522731" MODIFIED="1572738767649">
+<node CREATED="1572736941182" ID="ID_1468522731" MODIFIED="1572904412982">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6113,9 +6108,21 @@
       </li>
       <li>
         rhumb lines should be straight lines (constant angle)
+
+        <ul>
+          <li>
+            desired before modern computing allowed for frequent heading updates
+          </li>
+        </ul>
       </li>
       <li>
         great circles should be straight lines (variable angle)
+
+        <ul>
+          <li>
+            desired with modern computing available to minimize distances travelled
+          </li>
+        </ul>
       </li>
       <li>
         different projections to capture different properties
@@ -6124,81 +6131,72 @@
   </body>
 </html>
 </richcontent>
-<node CREATED="1572736951961" ID="ID_1383404834" MODIFIED="1572739791322">
+<node CREATED="1572890720279" ID="ID_858357422" MODIFIED="1572895946754">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Cylindrical
+      Convergency / Earth Convergence
     </p>
     <p>
       
     </p>
     <ul>
       <li>
-        Mercator Chart
+        convergency is the angle of inclination between two meridians at a particular latitude
 
         <ul>
           <li>
-            orthomorphic
+            0deg convergency at the equator
           </li>
           <li>
-            rhumb Lines are straight lines
+            change of longitude (longitudinal difference) at the poles
+          </li>
+          <li>
+            c = chlon sin lat
           </li>
         </ul>
       </li>
       <li>
-        Normal Mercator
+        great circle tracks change with applicable convergency
+
+        <ul>
+          <li>
+            c = chlon sin (mean lat)
+          </li>
+          <li>
+            DIID rule
+          </li>
+        </ul>
       </li>
       <li>
-        Transverse Mercator
+        conversion angle is the difference between great circle and rhumb line direction joining two points
+
+        <ul>
+          <li>
+            conversion angle is half the&#160;convergency
+          </li>
+          <li>
+            ca = c / 2 = chlon sin (mean lat) / 2
+          </li>
+        </ul>
       </li>
       <li>
-        Oblique Mercator
-      </li>
-    </ul>
-  </body>
-</html>
-</richcontent>
-</node>
-<node CREATED="1572736959045" ID="ID_1239272804" MODIFIED="1572739455089">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Conical
-    </p>
-    <p>
-      
-    </p>
-    <ul>
-      <li>
-        Lambert (Conformal) Chart
-      </li>
-    </ul>
-  </body>
-</html>
-</richcontent>
-</node>
-<node CREATED="1572736970504" ID="ID_1655967172" MODIFIED="1572737464154">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Azimuthal / Plane
-    </p>
-    <p>
-      
-    </p>
-    <ul>
-      <li>
-        Polar Stereographic Chart
+        departure is the distance between two meridians at a particular latitude
+
+        <ul>
+          <li>
+            departure track equals the rhumb line track
+          </li>
+          <li>
+            d = 60NM * chlon cos lat
+          </li>
+          <li>
+            d at lat A / d at lat B = cos A / cos B
+          </li>
+        </ul>
       </li>
     </ul>
   </body>
@@ -6226,9 +6224,268 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1572736951961" FOLDED="true" ID="ID_1383404834" MODIFIED="1572909193178">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cylindrical
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Mercator Chart
+
+        <ul>
+          <li>
+            parallel meridians
+          </li>
+          <li>
+            orthomorphic
+          </li>
+          <li>
+            <b>rhumb lines are straight</b>&#160;lines
+          </li>
+          <li>
+            <b>great circles are curved</b>&#160;lines concave to the equator (except meridians and the equator themselves)
+          </li>
+          <li>
+            constant scale change with latitude: 1 / cos lat = sec lat
+          </li>
+          <li>
+            latitude distances modified to match departure scale change
+          </li>
+        </ul>
+      </li>
+      <li>
+        Normal / Direct Mercator
+
+        <ul>
+          <li>
+            projection cylinder touches equator
+          </li>
+          <li>
+            scale(lat) = scale(equator) sec lat
+          </li>
+          <li>
+            scale(lat) within 1% scale(equator) for +/-8deg
+          </li>
+          <li>
+            distances have to be measured at mean latitude scale (local latitude)
+          </li>
+          <li>
+            shapes appear wider towards the poles
+          </li>
+          <li>
+            chart convergence only correct at equator - constant 0
+          </li>
+          <li>
+            scale(lat A) / scale(lat B) = sec A / sec B = cos B / cos A = DB / DA
+          </li>
+        </ul>
+      </li>
+      <li>
+        Transverse Mercator
+      </li>
+      <li>
+        Oblique Mercator
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1572903096009" ID="ID_1677202209" MODIFIED="1572904118563">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Radio Navigation Aids
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        propagation follows great circle
+      </li>
+      <li>
+        great circle is a curved line on Mercator charts
+      </li>
+      <li>
+        great circle bearings cannot be plotted directly
+      </li>
+      <li>
+        convert to rhumb line first using conversion angle
+      </li>
+      <li>
+        conversion angle is applied at the location where bearing is determined
+
+        <ul>
+          <li>
+            VOR at the station plotting the bearing from the station
+          </li>
+          <li>
+            ADF/NDB at the aircraft followed by plotting the reciprocal bearing from the station
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
+</node>
+<node CREATED="1572736959045" ID="ID_1239272804" MODIFIED="1572909016540">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Conical
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Conical Chart
+
+        <ul>
+          <li>
+            projection touches at the latitude of origin / tangency
+          </li>
+          <li>
+            apex angle = 2 * latitude of origin
+          </li>
+          <li>
+            chart convergence = change of longitude * sine latitude of origin
+          </li>
+          <li>
+            chart convergence factor / cone constant n = sin lato
+          </li>
+          <li>
+            cc = chlon * n
+          </li>
+        </ul>
+      </li>
+      <li>
+        Lambert (Conformal) Chart
+
+        <ul>
+          <li>
+            projection touches at two latitudes to minimize scale change
+          </li>
+          <li>
+            standard parallels
+          </li>
+          <li>
+            scale contracts in between standard parallels
+          </li>
+          <li>
+            scale expands outside standard parallels
+          </li>
+          <li>
+            latitude of origin features maximal contraction of scale
+          </li>
+          <li>
+            chart distortion increases with increasing distance between standard parallels
+          </li>
+          <li>
+            nearly constant scale (within 1% on the chart area) for 16deg standard parallel difference
+          </li>
+          <li>
+            orthomophic
+          </li>
+          <li>
+            non-perspective
+          </li>
+          <li>
+            cc = chlon * n
+          </li>
+          <li>
+            <b>rhumb lines are curved</b>&#160;lines concave to the nearer pole (except meridians)
+          </li>
+          <li>
+            <b>great circles are curved</b>&#160;lines concave to the latitude of origin (except meridians and parallel of origin)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572736970504" ID="ID_1655967172" MODIFIED="1572737464154">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Azimuthal / Plane
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Polar Stereographic Chart
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1572894868506" ID="ID_104786186" MODIFIED="1572897733210">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Earth Coordinate System / Scale
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        circumference 40000km = 21600NM
+      </li>
+      <li>
+        90deg lat along a Meridian 10000km = 5400NM
+      </li>
+      <li>
+        1' lat = 1NM
+      </li>
+      <li>
+        1deg lat = 60NM
+      </li>
+      <li>
+        1deg lon at the equator = 60NM
+      </li>
+      <li>
+        1NM = 6080ft = 1852m, 1m = 3.28ft, 1in = 2.54cm
+      </li>
+      <li>
+        representative fraction is the unitless relation between chart distance and real distance (scale) with 1 as numerator
+      </li>
+      <li>
+        RF = CL / ED
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
