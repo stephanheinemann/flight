@@ -5918,7 +5918,7 @@
 </node>
 <node CREATED="1568173570034" ID="ID_1285060949" MODIFIED="1568173574370" TEXT="Navigation">
 <node CREATED="1572722855252" ID="ID_1252294476" MODIFIED="1572722864170" TEXT="5.01 Basic Navigation Concepts"/>
-<node CREATED="1572723482390" ID="ID_787148057" MODIFIED="1572736767379" TEXT="5.02 Navigation Calculations">
+<node CREATED="1572723482390" FOLDED="true" ID="ID_787148057" MODIFIED="1573082390233" TEXT="5.02 Navigation Calculations">
 <node CREATED="1572727356484" ID="ID_590399689" MODIFIED="1572727496625">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6044,8 +6044,8 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572736905999" ID="ID_158440117" MODIFIED="1572736938068" TEXT="5.06 Maps and Charts / Projections">
-<node CREATED="1572736941182" ID="ID_1468522731" MODIFIED="1572904412982">
+<node CREATED="1572736905999" FOLDED="true" ID="ID_158440117" MODIFIED="1573082378869" TEXT="5.06 Maps and Charts / Projections">
+<node CREATED="1572736941182" FOLDED="true" ID="ID_1468522731" MODIFIED="1573082371283">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6224,7 +6224,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572736951961" ID="ID_1383404834" MODIFIED="1573069971782">
+<node CREATED="1572736951961" FOLDED="true" ID="ID_1383404834" MODIFIED="1573082363399">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6293,15 +6293,60 @@
       </li>
       <li>
         Transverse Mercator
+
+        <ul>
+          <li>
+            projection cylinder touches a selected meridian
+          </li>
+          <li>
+            datum meridian, meridian of tangency
+          </li>
+          <li>
+            scale correct only on the datum meridian
+          </li>
+          <li>
+            scale expands in the east / west directions (1% within +/-8deg)
+          </li>
+          <li>
+            orthomophic and non-perspective
+          </li>
+          <li>
+            <b>rhumb lines are complex curved</b>&#160;lines (except datum meridian, perpendicular meridian, and equator)
+          </li>
+          <li>
+            <b>great circles are complex curved</b>&#160;lines (except datum meridian, perpendicular meridian, perpendicular great circle, and equator)
+          </li>
+        </ul>
       </li>
       <li>
         Oblique Mercator
+
+        <ul>
+          <li>
+            projection cylinder touches a selected great circle (false equator) - great circle of tangency
+          </li>
+          <li>
+            scale correct only on the great circle of tangency (1% within&#160;+/-8deg)
+          </li>
+          <li>
+            scale expands orthogonally from the great circle of tangency
+          </li>
+          <li>
+            orthomophic and non-perspective
+          </li>
+          <li>
+            <b>rhumb lines are complex</b>&#160;curved lines (see exceptions above)
+          </li>
+          <li>
+            <b>great circles are complex</b>&#160;curved lines (see exceptions above)
+          </li>
+        </ul>
       </li>
     </ul>
   </body>
 </html>
 </richcontent>
-<node CREATED="1572903096009" ID="ID_1677202209" MODIFIED="1573070057600">
+<node CREATED="1572903096009" ID="ID_1677202209" MODIFIED="1573075426137">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6334,7 +6379,7 @@
             VDF/VOR at the station plotting the bearing from the station
           </li>
           <li>
-            ADF/NDB, WXR at the aircraft followed by plotting the reciprocal bearing from the station
+            ADF/NDB, AWR at the aircraft followed by plotting the reciprocal bearing from the station
           </li>
         </ul>
       </li>
@@ -6344,7 +6389,7 @@
 </richcontent>
 </node>
 </node>
-<node CREATED="1572736959045" ID="ID_1239272804" MODIFIED="1573069704423">
+<node CREATED="1572736959045" FOLDED="true" ID="ID_1239272804" MODIFIED="1573075753824">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6434,9 +6479,8 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
-<node CREATED="1573070036675" ID="ID_1078926843" MODIFIED="1573070313396">
+</html></richcontent>
+<node CREATED="1573070036675" ID="ID_1078926843" MODIFIED="1573075746270">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6466,10 +6510,10 @@
 
         <ul>
           <li>
-            VDF/VOR
+            VDF/VOR at the station plotting from the station
           </li>
           <li>
-            ADF/NDB, WXR
+            ADF/NDB, AWR at the aircraft followed by plotting the reciprocal bearing from a parallel false meridian the station
           </li>
         </ul>
       </li>
@@ -6479,7 +6523,7 @@
 </richcontent>
 </node>
 </node>
-<node CREATED="1572736970504" ID="ID_1655967172" MODIFIED="1572737464154">
+<node CREATED="1572736970504" ID="ID_1655967172" MODIFIED="1573078330785">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6494,10 +6538,53 @@
     <ul>
       <li>
         Polar Stereographic Chart
+
+        <ul>
+          <li>
+            scale correct at the pole but expands towards the equator
+          </li>
+          <li>
+            orthomophic and perspective
+          </li>
+          <li>
+            latitude + co-latitude = 90deg
+          </li>
+          <li>
+            projection angle = co-latitude / 2
+          </li>
+          <li>
+            scale change = sec sec (co-latitude / 2)
+          </li>
+          <li>
+            scale(lat) = scale(90) * sec sec (co-latitude / 2)
+          </li>
+          <li>
+            scale within 1% from 90 to 78deg (nearly constant)
+          </li>
+          <li>
+            constant chart convergence n = 1 (flat cone with point of tangency at the pole)
+          </li>
+          <li>
+            track angle changes with chart convergence which is equal to the change of longitude
+          </li>
+          <li>
+            chart convergence only correct (same as earth convergence) at the pole
+          </li>
+          <li>
+            <b>rhumb lines are curved</b>&#160;lines concave to the nearer pole
+          </li>
+          <li>
+            <b>great circles are curved</b>&#160;lines concave to the nearer pole
+          </li>
+          <li>
+            great circles can be considered straight lines near the pole for practical purposes for latitudes of more than 70deg
+          </li>
+        </ul>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1572894868506" ID="ID_104786186" MODIFIED="1573067775379">
@@ -6539,8 +6626,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
