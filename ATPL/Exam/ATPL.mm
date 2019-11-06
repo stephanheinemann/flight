@@ -6129,8 +6129,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572890720279" ID="ID_858357422" MODIFIED="1572895946754">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6200,8 +6199,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572738932018" ID="ID_1810793888" MODIFIED="1572739195070">
 <richcontent TYPE="NODE"><html>
@@ -6226,7 +6224,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572736951961" FOLDED="true" ID="ID_1383404834" MODIFIED="1572909193178">
+<node CREATED="1572736951961" ID="ID_1383404834" MODIFIED="1573069971782">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6286,7 +6284,10 @@
             chart convergence only correct at equator - constant 0
           </li>
           <li>
-            scale(lat A) / scale(lat B) = sec A / sec B = cos B / cos A = DB / DA
+            scale(lat A) / scale(lat B) = sec A / sec B = cos B / cos A
+          </li>
+          <li>
+            cos A / cos B = scale denominator (lat A) / scale denominator ( lat B)
           </li>
         </ul>
       </li>
@@ -6300,14 +6301,14 @@
   </body>
 </html>
 </richcontent>
-<node CREATED="1572903096009" ID="ID_1677202209" MODIFIED="1572904118563">
+<node CREATED="1572903096009" ID="ID_1677202209" MODIFIED="1573070057600">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Radio Navigation Aids
+      Plotting / Radio Navigation Aids
     </p>
     <p>
       
@@ -6330,10 +6331,10 @@
 
         <ul>
           <li>
-            VOR at the station plotting the bearing from the station
+            VDF/VOR at the station plotting the bearing from the station
           </li>
           <li>
-            ADF/NDB at the aircraft followed by plotting the reciprocal bearing from the station
+            ADF/NDB, WXR at the aircraft followed by plotting the reciprocal bearing from the station
           </li>
         </ul>
       </li>
@@ -6343,7 +6344,7 @@
 </richcontent>
 </node>
 </node>
-<node CREATED="1572736959045" ID="ID_1239272804" MODIFIED="1572909016540">
+<node CREATED="1572736959045" ID="ID_1239272804" MODIFIED="1573069704423">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6367,13 +6368,22 @@
             apex angle = 2 * latitude of origin
           </li>
           <li>
+            chart convergence != earth convergence
+          </li>
+          <li>
             chart convergence = change of longitude * sine latitude of origin
           </li>
           <li>
-            chart convergence factor / cone constant n = sin lato
+            chart convergence factor (cone constant) n = sin lato
           </li>
           <li>
             cc = chlon * n
+          </li>
+          <li>
+            angle between rhumb line and straight line - not great circle
+          </li>
+          <li>
+            cc / 2 = chlon sin lato / 2 = chlon * n / 2
           </li>
         </ul>
       </li>
@@ -6417,12 +6427,57 @@
           <li>
             <b>great circles are curved</b>&#160;lines concave to the latitude of origin (except meridians and parallel of origin)
           </li>
+          <li>
+            great circles can be considered straight lines for practical purposes (small error)
+          </li>
         </ul>
       </li>
     </ul>
   </body>
 </html>
 </richcontent>
+<node CREATED="1573070036675" ID="ID_1078926843" MODIFIED="1573070313396">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Plotting / Radio Navigation Aids
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        great circles can be considered straight lines for practical purposes
+      </li>
+      <li>
+        scale can be considered constant
+      </li>
+      <li>
+        distances can be measured directly
+      </li>
+      <li>
+        radio navigation propagation follows great circle
+      </li>
+      <li>
+        bearings can be plotted directly
+
+        <ul>
+          <li>
+            VDF/VOR
+          </li>
+          <li>
+            ADF/NDB, WXR
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1572736970504" ID="ID_1655967172" MODIFIED="1572737464154">
 <richcontent TYPE="NODE"><html>
@@ -6445,7 +6500,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572894868506" ID="ID_104786186" MODIFIED="1572897733210">
+<node CREATED="1572894868506" ID="ID_104786186" MODIFIED="1573067775379">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6480,7 +6535,7 @@
         representative fraction is the unitless relation between chart distance and real distance (scale) with 1 as numerator
       </li>
       <li>
-        RF = CL / ED
+        RF = CL / ED = 1 : (ED / CL)
       </li>
     </ul>
   </body>
