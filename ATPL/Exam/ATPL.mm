@@ -5916,7 +5916,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173570034" ID="ID_1285060949" MODIFIED="1573168932865" TEXT="Navigation">
+<node CREATED="1568173570034" FOLDED="true" ID="ID_1285060949" MODIFIED="1573248090567" TEXT="Navigation">
 <node CREATED="1572722855252" ID="ID_1252294476" MODIFIED="1572722864170" TEXT="5.01 Basic Navigation Concepts"/>
 <node CREATED="1572723482390" FOLDED="true" ID="ID_787148057" MODIFIED="1573082487386" TEXT="5.02 Navigation Calculations">
 <node CREATED="1572727356484" ID="ID_590399689" MODIFIED="1572727496625">
@@ -6144,8 +6144,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573169018768" ID="ID_1562830959" MODIFIED="1573170032689">
 <richcontent TYPE="NODE"><html>
@@ -6207,8 +6206,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573170166867" ID="ID_662519637" MODIFIED="1573170634695">
 <richcontent TYPE="NODE"><html>
@@ -6246,8 +6244,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573170986383" ID="ID_1377713186" MODIFIED="1573171067151">
 <richcontent TYPE="NODE"><html>
@@ -6273,12 +6270,11 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1572736905999" FOLDED="true" ID="ID_158440117" MODIFIED="1573177158949" TEXT="5.06 Maps and Charts / Projections">
-<node CREATED="1572736941182" FOLDED="true" ID="ID_1468522731" MODIFIED="1573171816331">
+<node CREATED="1572736905999" FOLDED="true" ID="ID_158440117" MODIFIED="1573248085997" TEXT="5.06 Maps and Charts / Projections">
+<node CREATED="1572736941182" FOLDED="true" ID="ID_1468522731" MODIFIED="1573248079785">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6815,6 +6811,105 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1573240693929" FOLDED="true" ID="ID_1448361304" MODIFIED="1573248075403">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Grid / Grid Navigation
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        grid with datum meridian defining grid north
+      </li>
+      <li>
+        standard grid = grid with Greenwich datum meridian
+      </li>
+      <li>
+        grid north and datum north diverge with distance from datum meridian
+      </li>
+      <li>
+        chart convergence is equivalent to grid and datum north difference
+      </li>
+      <li>
+        true north and grid north conversion: EW, WE
+      </li>
+      <li>
+        convergence east, true least; convergence west, true best
+      </li>
+      <li>
+        grid &lt;--convergence--&gt; true &lt;--variation--&gt; magnetic &lt;--deviation--&gt; compass
+      </li>
+      <li>
+        grivation = convergence + variation
+      </li>
+      <li>
+        grivation = longitude for standard grid
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1573244658268" ID="ID_1177465808" MODIFIED="1573246747212">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Steering
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        grivation printed on grid charts
+      </li>
+      <li>
+        isogrivs: lines of equal grivation
+      </li>
+      <li>
+        grivation changeover points on isogriv passage
+      </li>
+      <li>
+        required if INS/IRS-FMC, GPS not available
+      </li>
+      <li>
+        magnetic compass / gyromagnetic (slaved compass)
+
+        <ul>
+          <li>
+            horizontal magnetic field component must be sufficient
+          </li>
+          <li>
+            magnetic dip must not be excessive
+          </li>
+          <li>
+            gyromagnetic compass real drift is minimal for several hours
+          </li>
+          <li>
+            gyromagnetic compass may feature latitude correction for earth rate wander
+          </li>
+          <li>
+            gyromagnetic transport wander is not a factor on grid (no chart convergence)
+          </li>
+        </ul>
+      </li>
+      <li>
+        residual transport wander due to earth versus chart convergence of underlying projection
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 <node CREATED="1572894868506" ID="ID_104786186" MODIFIED="1573067775379">
 <richcontent TYPE="NODE"><html>
@@ -6858,7 +6953,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573171882076" ID="ID_893115346" MODIFIED="1573177503780">
+<node CREATED="1573171882076" ID="ID_893115346" MODIFIED="1573240648319">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6878,7 +6973,7 @@
         use case: diversion to alternate
       </li>
       <li>
-        Distance to PSR = E * O * H / (O + H) with
+        Distance to PSR = E * O * H / (O + H) where
 
         <ul>
           <li>
@@ -6895,12 +6990,15 @@
       <li>
         Time to PSR = Distance to PSR / O
       </li>
+      <li>
+        not an emergency, favorable altitude can be chosen
+      </li>
     </ul>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1573171903656" ID="ID_488751226" MODIFIED="1573177521013">
+<node CREATED="1573171903656" ID="ID_488751226" MODIFIED="1573240502302">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6923,10 +7021,7 @@
         use case: emergency
       </li>
       <li>
-        PET / CP in general considering wind and resulting GS gives
-      </li>
-      <li>
-        Distance to PET = D * H / O + H with
+        Distance to PET = D * H / O + H where
 
         <ul>
           <li>
@@ -9447,7 +9542,7 @@
 </node>
 <node CREATED="1571853418545" ID="ID_1219340529" MODIFIED="1571853423895" TEXT="Stability"/>
 </node>
-<node CREATED="1568173906119" FOLDED="true" ID="ID_1943574224" MODIFIED="1572644782410" TEXT="Human Factors">
+<node CREATED="1568173906119" FOLDED="true" ID="ID_1943574224" MODIFIED="1573248121813" TEXT="Human Factors">
 <icon BUILTIN="closed"/>
 <node CREATED="1572558188251" FOLDED="true" ID="ID_1717275900" MODIFIED="1572644780408" TEXT="4.19 Aviation Physiology">
 <node CREATED="1572643026817" FOLDED="true" ID="ID_666486395" MODIFIED="1572644184579">
@@ -9755,7 +9850,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1572642990573" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172247782" ID="ID_1312210863" MODIFIED="1573248102002" POSITION="left" TEXT="SAMRA">
 <node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1568659766238" TEXT="Meteorology">
 <node CREATED="1568174438816" ID="ID_208638027" MODIFIED="1568174450928" TEXT="The Earth&apos;s Atmosphere"/>
 </node>
