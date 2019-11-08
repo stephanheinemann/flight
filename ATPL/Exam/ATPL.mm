@@ -5916,9 +5916,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173570034" ID="ID_1285060949" MODIFIED="1568173574370" TEXT="Navigation">
+<node CREATED="1568173570034" ID="ID_1285060949" MODIFIED="1573168932865" TEXT="Navigation">
 <node CREATED="1572722855252" ID="ID_1252294476" MODIFIED="1572722864170" TEXT="5.01 Basic Navigation Concepts"/>
-<node CREATED="1572723482390" FOLDED="true" ID="ID_787148057" MODIFIED="1573082390233" TEXT="5.02 Navigation Calculations">
+<node CREATED="1572723482390" FOLDED="true" ID="ID_787148057" MODIFIED="1573082487386" TEXT="5.02 Navigation Calculations">
 <node CREATED="1572727356484" ID="ID_590399689" MODIFIED="1572727496625">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6019,7 +6019,46 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572736805785" ID="ID_930874924" MODIFIED="1572736844909" TEXT="5.03 Time and Longitude"/>
+<node CREATED="1572736805785" FOLDED="true" ID="ID_930874924" MODIFIED="1573083207095" TEXT="5.03 Time and Longitude">
+<node CREATED="1573082546978" ID="ID_155762337" MODIFIED="1573083192630">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Canadian Time Zones
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        NST: UTC - 3.5
+      </li>
+      <li>
+        AST: UTC - 4, 60W
+      </li>
+      <li>
+        EST: UTC - 5, 75W
+      </li>
+      <li>
+        CST: UTC - 6, 90W
+      </li>
+      <li>
+        MST: UTC - 7, 105W
+      </li>
+      <li>
+        PST: UTC -8, 210W
+      </li>
+      <li>
+        DT +1 hour (one hour less difference)
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+</node>
 <node CREATED="1572736814796" ID="ID_286450787" MODIFIED="1572736877799">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6032,7 +6071,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572736820506" ID="ID_1857503266" MODIFIED="1572736900726">
+<node CREATED="1572736820506" FOLDED="true" ID="ID_1857503266" MODIFIED="1573171871564">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6043,9 +6082,203 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1573083528653" ID="ID_1448823425" MODIFIED="1573083824534">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Angles
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Greenwich Hour Angle (GHA)
+      </li>
+      <li>
+        Local Hour Angle (LHA)
+      </li>
+      <li>
+        LHA = GHA + longitude (+E/-W)
+      </li>
+      <li>
+        Sidereal Hour Angle (SHA)
+      </li>
+      <li>
+        GHA(Star) =GHA(Aries) + SHA(Star)
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
 </node>
-<node CREATED="1572736905999" FOLDED="true" ID="ID_158440117" MODIFIED="1573082378869" TEXT="5.06 Maps and Charts / Projections">
-<node CREATED="1572736941182" FOLDED="true" ID="ID_1468522731" MODIFIED="1573082371283">
+<node CREATED="1573152810432" ID="ID_55202588" MODIFIED="1573153163244">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Keppler's Laws
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        planets move in elliptical trajectories around the sun located at one of the elliptic foci
+
+        <ul>
+          <li>
+            Perihelion (closest to the sun, 91.4 MSM, 4th of January)
+          </li>
+          <li>
+            Aphelion (farthest from the sun, 94.6 MSM, 3rd of July)
+          </li>
+        </ul>
+      </li>
+      <li>
+        planet radius vector covers the same area in the same time (faster towards Perihelion, slower towards Aphelion)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573169018768" ID="ID_1562830959" MODIFIED="1573170032689">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Day / Time
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Sidereal Day (full earth rotation with reference to fix star)
+      </li>
+      <li>
+        Apparent Solar Day (earth rotation with reference to sun)
+
+        <ul>
+          <li>
+            longer than Sidereal Day
+          </li>
+          <li>
+            longer at Perihelion, shorter at Aphelion
+          </li>
+          <li>
+            23.75 hours to 24.25 hours
+          </li>
+        </ul>
+      </li>
+      <li>
+        Average Day = length of year in Apparent Solar Days / 365.25
+
+        <ul>
+          <li>
+            related to daylight and constant length
+          </li>
+        </ul>
+      </li>
+      <li>
+        Civil Day = Mean Solar Day = Average Day
+      </li>
+      <li>
+        Greenwich Mean Time based on Civil Day
+      </li>
+      <li>
+        Coordinated Universal Time (UTC) based on atomic clock
+
+        <ul>
+          <li>
+            Earth rotation decelerates
+          </li>
+          <li>
+            GMT differs from UTC but can be considered equal for practical purposes
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573170166867" ID="ID_662519637" MODIFIED="1573170634695">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Year
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Sidereal Year 365 days 6 hours
+      </li>
+      <li>
+        Tropical Year 365 days 5 hours 48 minutes 45 seconds
+      </li>
+      <li>
+        Leap Year
+
+        <ul>
+          <li>
+            every 4th year
+          </li>
+          <li>
+            not centuries
+          </li>
+          <li>
+            only every 4th century
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573170986383" ID="ID_1377713186" MODIFIED="1573171067151">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Planes and Seasons
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Ecliptic
+      </li>
+      <li>
+        Equinoctial
+      </li>
+      <li>
+        Obliquity of the Ecliptic (angle between Ecliptic and Equinoctial)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1572736905999" FOLDED="true" ID="ID_158440117" MODIFIED="1573177158949" TEXT="5.06 Maps and Charts / Projections">
+<node CREATED="1572736941182" FOLDED="true" ID="ID_1468522731" MODIFIED="1573171816331">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6344,8 +6577,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572903096009" ID="ID_1677202209" MODIFIED="1573075426137">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6385,8 +6617,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1572736959045" FOLDED="true" ID="ID_1239272804" MODIFIED="1573075753824">
@@ -6519,8 +6750,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1572736970504" ID="ID_1655967172" MODIFIED="1573078330785">
@@ -6583,8 +6813,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1572894868506" ID="ID_104786186" MODIFIED="1573067775379">
@@ -6629,8 +6858,104 @@
 </html></richcontent>
 </node>
 </node>
+<node CREATED="1573171882076" ID="ID_893115346" MODIFIED="1573177503780">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      5.07 Point of Safe Return (PSR) / Point of No Return (PNR)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        depends only on range (radius of action), i.e., endurance and ground speed
+      </li>
+      <li>
+        use case: diversion to alternate
+      </li>
+      <li>
+        Distance to PSR = E * O * H / (O + H) with
+
+        <ul>
+          <li>
+            ground speed home H
+          </li>
+          <li>
+            ground speed on O
+          </li>
+          <li>
+            endurance E
+          </li>
+        </ul>
+      </li>
+      <li>
+        Time to PSR = Distance to PSR / O
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1572558232309" TEXT="Flight Operations">
+<node CREATED="1573171903656" ID="ID_488751226" MODIFIED="1573177521013">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      5.08 Point of Equal Time (PET) / Critical Point (CP)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        time on (continue) = time home (return)
+      </li>
+      <li>
+        depends only on distance and ground speed
+      </li>
+      <li>
+        use case: emergency
+      </li>
+      <li>
+        PET / CP in general considering wind and resulting GS gives
+      </li>
+      <li>
+        Distance to PET = D * H / O + H with
+
+        <ul>
+          <li>
+            total distance D
+          </li>
+          <li>
+            ground speed home H
+          </li>
+          <li>
+            ground speed on O
+          </li>
+        </ul>
+      </li>
+      <li>
+        Time to PET = Distance to PET / O
+      </li>
+      <li>
+        TAS changes with (density) altitude and results in GS change
+      </li>
+      <li>
+        altitude change may be necessary following emergency&#160;
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1573168431812" TEXT="Flight Operations">
 <node CREATED="1571851864451" ID="ID_416756973" MODIFIED="1572288401755">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6650,7 +6975,7 @@
 </html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 </node>
-<node CREATED="1571947425006" FOLDED="true" ID="ID_1900218758" MODIFIED="1572384376518">
+<node CREATED="1571947425006" FOLDED="true" ID="ID_1900218758" MODIFIED="1573165783946">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6661,7 +6986,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1571950107330" FOLDED="true" ID="ID_1908410094" MODIFIED="1572384374454">
+<node CREATED="1571950107330" ID="ID_1908410094" MODIFIED="1573162423687">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6940,7 +7265,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572288362185" FOLDED="true" ID="ID_864967113" MODIFIED="1572551590216">
+<node CREATED="1572288362185" FOLDED="true" ID="ID_864967113" MODIFIED="1573168417440">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6965,7 +7290,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572288258686" FOLDED="true" ID="ID_647059776" MODIFIED="1572549746905">
+<node CREATED="1572288258686" FOLDED="true" ID="ID_647059776" MODIFIED="1573168408778">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7525,7 +7850,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1572288315992" FOLDED="true" ID="ID_1443800187" MODIFIED="1572548335811" TEXT="4.07 Cruise Performance">
+<node CREATED="1572288315992" FOLDED="true" ID="ID_1443800187" MODIFIED="1573165825182" TEXT="4.07 Cruise Performance">
 <node CREATED="1571852091199" FOLDED="true" ID="ID_439706302" MODIFIED="1572548332501">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -8166,7 +8491,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1572288344914" FOLDED="true" ID="ID_132736715" MODIFIED="1572551334794">
+<node CREATED="1572288344914" FOLDED="true" ID="ID_132736715" MODIFIED="1573168398673">
 <richcontent TYPE="NODE"><html>
   <head>
     
