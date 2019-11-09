@@ -6853,8 +6853,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573244658268" ID="ID_1177465808" MODIFIED="1573246747212">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6906,8 +6905,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -6995,8 +6993,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573171903656" ID="ID_488751226" MODIFIED="1573240502302">
 <richcontent TYPE="NODE"><html>
@@ -7046,8 +7043,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1573168431812" TEXT="Flight Operations">
@@ -9083,9 +9079,9 @@
 <node CREATED="1572557841087" ID="ID_1393851454" MODIFIED="1572557849804" TEXT="4.17 Landing Techniques"/>
 <node CREATED="1572557899101" ID="ID_7440582" MODIFIED="1572557905885" TEXT="4.18 Volcanic Ash"/>
 </node>
-<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1572642952396" TEXT="Theory of Flight">
+<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1573329960180" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
-<node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1572297662494" TEXT="4.01 General Theory of Flight">
+<node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1573329958605" TEXT="4.01 General Theory of Flight">
 <node CREATED="1571791871556" ID="ID_1614108199" MODIFIED="1572115126055">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -9205,7 +9201,7 @@
 <node CREATED="1571795140889" ID="ID_591096612" MODIFIED="1571795152185" TEXT="Span, Taper and Aspect Ratio"/>
 <node CREATED="1571795169821" ID="ID_1283277097" MODIFIED="1571795179785" TEXT="Mean Aerodynamic Cord (MAC)"/>
 </node>
-<node CREATED="1571698150394" FOLDED="true" ID="ID_330232180" MODIFIED="1572114978316">
+<node CREATED="1571698150394" FOLDED="true" ID="ID_330232180" MODIFIED="1573329953860">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9851,8 +9847,352 @@
 </node>
 </node>
 <node CREATED="1568172247782" ID="ID_1312210863" MODIFIED="1573248102002" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1568659766238" TEXT="Meteorology">
-<node CREATED="1568174438816" ID="ID_208638027" MODIFIED="1568174450928" TEXT="The Earth&apos;s Atmosphere"/>
+<node CREATED="1568172518654" ID="ID_1271575521" MODIFIED="1573329978479" TEXT="Meteorology">
+<node CREATED="1568174438816" ID="ID_208638027" MODIFIED="1573336639698">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.01 The Earth's Atmosphere
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        78% nitrogen, 21% oxygen, 0.95% argon, 0.05% carbon dioxide
+      </li>
+      <li>
+        troposphere, tropopause 30000-60000ft (8 to 16km, 11km mid-latitudes)
+
+        <ul>
+          <li>
+            temperature and altitude changes (varying with seasons)
+
+            <ul>
+              <li>
+                +/-40deg latitude
+              </li>
+              <li>
+                +/- 55deg latitude (polar front)
+              </li>
+              <li>
+                +/- 60-70deg latitude (arctic front)
+              </li>
+              <li>
+                -50degC over poles, -80degC over equator
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        stratosphere, stratopause 160000ft (50km)
+
+        <ul>
+          <li>
+            ozone 20-25km
+          </li>
+          <li>
+            -constant varying temperatures 30degC to 20degC
+          </li>
+        </ul>
+      </li>
+      <li>
+        mesosphere, mesopause 280000ft (80 to 90km)
+
+        <ul>
+          <li>
+            decreasing temperatures down to -180degC
+          </li>
+        </ul>
+      </li>
+      <li>
+        thermosphere
+
+        <ul>
+          <li>
+            rapidly increasing temperatures up to 200km of 600degC to 2000degC
+          </li>
+          <li>
+            ionosphere 60NM to 200NM
+
+            <ul>
+              <li>
+                Kennelly 110km
+              </li>
+              <li>
+                Heavyside 160km
+              </li>
+              <li>
+                Appleton 250km
+              </li>
+            </ul>
+          </li>
+          <li>
+            exosphere from 700km
+          </li>
+        </ul>
+      </li>
+      <li>
+        International Standard Atmosphere (ISA)
+
+        <ul>
+          <li>
+            29.92&quot;Hg (1013.25hPa)
+          </li>
+          <li>
+            15degC at MSL
+          </li>
+          <li>
+            1.98degC / 1000ft
+          </li>
+          <li>
+            tropopause at 36089ft (11km) with -56.5degC
+          </li>
+          <li>
+            ICAO limit at 65617ft (20km)&#160;with -56.5degC
+          </li>
+          <li>
+            upper limit at 105000ft (32km) with -44.7degC
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573330358412" ID="ID_1590225205" MODIFIED="1573330373745" TEXT="6.02 Meteorological Aspects of Altimeters"/>
+<node CREATED="1573330379861" ID="ID_227963538" MODIFIED="1573330387593" TEXT="6.03 Temperature"/>
+<node CREATED="1573330402397" ID="ID_368882476" MODIFIED="1573330454636">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.04 Moisture and Cooling
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        DALR = 3.0degC / 1000ft
+      </li>
+      <li>
+        SALR = 1.5degC / 1000ft
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573330459552" ID="ID_1650721602" MODIFIED="1573330469305" TEXT="6.05 Stability and Instability"/>
+<node CREATED="1573330478270" ID="ID_990537658" MODIFIED="1573330567029">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.06 Clouds
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        high (cirro) &gt; 20000ft
+      </li>
+      <li>
+        middle (alto) 6500ft - 20000ft
+      </li>
+      <li>
+        low &lt; 6500ft
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573330572405" ID="ID_1665720219" MODIFIED="1573330580236" TEXT="6.07 Turbulence"/>
+<node CREATED="1573330590146" ID="ID_1075915924" MODIFIED="1573330593647" TEXT="6.08 Wind"/>
+<node CREATED="1573330604065" ID="ID_1607843192" MODIFIED="1573330609663" TEXT="6.09 Air Masses"/>
+<node CREATED="1573330615743" ID="ID_1077695511" MODIFIED="1573330706595">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.10 Fronts
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        warm front slope 1:150 - 1:200
+      </li>
+      <li>
+        cold front slope 1:100
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573330721252" ID="ID_238729032" MODIFIED="1573330729412" TEXT="6.11 Complex Low"/>
+<node CREATED="1573330748611" ID="ID_68412790" MODIFIED="1573331148503">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.12 Jet Stream Weather
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        temperature gradient winds &gt; 60kts
+      </li>
+      <li>
+        Clear Air Turbulence (CAT)
+
+        <ul>
+          <li>
+            30kts isotachs closer than 90NM on 250mbar upper chart
+          </li>
+          <li>
+            5degC isoterms closer than 120NM (2deg latitude)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573331153527" ID="ID_1872410311" MODIFIED="1573331730986">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.13 Airframe Icing
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        in -40degC to +2degC
+      </li>
+      <li>
+        most severe in -15degC to 0degC in cloud thickness of 5000 to 8000ft
+      </li>
+      <li>
+        small versus large supercooled droplets (clear - rear, rime - front)
+      </li>
+      <li>
+        collection efficiency (aerofoil / antennae: thin - more, thick - less)
+      </li>
+      <li>
+        aerodynamic heating / high-speed flight
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573331171164" ID="ID_1165763841" MODIFIED="1573333134352">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.14 Thunderstorms
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        microburst
+
+        <ul>
+          <li>
+            1NM diameter, 2000ft AGL and 2 to 2.5NM surface diameter
+          </li>
+          <li>
+            &#160;up to 6000ft/min vertical, up to 45kts (90kts shear) horizontal
+          </li>
+          <li>
+            maximum intensity 2 to 4 minutes, lifecycle 15 minutes
+          </li>
+          <li>
+            virga
+          </li>
+        </ul>
+      </li>
+      <li>
+        macroburst
+
+        <ul>
+          <li>
+            20NM diameter
+          </li>
+        </ul>
+      </li>
+      <li>
+        lightning more likely in -5degC to 5degC
+      </li>
+      <li>
+        avoidance
+
+        <ul>
+          <li>
+            5NM below freezing level
+          </li>
+          <li>
+            10NM above freezing level
+          </li>
+          <li>
+            20NM identified severe 35000ft tops / large echo and above 30000ft
+          </li>
+          <li>
+            above tops 1000ft / 10kts wind (usually exceeds operational ceiling)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573333282683" ID="ID_316363689" MODIFIED="1573333293696" TEXT="6.15 Hurricanes and Tornadoes"/>
+<node CREATED="1573333381118" ID="ID_1639799285" MODIFIED="1573333389670" TEXT="6.16 Surface Based Layers"/>
+<node CREATED="1573333699232" ID="ID_353626057" MODIFIED="1573333712625" TEXT="6.17 Meteorological Services for Pilots">
+<node CREATED="1573333722271" ID="ID_1510631225" MODIFIED="1573333736230" TEXT="6.18 Graphic Area Forcast (GFA)"/>
+<node CREATED="1573333740648" ID="ID_1869474482" MODIFIED="1573333765170" TEXT="6.19 International Aerdrome Forecasts (TAF)"/>
+<node CREATED="1573333770621" ID="ID_206035143" MODIFIED="1573333791329" TEXT="6.20 Upper Level Winds and Temperatures Forecasts (FD)"/>
+<node CREATED="1573333796869" ID="ID_1014188423" MODIFIED="1573333816444" TEXT="6.21 Aviation Routine Weather Reports (METAR)"/>
+<node CREATED="1573333825638" ID="ID_1528078280" MODIFIED="1573333835432" TEXT="6.22 SIGMET"/>
+<node CREATED="1573333842543" ID="ID_1495155462" MODIFIED="1573333866446" TEXT="6.23 PIREP and AIREP"/>
+<node CREATED="1573333872222" ID="ID_1194590033" MODIFIED="1573333877796" TEXT="6.24 AIRMET"/>
+<node CREATED="1573333889451" ID="ID_1599588579" MODIFIED="1573333897199" TEXT="6.26 CAVOK"/>
+<node CREATED="1573333905959" ID="ID_851727738" MODIFIED="1573333913957" TEXT="6.27 Surface Weather Charts"/>
+<node CREATED="1573334104774" ID="ID_1100851419" MODIFIED="1573334111668" TEXT="6.28 Upper Air Charts"/>
+</node>
 </node>
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
 <icon BUILTIN="closed"/>
