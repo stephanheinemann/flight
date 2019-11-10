@@ -9848,7 +9848,7 @@
 </node>
 <node CREATED="1568172247782" ID="ID_1312210863" MODIFIED="1573248102002" POSITION="left" TEXT="SAMRA">
 <node CREATED="1568172518654" ID="ID_1271575521" MODIFIED="1573329978479" TEXT="Meteorology">
-<node CREATED="1568174438816" ID="ID_208638027" MODIFIED="1573344870763">
+<node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1573422186636">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9965,12 +9965,246 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+<node CREATED="1573411225691" ID="ID_472655295" MODIFIED="1573411289567">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Global Circulation
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Hadley cell
+      </li>
+      <li>
+        Ferrel cell
+      </li>
+      <li>
+        Polar cell
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1573330358412" ID="ID_1590225205" MODIFIED="1573330373745" TEXT="6.02 Meteorological Aspects of Altimeters"/>
-<node CREATED="1573330379861" ID="ID_227963538" MODIFIED="1573330387593" TEXT="6.03 Temperature"/>
-<node CREATED="1573330402397" ID="ID_368882476" MODIFIED="1573330454636">
+</node>
+<node CREATED="1573330358412" ID="ID_1590225205" MODIFIED="1573417071863">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.02 Meteorological Aspects of Altimeters
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        QFE
+      </li>
+      <li>
+        QFF
+
+        <ul>
+          <li>
+            elevation correction based on actual temperature
+          </li>
+        </ul>
+      </li>
+      <li>
+        QNH
+
+        <ul>
+          <li>
+            elevation correction based on ISA temperature
+          </li>
+          <li>
+            altimeters calibrated for ISA temperature
+          </li>
+          <li>
+            temperature error is accepted
+          </li>
+          <li>
+            Altimeter Setting Regions (ASRs)
+          </li>
+        </ul>
+      </li>
+      <li>
+        STD
+
+        <ul>
+          <li>
+            Standard Pressure Setting (SPS)
+          </li>
+          <li>
+            transition altitude, transition level, transition layer
+          </li>
+        </ul>
+      </li>
+      <li>
+        QNE
+
+        <ul>
+          <li>
+            high altitude airfields with QFE out of range
+          </li>
+          <li>
+            indicated height of aerodrome with STD setting
+          </li>
+        </ul>
+      </li>
+      <li>
+        IALT, CALT, TALT, AALT, (DALT)
+
+        <ul>
+          <li>
+            TALT 4% / 1000ft / dtemp ISA
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573330379861" FOLDED="true" ID="ID_227963538" MODIFIED="1573423664107">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.03 Temperature
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        F = (1.8 * C) + 32
+      </li>
+      <li>
+        K = C + 273
+      </li>
+      <li>
+        surface reflection
+
+        <ul>
+          <li>
+            high albedo: more pronounced reflection
+          </li>
+          <li>
+            low albedo: more pronounced absorption
+          </li>
+        </ul>
+      </li>
+      <li>
+        terrestrial radiation more pronounced from low albedo surfaces
+
+        <ul>
+          <li>
+            affected area versus absorbed energy (latitude)
+          </li>
+          <li>
+            water vapor and carbon dioxide serve as heat reservoirs in the atmosphere
+          </li>
+        </ul>
+      </li>
+      <li>
+        conduction, convection / subsidence, advection, latent heat / cold
+
+        <ul>
+          <li>
+            air is poor conductor (good insulator)
+          </li>
+          <li>
+            air at higher levels retains heat and temperature
+          </li>
+          <li>
+            air at surface levels is affected by heating and cooling
+          </li>
+          <li>
+            surface inversions, fog
+          </li>
+          <li>
+            condensation -&gt; heat release, evaporation -&gt; heat absorption
+          </li>
+        </ul>
+      </li>
+      <li>
+        isothermal, inversion
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1573421102775" ID="ID_1505959441" MODIFIED="1573421466537">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Factors
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        albedo
+      </li>
+      <li>
+        thermal inertia
+      </li>
+      <li>
+        wind and mixing
+      </li>
+      <li>
+        cloud, reflection, and latent heat
+      </li>
+      <li>
+        seasonal temperature variation (area versus energy)
+      </li>
+      <li>
+        diurnal temperature variation (day versus night, sea versus land)
+      </li>
+      <li>
+        air masses
+      </li>
+      <li>
+        topography
+
+        <ul>
+          <li>
+            anabatic and katabatic movements
+          </li>
+          <li>
+            sea and land breezes
+          </li>
+          <li>
+            valleys and funnels
+          </li>
+          <li>
+            foehn
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1573330402397" FOLDED="true" ID="ID_368882476" MODIFIED="1573425735480">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9988,13 +10222,239 @@
       </li>
       <li>
         SALR = 1.5degC / 1000ft
+
+        <ul>
+          <li>
+            due to latent heat release during condensation
+          </li>
+          <li>
+            SALR increases with increasing altitude
+          </li>
+          <li>
+            1.2 to 2.2degC / 1000ft, 1.8degC / 1000ft on average
+          </li>
+          <li>
+            approaches DALR with altitude
+          </li>
+        </ul>
+      </li>
+      <li>
+        water state changes and latent heat
+
+        <ul>
+          <li>
+            melting, evaporation, sublimation: heat absorption
+          </li>
+          <li>
+            condensation, freezing, deposition: heat release
+          </li>
+        </ul>
+      </li>
+      <li>
+        humidity quantification
+
+        <ul>
+          <li>
+            saturation, temperature, pressure
+          </li>
+          <li>
+            expansion, compression
+          </li>
+        </ul>
+      </li>
+      <li>
+        condensation nuclei, <b>super saturation</b>&#160;(water vapor cannot condense)
+      </li>
+      <li>
+        freezing nuclei, <b>super cooling</b>&#160;(water droplets cannot freeze)
+      </li>
+      <li>
+        hygrometer (psychrometer)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1573423600116" ID="ID_1359500538" MODIFIED="1573424594151">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Properties
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        dew point
+      </li>
+      <li>
+        vapor pressure
+
+        <ul>
+          <li>
+            water vapor content within constant volume
+          </li>
+          <li>
+            saturation vapor pressure
+          </li>
+        </ul>
+      </li>
+      <li>
+        relative humidity
+
+        <ul>
+          <li>
+            percentage of saturation
+          </li>
+        </ul>
+      </li>
+      <li>
+        absolute humidity
+
+        <ul>
+          <li>
+            water vapor mass per unit volume of air (water density)
+          </li>
+        </ul>
+      </li>
+      <li>
+        humidity mixing ratio (HMR)
+
+        <ul>
+          <li>
+            mass ratio of water vapor and air
+          </li>
+          <li>
+            SMR: HMR of saturated air
+          </li>
+        </ul>
       </li>
     </ul>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1573330459552" ID="ID_1650721602" MODIFIED="1573330469305" TEXT="6.05 Stability and Instability"/>
+<node CREATED="1573425696502" ID="ID_1922759706" MODIFIED="1573425728071">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Adiabatics
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        adiabatic processes
+
+        <ul>
+          <li>
+            energy within rising or sinking air parcel assumed constant
+          </li>
+        </ul>
+      </li>
+      <li>
+        adiabatic cooling
+
+        <ul>
+          <li>
+            volume of air parcel expands
+          </li>
+        </ul>
+      </li>
+      <li>
+        adiabatic warming
+
+        <ul>
+          <li>
+            volume of air parcel contracts
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1573330459552" ID="ID_1650721602" MODIFIED="1573427008501">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.05 Stability and Instability
+    </p>
+    <ul>
+      <li>
+        <p>
+          temperature and humidity
+        </p>
+      </li>
+      <li>
+        environment adiabatic lapse rate (ELR)
+      </li>
+      <li>
+        stable
+
+        <ul>
+          <li>
+            dry and saturated (subsidence)
+          </li>
+          <li>
+            ELR &lt; SALR
+          </li>
+        </ul>
+      </li>
+      <li>
+        conditionally unstable (partially stable)
+
+        <ul>
+          <li>
+            non-saturated
+          </li>
+          <li>
+            stable for higher lapse rates only
+          </li>
+          <li>
+            ELR &lt; DALR, ELR &gt; SALR
+          </li>
+        </ul>
+      </li>
+      <li>
+        unstable
+
+        <ul>
+          <li>
+            dry and saturation (convection)
+          </li>
+          <li>
+            ELR &gt; DALR
+          </li>
+        </ul>
+      </li>
+      <li>
+        neutral
+
+        <ul>
+          <li>
+            ELR = SALR or ELR = DALR
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1573330478270" ID="ID_990537658" MODIFIED="1573330567029">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10022,9 +10482,13 @@
 </html></richcontent>
 </node>
 <node CREATED="1573330572405" ID="ID_1665720219" MODIFIED="1573330580236" TEXT="6.07 Turbulence"/>
-<node CREATED="1573330590146" ID="ID_1075915924" MODIFIED="1573330593647" TEXT="6.08 Wind"/>
+<node CREATED="1573330590146" ID="ID_1075915924" MODIFIED="1573330593647" TEXT="6.08 Wind">
+<node CREATED="1573408934993" ID="ID_1535654758" MODIFIED="1573408940263" TEXT="Geostrophic Winds"/>
+<node CREATED="1573408945303" ID="ID_57683935" MODIFIED="1573408950762" TEXT="Pressure Gradient Winds"/>
+<node CREATED="1573408955449" ID="ID_732232431" MODIFIED="1573408959770" TEXT="Thermal Winds"/>
+</node>
 <node CREATED="1573330604065" ID="ID_1607843192" MODIFIED="1573330609663" TEXT="6.09 Air Masses"/>
-<node CREATED="1573330615743" ID="ID_1077695511" MODIFIED="1573330706595">
+<node CREATED="1573330615743" ID="ID_1077695511" MODIFIED="1573410092376">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10038,15 +10502,42 @@
     </p>
     <ul>
       <li>
-        warm front slope 1:150 - 1:200
+        warm front
+
+        <ul>
+          <li>
+            slope 1:150 to 1:200
+          </li>
+          <li>
+            cloud extension 400 to 600NM ahead front
+          </li>
+          <li>
+            continuous precipitation 200 to 300NM ahead front
+          </li>
+        </ul>
       </li>
       <li>
-        cold front slope 1:100
+        cold front
+
+        <ul>
+          <li>
+            slope 1:50 to 1:100
+          </li>
+          <li>
+            could extension 100 to 200NM behind front
+          </li>
+          <li>
+            showery precipitation 50 to 100NM behind front
+          </li>
+        </ul>
       </li>
     </ul>
   </body>
 </html>
 </richcontent>
+<node CREATED="1573408886069" ID="ID_1151229985" MODIFIED="1573408890423" TEXT="Frontolysis"/>
+<node CREATED="1573408894651" ID="ID_1229506004" MODIFIED="1573408901058" TEXT="Frontogenisis"/>
+<node CREATED="1573408906409" ID="ID_1552787567" MODIFIED="1573408916592" TEXT="Frontal Passage"/>
 </node>
 <node CREATED="1573330721252" ID="ID_238729032" MODIFIED="1573330729412" TEXT="6.11 Complex Low"/>
 <node CREATED="1573330748611" ID="ID_68412790" MODIFIED="1573331148503">
@@ -10079,8 +10570,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573331153527" ID="ID_1872410311" MODIFIED="1573331730986">
 <richcontent TYPE="NODE"><html>
@@ -10112,8 +10602,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573331171164" ID="ID_1165763841" MODIFIED="1573333134352">
 <richcontent TYPE="NODE"><html>
@@ -10178,8 +10667,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573333282683" ID="ID_316363689" MODIFIED="1573333293696" TEXT="6.15 Hurricanes and Tornadoes"/>
 <node CREATED="1573333381118" ID="ID_1639799285" MODIFIED="1573333389670" TEXT="6.16 Surface Based Layers"/>
@@ -10195,7 +10683,7 @@
 <node CREATED="1573333905959" ID="ID_851727738" MODIFIED="1573333913957" TEXT="6.27 Surface Weather Charts"/>
 <node CREATED="1573334104774" ID="ID_1100851419" MODIFIED="1573334111668" TEXT="6.28 Upper Air Charts"/>
 </node>
-<node CREATED="1573341269453" ID="ID_698670885" MODIFIED="1573344538246">
+<node CREATED="1573341269453" FOLDED="true" ID="ID_698670885" MODIFIED="1573419894154">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10253,7 +10741,138 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1573346280843" ID="ID_1975463975" MODIFIED="1573346285324" TEXT="Pressure Systems"/>
+<node CREATED="1573346280843" ID="ID_1975463975" MODIFIED="1573412657179">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Pressure Systems
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        local depression
+
+        <ul>
+          <li>
+            convergence and convection
+          </li>
+          <li>
+            adiabatic cooling
+          </li>
+          <li>
+            good visibility due to lifting of particles
+          </li>
+        </ul>
+      </li>
+      <li>
+        cyclone
+
+        <ul>
+          <li>
+            polar front (cold polar air sector, warm tropical air sector)
+          </li>
+        </ul>
+      </li>
+      <li>
+        isobaric trough
+
+        <ul>
+          <li>
+            convergence towards the through line
+          </li>
+          <li>
+            convection and associated weather
+          </li>
+        </ul>
+      </li>
+      <li>
+        local high
+
+        <ul>
+          <li>
+            divergence and subsidence
+          </li>
+          <li>
+            adiabatic warming
+          </li>
+          <li>
+            poor visibility due to sinking of particles, subsidence inversions
+          </li>
+        </ul>
+      </li>
+      <li>
+        anticyclone
+
+        <ul>
+          <li>
+            permanent warm anticyclones
+
+            <ul>
+              <li>
+                between Hadley and Ferrel cells
+              </li>
+              <li>
+                sub tropic oceanic high pressure belt
+              </li>
+            </ul>
+          </li>
+          <li>
+            cold anticyclone
+
+            <ul>
+              <li>
+                surface cooling and subsidence
+              </li>
+              <li>
+                large continental surfaces and polar regions
+              </li>
+            </ul>
+          </li>
+          <li>
+            cold temporary anticyclone
+
+            <ul>
+              <li>
+                associated with high pressure ridges
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        ridge
+
+        <ul>
+          <li>
+            divergence away from ridge line
+          </li>
+          <li>
+            subsidence
+          </li>
+        </ul>
+      </li>
+      <li>
+        col
+
+        <ul>
+          <li>
+            region between two lows and two highs
+          </li>
+          <li>
+            convection in summer, subsidence in winter
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1573344654829" ID="ID_1590093799" MODIFIED="1573346102357">
 <richcontent TYPE="NODE"><html>
@@ -10303,8 +10922,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
