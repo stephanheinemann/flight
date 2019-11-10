@@ -9079,9 +9079,9 @@
 <node CREATED="1572557841087" ID="ID_1393851454" MODIFIED="1572557849804" TEXT="4.17 Landing Techniques"/>
 <node CREATED="1572557899101" ID="ID_7440582" MODIFIED="1572557905885" TEXT="4.18 Volcanic Ash"/>
 </node>
-<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1573329960180" TEXT="Theory of Flight">
+<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1573345356579" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
-<node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1573329958605" TEXT="4.01 General Theory of Flight">
+<node CREATED="1571791842521" ID="ID_416036682" MODIFIED="1573345299017" TEXT="4.01 General Theory of Flight">
 <node CREATED="1571791871556" ID="ID_1614108199" MODIFIED="1572115126055">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -9137,7 +9137,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571795030438" FOLDED="true" ID="ID_1185899766" MODIFIED="1572297660888">
+<node CREATED="1571795030438" FOLDED="true" ID="ID_1185899766" MODIFIED="1573345329875">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9162,8 +9162,8 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572293949192" FOLDED="true" ID="ID_322875550" MODIFIED="1572294098037" TEXT="Aerodynamic Drag">
-<node CREATED="1572294055205" FOLDED="true" ID="ID_1383169528" MODIFIED="1572294096492" TEXT="Parasite Drag">
+<node CREATED="1572293949192" ID="ID_322875550" MODIFIED="1573345312266" TEXT="Aerodynamic Drag">
+<node CREATED="1572294055205" ID="ID_1383169528" MODIFIED="1573345315606" TEXT="Parasite Drag">
 <node CREATED="1572294070034" ID="ID_1904042862" MODIFIED="1572294075453" TEXT="Form Drag"/>
 <node CREATED="1572294079265" ID="ID_1974399835" MODIFIED="1572294083772" TEXT="Interference Drag"/>
 <node CREATED="1572294087381" ID="ID_1127954097" MODIFIED="1572294090831" TEXT="Skin Friction"/>
@@ -9201,7 +9201,7 @@
 <node CREATED="1571795140889" ID="ID_591096612" MODIFIED="1571795152185" TEXT="Span, Taper and Aspect Ratio"/>
 <node CREATED="1571795169821" ID="ID_1283277097" MODIFIED="1571795179785" TEXT="Mean Aerodynamic Cord (MAC)"/>
 </node>
-<node CREATED="1571698150394" FOLDED="true" ID="ID_330232180" MODIFIED="1573329953860">
+<node CREATED="1571698150394" FOLDED="true" ID="ID_330232180" MODIFIED="1573345352267">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9848,7 +9848,7 @@
 </node>
 <node CREATED="1568172247782" ID="ID_1312210863" MODIFIED="1573248102002" POSITION="left" TEXT="SAMRA">
 <node CREATED="1568172518654" ID="ID_1271575521" MODIFIED="1573329978479" TEXT="Meteorology">
-<node CREATED="1568174438816" ID="ID_208638027" MODIFIED="1573336639698">
+<node CREATED="1568174438816" ID="ID_208638027" MODIFIED="1573344870763">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9941,13 +9941,16 @@
 
         <ul>
           <li>
-            29.92&quot;Hg (1013.25hPa)
+            pressure 29.92&quot;Hg (1013.25hPa) at MSL
           </li>
           <li>
-            15degC at MSL
+            temperature 15degC at MSL
           </li>
           <li>
-            1.98degC / 1000ft
+            temperature gradient 1.98degC / 1000ft
+          </li>
+          <li>
+            density 1225g/m^3 at MSL
           </li>
           <li>
             tropopause at 36089ft (11km) with -56.5degC
@@ -10016,8 +10019,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573330572405" ID="ID_1665720219" MODIFIED="1573330580236" TEXT="6.07 Turbulence"/>
 <node CREATED="1573330590146" ID="ID_1075915924" MODIFIED="1573330593647" TEXT="6.08 Wind"/>
@@ -10192,6 +10194,117 @@
 <node CREATED="1573333889451" ID="ID_1599588579" MODIFIED="1573333897199" TEXT="6.26 CAVOK"/>
 <node CREATED="1573333905959" ID="ID_851727738" MODIFIED="1573333913957" TEXT="6.27 Surface Weather Charts"/>
 <node CREATED="1573334104774" ID="ID_1100851419" MODIFIED="1573334111668" TEXT="6.28 Upper Air Charts"/>
+</node>
+<node CREATED="1573341269453" ID="ID_698670885" MODIFIED="1573344538246">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Pressure
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        high, low, col, ridge, trough
+      </li>
+      <li>
+        isobar (equal pressure), isallobar (equal pressure change)
+      </li>
+      <li>
+        Pressure Gradient Force (PGF)
+      </li>
+      <li>
+        pressure levels
+
+        <ul>
+          <li>
+            pressure decreases non-linear with altitude (more drastic change at lower altitudes)
+          </li>
+          <li>
+            approximately linear up to 10000ft
+          </li>
+          <li>
+            cold air compacts lowering pressure levels
+          </li>
+          <li>
+            warm air expands lifting pressure levels
+          </li>
+          <li>
+            height change per hPa [ft] = 96 * temperature [K] / pressure [hPa]
+          </li>
+          <li>
+            QFE to QFF with known elevation and temperature (gradient)
+          </li>
+          <li>
+            27ft / hPa in ISA
+          </li>
+          <li>
+            cold air increases pressure lapse rate and vice versa
+          </li>
+        </ul>
+      </li>
+      <li>
+        surface pressure chart based on QFF at MSL
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+<node CREATED="1573346280843" ID="ID_1975463975" MODIFIED="1573346285324" TEXT="Pressure Systems"/>
+</node>
+<node CREATED="1573344654829" ID="ID_1590093799" MODIFIED="1573346102357">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Density
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        d = m / V
+      </li>
+      <li>
+        relative density % of ISA density (1225g/m^3)
+      </li>
+      <li>
+        density is inversely proportional to temperature
+      </li>
+      <li>
+        density is proportional to pressure
+      </li>
+      <li>
+        density is proportional to humidity (water molecular weight)
+      </li>
+      <li>
+        pressure and temperature decrease with altitude
+
+        <ul>
+          <li>
+            pressure dominates and decreases density
+          </li>
+        </ul>
+      </li>
+      <li>
+        density altitude is altitude in ISA with corresponding density
+
+        <ul>
+          <li>
+            dalt = palt + (ISA dtemp * 118.8)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
