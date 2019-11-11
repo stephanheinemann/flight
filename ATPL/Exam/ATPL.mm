@@ -10447,7 +10447,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573330478270" ID="ID_990537658" MODIFIED="1573330567029">
+<node CREATED="1573330478270" FOLDED="true" ID="ID_990537658" MODIFIED="1573508734883">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10628,7 +10628,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573330590146" ID="ID_1075915924" MODIFIED="1573505609184">
+<node CREATED="1573330590146" FOLDED="true" ID="ID_1075915924" MODIFIED="1573506480449">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10980,7 +10980,7 @@
 <node CREATED="1573408906409" ID="ID_1552787567" MODIFIED="1573408916592" TEXT="Frontal Passage"/>
 </node>
 <node CREATED="1573330721252" ID="ID_238729032" MODIFIED="1573330729412" TEXT="6.11 Complex Low"/>
-<node CREATED="1573330748611" ID="ID_68412790" MODIFIED="1573430952281">
+<node CREATED="1573330748611" ID="ID_68412790" MODIFIED="1573508666882">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11007,7 +11007,7 @@
 
         <ul>
           <li>
-            cold side from the core
+            cold side from the core (north: left, south: right)
           </li>
           <li>
             30kts isotachs closer than 90NM on 250mbar upper chart
@@ -11017,9 +11017,94 @@
           </li>
         </ul>
       </li>
+      <li>
+        follow seasonal ecliptic change
+
+        <ul>
+          <li>
+            lower altitudes and latitudes in winter
+          </li>
+          <li>
+            higher altitudes and latitudes in summer
+          </li>
+          <li>
+            higher temperature differences in winter: higher speeds
+          </li>
+        </ul>
+      </li>
+      <li>
+        subtropical jet (40000ft, 200hPa)
+
+        <ul>
+          <li>
+            between Hadley and Ferrel cells
+          </li>
+          <li>
+            westbound (north, cold left, warm right)
+          </li>
+          <li>
+            80-150kts
+          </li>
+          <li>
+            large adjacent continental cold land masses (Tibetan plateau): 400kts
+          </li>
+        </ul>
+      </li>
+      <li>
+        polar jet (30000ft, 300hPa)
+
+        <ul>
+          <li>
+            between Ferrel and Polar cells
+          </li>
+          <li>
+            westbound (south, cold right, warm left)
+          </li>
+          <li>
+            sinuous, disjoint, broken along polar front (core in warm sector)
+          </li>
+        </ul>
+      </li>
+      <li>
+        arctic front jet (10000-20000ft, 700-500hPa)
+
+        <ul>
+          <li>
+            northern hemisphere in winter months
+          </li>
+          <li>
+            Iceland to northern Norway
+          </li>
+        </ul>
+      </li>
+      <li>
+        tropical easterly jet (40000-45000ft, 200h-100hPa)
+
+        <ul>
+          <li>
+            northern hemisphere in summer months
+          </li>
+          <li>
+            large adjacent continental warm land masses (Tibetan plateau)
+          </li>
+          <li>
+            eastbound (north, cold left, warm right)
+          </li>
+          <li>
+            5-20deg north of equator, 100kts
+          </li>
+          <li>
+            replaced by subtropical jet in winter (opposite winds)
+          </li>
+        </ul>
+      </li>
+      <li>
+        depicted on SWCs and derivable from upper wind charts
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1573331153527" ID="ID_1872410311" MODIFIED="1573331730986">
 <richcontent TYPE="NODE"><html>
