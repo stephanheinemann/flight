@@ -10480,8 +10480,145 @@
     </ul>
   </body>
 </html></richcontent>
+<node CREATED="1573431683901" ID="ID_1940104592" MODIFIED="1573431813682">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Turbulence Indicating
+    </p>
+    <ul>
+      <li>
+        cumulonimbus
+      </li>
+      <li>
+        altocumulus castellanus
+      </li>
+      <li>
+        towering cumulus
+      </li>
+      <li>
+        cap cloud, lenticular cloud (altocumulus lenticularis), rotor cloud
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1573330572405" ID="ID_1665720219" MODIFIED="1573330580236" TEXT="6.07 Turbulence"/>
+</node>
+<node CREATED="1573330572405" ID="ID_1665720219" MODIFIED="1573432297772">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.07 Turbulence
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        turbulence
+
+        <ul>
+          <li>
+            disturbs intended attitude but not flight path
+          </li>
+          <li>
+            light, moderate, severe, extreme
+          </li>
+          <li>
+            mechanical turbulence (friction layer, friction level)
+
+            <ul>
+              <li>
+                diurnal and seasonal changes of friction level
+              </li>
+            </ul>
+          </li>
+          <li>
+            orographic turbulence
+
+            <ul>
+              <li>
+                mountain waves
+
+                <ul>
+                  <li>
+                    stable air, absolute peak stability
+                  </li>
+                  <li>
+                    high wind speeds +15knots, within 30deg normal to ridges
+                  </li>
+                  <li>
+                    FD charts and terrain assessment
+                  </li>
+                </ul>
+              </li>
+              <li>
+                rotors
+              </li>
+            </ul>
+          </li>
+          <li>
+            thermal turbulence (convection)
+
+            <ul>
+              <li>
+                updrafts and downdrafts
+              </li>
+              <li>
+                microbursts and macrobursts, gust fronts
+              </li>
+              <li>
+                fallout and virga
+              </li>
+            </ul>
+          </li>
+          <li>
+            clear air turbulence (CAT)
+
+            <ul>
+              <li>
+                upper troughs and ridges
+              </li>
+              <li>
+                jetstreams
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        wind shear
+
+        <ul>
+          <li>
+            disturbs intended flight path
+          </li>
+          <li>
+            horizontal or vertical
+          </li>
+          <li>
+            performance decreasing or increasing
+          </li>
+          <li>
+            frontal, trough, ridge passages
+          </li>
+          <li>
+            (low-level) inversions, marked temperature inversion (MTI)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1573330590146" ID="ID_1075915924" MODIFIED="1573330593647" TEXT="6.08 Wind">
 <node CREATED="1573408934993" ID="ID_1535654758" MODIFIED="1573408940263" TEXT="Geostrophic Winds"/>
 <node CREATED="1573408945303" ID="ID_57683935" MODIFIED="1573408950762" TEXT="Pressure Gradient Winds"/>
@@ -10540,7 +10677,7 @@
 <node CREATED="1573408906409" ID="ID_1552787567" MODIFIED="1573408916592" TEXT="Frontal Passage"/>
 </node>
 <node CREATED="1573330721252" ID="ID_238729032" MODIFIED="1573330729412" TEXT="6.11 Complex Low"/>
-<node CREATED="1573330748611" ID="ID_68412790" MODIFIED="1573331148503">
+<node CREATED="1573330748611" ID="ID_68412790" MODIFIED="1573430952281">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10557,9 +10694,18 @@
         temperature gradient winds &gt; 60kts
       </li>
       <li>
+        up to 1500NM long, 200NM wide, 12000ft thick
+      </li>
+      <li>
+        core within the warm air
+      </li>
+      <li>
         Clear Air Turbulence (CAT)
 
         <ul>
+          <li>
+            cold side from the core
+          </li>
           <li>
             30kts isotachs closer than 90NM on 250mbar upper chart
           </li>
@@ -10570,7 +10716,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1573331153527" ID="ID_1872410311" MODIFIED="1573331730986">
 <richcontent TYPE="NODE"><html>
