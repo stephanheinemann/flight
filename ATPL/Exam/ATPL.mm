@@ -9990,8 +9990,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573330358412" ID="ID_1590225205" MODIFIED="1573417071863">
@@ -10072,8 +10071,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573330379861" FOLDED="true" ID="ID_227963538" MODIFIED="1573423664107">
 <richcontent TYPE="NODE"><html>
@@ -10144,8 +10142,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573421102775" ID="ID_1505959441" MODIFIED="1573421466537">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10200,8 +10197,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573330402397" FOLDED="true" ID="ID_368882476" MODIFIED="1573425735480">
@@ -10273,8 +10269,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573423600116" ID="ID_1359500538" MODIFIED="1573424594151">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10335,8 +10330,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573425696502" ID="ID_1922759706" MODIFIED="1573425728071">
 <richcontent TYPE="NODE"><html>
@@ -10380,8 +10374,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573330459552" ID="ID_1650721602" MODIFIED="1573427008501">
@@ -10452,8 +10445,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573330478270" ID="ID_990537658" MODIFIED="1573330567029">
 <richcontent TYPE="NODE"><html>
@@ -10480,7 +10472,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1573431683901" ID="ID_1940104592" MODIFIED="1573431813682">
+<node CREATED="1573431683901" ID="ID_1940104592" MODIFIED="1573498304369">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10491,16 +10483,34 @@
     </p>
     <ul>
       <li>
-        cumulonimbus
-      </li>
-      <li>
-        altocumulus castellanus
-      </li>
-      <li>
-        towering cumulus
+        TCU, ACC, CB
       </li>
       <li>
         cap cloud, lenticular cloud (altocumulus lenticularis), rotor cloud
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573498129764" ID="ID_1442594150" MODIFIED="1573498280369">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Icing Indicating
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        TCU, ACC, CB
+      </li>
+      <li>
+        winter warm front with higher freezing level and precipitation into cold sector with lower freezing level and missing freezing nuclei: supercooled droplets, ice pellets and freezing rain
       </li>
     </ul>
   </body>
@@ -10616,13 +10626,307 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1573330590146" ID="ID_1075915924" MODIFIED="1573505609184">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.08 Wind
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        lower level / surface winds
+
+        <ul>
+          <li>
+            friction level 2000-3000ft
+          </li>
+          <li>
+            surface wind speed decreases within friction layer
+          </li>
+          <li>
+            coriolis force decreases
+          </li>
+          <li>
+            wind backs from geostrophic wind in northern hemisphere (veers with altitude)
+          </li>
+          <li>
+            wind veers from geostrophic wind in southern hemisphere (backs with altitude)
+          </li>
+          <li>
+            northern hemisphere: wind increases and veers with altitude
+          </li>
+          <li>
+            southern hemisphere: wind increases and backs with altitude
+          </li>
+          <li>
+            surface friction
+
+            <ul>
+              <li>
+                land: surface wind 30deg off, 50% of geostrophic wind
+              </li>
+              <li>
+                sea: surface wind 10deg off, 70% of geostrophic wind
+              </li>
+            </ul>
+          </li>
+          <li>
+            diurnal variation
+          </li>
+        </ul>
+      </li>
+      <li>
+        higher level / upper winds
+
+        <ul>
+          <li>
+            density decreases and wind speed increases
+          </li>
+          <li>
+            v = PGF / (2 o * d * sind lat) where
+
+            <ul>
+              <li>
+                o angular velocity of earth rotation
+              </li>
+              <li>
+                d air density
+              </li>
+            </ul>
+          </li>
+          <li>
+            varying temperatures of air masses affect relative pressures
+          </li>
+          <li>
+            cold air columns reduce pressure at higher altitudes
+          </li>
+          <li>
+            warm air columns increase pressure at higher altitudes
+          </li>
+          <li>
+            contour chart: height of pressure level
+          </li>
+          <li>
+            Buys-Ballot law (northern hemisphere, back, cold left, warm right)
+          </li>
+          <li>
+            generally westerly upper winds on both hemispheres
+          </li>
+          <li>
+            summer easterly upper winds closer to equator (seasonal ecliptic)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1573408934993" ID="ID_1535654758" MODIFIED="1573504383896">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Geostrophic Winds
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        follows straight isobars
+      </li>
+      <li>
+        2 modelled forces
+      </li>
+      <li>
+        pressure gradient force (PGF), isobaric wind scale
+      </li>
+      <li>
+        corriolis force
+
+        <ul>
+          <li>
+            apparent acceleration due to changing earth diameter
+          </li>
+          <li>
+            earth diameter change more pronounced in latitudes close to poles
+          </li>
+          <li>
+            maximum at the poles, minimum at the equator
+          </li>
+          <li>
+            only winds +/-15deg latitude are considered geostrophic
+          </li>
+        </ul>
+      </li>
+      <li>
+        resulting wind depends on quantity of PGF and latitude
+
+        <ul>
+          <li>
+            wind apparent deflection towards a low and speed are higher with closer isobars due to higher PGF
+          </li>
+        </ul>
+      </li>
+      <li>
+        Buys-Ballot law (northern hemisphere, back, low left, high right)
+      </li>
+      <li>
+        just above the friction layer
+      </li>
+      <li>
+        v = PGF / (2o * d * sin lat) where
+
+        <ul>
+          <li>
+            o angular velocity of earth rotation
+          </li>
+          <li>
+            d air density
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1573330590146" ID="ID_1075915924" MODIFIED="1573330593647" TEXT="6.08 Wind">
-<node CREATED="1573408934993" ID="ID_1535654758" MODIFIED="1573408940263" TEXT="Geostrophic Winds"/>
-<node CREATED="1573408945303" ID="ID_57683935" MODIFIED="1573408950762" TEXT="Pressure Gradient Winds"/>
-<node CREATED="1573408955449" ID="ID_732232431" MODIFIED="1573408959770" TEXT="Thermal Winds"/>
+<node CREATED="1573408945303" ID="ID_57683935" MODIFIED="1573502870154">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Gradient Winds
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        follows curved isobars
+      </li>
+      <li>
+        3 modelled forces
+      </li>
+      <li>
+        pressure gradient force (PGF)
+      </li>
+      <li>
+        coriolis force (apparent acceleration)
+      </li>
+      <li>
+        centrifual force (inertia)
+
+        <ul>
+          <li>
+            acts with PGF close to high: gradient wind increases compared to geostrophic wind
+          </li>
+          <li>
+            acts with coriolis force close to low: gradient wind decreases compared to geostrophic wind
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573500051602" ID="ID_492057340" MODIFIED="1573500680885">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Antitriptic Winds
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        not affected by pressure gradient force (PGF)
+      </li>
+      <li>
+        within +/-15deg latitude of the equator
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573503019877" ID="ID_1158740086" MODIFIED="1573504117733">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Local Winds / Terrain Effects
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        land and sea breezes (diurnal)
+
+        <ul>
+          <li>
+            land: night, max. 0600LCL, 1000ft
+          </li>
+          <li>
+            sea: day, max. 1500LCL, 1000ft circulation, shoreline CU
+          </li>
+        </ul>
+      </li>
+      <li>
+        monsoon (seasonal)
+
+        <ul>
+          <li>
+            maritime air feeds continental instability and causes CB
+          </li>
+        </ul>
+      </li>
+      <li>
+        anabatic and katabatic (diurnal)
+
+        <ul>
+          <li>
+            e.g., Mistral, Bora
+          </li>
+        </ul>
+      </li>
+      <li>
+        foehn
+
+        <ul>
+          <li>
+            requires stable air to dry out and sink on the lee side
+          </li>
+          <li>
+            e.g., Chinook
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1573330604065" ID="ID_1607843192" MODIFIED="1573330609663" TEXT="6.09 Air Masses"/>
 <node CREATED="1573330615743" ID="ID_1077695511" MODIFIED="1573410092376">
@@ -10670,8 +10974,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573408886069" ID="ID_1151229985" MODIFIED="1573408890423" TEXT="Frontolysis"/>
 <node CREATED="1573408894651" ID="ID_1229506004" MODIFIED="1573408901058" TEXT="Frontogenisis"/>
 <node CREATED="1573408906409" ID="ID_1552787567" MODIFIED="1573408916592" TEXT="Frontal Passage"/>
@@ -10716,8 +11019,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573331153527" ID="ID_1872410311" MODIFIED="1573331730986">
 <richcontent TYPE="NODE"><html>
@@ -10830,7 +11132,7 @@
 <node CREATED="1573333905959" ID="ID_851727738" MODIFIED="1573333913957" TEXT="6.27 Surface Weather Charts"/>
 <node CREATED="1573334104774" ID="ID_1100851419" MODIFIED="1573334111668" TEXT="6.28 Upper Air Charts"/>
 </node>
-<node CREATED="1573341269453" FOLDED="true" ID="ID_698670885" MODIFIED="1573419894154">
+<node CREATED="1573341269453" FOLDED="true" ID="ID_698670885" MODIFIED="1573505181695">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11014,6 +11316,38 @@
             convection in summer, subsidence in winter
           </li>
         </ul>
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1573504768271" ID="ID_1561692756" MODIFIED="1573505072373">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Pressure / Contour Chart Levels
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        1000hPa = MSL
+      </li>
+      <li>
+        700hPa = 10000ft
+      </li>
+      <li>
+        500hPa = 20000ft
+      </li>
+      <li>
+        300hPa = 30000ft
+      </li>
+      <li>
+        isohypses (lines of equal altitude in decameters)
       </li>
     </ul>
   </body>
