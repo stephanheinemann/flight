@@ -9847,8 +9847,8 @@
 </node>
 </node>
 <node CREATED="1568172247782" ID="ID_1312210863" MODIFIED="1573248102002" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" ID="ID_1271575521" MODIFIED="1573329978479" TEXT="Meteorology">
-<node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1573422186636">
+<node CREATED="1568172518654" ID="ID_1271575521" MODIFIED="1573588789499" TEXT="Meteorology">
+<node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1573587243026">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10197,11 +10197,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1573330402397" FOLDED="true" ID="ID_368882476" MODIFIED="1573518623380">
+<node CREATED="1573330402397" FOLDED="true" ID="ID_368882476" MODIFIED="1573587236093">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10448,7 +10447,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573330478270" ID="ID_990537658" MODIFIED="1573518016942">
+<node CREATED="1573330478270" FOLDED="true" ID="ID_990537658" MODIFIED="1573588772702">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10472,8 +10471,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573431683901" ID="ID_1940104592" MODIFIED="1573498304369">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10515,8 +10513,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573516421546" ID="ID_1297652932" MODIFIED="1573518506278">
 <richcontent TYPE="NODE"><html>
@@ -10581,6 +10578,50 @@
       </li>
       <li>
         turbulent mixing / inversion
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1573585924526" ID="ID_824289493" MODIFIED="1573586588354">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Precipitation
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        condensation
+      </li>
+      <li>
+        coalescence (collision and fusion of smaller droplets into bigger)
+      </li>
+      <li>
+        Bergeron Process
+
+        <ul>
+          <li>
+            deposition of water vapor onto ice crystals
+          </li>
+          <li>
+            evaporation of smaller droplets due to reduced humidity
+          </li>
+          <li>
+            energy is consumed
+          </li>
+        </ul>
+      </li>
+      <li>
+        accretion (droplets freeze onto ice crystals)
+      </li>
+      <li>
+        amalgamation (collision and fusion of smaller ice crystals into bigger)
       </li>
     </ul>
   </body>
@@ -10698,7 +10739,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573330590146" FOLDED="true" ID="ID_1075915924" MODIFIED="1573518241534">
+<node CREATED="1573330590146" FOLDED="true" ID="ID_1075915924" MODIFIED="1573587269704">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11170,7 +11211,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573331153527" ID="ID_1872410311" MODIFIED="1573331730986">
+<node CREATED="1573331153527" FOLDED="true" ID="ID_1872410311" MODIFIED="1573594402882">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11184,13 +11225,13 @@
     </p>
     <ul>
       <li>
+        rime, clear, mixed, hoar frost (deposition on aircraft skin)
+      </li>
+      <li>
         in -40degC to +2degC
       </li>
       <li>
         most severe in -15degC to 0degC in cloud thickness of 5000 to 8000ft
-      </li>
-      <li>
-        small versus large supercooled droplets (clear - rear, rime - front)
       </li>
       <li>
         collection efficiency (aerofoil / antennae: thin - more, thick - less)
@@ -11200,9 +11241,55 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<node CREATED="1573592888756" ID="ID_730717142" MODIFIED="1573594148794">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Supercooled Water Droplets
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        supercooled droplets due to absence of freezing nuclei
+      </li>
+      <li>
+        higher probability of freezing nuclei in large droplets
+      </li>
+      <li>
+        large droplets freeze at higher temperatures than small droplets
+
+        <ul>
+          <li>
+            small -15 to -40degC, rime - front, fast air trapping freezing
+          </li>
+          <li>
+            large 0 to -15degC, clear - rear, slow laminar freezing
+          </li>
+        </ul>
+      </li>
+      <li>
+        vertical support required for larger droplets (TCU, ACC, CB, NS)
+      </li>
+      <li>
+        lower freezing levels over higher terrain
+      </li>
+      <li>
+        orographic lift increases vertical support
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1573331171164" ID="ID_1165763841" MODIFIED="1573333134352">
+</node>
+<node CREATED="1573331171164" ID="ID_1165763841" MODIFIED="1573588187726">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11215,6 +11302,15 @@
       
     </p>
     <ul>
+      <li>
+        gust fronts
+
+        <ul>
+          <li>
+            up to 15-20NM
+          </li>
+        </ul>
+      </li>
       <li>
         microburst
 
@@ -11238,9 +11334,12 @@
 
         <ul>
           <li>
-            20NM diameter
+            up to 5NM diameter, more than 5 minutes
           </li>
         </ul>
+      </li>
+      <li>
+        low level inversion (stability) may store energy until lower atmosphere becomes warm enough to release energy into higher unstable air with possible offset downdrafts due to wind shear: multicell and supercell storms
       </li>
       <li>
         lightning more likely in -5degC to 5degC
@@ -11265,7 +11364,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1573333282683" ID="ID_316363689" MODIFIED="1573333293696" TEXT="6.15 Hurricanes and Tornadoes"/>
 <node CREATED="1573333381118" ID="ID_1639799285" MODIFIED="1573333389670" TEXT="6.16 Surface Based Layers"/>
@@ -11281,7 +11381,7 @@
 <node CREATED="1573333905959" ID="ID_851727738" MODIFIED="1573333913957" TEXT="6.27 Surface Weather Charts"/>
 <node CREATED="1573334104774" ID="ID_1100851419" MODIFIED="1573334111668" TEXT="6.28 Upper Air Charts"/>
 </node>
-<node CREATED="1573341269453" FOLDED="true" ID="ID_698670885" MODIFIED="1573505181695">
+<node CREATED="1573341269453" FOLDED="true" ID="ID_698670885" MODIFIED="1573587324188">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11552,6 +11652,159 @@
     </ul>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1573588792642" FOLDED="true" ID="ID_45066549" MODIFIED="1573592376198">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Visibility
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        meteorological optical range (MOR)
+      </li>
+      <li>
+        runway visual range (RVR), RVR A, B, C
+
+        <ul>
+          <li>
+            RBLWXXX, MXXX, PXXXX
+          </li>
+          <li>
+            U, D, N, B (great variations)
+          </li>
+        </ul>
+      </li>
+      <li>
+        ground visibility
+      </li>
+      <li>
+        flight visibility
+      </li>
+      <li>
+        oblique visibility
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1573590016775" ID="ID_868509694" MODIFIED="1573590291433">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Dust, Sand, Smoke and Smog
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Haboobs
+      </li>
+      <li>
+        Khamsin
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573590211760" ID="ID_927334044" MODIFIED="1573590402586">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Rain and Snow
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        drizzle generally reduces visibility more than rain due to higher quantity of smaller droplets&#160;
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573590247098" ID="ID_716094335" MODIFIED="1573591276331">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Haze, Mist and Fog
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        fog
+
+        <ul>
+          <li>
+            radiation (clear sky, high relative humidity, light winds)
+
+            <ul>
+              <li>
+                some mixing and moisture from higher levels
+              </li>
+              <li>
+                dew deposition in calm winds instead of fog formation
+              </li>
+              <li>
+                lifting and low stratus formation in stronger winds
+              </li>
+              <li>
+                100-1000ft thickness
+              </li>
+            </ul>
+          </li>
+          <li>
+            hill
+          </li>
+          <li>
+            advection (cold surface, high relative humidity, sufficient wind)
+
+            <ul>
+              <li>
+                100ft thickness
+              </li>
+            </ul>
+          </li>
+          <li>
+            frontal
+
+            <ul>
+              <li>
+                up to 200NM ahead warm front
+              </li>
+            </ul>
+          </li>
+          <li>
+            arctic / steam
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
