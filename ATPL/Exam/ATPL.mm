@@ -10073,7 +10073,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573330379861" FOLDED="true" ID="ID_227963538" MODIFIED="1573423664107">
+<node CREATED="1573330379861" FOLDED="true" ID="ID_227963538" MODIFIED="1573518619630">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10143,7 +10143,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1573421102775" ID="ID_1505959441" MODIFIED="1573421466537">
+<node CREATED="1573421102775" ID="ID_1505959441" MODIFIED="1573518298917">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10191,16 +10191,17 @@
             valleys and funnels
           </li>
           <li>
-            foehn
+            foehn (SALR on windward, DALR on leeward)
           </li>
         </ul>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
-<node CREATED="1573330402397" FOLDED="true" ID="ID_368882476" MODIFIED="1573425735480">
+<node CREATED="1573330402397" FOLDED="true" ID="ID_368882476" MODIFIED="1573518623380">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10447,7 +10448,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573330478270" FOLDED="true" ID="ID_990537658" MODIFIED="1573508734883">
+<node CREATED="1573330478270" ID="ID_990537658" MODIFIED="1573518016942">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10471,7 +10472,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1573431683901" ID="ID_1940104592" MODIFIED="1573498304369">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10490,10 +10492,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1573498129764" ID="ID_1442594150" MODIFIED="1573498280369">
+<node CREATED="1573498129764" ID="ID_1442594150" MODIFIED="1573518648885">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10510,7 +10511,76 @@
         TCU, ACC, CB
       </li>
       <li>
-        winter warm front with higher freezing level and precipitation into cold sector with lower freezing level and missing freezing nuclei: supercooled droplets, ice pellets and freezing rain
+        NS, winter warm front with higher freezing level and precipitation into cold sector with lower freezing level and missing freezing nuclei: supercooled droplets, ice pellets and freezing rain
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573516421546" ID="ID_1297652932" MODIFIED="1573518506278">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Development
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        convection
+
+        <ul>
+          <li>
+            cloud base = spread * 400, cloud base = spread * 1000 / 3 (DALR)
+          </li>
+          <li>
+            cloud tops where SALR = ELR (vertical movement stops, inversion)
+          </li>
+          <li>
+            layers possible due to changing spread (moisture content)
+          </li>
+          <li>
+            ELR must allow parcel to rise to dew point temperature
+          </li>
+          <li>
+            trigger temperature
+          </li>
+        </ul>
+      </li>
+      <li>
+        convergence
+
+        <ul>
+          <li>
+            troughs, sea breezes
+          </li>
+        </ul>
+      </li>
+      <li>
+        orographic uplift
+
+        <ul>
+          <li>
+            unstable: TCU, ACC, CB (possibly embedded)
+          </li>
+          <li>
+            stable: cap clouds, ACL, rotor clouds
+          </li>
+        </ul>
+      </li>
+      <li>
+        frontal uplift
+      </li>
+      <li>
+        advection / conduction
+      </li>
+      <li>
+        turbulent mixing / inversion
       </li>
     </ul>
   </body>
@@ -10628,7 +10698,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573330590146" FOLDED="true" ID="ID_1075915924" MODIFIED="1573506480449">
+<node CREATED="1573330590146" FOLDED="true" ID="ID_1075915924" MODIFIED="1573518241534">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10727,8 +10797,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573408934993" ID="ID_1535654758" MODIFIED="1573504383896">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10798,8 +10867,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573408945303" ID="ID_57683935" MODIFIED="1573502870154">
 <richcontent TYPE="NODE"><html>
@@ -10840,8 +10908,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573500051602" ID="ID_492057340" MODIFIED="1573500680885">
 <richcontent TYPE="NODE"><html>
@@ -10864,8 +10931,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573503019877" ID="ID_1158740086" MODIFIED="1573504117733">
 <richcontent TYPE="NODE"><html>
@@ -10924,8 +10990,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573330604065" ID="ID_1607843192" MODIFIED="1573330609663" TEXT="6.09 Air Masses"/>
@@ -11103,8 +11168,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573331153527" ID="ID_1872410311" MODIFIED="1573331730986">
 <richcontent TYPE="NODE"><html>
@@ -11436,8 +11500,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573344654829" ID="ID_1590093799" MODIFIED="1573346102357">
