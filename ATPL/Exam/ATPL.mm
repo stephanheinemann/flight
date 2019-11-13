@@ -10625,8 +10625,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573330572405" ID="ID_1665720219" MODIFIED="1573432297772">
@@ -11034,8 +11033,34 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573330604065" ID="ID_1607843192" MODIFIED="1573330609663" TEXT="6.09 Air Masses"/>
-<node CREATED="1573330615743" ID="ID_1077695511" MODIFIED="1573410092376">
+<node CREATED="1573330604065" ID="ID_1607843192" MODIFIED="1573602942279">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.09 Air Masses
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        maritime, continental
+      </li>
+      <li>
+        arctic, polar, tropical, return
+      </li>
+      <li>
+        A, Pm, Tm, rPm, Pc, Tc
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573330615743" FOLDED="true" ID="ID_1077695511" MODIFIED="1573605303413">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11078,12 +11103,211 @@
           </li>
         </ul>
       </li>
+      <li>
+        ANA, KATA cold front
+      </li>
+      <li>
+        occluded front
+
+        <ul>
+          <li>
+            warm occlusion
+          </li>
+          <li>
+            cold occlusion
+          </li>
+          <li>
+            triple point
+          </li>
+          <li>
+            TROWAL
+          </li>
+        </ul>
+      </li>
     </ul>
   </body>
-</html></richcontent>
-<node CREATED="1573408886069" ID="ID_1151229985" MODIFIED="1573408890423" TEXT="Frontolysis"/>
-<node CREATED="1573408894651" ID="ID_1229506004" MODIFIED="1573408901058" TEXT="Frontogenisis"/>
-<node CREATED="1573408906409" ID="ID_1552787567" MODIFIED="1573408916592" TEXT="Frontal Passage"/>
+</html>
+</richcontent>
+<node CREATED="1573408894651" ID="ID_1229506004" MODIFIED="1573602402393">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Frontogenisis
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        generation of fronts due to air mass differences
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573408906409" ID="ID_1552787567" MODIFIED="1573605268866">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Frontal Passage
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        wind, pressure, temperature, dew point, visibility
+      </li>
+      <li>
+        warm front
+
+        <ul>
+          <li>
+            ahead the front:
+
+            <ul>
+              <li>
+                wind increases and backs slightly
+              </li>
+              <li>
+                pressure falls
+              </li>
+              <li>
+                temperature is steady low
+              </li>
+              <li>
+                dew point is steady low
+              </li>
+              <li>
+                visibility becomes poor
+              </li>
+            </ul>
+          </li>
+          <li>
+            at the front:
+
+            <ul>
+              <li>
+                wind veers sharply
+              </li>
+              <li>
+                pressure falls
+              </li>
+              <li>
+                temperature rises
+              </li>
+              <li>
+                dew point rises
+              </li>
+              <li>
+                visibility is very poor
+              </li>
+            </ul>
+          </li>
+          <li>
+            behind the front:
+
+            <ul>
+              <li>
+                wind is steady
+              </li>
+              <li>
+                pressure falls slightly
+              </li>
+              <li>
+                temperature is steady
+              </li>
+              <li>
+                dew point is steady
+              </li>
+              <li>
+                visibility is poor
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        cold front
+
+        <ul>
+          <li>
+            at the front:
+
+            <ul>
+              <li>
+                wind veers sharply
+              </li>
+              <li>
+                pressure rises
+              </li>
+              <li>
+                temperature falls suddenly
+              </li>
+              <li>
+                dew point falls suddenly
+              </li>
+              <li>
+                visibility is poor in precipitation but improves
+              </li>
+            </ul>
+          </li>
+          <li>
+            behind the front:
+
+            <ul>
+              <li>
+                wind is steady or veers slightly
+              </li>
+              <li>
+                pressure rises slightly
+              </li>
+              <li>
+                temperature is steady low
+              </li>
+              <li>
+                dew point is steady low
+              </li>
+              <li>
+                visibility is very good except in showers
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573408886069" ID="ID_1151229985" MODIFIED="1573602450479">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Frontolysis
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        dissipation of fronts due to air mass similarities
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1573330721252" ID="ID_238729032" MODIFIED="1573330729412" TEXT="6.11 Complex Low"/>
 <node CREATED="1573330748611" ID="ID_68412790" MODIFIED="1573508666882">
@@ -11241,8 +11465,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573592888756" ID="ID_730717142" MODIFIED="1573594148794">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11285,8 +11508,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573331171164" ID="ID_1165763841" MODIFIED="1573588187726">
@@ -11364,8 +11586,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573333282683" ID="ID_316363689" MODIFIED="1573333293696" TEXT="6.15 Hurricanes and Tornadoes"/>
 <node CREATED="1573333381118" ID="ID_1639799285" MODIFIED="1573333389670" TEXT="6.16 Surface Based Layers"/>
@@ -11692,8 +11913,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573590016775" ID="ID_868509694" MODIFIED="1573590291433">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11715,8 +11935,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573590211760" ID="ID_927334044" MODIFIED="1573590402586">
 <richcontent TYPE="NODE"><html>
@@ -11736,8 +11955,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573590247098" ID="ID_716094335" MODIFIED="1573591276331">
 <richcontent TYPE="NODE"><html>
@@ -11802,8 +12020,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
