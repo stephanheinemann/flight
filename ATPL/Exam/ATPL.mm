@@ -9847,7 +9847,7 @@
 </node>
 </node>
 <node CREATED="1568172247782" ID="ID_1312210863" MODIFIED="1573248102002" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" ID="ID_1271575521" MODIFIED="1573588789499" TEXT="Meteorology">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1573678944053" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1573587243026">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11057,8 +11057,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573330615743" FOLDED="true" ID="ID_1077695511" MODIFIED="1573605303413">
 <richcontent TYPE="NODE"><html>
@@ -11126,8 +11125,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573408894651" ID="ID_1229506004" MODIFIED="1573602402393">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11146,8 +11144,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573408906409" ID="ID_1552787567" MODIFIED="1573605268866">
 <richcontent TYPE="NODE"><html>
@@ -11284,8 +11281,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573408886069" ID="ID_1151229985" MODIFIED="1573602450479">
 <richcontent TYPE="NODE"><html>
@@ -11305,8 +11301,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573330721252" ID="ID_238729032" MODIFIED="1573330729412" TEXT="6.11 Complex Low"/>
@@ -11588,7 +11583,87 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573333282683" ID="ID_316363689" MODIFIED="1573333293696" TEXT="6.15 Hurricanes and Tornadoes"/>
+<node CREATED="1573333282683" ID="ID_316363689" MODIFIED="1573678870268">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.15 Hurricanes and Tornadoes
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        tropical revolving storms (TRS)
+
+        <ul>
+          <li>
+            diameter 300 to 1500km, several weeks lifecycle
+          </li>
+          <li>
+            hurricanes, cyclones, typhoons
+          </li>
+          <li>
+            creation criteria:
+
+            <ul>
+              <li>
+                5 to 25deg of the equator
+              </li>
+              <li>
+                sea surface temperature of 26degC at 2 to 300 feet depth
+              </li>
+              <li>
+                no significant wind shear
+              </li>
+            </ul>
+          </li>
+          <li>
+            collect heat and moisture over the ocean
+          </li>
+          <li>
+            development stages:
+
+            <ul>
+              <li>
+                tropical depression (20-34kts)
+              </li>
+              <li>
+                tropical storm (34-64kts, alphabetical-gender-order names)
+              </li>
+              <li>
+                fully matured hurricane, cyclone, typhoon (&gt;64kts)
+              </li>
+            </ul>
+          </li>
+          <li>
+            eye 20-50km, eye wall, spiral rain bands
+          </li>
+        </ul>
+      </li>
+      <li>
+        tornado
+
+        <ul>
+          <li>
+            diameter 100m, short lifecycle minutes to hours
+          </li>
+          <li>
+            up to 200kts center winds
+          </li>
+          <li>
+            creation usually during hot summer afternoons over land
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1573333381118" ID="ID_1639799285" MODIFIED="1573333389670" TEXT="6.16 Surface Based Layers"/>
 <node CREATED="1573333699232" ID="ID_353626057" MODIFIED="1573333712625" TEXT="6.17 Meteorological Services for Pilots">
 <node CREATED="1573333722271" ID="ID_1510631225" MODIFIED="1573333736230" TEXT="6.18 Graphic Area Forcast (GFA)"/>
@@ -11602,7 +11677,7 @@
 <node CREATED="1573333905959" ID="ID_851727738" MODIFIED="1573333913957" TEXT="6.27 Surface Weather Charts"/>
 <node CREATED="1573334104774" ID="ID_1100851419" MODIFIED="1573334111668" TEXT="6.28 Upper Air Charts"/>
 </node>
-<node CREATED="1573341269453" FOLDED="true" ID="ID_698670885" MODIFIED="1573587324188">
+<node CREATED="1573341269453" FOLDED="true" ID="ID_698670885" MODIFIED="1573677620647">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11822,6 +11897,36 @@
     </ul>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1573676858687" ID="ID_981248884" MODIFIED="1573677538642">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Depressions
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        frontal
+      </li>
+      <li>
+        orographic: lee troughing, lee lows (stable orographic uplift)
+      </li>
+      <li>
+        thermal: heat low, polar low, Asian monsoon low
+      </li>
+      <li>
+        intertropical convergence zone
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1573344654829" ID="ID_1590093799" MODIFIED="1573346102357">
