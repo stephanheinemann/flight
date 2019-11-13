@@ -9847,8 +9847,8 @@
 </node>
 </node>
 <node CREATED="1568172247782" ID="ID_1312210863" MODIFIED="1573248102002" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1573678944053" TEXT="Meteorology">
-<node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1573587243026">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1573680424222" TEXT="Meteorology">
+<node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1573680413890">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9966,7 +9966,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1573411225691" ID="ID_472655295" MODIFIED="1573411289567">
+<node CREATED="1573411225691" ID="ID_472655295" MODIFIED="1573680359291">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9980,17 +9980,54 @@
     </p>
     <ul>
       <li>
-        Hadley cell
+        convergence, divergence, coriolis
       </li>
       <li>
-        Ferrel cell
+        Hadley cells
+
+        <ul>
+          <li>
+            ITCZ
+          </li>
+          <li>
+            north-easterly, south-easterly trade winds
+          </li>
+          <li>
+            light and variable doldrums
+          </li>
+        </ul>
       </li>
       <li>
-        Polar cell
+        Ferrel cells
+
+        <ul>
+          <li>
+            sub tropical highs (light and variable winds, horse latitudes)
+          </li>
+          <li>
+            variable westerlies, roaring fourties, furious fifties
+          </li>
+          <li>
+            polar front depressions (variable and strong winds)
+          </li>
+        </ul>
+      </li>
+      <li>
+        Polar cells
+
+        <ul>
+          <li>
+            polar highs
+          </li>
+          <li>
+            variable and strong polar easterlies
+          </li>
+        </ul>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1573330358412" ID="ID_1590225205" MODIFIED="1573417071863">
