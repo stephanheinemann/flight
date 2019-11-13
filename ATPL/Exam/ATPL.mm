@@ -9847,8 +9847,8 @@
 </node>
 </node>
 <node CREATED="1568172247782" ID="ID_1312210863" MODIFIED="1573248102002" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1573680424222" TEXT="Meteorology">
-<node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1573680413890">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1573686551428" TEXT="Meteorology">
+<node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1573683988830">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9966,7 +9966,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1573411225691" ID="ID_472655295" MODIFIED="1573680359291">
+<node CREATED="1573411225691" FOLDED="true" ID="ID_472655295" MODIFIED="1573683983944">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10026,8 +10026,46 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+<node CREATED="1573682951490" ID="ID_88485215" MODIFIED="1573683836833">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Globe Climate Zones
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        equatorial wet (+/-10deg latitude)
+      </li>
+      <li>
+        savannah (10 to 20deg latitude)
+      </li>
+      <li>
+        arid (20 to 35deg latitude)
+      </li>
+      <li>
+        warm temperate (35 to 40deg latitude)
+      </li>
+      <li>
+        cool temperate (40 to 65deg latitude)
+      </li>
+      <li>
+        polar (65 to 90deg latitude)
+      </li>
+      <li>
+        borial zone (variable north land masses, 40 to 60deg latitude)
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1573330358412" ID="ID_1590225205" MODIFIED="1573417071863">
@@ -10775,7 +10813,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573330590146" FOLDED="true" ID="ID_1075915924" MODIFIED="1573587269704">
+<node CREATED="1573330590146" FOLDED="true" ID="ID_1075915924" MODIFIED="1573686527685">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11010,7 +11048,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573503019877" ID="ID_1158740086" MODIFIED="1573504117733">
+<node CREATED="1573503019877" FOLDED="true" ID="ID_1158740086" MODIFIED="1573686523224">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11067,7 +11105,80 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<node CREATED="1573686084670" ID="ID_1421546580" MODIFIED="1573686427284">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Global Areas
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Africa
+
+        <ul>
+          <li>
+            Sirocco, Ghibli, Khamsin, Harmattan, Haboob, Monsoon
+          </li>
+        </ul>
+      </li>
+      <li>
+        Western Europe and North Atlantic
+
+        <ul>
+          <li>
+            Mistral, Bora, Estesian
+          </li>
+        </ul>
+      </li>
+      <li>
+        Southern Asia
+
+        <ul>
+          <li>
+            Monsoon, cyclones, typhoons
+          </li>
+        </ul>
+      </li>
+      <li>
+        Australia
+
+        <ul>
+          <li>
+            cyclones, Willy Willys, Southerly Busters
+          </li>
+        </ul>
+      </li>
+      <li>
+        South America
+
+        <ul>
+          <li>
+            Pamperos
+          </li>
+        </ul>
+      </li>
+      <li>
+        North America
+
+        <ul>
+          <li>
+            Tornado Alley, hurricans
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1573330604065" ID="ID_1607843192" MODIFIED="1573602942279">
@@ -11620,7 +11731,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573333282683" ID="ID_316363689" MODIFIED="1573678870268">
+<node CREATED="1573333282683" ID="ID_316363689" MODIFIED="1573684895134">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11659,7 +11770,7 @@
             </ul>
           </li>
           <li>
-            collect heat and moisture over the ocean
+            easterly waves collect heat and moisture over the ocean
           </li>
           <li>
             development stages:
@@ -11962,8 +12073,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573344654829" ID="ID_1590093799" MODIFIED="1573346102357">
