@@ -9847,7 +9847,7 @@
 </node>
 </node>
 <node CREATED="1568172247782" ID="ID_1312210863" MODIFIED="1573248102002" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1573686551428" TEXT="Meteorology">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1573764077424" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1573683988830">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10063,8 +10063,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -11105,8 +11104,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573686084670" ID="ID_1421546580" MODIFIED="1573686427284">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11176,8 +11174,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -11809,11 +11806,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573333381118" ID="ID_1639799285" MODIFIED="1573333389670" TEXT="6.16 Surface Based Layers"/>
-<node CREATED="1573333699232" ID="ID_353626057" MODIFIED="1573333712625" TEXT="6.17 Meteorological Services for Pilots">
+<node CREATED="1573333699232" FOLDED="true" ID="ID_353626057" MODIFIED="1573764063297" TEXT="6.17 Meteorological Services for Pilots">
 <node CREATED="1573333722271" ID="ID_1510631225" MODIFIED="1573333736230" TEXT="6.18 Graphic Area Forcast (GFA)"/>
 <node CREATED="1573333740648" ID="ID_1869474482" MODIFIED="1573333765170" TEXT="6.19 International Aerdrome Forecasts (TAF)"/>
 <node CREATED="1573333770621" ID="ID_206035143" MODIFIED="1573333791329" TEXT="6.20 Upper Level Winds and Temperatures Forecasts (FD)"/>
@@ -11823,9 +11819,89 @@
 <node CREATED="1573333872222" ID="ID_1194590033" MODIFIED="1573333877796" TEXT="6.24 AIRMET"/>
 <node CREATED="1573333889451" ID="ID_1599588579" MODIFIED="1573333897199" TEXT="6.26 CAVOK"/>
 <node CREATED="1573333905959" ID="ID_851727738" MODIFIED="1573333913957" TEXT="6.27 Surface Weather Charts"/>
-<node CREATED="1573334104774" ID="ID_1100851419" MODIFIED="1573334111668" TEXT="6.28 Upper Air Charts"/>
+<node CREATED="1573334104774" FOLDED="true" ID="ID_1100851419" MODIFIED="1573764060999">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.28 Upper Air Charts
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Analysis
+      </li>
+      <li>
+        Prognostic
+
+        <ul>
+          <li>
+            winds and temperatures aloft chart
+          </li>
+          <li>
+            Canadian Meteorological Centre (CMC) chart
+          </li>
+          <li>
+            Significant Weather Prognostic (WAFC) chart
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1573763754201" ID="ID_509300835" MODIFIED="1573763870401">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Chart Levels
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        850mb 5000ft
+      </li>
+      <li>
+        700mb 10000ft
+      </li>
+      <li>
+        500mb 18000ft
+      </li>
+      <li>
+        400mb 24000ft
+      </li>
+      <li>
+        300mb 30000ft
+      </li>
+      <li>
+        250mb 34000ft
+      </li>
+      <li>
+        200mb 40000ft
+      </li>
+      <li>
+        150mb 45000ft
+      </li>
+      <li>
+        100mb 53000ft
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1573341269453" FOLDED="true" ID="ID_698670885" MODIFIED="1573677620647">
+</node>
+</node>
+<node CREATED="1573341269453" FOLDED="true" ID="ID_698670885" MODIFIED="1573764056101">
 <richcontent TYPE="NODE"><html>
   <head>
     
