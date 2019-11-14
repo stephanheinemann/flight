@@ -12355,7 +12355,288 @@
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
 <icon BUILTIN="closed"/>
 </node>
-<node CREATED="1568172671136" ID="ID_1053951536" MODIFIED="1568172701231" TEXT="Radio Communication and Navigation Aids"/>
+<node CREATED="1568172671136" ID="ID_1053951536" MODIFIED="1573765834508" TEXT="Radio Communication and Navigation Aids">
+<node CREATED="1573764157635" ID="ID_1495037692" MODIFIED="1573764306772">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      7.01 Radio Wave Theory
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        VLF 3-30KHz
+      </li>
+      <li>
+        LF 30-300KHz
+      </li>
+      <li>
+        MF 300-3000KHz
+      </li>
+      <li>
+        HF 3000-30000KHz
+      </li>
+      <li>
+        VHF 30-300MHz
+      </li>
+      <li>
+        UHF 300-3000MHz
+      </li>
+      <li>
+        SHF 3000MHz-
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573764536763" ID="ID_395794237" MODIFIED="1573764544715" TEXT="7.02 HF Communications"/>
+<node CREATED="1573764628595" FOLDED="true" ID="ID_1452684835" MODIFIED="1573766466168">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      7.03 VOR
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        variable phase 1800RPM
+      </li>
+      <li>
+        reference signal every 360deg
+      </li>
+      <li>
+        D [NM] = 1.23 sqrt (h [ft AGL])
+      </li>
+      <li>
+        ground check tolerance +/-4deg
+      </li>
+      <li>
+        air check tolerance +/-6deg
+      </li>
+      <li>
+        VOR checkpoint +/-4deg, DME +/-0.5NM
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1573765666888" ID="ID_1078463134" MODIFIED="1573765811094">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Time and Distance
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        TTS [min] = T [s] / #Radials
+      </li>
+      <li>
+        DTS [NM] = GS * TTS [min] / 60
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1573765838461" FOLDED="true" ID="ID_674804851" MODIFIED="1573766468153">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      7.04 ADF nd RMI Systems
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        190-1750KHz
+      </li>
+      <li>
+        NDB transmission power
+
+        <ul>
+          <li>
+            L &lt; 50W
+          </li>
+          <li>
+            M 50-2000W
+          </li>
+          <li>
+            H &gt; 2000W
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1573766225298" ID="ID_500852561" MODIFIED="1573766276157">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Time and Distance
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        TTS [min] = T [s] / RB Change
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1573766472295" ID="ID_1799060410" MODIFIED="1573766482465" TEXT="7.05 TACAN Systems"/>
+<node CREATED="1573766502784" ID="ID_1342315489" MODIFIED="1573766782520">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      7.06 DME
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        UHF 962-1213MHz
+      </li>
+      <li>
+        126 channels, 63MHz spacing
+      </li>
+      <li>
+        air to ground 1025MHz, ground to air 962MHz
+      </li>
+      <li>
+        D [NM] = sqrt(S^2 [NM] - H^2 [NM])
+      </li>
+      <li>
+        tolerance +/-0.5NM or 3% distance, whichever is greater
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573766804059" ID="ID_740616356" MODIFIED="1573766811122" TEXT="7.07 RNAV"/>
+<node CREATED="1573766821646" ID="ID_1748378733" MODIFIED="1573767345705">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      7.08 ILS
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        VHF localizer (2.5deg full deflection)
+
+        <ul>
+          <li>
+            reliable up to 35deg off and 10NM distance
+          </li>
+          <li>
+            reliable up to 10deg off and 18NM distance
+          </li>
+        </ul>
+      </li>
+      <li>
+        UHF glide slope 3deg
+      </li>
+      <li>
+        CAT I/II/III
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573767489852" ID="ID_975583169" MODIFIED="1573767942567">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      7.09 ADS-B
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        based on Mode S 1090MHz (1090ES)
+      </li>
+      <li>
+        flight plan equipment codes (B1, B2, U1, U2)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573768025279" ID="ID_1770451184" MODIFIED="1573768178665">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      7.10 ACARS
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        FMC WPR, E1
+      </li>
+      <li>
+        D-FIS, E2
+      </li>
+      <li>
+        PDC, E3
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573768043690" ID="ID_308343974" MODIFIED="1573768050669" TEXT="7.11 CPDLC"/>
+</node>
 </node>
 <node CREATED="1568671682779" ID="ID_1658639647" MODIFIED="1571511537883" POSITION="right" TEXT="Study Material">
 <node CREATED="1568671700482" ID="ID_217896736" MODIFIED="1572197462102">
