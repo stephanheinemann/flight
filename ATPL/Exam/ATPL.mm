@@ -11852,8 +11852,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573763754201" ID="ID_509300835" MODIFIED="1573763870401">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11896,8 +11895,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -12356,7 +12354,7 @@
 <icon BUILTIN="closed"/>
 </node>
 <node CREATED="1568172671136" ID="ID_1053951536" MODIFIED="1573765834508" TEXT="Radio Communication and Navigation Aids">
-<node CREATED="1573764157635" ID="ID_1495037692" MODIFIED="1573764306772">
+<node CREATED="1573764157635" ID="ID_1495037692" MODIFIED="1573855657638">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12370,25 +12368,25 @@
     </p>
     <ul>
       <li>
-        VLF 3-30KHz
+        VLF 3-30 KHz
       </li>
       <li>
-        LF 30-300KHz
+        LF 30-300 KHz
       </li>
       <li>
-        MF 300-3000KHz
+        MF 300-3000 KHz
       </li>
       <li>
-        HF 3000-30000KHz
+        HF 3000-30000 KHz
       </li>
       <li>
-        VHF 30-300MHz
+        VHF 30-300 MHz
       </li>
       <li>
-        UHF 300-3000MHz
+        UHF 300-3000 MHz
       </li>
       <li>
-        SHF 3000MHz-
+        SHF 3-30 GHz
       </li>
     </ul>
   </body>
@@ -12396,7 +12394,7 @@
 </richcontent>
 </node>
 <node CREATED="1573764536763" ID="ID_395794237" MODIFIED="1573764544715" TEXT="7.02 HF Communications"/>
-<node CREATED="1573764628595" FOLDED="true" ID="ID_1452684835" MODIFIED="1573766466168">
+<node CREATED="1573764628595" FOLDED="true" ID="ID_1452684835" MODIFIED="1573851914432">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12429,8 +12427,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573765666888" ID="ID_1078463134" MODIFIED="1573765811094">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -12452,8 +12449,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573765838461" FOLDED="true" ID="ID_674804851" MODIFIED="1573766468153">
@@ -12489,8 +12485,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573766225298" ID="ID_500852561" MODIFIED="1573766276157">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -12509,8 +12504,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573766472295" ID="ID_1799060410" MODIFIED="1573766482465" TEXT="7.05 TACAN Systems"/>
@@ -12544,8 +12538,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573766804059" ID="ID_740616356" MODIFIED="1573766811122" TEXT="7.07 RNAV"/>
 <node CREATED="1573766821646" ID="ID_1748378733" MODIFIED="1573767345705">
@@ -12581,10 +12574,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1573767489852" ID="ID_975583169" MODIFIED="1573767942567">
+<node CREATED="1573767489852" ID="ID_975583169" MODIFIED="1573853154454">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12601,41 +12593,419 @@
         based on Mode S 1090MHz (1090ES)
       </li>
       <li>
-        flight plan equipment codes (B1, B2, U1, U2)
+        ADS-B out, flight plan equipment code B1
+      </li>
+      <li>
+        ADS-B&#160;out and in, flight plan equipment code B2
+      </li>
+      <li>
+        ADS-B out using UAT, flight plan equipment code U1
+      </li>
+      <li>
+        ADS-B out and in using UAT, flight plan equipment code U2
       </li>
     </ul>
   </body>
 </html>
 </richcontent>
-</node>
-<node CREATED="1573768025279" ID="ID_1770451184" MODIFIED="1573768178665">
+<node CREATED="1573853359791" ID="ID_653424469" MODIFIED="1573858440664">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      7.10 ACARS
+      Minimum ADS-B Out
     </p>
     <p>
       
     </p>
     <ul>
       <li>
-        FMC WPR, E1
+        airborne position
       </li>
       <li>
-        D-FIS, E2
+        pressure altitude
       </li>
       <li>
-        PDC, E3
+        aircraft identity
+      </li>
+      <li>
+        flight identification
+      </li>
+      <li>
+        navigation uncertainty category - position (NUCp) / navigation integrity category (NIC)
+      </li>
+      <li>
+        navigation accuracy category- position (NACp)
+      </li>
+      <li>
+        source integrity level
+      </li>
+      <li>
+        special position indicator (SIL), equivalent to &quot;Squawk Ident&quot; SPI
+      </li>
+      <li>
+        emergency status, generic emergency (EMR)
       </li>
     </ul>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1573768043690" ID="ID_308343974" MODIFIED="1573768050669" TEXT="7.11 CPDLC"/>
+</node>
+<node CREATED="1573768025279" ID="ID_1770451184" MODIFIED="1573852979583">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      7.10 Aircraft Communications Addressing Reporting System (ACARS)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        airline digital satellite-based datalink service
+      </li>
+      <li>
+        FMC Waypoint Reporting (WPR), flight plan equipment code E1
+      </li>
+      <li>
+        Digital Flight Information Service (D-FIS), flight plan equipment code E2
+      </li>
+      <li>
+        Pre-Departure Clearance (PDC), flight plan equipment code (E3)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573768043690" ID="ID_308343974" MODIFIED="1573854645142">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      7.11 Controller-Pilot Data Link Communications (CPDLC)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        downstream air traffic service unit (ATSU), ATSU airspace
+      </li>
+      <li>
+        CPDLC ATN VDL Mode 2, J1
+      </li>
+      <li>
+        CPDLC FANS 1/A HFDL, J2
+      </li>
+      <li>
+        CPDLC FANS 1/A VDL Mode 4, J3
+      </li>
+      <li>
+        CPDLC FANS 1/A Mode 2, J4
+      </li>
+      <li>
+        CPDLC FANS 1/A SATCOM (INMARSAT), J5
+      </li>
+      <li>
+        CPDLC FANS 1/A SATCOM (MTSAT), J6
+      </li>
+      <li>
+        CPDLC FANS 1/A SATCOM (Iridium), J7
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573854692769" ID="ID_1838919694" MODIFIED="1573857372445">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      7.12 Radar Systems
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        airborne radar
+
+        <ul>
+          <li>
+            Doppler radar
+          </li>
+          <li>
+            weather radar
+          </li>
+          <li>
+            mapping radar (military)
+          </li>
+        </ul>
+      </li>
+      <li>
+        ground-based radar
+
+        <ul>
+          <li>
+            primary surveillance radar (PSS)
+          </li>
+          <li>
+            secondary surveillance radar (SSR)
+          </li>
+          <li>
+            enroute and terminal control radar
+          </li>
+          <li>
+            precision approach radar (PAR)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1573855333044" ID="ID_466569917" MODIFIED="1573855826267">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ATC Radar Types
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        terminal surveillance radar (TSR)
+
+        <ul>
+          <li>
+            PSR 80 NM, 1250 to 1350 MHz
+          </li>
+          <li>
+            SSR 250 NM, 1030 MHz, TXPR 1090 MHz (UHF)
+          </li>
+        </ul>
+      </li>
+      <li>
+        independent secondary surveillance radar (ISSR)
+
+        <ul>
+          <li>
+            SSR 250 NM, 1030 MHz, TXPR 1090 MHz (UHF)
+          </li>
+        </ul>
+      </li>
+      <li>
+        airport surface detection equipment (ASDE)
+
+        <ul>
+          <li>
+            high definition PSR, 16 GHz (SHF)
+          </li>
+        </ul>
+      </li>
+      <li>
+        precision approach radar (PAR)
+
+        <ul>
+          <li>
+            high definition PSR, 9000 to 9180 MHz (SHF)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573857354348" FOLDED="true" ID="ID_1283597660" MODIFIED="1573860018888">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      SSR
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        interrogation pulses:
+
+        <ul>
+          <li>
+            P1, P3 (uni-directional 8 / 21 us spacing Mode A / C)
+          </li>
+          <li>
+            P2 (omni-directional 2 us spacing side lobe suppression)
+          </li>
+        </ul>
+      </li>
+      <li>
+        framing and information pules:
+
+        <ul>
+          <li>
+            F1, F2 (20.3 us spacing)
+          </li>
+          <li>
+            up to 12 information pulses (1.45 us spacing, 4096 permutations)
+          </li>
+          <li>
+            SPI pulse (4.35 us appended for 20s, squawk ident)
+          </li>
+        </ul>
+      </li>
+      <li>
+        long range &gt; 200 NM, 1030 MHz, TPXR 1090 MHz
+      </li>
+      <li>
+        pneumatic encoding altimeter
+      </li>
+      <li>
+        servo encoding altimeter: GPWS, ACAS source
+      </li>
+      <li>
+        garbling, fruiting
+      </li>
+      <li>
+        Mode S extends encoding and solves garbling and fruiting
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1573859148399" ID="ID_407050613" MODIFIED="1573859895037">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mode S
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        selective addressing (fully compatible with A / C)
+      </li>
+      <li>
+        24 bits to encode 16.777.216 codes
+      </li>
+      <li>
+        unambiguous aircraft identification
+      </li>
+      <li>
+        enabling datalink services (CPDLC, ACARS, TCAS/ACAS)
+      </li>
+      <li>
+        1Hz transmission without interrogation
+      </li>
+      <li>
+        interrogation modes
+
+        <ul>
+          <li>
+            all call (non-selective interrogation)
+          </li>
+          <li>
+            broadcast (no reply)
+          </li>
+          <li>
+            selective (individual interrogation)
+          </li>
+          <li>
+            intermode (A / C compatibility)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1573856752391" ID="ID_1959704095" MODIFIED="1573861505285">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      WX Radar
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        relative bearing and slant range
+      </li>
+      <li>
+        pencil beam: long range weather
+
+        <ul>
+          <li>
+            beam width [deg] = 70 * wavelength [cm] / antenna diameter [cm]
+          </li>
+          <li>
+            ideal wavelength corresponds to object diameter (droplets, pellets)
+          </li>
+        </ul>
+      </li>
+      <li>
+        mapping (cosecant squared 15-70 NM) beam: short range terrain
+      </li>
+      <li>
+        combined beam in modern equipment
+      </li>
+      <li>
+        gyro-stabilized antenna, 9375 MHz (SHF), 3.2 cm wavelength
+      </li>
+      <li>
+        lock, range (standby - ground), gain, tilt, function
+      </li>
+      <li>
+        contour mode (u, finger, scalloped edge, hook)
+      </li>
+      <li>
+        color depending on precipitation intensity (mm / hr)
+      </li>
+      <li>
+        cloud top calculation (1 / 60 rule):
+
+        <ul>
+          <li>
+            relative height [ft] = (tilt - beam width) / 2 * 100 * range [NM]
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1573856910020" ID="ID_735602432" MODIFIED="1573856928904" TEXT="7.13 Global Navigation Satellite System (GNSS)"/>
 </node>
 </node>
 <node CREATED="1568671682779" ID="ID_1658639647" MODIFIED="1571511537883" POSITION="right" TEXT="Study Material">
