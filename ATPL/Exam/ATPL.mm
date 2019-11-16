@@ -9846,7 +9846,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1573929205931" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1573933006954" POSITION="left" TEXT="SAMRA">
 <node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1573764077424" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1573683988830">
 <richcontent TYPE="NODE"><html>
@@ -12353,7 +12353,7 @@
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
 <icon BUILTIN="closed"/>
 </node>
-<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1573929196012" TEXT="Radio Communication and Navigation Aids">
+<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1573933004327" TEXT="Radio Communication and Navigation Aids">
 <node CREATED="1573764157635" ID="ID_1495037692" MODIFIED="1573855657638">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -12998,11 +12998,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1573856910020" ID="ID_735602432" MODIFIED="1573928448109">
+<node CREATED="1573856910020" FOLDED="true" ID="ID_735602432" MODIFIED="1573932996987">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13015,6 +13014,12 @@
       
     </p>
     <ul>
+      <li>
+        NAVSTAR GPS, GLONASS, Galileo, Compass, INSAT
+      </li>
+      <li>
+        GPS:
+      </li>
       <li>
         24 satellites at 10900 NM altitude
       </li>
@@ -13057,10 +13062,43 @@
       <li>
         accuracy, integrity, continuity, availability
       </li>
+      <li>
+        1: time, 2: line / curved range, 3: 2D fix, 4: 3D fix, 5+: RAIM
+      </li>
     </ul>
   </body>
 </html>
 </richcontent>
+<node CREATED="1573932355344" ID="ID_1572270857" MODIFIED="1573932726550">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Augmentation
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        DGPS: ABAS, GBAS, SBAS
+      </li>
+      <li>
+        ABAS: RAIM
+      </li>
+      <li>
+        GBAS: LAAS (CAT3C capability)
+      </li>
+      <li>
+        SBAS: WAAS (EGNOS / Inmarsat, MSAS, GAGAN)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1573928479274" ID="ID_629526416" MODIFIED="1573928504774">
 <richcontent TYPE="NODE"><html>
@@ -13080,8 +13118,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573928558744" ID="ID_324615531" MODIFIED="1573928797433">
 <richcontent TYPE="NODE"><html>
@@ -13104,8 +13141,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573928595466" ID="ID_1944416951" MODIFIED="1573928608053" TEXT="7.16 DF Direction Finder"/>
 <node CREATED="1573928833245" ID="ID_842774512" MODIFIED="1573928849883">
@@ -13118,8 +13154,7 @@
       7.17 TCAS Systems
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
