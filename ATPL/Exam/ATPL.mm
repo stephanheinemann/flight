@@ -1,13 +1,13 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1573929082538" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1572554133387" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1574112341686" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1574112341686" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
 <node CREATED="1568248671336" ID="ID_1155718466" MODIFIED="1568248678874" TEXT="1.04 Aeroplane Class Ratings"/>
-<node CREATED="1568248686329" FOLDED="true" ID="ID_162885590" MODIFIED="1571689276217" TEXT="1.05 Aircraft Type Ratings">
+<node CREATED="1568248686329" FOLDED="true" ID="ID_162885590" MODIFIED="1574110677657" TEXT="1.05 Aircraft Type Ratings">
 <node CREATED="1568245337961" ID="ID_75602462" MODIFIED="1568246099441">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -29,7 +29,7 @@
 </node>
 </node>
 <node CREATED="1568248706165" ID="ID_314960253" MODIFIED="1568248713473" TEXT="1.06 Instrument Rating"/>
-<node CREATED="1568248720694" FOLDED="true" ID="ID_544994370" MODIFIED="1571689225885" TEXT="1.07 CARs General Provisions">
+<node CREATED="1568248720694" FOLDED="true" ID="ID_544994370" MODIFIED="1574108033216" TEXT="1.07 CARs General Provisions">
 <node CREATED="1568251901677" ID="ID_228267398" MODIFIED="1568327093033">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -57,7 +57,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1572548904962">
+<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1574110726535">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -83,14 +83,14 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1568327234243" ID="ID_1382274443" MODIFIED="1568327353767">
+<node CREATED="1568327234243" ID="ID_1382274443" MODIFIED="1574108075893">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Small / Large Aeroplane
+      Small / Large Aeroplane (aircraft)
     </p>
     <p>
       
@@ -101,7 +101,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1568327544891" ID="ID_1922978008" MODIFIED="1568336883235">
 <richcontent TYPE="NODE"><html>
@@ -414,7 +415,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1568996218527" FOLDED="true" ID="ID_381676043" MODIFIED="1571166253440">
+<node CREATED="1568996218527" FOLDED="true" ID="ID_381676043" MODIFIED="1574110726509">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -629,7 +630,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569274082808" FOLDED="true" ID="ID_96945613" MODIFIED="1571166249311">
+<node CREATED="1569274082808" FOLDED="true" ID="ID_96945613" MODIFIED="1574110726514">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -692,7 +693,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569274096513" FOLDED="true" ID="ID_1509217189" MODIFIED="1571166246376">
+<node CREATED="1569274096513" FOLDED="true" ID="ID_1509217189" MODIFIED="1574109451733">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1013,7 +1014,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569274115428" FOLDED="true" ID="ID_366097208" MODIFIED="1572548901528">
+<node CREATED="1569274115428" FOLDED="true" ID="ID_366097208" MODIFIED="1574109486372">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1561,7 +1562,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569439775195" FOLDED="true" ID="ID_1537078320" MODIFIED="1571166235924">
+<node CREATED="1569439775195" FOLDED="true" ID="ID_1537078320" MODIFIED="1574106658049">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1902,8 +1903,53 @@
 </html></richcontent>
 </node>
 </node>
+<node CREATED="1574106412534" ID="ID_434152860" MODIFIED="1574106476686">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Transportation of Dangerous Goods (TDG)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        24 months certificate validity
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1569785860152" FOLDED="true" ID="ID_1710772429" MODIFIED="1572548804182" TEXT="1.14 VFR Flight">
+<node CREATED="1574106698600" ID="ID_154141422" MODIFIED="1574106821813">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      High Altitude Training
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        operations above 13000ft ASL
+      </li>
+      <li>
+        before first assignment and every 3 years thereafter
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1569785860152" FOLDED="true" ID="ID_1710772429" MODIFIED="1574110726541" TEXT="1.14 VFR Flight">
 <node CREATED="1569785872890" ID="ID_1158347982" MODIFIED="1570560102326">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2205,7 +2251,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569964452061" FOLDED="true" ID="ID_1954294482" MODIFIED="1571166271825">
+<node CREATED="1569964452061" FOLDED="true" ID="ID_1954294482" MODIFIED="1574109439350">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2287,7 +2333,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1572553625107" TEXT="1.19 IFR Flight">
+<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1574110699086" TEXT="1.19 IFR Flight">
 <node CREATED="1569972903894" ID="ID_1927607732" MODIFIED="1569973965577">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2502,7 +2548,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569978569428" ID="ID_1973426945" MODIFIED="1570048813506">
+<node CREATED="1569978569428" FOLDED="true" ID="ID_1973426945" MODIFIED="1574106630514">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2705,7 +2751,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1570128169387" FOLDED="true" ID="ID_377019714" MODIFIED="1571166280288">
+<node CREATED="1570128169387" FOLDED="true" ID="ID_377019714" MODIFIED="1574112341665">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2841,8 +2887,8 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1570481596004" FOLDED="true" ID="ID_1588304105" MODIFIED="1571689270573" TEXT="1.22 Air Traffic Services">
-<node CREATED="1570478913077" ID="ID_74301925" MODIFIED="1570482196772">
+<node CREATED="1570481596004" FOLDED="true" ID="ID_1588304105" MODIFIED="1574108413012" TEXT="1.22 Air Traffic Services">
+<node CREATED="1570478913077" ID="ID_74301925" MODIFIED="1574108406491">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2902,10 +2948,10 @@
             Super (S) 560.000kg
           </li>
           <li>
-            Heavy (H) 136.000kg to less than 560.000kg
+            Heavy (H) 136.000kg (300000lbs) to less than 560.000kg
           </li>
           <li>
-            Medium (M) more than 7.000kg to less than 136.000kg
+            Medium (M) more than 7.000kg (15500lbs) to less than 136.000kg
           </li>
           <li>
             Light (L) 7000kg or less
@@ -2950,7 +2996,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1570482259585" ID="ID_1764166283" MODIFIED="1570482520989">
@@ -3540,7 +3587,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1571166316411" ID="ID_865272226" MODIFIED="1571166338194" TEXT="1.31 Transportation Safety Board and Aircraft Accidents"/>
-<node CREATED="1571166347496" FOLDED="true" ID="ID_289569663" MODIFIED="1571187003470">
+<node CREATED="1571166347496" FOLDED="true" ID="ID_289569663" MODIFIED="1574112341668">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3564,7 +3611,7 @@
             SCA with floor at 18000ft ASL
           </li>
           <li>
-            NCA with floor at FL220
+            NCA with floor at FL230
           </li>
           <li>
             ACA with floor at FL270
@@ -3573,7 +3620,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1571166968721" ID="ID_49890539" MODIFIED="1571167256246">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3621,7 +3669,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571167665117" FOLDED="true" ID="ID_738976037" MODIFIED="1571689182242" TEXT="1.33 Operational and Emergency Equipment">
+<node CREATED="1571167665117" FOLDED="true" ID="ID_738976037" MODIFIED="1574110726546" TEXT="1.33 Operational and Emergency Equipment">
 <node CREATED="1571167683745" ID="ID_628907529" MODIFIED="1571167861193">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3705,8 +3753,31 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571168751901" ID="ID_13730826" MODIFIED="1571168767440" TEXT="1.34 Aircraft Seats, Belts and Harnesses"/>
-<node CREATED="1571168779387" FOLDED="true" ID="ID_1082738327" MODIFIED="1571187009282">
+<node CREATED="1571168751901" ID="ID_13730826" MODIFIED="1574107782280">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.34 Aircraft Seats, Belts and Harnesses
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        to be worn by at least 1 pilot at all times
+      </li>
+      <li>
+        airline operations: seatbelt and shoulder harness fastened below 10000ft ASL
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1571168779387" FOLDED="true" ID="ID_1082738327" MODIFIED="1574106384863">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3973,7 +4044,7 @@
 </node>
 </node>
 <node CREATED="1571177177491" ID="ID_167217762" MODIFIED="1571177189673" TEXT="1.38 Aeronautical Information Publications"/>
-<node CREATED="1571177501778" FOLDED="true" ID="ID_1962137839" MODIFIED="1571248360346" TEXT="1.39 Flight Data Recorders and Cockpit Voice Recorders">
+<node CREATED="1571177501778" FOLDED="true" ID="ID_1962137839" MODIFIED="1574108740194" TEXT="1.39 Flight Data Recorders and Cockpit Voice Recorders">
 <node CREATED="1571177575068" ID="ID_1295878581" MODIFIED="1571178209567">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4053,7 +4124,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571178687846" FOLDED="true" ID="ID_1698057109" MODIFIED="1571248341890" TEXT="1.40 Altitude Alerting Systems and Ground Proximity Warning System (GPWS)">
+<node CREATED="1571178687846" FOLDED="true" ID="ID_1698057109" MODIFIED="1574109020629" TEXT="1.40 Altitude Alerting Systems and Ground Proximity Warning System (GPWS)">
 <node CREATED="1571178865632" ID="ID_1197022434" MODIFIED="1571179343377">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4196,7 +4267,7 @@
 </node>
 </node>
 <node CREATED="1571180165952" FOLDED="true" ID="ID_1126967731" MODIFIED="1571692795199" TEXT="1.45 North Atlantic Operations">
-<node CREATED="1571247817344" ID="ID_554157276" MODIFIED="1571252044121">
+<node CREATED="1571247817344" FOLDED="true" ID="ID_554157276" MODIFIED="1574106630515">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4469,7 +4540,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571252278585" ID="ID_1312997842" MODIFIED="1571261929696">
+<node CREATED="1571252278585" FOLDED="true" ID="ID_1312997842" MODIFIED="1574106630515">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4595,7 +4666,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571180185340" FOLDED="true" ID="ID_554894088" MODIFIED="1571266204353">
+<node CREATED="1571180185340" FOLDED="true" ID="ID_554894088" MODIFIED="1574110702941">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4648,9 +4719,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1572473290052" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1574110317582" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
-<node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1571420924909" TEXT="2.02 Reciprocating Engines">
+<node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1574109440447" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1571327873060">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4683,7 +4754,7 @@
 </node>
 <node CREATED="1571329870429" ID="ID_1307000896" MODIFIED="1571329877838" TEXT="2.03 Gas Turbine Engines"/>
 <node CREATED="1571331490943" ID="ID_887788242" MODIFIED="1571331495746" TEXT="2.04 Propellers"/>
-<node CREATED="1571335183691" FOLDED="true" ID="ID_1931384718" MODIFIED="1571951675843" TEXT="2.05 Fuels">
+<node CREATED="1571335183691" FOLDED="true" ID="ID_1931384718" MODIFIED="1574109441116" TEXT="2.05 Fuels">
 <node CREATED="1571335333208" ID="ID_1636736781" MODIFIED="1571335395404">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4717,7 +4788,7 @@
 <node CREATED="1571337390420" ID="ID_403438234" MODIFIED="1571337401592" TEXT="2.09 Electrical Systems"/>
 <node CREATED="1571339436291" ID="ID_1248214412" MODIFIED="1571339444022" TEXT="2.10 Hydraulic Systems"/>
 <node CREATED="1571339670886" ID="ID_1386068437" MODIFIED="1571339676518" TEXT="2.11 Exhaust Systems"/>
-<node CREATED="1571339719060" ID="ID_1555393324" MODIFIED="1571417563057">
+<node CREATED="1571339719060" FOLDED="true" ID="ID_1555393324" MODIFIED="1574106630539">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4962,7 +5033,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568173515599" FOLDED="true" ID="ID_228371769" MODIFIED="1573929075121" TEXT="Instruments">
+<node CREATED="1568173515599" FOLDED="true" ID="ID_228371769" MODIFIED="1574110704848" TEXT="Instruments">
 <node CREATED="1571427682321" ID="ID_452501545" MODIFIED="1571427696475" TEXT="3.01 Pitot Static System"/>
 <node CREATED="1571427847687" FOLDED="true" ID="ID_597355976" MODIFIED="1571428362967" TEXT="3.02 Airspeed Indicator">
 <node CREATED="1571428317400" ID="ID_1249929966" MODIFIED="1571428358882">
@@ -5138,7 +5209,7 @@
 <node CREATED="1571434581102" FOLDED="true" ID="ID_927901678" MODIFIED="1571689294319" TEXT="3.06 Magnetism and Magnetic Compass Systems">
 <node CREATED="1571434977838" ID="ID_1051814367" MODIFIED="1571434994358" TEXT="Gyrosyn Compass Systems (Flux Gates)"/>
 </node>
-<node CREATED="1571435142827" FOLDED="true" ID="ID_1925289356" MODIFIED="1571689305337" TEXT="3.07 Outside Air Temperature Gauge">
+<node CREATED="1571435142827" FOLDED="true" ID="ID_1925289356" MODIFIED="1574110704837" TEXT="3.07 Outside Air Temperature Gauge">
 <node CREATED="1571440425837" ID="ID_873327000" MODIFIED="1571440841714">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5356,7 +5427,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571511813964" FOLDED="true" ID="ID_1899769253" MODIFIED="1573929057613" TEXT="Advanced Avionics">
+<node CREATED="1571511813964" FOLDED="true" ID="ID_1899769253" MODIFIED="1574109441865" TEXT="Advanced Avionics">
 <node CREATED="1571511847731" FOLDED="true" ID="ID_1043332875" MODIFIED="1571689715425" TEXT="Inertial Guidance / Navigation">
 <node CREATED="1571511860897" ID="ID_466892123" MODIFIED="1571512746475">
 <richcontent TYPE="NODE"><html>
@@ -5417,7 +5488,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571511876738" FOLDED="true" ID="ID_151244063" MODIFIED="1571689334768" TEXT="Flight Management">
+<node CREATED="1571511876738" FOLDED="true" ID="ID_151244063" MODIFIED="1574109421806" TEXT="Flight Management">
 <node CREATED="1571511900989" ID="ID_127469512" MODIFIED="1571598621332" TEXT="Air Data Computer (ADC) / Central Air Data Computer (CADC)"/>
 <node CREATED="1571511907083" ID="ID_1442524877" MODIFIED="1571514603717">
 <richcontent TYPE="NODE"><html>
@@ -5496,7 +5567,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571512616289" FOLDED="true" ID="ID_313198083" MODIFIED="1571689343714" TEXT="Engine and Fuel Data">
+<node CREATED="1571512616289" FOLDED="true" ID="ID_313198083" MODIFIED="1574109423368" TEXT="Engine and Fuel Data">
 <node CREATED="1571512631013" ID="ID_1477242060" MODIFIED="1571685896299">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5649,7 +5720,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571597800238" ID="ID_437718041" MODIFIED="1571597804467" TEXT="Autotrim">
+<node CREATED="1571597800238" FOLDED="true" ID="ID_437718041" MODIFIED="1574106630539" TEXT="Autotrim">
 <node CREATED="1571597939240" ID="ID_1213303883" MODIFIED="1571598871408">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5670,7 +5741,7 @@
 </node>
 </node>
 <node CREATED="1571598322448" ID="ID_705373333" MODIFIED="1571598337310" TEXT="Control Wheel Steering (CWS) / Tactile Steering"/>
-<node CREATED="1571597488979" ID="ID_48911752" MODIFIED="1571603097332">
+<node CREATED="1571597488979" FOLDED="true" ID="ID_48911752" MODIFIED="1574106630539">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5697,7 +5768,7 @@
 </html></richcontent>
 <node CREATED="1571609252892" ID="ID_1499882816" MODIFIED="1571609262345" TEXT="Runway Guidance System (RGS)"/>
 </node>
-<node CREATED="1571597495922" ID="ID_257490741" MODIFIED="1571609082180">
+<node CREATED="1571597495922" FOLDED="true" ID="ID_257490741" MODIFIED="1574106630540">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5730,7 +5801,7 @@
 <node CREATED="1571598677320" ID="ID_500380032" MODIFIED="1571598684527" TEXT="Flight Control Computer (FCC)"/>
 </node>
 <node CREATED="1571513704646" FOLDED="true" ID="ID_507011782" MODIFIED="1571689359853" TEXT="Electronic Flight Information System (EFIS)">
-<node CREATED="1571516673519" ID="ID_1100983526" MODIFIED="1571516800491">
+<node CREATED="1571516673519" FOLDED="true" ID="ID_1100983526" MODIFIED="1574106630540">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5916,7 +5987,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173570034" FOLDED="true" ID="ID_1285060949" MODIFIED="1573248090567" TEXT="Navigation">
+<node CREATED="1568173570034" FOLDED="true" ID="ID_1285060949" MODIFIED="1574110717735" TEXT="Navigation">
 <node CREATED="1572722855252" ID="ID_1252294476" MODIFIED="1572722864170" TEXT="5.01 Basic Navigation Concepts"/>
 <node CREATED="1572723482390" FOLDED="true" ID="ID_787148057" MODIFIED="1573082487386" TEXT="5.02 Navigation Calculations">
 <node CREATED="1572727356484" ID="ID_590399689" MODIFIED="1572727496625">
@@ -6071,7 +6142,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572736820506" FOLDED="true" ID="ID_1857503266" MODIFIED="1573171871564">
+<node CREATED="1572736820506" FOLDED="true" ID="ID_1857503266" MODIFIED="1574110709361">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6273,8 +6344,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572736905999" FOLDED="true" ID="ID_158440117" MODIFIED="1573248085997" TEXT="5.06 Maps and Charts / Projections">
-<node CREATED="1572736941182" FOLDED="true" ID="ID_1468522731" MODIFIED="1573248079785">
+<node CREATED="1572736905999" FOLDED="true" ID="ID_158440117" MODIFIED="1574110717731" TEXT="5.06 Maps and Charts / Projections">
+<node CREATED="1572736941182" FOLDED="true" ID="ID_1468522731" MODIFIED="1574110717726">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6616,7 +6687,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572736959045" FOLDED="true" ID="ID_1239272804" MODIFIED="1573075753824">
+<node CREATED="1572736959045" FOLDED="true" ID="ID_1239272804" MODIFIED="1574110717699">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7046,7 +7117,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1573168431812" TEXT="Flight Operations">
+<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1574110716583" TEXT="Flight Operations">
 <node CREATED="1571851864451" ID="ID_416756973" MODIFIED="1572288401755">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -7066,7 +7137,7 @@
 </html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 </node>
-<node CREATED="1571947425006" FOLDED="true" ID="ID_1900218758" MODIFIED="1573165783946">
+<node CREATED="1571947425006" FOLDED="true" ID="ID_1900218758" MODIFIED="1574110716575">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7077,7 +7148,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1571950107330" ID="ID_1908410094" MODIFIED="1573162423687">
+<node CREATED="1571950107330" FOLDED="true" ID="ID_1908410094" MODIFIED="1574110716567">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7356,7 +7427,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572288362185" FOLDED="true" ID="ID_864967113" MODIFIED="1573168417440">
+<node CREATED="1572288362185" FOLDED="true" ID="ID_864967113" MODIFIED="1574109427462">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7381,7 +7452,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572288258686" FOLDED="true" ID="ID_647059776" MODIFIED="1573168408778">
+<node CREATED="1572288258686" FOLDED="true" ID="ID_647059776" MODIFIED="1574106570082">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7610,7 +7681,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572288287627" FOLDED="true" ID="ID_860230094" MODIFIED="1572549224157">
+<node CREATED="1572288287627" FOLDED="true" ID="ID_860230094" MODIFIED="1574106572503">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7638,7 +7709,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572371365302" FOLDED="true" ID="ID_480925617" MODIFIED="1572549219814">
+<node CREATED="1572371365302" FOLDED="true" ID="ID_480925617" MODIFIED="1574106571803">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7777,7 +7848,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572371376017" FOLDED="true" ID="ID_1286313910" MODIFIED="1572549222225">
+<node CREATED="1572371376017" FOLDED="true" ID="ID_1286313910" MODIFIED="1574106572495">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7941,8 +8012,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1572288315992" FOLDED="true" ID="ID_1443800187" MODIFIED="1573165825182" TEXT="4.07 Cruise Performance">
-<node CREATED="1571852091199" FOLDED="true" ID="ID_439706302" MODIFIED="1572548332501">
+<node CREATED="1572288315992" FOLDED="true" ID="ID_1443800187" MODIFIED="1574109427453" TEXT="4.07 Cruise Performance">
+<node CREATED="1571852091199" FOLDED="true" ID="ID_439706302" MODIFIED="1574109427449">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8056,7 +8127,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571858496187" FOLDED="true" ID="ID_819240980" MODIFIED="1572548323631">
+<node CREATED="1571858496187" FOLDED="true" ID="ID_819240980" MODIFIED="1574109427441">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8308,7 +8379,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1572381914920" FOLDED="true" ID="ID_1801647917" MODIFIED="1572549212031">
+<node CREATED="1572381914920" FOLDED="true" ID="ID_1801647917" MODIFIED="1574106630546">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8348,7 +8419,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572382075727" FOLDED="true" ID="ID_466214932" MODIFIED="1572549206682">
+<node CREATED="1572382075727" FOLDED="true" ID="ID_466214932" MODIFIED="1574106574178">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8466,7 +8537,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572382101682" FOLDED="true" ID="ID_1747781193" MODIFIED="1572549209941">
+<node CREATED="1572382101682" FOLDED="true" ID="ID_1747781193" MODIFIED="1574106630542">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8582,7 +8653,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1572288344914" FOLDED="true" ID="ID_132736715" MODIFIED="1573168398673">
+<node CREATED="1572288344914" FOLDED="true" ID="ID_132736715" MODIFIED="1574107971436">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8981,7 +9052,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572554141069" FOLDED="true" ID="ID_927511902" MODIFIED="1572557883885" TEXT="4.12 Winter Operations">
+<node CREATED="1572554141069" FOLDED="true" ID="ID_927511902" MODIFIED="1574109442674" TEXT="4.12 Winter Operations">
 <node CREATED="1572555948811" ID="ID_1357109696" MODIFIED="1572555973583" TEXT="Critical Surface Contamination"/>
 <node CREATED="1572555977081" ID="ID_1971333746" MODIFIED="1572556036297">
 <richcontent TYPE="NODE"><html>
@@ -9079,9 +9150,9 @@
 <node CREATED="1572557841087" ID="ID_1393851454" MODIFIED="1572557849804" TEXT="4.17 Landing Techniques"/>
 <node CREATED="1572557899101" ID="ID_7440582" MODIFIED="1572557905885" TEXT="4.18 Volcanic Ash"/>
 </node>
-<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1573345356579" TEXT="Theory of Flight">
+<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1574110711323" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
-<node CREATED="1571791842521" ID="ID_416036682" MODIFIED="1573345299017" TEXT="4.01 General Theory of Flight">
+<node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1574110711320" TEXT="4.01 General Theory of Flight">
 <node CREATED="1571791871556" ID="ID_1614108199" MODIFIED="1572115126055">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -9162,8 +9233,8 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572293949192" ID="ID_322875550" MODIFIED="1573345312266" TEXT="Aerodynamic Drag">
-<node CREATED="1572294055205" ID="ID_1383169528" MODIFIED="1573345315606" TEXT="Parasite Drag">
+<node CREATED="1572293949192" FOLDED="true" ID="ID_322875550" MODIFIED="1574106630561" TEXT="Aerodynamic Drag">
+<node CREATED="1572294055205" FOLDED="true" ID="ID_1383169528" MODIFIED="1574106630561" TEXT="Parasite Drag">
 <node CREATED="1572294070034" ID="ID_1904042862" MODIFIED="1572294075453" TEXT="Form Drag"/>
 <node CREATED="1572294079265" ID="ID_1974399835" MODIFIED="1572294083772" TEXT="Interference Drag"/>
 <node CREATED="1572294087381" ID="ID_1127954097" MODIFIED="1572294090831" TEXT="Skin Friction"/>
@@ -9201,7 +9272,7 @@
 <node CREATED="1571795140889" ID="ID_591096612" MODIFIED="1571795152185" TEXT="Span, Taper and Aspect Ratio"/>
 <node CREATED="1571795169821" ID="ID_1283277097" MODIFIED="1571795179785" TEXT="Mean Aerodynamic Cord (MAC)"/>
 </node>
-<node CREATED="1571698150394" FOLDED="true" ID="ID_330232180" MODIFIED="1573345352267">
+<node CREATED="1571698150394" FOLDED="true" ID="ID_330232180" MODIFIED="1574110557364">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9538,7 +9609,7 @@
 </node>
 <node CREATED="1571853418545" ID="ID_1219340529" MODIFIED="1571853423895" TEXT="Stability"/>
 </node>
-<node CREATED="1568173906119" FOLDED="true" ID="ID_1943574224" MODIFIED="1573248121813" TEXT="Human Factors">
+<node CREATED="1568173906119" FOLDED="true" ID="ID_1943574224" MODIFIED="1574110712503" TEXT="Human Factors">
 <icon BUILTIN="closed"/>
 <node CREATED="1572558188251" FOLDED="true" ID="ID_1717275900" MODIFIED="1572644780408" TEXT="4.19 Aviation Physiology">
 <node CREATED="1572643026817" FOLDED="true" ID="ID_666486395" MODIFIED="1572644184579">
@@ -9783,7 +9854,7 @@
 <node CREATED="1572644084922" ID="ID_798073100" MODIFIED="1572644090891" TEXT="Vestibular Illusions"/>
 </node>
 </node>
-<node CREATED="1572558220602" FOLDED="true" ID="ID_128215353" MODIFIED="1572644770435" TEXT="4.20 Aviation Psychology">
+<node CREATED="1572558220602" FOLDED="true" ID="ID_128215353" MODIFIED="1574110712498" TEXT="4.20 Aviation Psychology">
 <node CREATED="1572644202151" ID="ID_1876853536" MODIFIED="1572644484197" TEXT="4.21 Pilot Equipment Materials Relationship"/>
 <node CREATED="1572644499849" ID="ID_762532305" MODIFIED="1572644521632" TEXT="4.22 Interpersonal Relations / Crew Resource Management (CRM)"/>
 <node CREATED="1572644542120" ID="ID_171943623" MODIFIED="1572644555627" TEXT="4.23 Controlled Flight Into Terrain (CFIT)"/>
@@ -9846,8 +9917,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1573933006954" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1573764077424" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1574110634651" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1574110634650" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1573683988830">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10147,7 +10218,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573330379861" FOLDED="true" ID="ID_227963538" MODIFIED="1573518619630">
+<node CREATED="1573330379861" FOLDED="true" ID="ID_227963538" MODIFIED="1574110558917">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10521,7 +10592,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573330478270" FOLDED="true" ID="ID_990537658" MODIFIED="1573588772702">
+<node CREATED="1573330478270" FOLDED="true" ID="ID_990537658" MODIFIED="1574110560510">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11899,7 +11970,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1573341269453" FOLDED="true" ID="ID_698670885" MODIFIED="1573764056101">
+<node CREATED="1573341269453" FOLDED="true" ID="ID_698670885" MODIFIED="1574110634607">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13067,8 +13138,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573932355344" ID="ID_1572270857" MODIFIED="1573932726550">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13096,8 +13166,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573928479274" ID="ID_629526416" MODIFIED="1573928504774">
@@ -13158,8 +13227,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568671682779" ID="ID_1658639647" MODIFIED="1571511537883" POSITION="right" TEXT="Study Material">
-<node CREATED="1568671700482" ID="ID_217896736" MODIFIED="1572197462102">
+<node CREATED="1568671682779" FOLDED="true" ID="ID_1658639647" MODIFIED="1574108995856" POSITION="right" TEXT="Study Material">
+<node CREATED="1568671700482" FOLDED="true" ID="ID_217896736" MODIFIED="1574106630563">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13203,7 +13272,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568671709147" ID="ID_1353218623" MODIFIED="1572197547300">
+<node CREATED="1568671709147" FOLDED="true" ID="ID_1353218623" MODIFIED="1574106630568">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13220,9 +13289,9 @@
 <icon BUILTIN="idea"/>
 </node>
 </node>
-<node CREATED="1568671726237" ID="ID_1380778162" MODIFIED="1568674580394" TEXT="TC / NavCanada">
+<node CREATED="1568671726237" FOLDED="true" ID="ID_1380778162" MODIFIED="1574106630568" TEXT="TC / NavCanada">
 <node CREATED="1568671734720" ID="ID_1022674447" MODIFIED="1568671737822" TEXT="AIP"/>
-<node CREATED="1568671740725" ID="ID_825659791" MODIFIED="1568672239215" TEXT="AIM">
+<node CREATED="1568671740725" FOLDED="true" ID="ID_825659791" MODIFIED="1574106630568" TEXT="AIM">
 <icon BUILTIN="idea"/>
 <node CREATED="1568678096877" ID="ID_494792293" MODIFIED="1568678157624" TEXT="GEN">
 <icon BUILTIN="button_ok"/>
@@ -13240,7 +13309,7 @@
 </node>
 <node CREATED="1568674586021" ID="ID_1727617852" MODIFIED="1568674598849" TEXT="Aerodrome Standards and Recommended Practices"/>
 </node>
-<node CREATED="1568671893663" ID="ID_1218729693" MODIFIED="1568671898697" TEXT="Weather">
+<node CREATED="1568671893663" FOLDED="true" ID="ID_1218729693" MODIFIED="1574106630569" TEXT="Weather">
 <node CREATED="1568671904065" ID="ID_1030988294" MODIFIED="1568671911048" TEXT="Air Command Weather Manual"/>
 <node CREATED="1568671914218" ID="ID_886306784" MODIFIED="1568672057251" TEXT="BC Weather Guide / Aviation Weather Hazards"/>
 <node CREATED="1568671967758" ID="ID_1483860915" MODIFIED="1568671975335" TEXT="AWS Services Guide"/>
