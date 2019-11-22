@@ -1,7 +1,7 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1574459051460" POSITION="right" TEXT="SARON">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1574460908138" POSITION="right" TEXT="SARON">
 <node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1574455721643" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
@@ -7143,7 +7143,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1574459051458" TEXT="Flight Operations">
+<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1574460908136" TEXT="Flight Operations">
 <node CREATED="1571851864451" ID="ID_416756973" MODIFIED="1572288401755">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -9943,8 +9943,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1574459324977" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1574459324977" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1574461641650" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1574461641649" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1574451479483">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10956,7 +10956,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573330572405" ID="ID_1665720219" MODIFIED="1574459125551">
+<node CREATED="1573330572405" FOLDED="true" ID="ID_1665720219" MODIFIED="1574461641612">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11063,12 +11063,84 @@
           <li>
             (low-level) inversions, marked temperature inversion (MTI)
           </li>
+          <li>
+            LLWS alerts:
+
+            <ul>
+              <li>
+                surface to 500ft AGL: &gt;= 25kts wind vector change
+              </li>
+              <li>
+                surface to 1000ft AGL: &gt;= 40kts wind vector change
+              </li>
+              <li>
+                surface to 1500ft AGL: &gt;= 50kts wind vector change
+              </li>
+              <li>
+                surface to 1500ft AGL: PIREPS reporting &gt;= 20kts airspeed fluctuation
+              </li>
+            </ul>
+          </li>
         </ul>
       </li>
     </ul>
   </body>
 </html>
 </richcontent>
+<node CREATED="1574460286765" ID="ID_1832970091" MODIFIED="1574460408139">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mountain Wave Avoidance
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        overfly mountain tops by at least 3000 to 5000ft
+      </li>
+      <li>
+        overfly ideally by 1/2 mountain height
+      </li>
+      <li>
+        commence climb at least 50 NM before mountain range
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1574460920269" ID="ID_113157635" MODIFIED="1574461017606">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Local Low-Level Wind Shear
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Great Lakes
+
+        <ul>
+          <li>
+            St Lawrence Valley: NE surface winds, SSW 2000ft winds
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1573330590146" FOLDED="true" ID="ID_1075915924" MODIFIED="1574457910648">
 <richcontent TYPE="NODE"><html>
