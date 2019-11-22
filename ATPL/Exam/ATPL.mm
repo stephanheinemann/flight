@@ -9943,8 +9943,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1574204842811" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1574204842810" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1574398845621" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1574398845620" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1573683988830">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10371,7 +10371,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573330402397" FOLDED="true" ID="ID_368882476" MODIFIED="1574204842754">
+<node CREATED="1573330402397" FOLDED="true" ID="ID_368882476" MODIFIED="1574398807691">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10404,6 +10404,12 @@
             approaches DALR with altitude
           </li>
         </ul>
+      </li>
+      <li>
+        DPLR = 0.5degC / 1000ft
+      </li>
+      <li>
+        cloud base : DALR - DPLR = 2.5degC / 1000ft
       </li>
       <li>
         water state changes and latent heat
@@ -10440,7 +10446,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1573423600116" ID="ID_1359500538" MODIFIED="1573424594151">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10595,8 +10602,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573330459552" ID="ID_1650721602" MODIFIED="1573427008501">
