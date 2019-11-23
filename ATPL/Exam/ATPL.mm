@@ -9943,8 +9943,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1574461641650" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1574461641649" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1574471904248" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1574471904247" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1574451479483">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10086,8 +10086,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573411225691" FOLDED="true" ID="ID_472655295" MODIFIED="1573683983944">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10301,8 +10300,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573330379861" FOLDED="true" ID="ID_227963538" MODIFIED="1574458093334">
@@ -10447,8 +10445,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573330402397" FOLDED="true" ID="ID_368882476" MODIFIED="1574457633900">
@@ -10532,8 +10529,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573423600116" ID="ID_1359500538" MODIFIED="1573424594151">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10700,8 +10696,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573330459552" ID="ID_1650721602" MODIFIED="1573427008501">
@@ -10774,7 +10769,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573330478270" FOLDED="true" ID="ID_990537658" MODIFIED="1574457633908">
+<node CREATED="1573330478270" FOLDED="true" ID="ID_990537658" MODIFIED="1574471904194">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10842,7 +10837,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573516421546" ID="ID_1297652932" MODIFIED="1574457601443">
+<node CREATED="1573516421546" FOLDED="true" ID="ID_1297652932" MODIFIED="1574471904187">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10908,8 +10903,61 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+<node CREATED="1574465316025" ID="ID_364961872" MODIFIED="1574467151293">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Local Clouds
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        low-level ST in the prairies with rising terrain from east to west (orographic uplift) due to easterly flow of moist air
+      </li>
+      <li>
+        cA from WNW over Great Lakes from autumn to spring with heating from below creates convective clouds over open water
+      </li>
+      <li>
+        cA southbound over Great Lakes during winter:
+
+        <ul>
+          <li>
+            increase of convective activity due to heating from below
+          </li>
+          <li>
+            steam FG along northern shorelines (cold stable)
+          </li>
+          <li>
+            Cu or SC over the water (moist conditionally stable)
+          </li>
+          <li>
+            SNSH to the south of the southern shorelines (moist unstable)
+          </li>
+        </ul>
+      </li>
+      <li>
+        mT northbound over Great Lakes during spring / early summer:
+
+        <ul>
+          <li>
+            decrease of convective activity due to cooling from below
+          </li>
+          <li>
+            ST, DZ and FG along northern shorelines (most stable)&#160;
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
+</node>
 </node>
 <node CREATED="1573585924526" ID="ID_824289493" MODIFIED="1573586588354">
 <richcontent TYPE="NODE"><html>
@@ -10956,7 +11004,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573330572405" FOLDED="true" ID="ID_1665720219" MODIFIED="1574461641612">
+<node CREATED="1573330572405" FOLDED="true" ID="ID_1665720219" MODIFIED="1574471904196">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11085,8 +11133,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1574460286765" ID="ID_1832970091" MODIFIED="1574460408139">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11111,8 +11158,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1574460920269" ID="ID_113157635" MODIFIED="1574461017606">
 <richcontent TYPE="NODE"><html>
@@ -11138,8 +11184,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573330590146" FOLDED="true" ID="ID_1075915924" MODIFIED="1574457910648">
@@ -11253,8 +11298,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573408934993" ID="ID_1535654758" MODIFIED="1573504383896">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11521,7 +11565,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1573330604065" FOLDED="true" ID="ID_1607843192" MODIFIED="1574452956174">
+<node CREATED="1573330604065" ID="ID_1607843192" MODIFIED="1574468994898">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11548,32 +11592,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
-<node CREATED="1574452345182" ID="ID_321327750" MODIFIED="1574452514788">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Local / Seasonal Effects
-    </p>
-    <p>
-      
-    </p>
-    <ul>
-      <li>
-        Gulf Stream (mT) over Labrador Current (cold): advection fog
-      </li>
-      <li>
-        mT over Great Lakes in spring (cold): advection fog
-      </li>
-    </ul>
-  </body>
-</html>
-</richcontent>
-</node>
+</html></richcontent>
 </node>
 <node CREATED="1573330615743" FOLDED="true" ID="ID_1077695511" MODIFIED="1573605303413">
 <richcontent TYPE="NODE"><html>
@@ -11999,8 +12018,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573331153527" FOLDED="true" ID="ID_1872410311" MODIFIED="1573594402882">
@@ -12628,7 +12646,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573588792642" FOLDED="true" ID="ID_45066549" MODIFIED="1573592376198">
+<node CREATED="1573588792642" FOLDED="true" ID="ID_45066549" MODIFIED="1574471904204">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12711,7 +12729,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573590247098" ID="ID_716094335" MODIFIED="1573591276331">
+<node CREATED="1573590247098" FOLDED="true" ID="ID_716094335" MODIFIED="1574471904198">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12747,7 +12765,7 @@
             </ul>
           </li>
           <li>
-            hill
+            hill (upslope)
           </li>
           <li>
             advection (cold surface, high relative humidity, sufficient wind)
@@ -12756,25 +12774,104 @@
               <li>
                 100ft thickness
               </li>
+              <li>
+                possible after warm front passage (warm sector)
+              </li>
             </ul>
           </li>
           <li>
-            frontal
+            frontal (precipitation)
 
             <ul>
               <li>
-                up to 200NM ahead warm front
+                50 to 100NM, up to 200NM ahead warm front
               </li>
             </ul>
           </li>
           <li>
             arctic / steam
+
+            <ul>
+              <li>
+                50-100ft thickness
+              </li>
+              <li>
+                significant icing conditions possible
+              </li>
+            </ul>
+          </li>
+          <li>
+            ice fog (deposition)
+
+            <ul>
+              <li>
+                below -30degC
+              </li>
+              <li>
+                jet exhaust, propeller mixing
+              </li>
+            </ul>
+          </li>
+          <li>
+            freezing fog (rime)
+          </li>
+          <li>
+            dew
+
+            <ul>
+              <li>
+                not a fog
+              </li>
+              <li>
+                forms like radiation fog but with zero wind
+              </li>
+              <li>
+                white dew on cold aircraft surfaces
+              </li>
+            </ul>
           </li>
         </ul>
       </li>
+      <li>
+        strong winds increase mixing and lead to ST and SC
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<node CREATED="1574452345182" ID="ID_321327750" MODIFIED="1574470003948">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Local / Seasonal Visibility Reduction
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Gulf Stream (mT) over Labrador Current (cold): advection fog
+      </li>
+      <li>
+        mT over Great Lakes in autumn to spring (cold): advection fog
+      </li>
+      <li>
+        hills or mountains may act as barrier and prevent advection fog
+      </li>
+      <li>
+        easterly moist breeze across the prairies: upslope fog
+      </li>
+      <li>
+        westerly moist breeze towards the Rockies: upslope fog
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </node>
@@ -12847,8 +12944,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573764628595" FOLDED="true" ID="ID_1452684835" MODIFIED="1573851914432">
 <richcontent TYPE="NODE"><html>
