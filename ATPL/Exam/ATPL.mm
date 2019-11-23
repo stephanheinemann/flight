@@ -9947,8 +9947,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1574475844007" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1574475844007" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1574476437731" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1574476437730" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1574451479483">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11191,7 +11191,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573330590146" FOLDED="true" ID="ID_1075915924" MODIFIED="1574457910648">
+<node CREATED="1573330590146" FOLDED="true" ID="ID_1075915924" MODIFIED="1574476002611">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11438,7 +11438,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573503019877" FOLDED="true" ID="ID_1158740086" MODIFIED="1574452956160">
+<node CREATED="1573503019877" FOLDED="true" ID="ID_1158740086" MODIFIED="1574476002603">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12650,7 +12650,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573588792642" FOLDED="true" ID="ID_45066549" MODIFIED="1574475843964">
+<node CREATED="1573588792642" FOLDED="true" ID="ID_45066549" MODIFIED="1574476437695">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12755,7 +12755,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573590247098" FOLDED="true" ID="ID_716094335" MODIFIED="1574474319252">
+<node CREATED="1573590247098" FOLDED="true" ID="ID_716094335" MODIFIED="1574476437682">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12769,7 +12769,13 @@
     </p>
     <ul>
       <li>
-        fog
+        haze: possible less than 1 SM, dry particulates
+      </li>
+      <li>
+        mist: 5/8 SM (1km) or greater, visible moisture
+      </li>
+      <li>
+        fog: less than 5/8 SM (1km)
 
         <ul>
           <li>
