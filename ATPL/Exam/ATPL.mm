@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1574474303864" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1574474302058" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1574539233968" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1574539209796" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -1946,7 +1946,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569785860152" FOLDED="true" ID="ID_1710772429" MODIFIED="1574474249704" TEXT="1.14 VFR Flight">
+<node CREATED="1569785860152" FOLDED="true" ID="ID_1710772429" MODIFIED="1574539209764" TEXT="1.14 VFR Flight">
 <node CREATED="1569785872890" ID="ID_1158347982" MODIFIED="1570560102326">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2497,8 +2497,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569975971914" ID="ID_1241632014" MODIFIED="1569976357997">
 <richcontent TYPE="NODE"><html>
@@ -4749,7 +4748,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1574474303862" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1574539231981" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
 <node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1574109440447" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1571327873060">
@@ -4831,7 +4830,7 @@
 </html></richcontent>
 <node CREATED="1572467038737" ID="ID_1622990577" MODIFIED="1572467052226" TEXT="Autobrake / Anti-Skid"/>
 </node>
-<node CREATED="1571417536290" FOLDED="true" ID="ID_20123901" MODIFIED="1574474303857" TEXT="2.13 Anti-Icing and De-Icing Systems">
+<node CREATED="1571417536290" FOLDED="true" ID="ID_20123901" MODIFIED="1574539231969" TEXT="2.13 Anti-Icing and De-Icing Systems">
 <node CREATED="1571417673651" ID="ID_436647626" MODIFIED="1571418114587">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -7147,7 +7146,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1574460908136" TEXT="Flight Operations">
+<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1574539233964" TEXT="Flight Operations">
 <node CREATED="1571851864451" ID="ID_416756973" MODIFIED="1572288401755">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -9082,7 +9081,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572554141069" FOLDED="true" ID="ID_927511902" MODIFIED="1574109442674" TEXT="4.12 Winter Operations">
+<node CREATED="1572554141069" FOLDED="true" ID="ID_927511902" MODIFIED="1574539233950" TEXT="4.12 Winter Operations">
 <node CREATED="1572555948811" ID="ID_1357109696" MODIFIED="1572555973583" TEXT="Critical Surface Contamination"/>
 <node CREATED="1572555977081" ID="ID_1971333746" MODIFIED="1572556036297">
 <richcontent TYPE="NODE"><html>
@@ -9947,8 +9946,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1574476437731" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1574476437730" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1574542782514" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1574542782513" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1574451479483">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10773,7 +10772,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573330478270" FOLDED="true" ID="ID_990537658" MODIFIED="1574471904194">
+<node CREATED="1573330478270" FOLDED="true" ID="ID_990537658" MODIFIED="1574542782439">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10959,11 +10958,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1573585924526" ID="ID_824289493" MODIFIED="1573586588354">
+<node CREATED="1573585924526" FOLDED="true" ID="ID_824289493" MODIFIED="1574542782431">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11006,6 +11004,87 @@
     </ul>
   </body>
 </html></richcontent>
+<node CREATED="1574541068454" ID="ID_165129186" MODIFIED="1574541387823">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Types
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        drizzle
+      </li>
+      <li>
+        rain
+      </li>
+      <li>
+        freezing drizzle / rain
+      </li>
+      <li>
+        snow
+      </li>
+      <li>
+        hail
+
+        <ul>
+          <li>
+            usually 5 to 50mm diameter
+          </li>
+        </ul>
+      </li>
+      <li>
+        snow pellets (soft hail, graupel)
+
+        <ul>
+          <li>
+            usually 2 to 5mm diameter
+          </li>
+          <li>
+            freezing precipitation aloft
+          </li>
+        </ul>
+      </li>
+      <li>
+        snow grains
+
+        <ul>
+          <li>
+            usually 1mm diameter
+          </li>
+          <li>
+            freezing drizzle aloft
+          </li>
+        </ul>
+      </li>
+      <li>
+        ice pellets (sleet)
+
+        <ul>
+          <li>
+            freezing rain aloft and ahead in winter warm front
+          </li>
+        </ul>
+      </li>
+      <li>
+        ice crystals
+
+        <ul>
+          <li>
+            cold stable air even in absence of clouds
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1573330572405" FOLDED="true" ID="ID_1665720219" MODIFIED="1574471904196">
@@ -11191,7 +11270,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573330590146" FOLDED="true" ID="ID_1075915924" MODIFIED="1574476002611">
+<node CREATED="1573330590146" FOLDED="true" ID="ID_1075915924" MODIFIED="1574542782448">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11438,7 +11517,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573503019877" FOLDED="true" ID="ID_1158740086" MODIFIED="1574476002603">
+<node CREATED="1573503019877" FOLDED="true" ID="ID_1158740086" MODIFIED="1574541497056">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11569,7 +11648,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1573330604065" ID="ID_1607843192" MODIFIED="1574468994898">
+<node CREATED="1573330604065" FOLDED="true" ID="ID_1607843192" MODIFIED="1574542782453">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11597,6 +11676,54 @@
     </ul>
   </body>
 </html></richcontent>
+<node CREATED="1574541456146" ID="ID_841910965" MODIFIED="1574542763072">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Local / Seasonal Air Masses
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Canadian summer
+
+        <ul>
+          <li>
+            mA, mP, mT
+          </li>
+          <li>
+            mA is created by cA collecting moisture from unfrozen lakes
+          </li>
+          <li>
+            cA does not affect Canada in the summer
+          </li>
+          <li>
+            mP is created by southbound mA warming up
+          </li>
+        </ul>
+      </li>
+      <li>
+        Canadian winter
+
+        <ul>
+          <li>
+            cA, mA, mT
+          </li>
+          <li>
+            mA is created by cA collecting moisture from the Pacific Ocean
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1573330615743" FOLDED="true" ID="ID_1077695511" MODIFIED="1574474308057">
 <richcontent TYPE="NODE"><html>
@@ -12710,8 +12837,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573590016775" ID="ID_868509694" MODIFIED="1573590291433">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -12869,8 +12995,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1574452345182" ID="ID_321327750" MODIFIED="1574470003948">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -12901,8 +13026,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
