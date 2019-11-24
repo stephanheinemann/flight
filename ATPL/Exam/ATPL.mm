@@ -9946,8 +9946,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1574542782514" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1574542782513" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1574560962145" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1574560962145" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1574451479483">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11082,12 +11082,11 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1573330572405" FOLDED="true" ID="ID_1665720219" MODIFIED="1574471904196">
+<node CREATED="1573330572405" FOLDED="true" ID="ID_1665720219" MODIFIED="1574559343664">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11648,7 +11647,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1573330604065" FOLDED="true" ID="ID_1607843192" MODIFIED="1574542782453">
+<node CREATED="1573330604065" FOLDED="true" ID="ID_1607843192" MODIFIED="1574555322779">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11721,8 +11720,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573330615743" FOLDED="true" ID="ID_1077695511" MODIFIED="1574474308057">
@@ -12228,7 +12226,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573331171164" ID="ID_1165763841" MODIFIED="1573588187726">
+<node CREATED="1573331171164" ID="ID_1165763841" MODIFIED="1574559991913">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12264,7 +12262,7 @@
             maximum intensity 2 to 4 minutes, lifecycle 15 minutes
           </li>
           <li>
-            virga
+            virga (dry air microburst)
           </li>
         </ul>
       </li>
@@ -12301,11 +12299,30 @@
           </li>
         </ul>
       </li>
+      <li>
+        squall lines
+
+        <ul>
+          <li>
+            100 to 200NM ahead of advancing cold front
+          </li>
+          <li>
+            trough convergence
+          </li>
+          <li>
+            sea breezes and orographic lift
+          </li>
+          <li>
+            areas of intense daytime heating with very unstable moist air
+          </li>
+        </ul>
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1573333282683" ID="ID_316363689" MODIFIED="1573684895134">
+<node CREATED="1573333282683" ID="ID_316363689" MODIFIED="1574560152313">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12367,7 +12384,7 @@
         </ul>
       </li>
       <li>
-        tornado
+        tornado / mesocyclone
 
         <ul>
           <li>
@@ -12383,7 +12400,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1573333381118" ID="ID_1639799285" MODIFIED="1573333389670" TEXT="6.16 Surface Based Layers"/>
 <node CREATED="1573333699232" FOLDED="true" ID="ID_353626057" MODIFIED="1574121417622" TEXT="6.17 Meteorological Services for Pilots">
