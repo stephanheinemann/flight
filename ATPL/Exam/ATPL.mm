@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1574635069260" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1574620877715" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1574793439509" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1574793439506" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -1946,7 +1946,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569785860152" FOLDED="true" ID="ID_1710772429" MODIFIED="1574539209764" TEXT="1.14 VFR Flight">
+<node CREATED="1569785860152" FOLDED="true" ID="ID_1710772429" MODIFIED="1574793439482" TEXT="1.14 VFR Flight">
 <node CREATED="1569785872890" ID="ID_1158347982" MODIFIED="1570560102326">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3259,7 +3259,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1570571426538" FOLDED="true" ID="ID_1271413056" MODIFIED="1574115289303">
+<node CREATED="1570571426538" FOLDED="true" ID="ID_1271413056" MODIFIED="1574645491750">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4748,7 +4748,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1574630429796" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1574647901385" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
 <node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1574109440447" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1571327873060">
@@ -5062,7 +5062,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568173515599" FOLDED="true" ID="ID_228371769" MODIFIED="1574633602058" TEXT="Instruments">
+<node CREATED="1568173515599" FOLDED="true" ID="ID_228371769" MODIFIED="1574647914792" TEXT="Instruments">
 <node CREATED="1571427682321" ID="ID_452501545" MODIFIED="1571427696475" TEXT="3.01 Pitot Static System"/>
 <node CREATED="1571427847687" FOLDED="true" ID="ID_597355976" MODIFIED="1571428362967" TEXT="3.02 Airspeed Indicator">
 <node CREATED="1571428317400" ID="ID_1249929966" MODIFIED="1571428358882">
@@ -9946,8 +9946,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1574636728197" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1574636728196" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1574802285172" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1574802285172" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1574636611671">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -10772,7 +10772,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573330478270" FOLDED="true" ID="ID_990537658" MODIFIED="1574635291729">
+<node CREATED="1573330478270" FOLDED="true" ID="ID_990537658" MODIFIED="1574802285122">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10797,7 +10797,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1573431683901" ID="ID_1940104592" MODIFIED="1573498304369">
+<node CREATED="1573431683901" ID="ID_1940104592" MODIFIED="1574793950313">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10809,13 +10809,53 @@
     <ul>
       <li>
         TCU, ACC, CB
+
+        <ul>
+          <li>
+            cumulus fractus (pannus)
+          </li>
+          <li>
+            arcus cloud
+
+            <ul>
+              <li>
+                roll could (volutus)
+              </li>
+              <li>
+                shelf could
+              </li>
+            </ul>
+          </li>
+          <li>
+            wall cloud (murus)
+
+            <ul>
+              <li>
+                strongest updrafts&#160;/ mesocyclone indicator
+              </li>
+            </ul>
+          </li>
+        </ul>
       </li>
       <li>
-        cap cloud, lenticular cloud (altocumulus lenticularis), rotor cloud
+        mountain waves:
+
+        <ul>
+          <li>
+            cap cloud (pileus)
+          </li>
+          <li>
+            lenticular cloud (altocumulus lenticularis)
+          </li>
+          <li>
+            rotor cloud (cumulus fractus)
+          </li>
+        </ul>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1573498129764" ID="ID_1442594150" MODIFIED="1573518648885">
 <richcontent TYPE="NODE"><html>
@@ -11003,8 +11043,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1574541068454" ID="ID_165129186" MODIFIED="1574541387823">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11087,7 +11126,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1573330572405" FOLDED="true" ID="ID_1665720219" MODIFIED="1574633602095">
+<node CREATED="1573330572405" FOLDED="true" ID="ID_1665720219" MODIFIED="1574802285125">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11134,7 +11173,7 @@
                     stable air, absolute peak stability
                   </li>
                   <li>
-                    high wind speeds +15knots, within 30deg normal to ridges
+                    high wind speeds &gt; 15kts, within 30deg normal to ridges
                   </li>
                   <li>
                     FD charts and terrain assessment
@@ -11147,7 +11186,7 @@
             </ul>
           </li>
           <li>
-            thermal turbulence (convection)
+            thermal turbulence (convection / evaporation)
 
             <ul>
               <li>
@@ -11169,7 +11208,7 @@
                 upper troughs and ridges
               </li>
               <li>
-                jetstreams
+                jet streams
               </li>
             </ul>
           </li>
@@ -11216,8 +11255,9 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
-<node CREATED="1574460286765" ID="ID_1832970091" MODIFIED="1574460408139">
+</html>
+</richcontent>
+<node CREATED="1574460286765" ID="ID_1832970091" MODIFIED="1574790835329">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11237,11 +11277,12 @@
         overfly ideally by 1/2 mountain height
       </li>
       <li>
-        commence climb at least 50 NM before mountain range
+        commence lee climb at least 50 NM before mountain range
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1574460920269" ID="ID_113157635" MODIFIED="1574461017606">
 <richcontent TYPE="NODE"><html>
@@ -11270,7 +11311,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573330590146" FOLDED="true" ID="ID_1075915924" MODIFIED="1574542782448">
+<node CREATED="1573330590146" FOLDED="true" ID="ID_1075915924" MODIFIED="1574794786339">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11345,7 +11386,7 @@
             density decreases and wind speed increases
           </li>
           <li>
-            v = PGF / (2 o * d * sind lat) where
+            v = PGF / (2 o * d * sin lat) where
 
             <ul>
               <li>
@@ -11381,7 +11422,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1573408934993" ID="ID_1535654758" MODIFIED="1573504383896">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11970,7 +12012,7 @@
 </node>
 </node>
 <node CREATED="1573330721252" ID="ID_238729032" MODIFIED="1573330729412" TEXT="6.11 Complex Low"/>
-<node CREATED="1573330748611" FOLDED="true" ID="ID_68412790" MODIFIED="1574459042303">
+<node CREATED="1573330748611" FOLDED="true" ID="ID_68412790" MODIFIED="1574799630454">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11996,6 +12038,12 @@
         Clear Air Turbulence (CAT)
 
         <ul>
+          <li>
+            CAT threshold 110kts
+          </li>
+          <li>
+            moderate CAT 5kts / 1000ft VWS, 40kts / 150NM HWS
+          </li>
           <li>
             cold side from the core (north: left, south: right)
           </li>
@@ -12053,6 +12101,12 @@
           <li>
             sinuous, disjoint, broken along polar front (core in warm sector)
           </li>
+          <li>
+            80-130kts
+          </li>
+          <li>
+            occasionally up to 200kts in winter
+          </li>
         </ul>
       </li>
       <li>
@@ -12081,7 +12135,7 @@
             eastbound (north, cold left, warm right)
           </li>
           <li>
-            5-20deg north of equator, 100kts
+            5-20deg north of equator, up to 100kts
           </li>
           <li>
             replaced by subtropical jet in winter (opposite winds)
@@ -12093,8 +12147,9 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
-<node CREATED="1574458559106" ID="ID_919804211" MODIFIED="1574458939770">
+</html>
+</richcontent>
+<node CREATED="1574458559106" ID="ID_919804211" MODIFIED="1574793153519">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12115,7 +12170,7 @@
             ahead of cold front in warm sector
           </li>
           <li>
-            up to 100 knots
+            up to 100 kts
           </li>
           <li>
             1 to 3 hours before frontal passage
@@ -12136,7 +12191,7 @@
             night time radiation with clear skies (nocturnal inversion)
           </li>
           <li>
-            up to 60 knots
+            up to 60 kts
           </li>
           <li>
             maximum strength 2 to 3 hours after midnight
@@ -12144,14 +12199,33 @@
           <li>
             700 to 2000ft AGL
           </li>
+          <li>
+            vertical wind structure:
+
+            <ul>
+              <li>
+                near calm at the surface
+              </li>
+              <li>
+                average of 25 to 40 kts at the core
+              </li>
+              <li>
+                falling 15 to 30 kts above jet core
+              </li>
+              <li>
+                extreme cases: 10 kts / 100 ft change
+              </li>
+            </ul>
+          </li>
         </ul>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
-<node CREATED="1573331153527" FOLDED="true" ID="ID_1872410311" MODIFIED="1574633602099">
+<node CREATED="1573331153527" FOLDED="true" ID="ID_1872410311" MODIFIED="1574802285128">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12179,9 +12253,13 @@
       <li>
         aerodynamic heating / high-speed flight
       </li>
+      <li>
+        cold soaked wings: hoar frost deposition
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1573592888756" ID="ID_730717142" MODIFIED="1573594148794">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -12493,7 +12571,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1573341269453" FOLDED="true" ID="ID_698670885" MODIFIED="1574635291745">
+<node CREATED="1573341269453" FOLDED="true" ID="ID_698670885" MODIFIED="1574794382258">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12851,8 +12929,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573590016775" ID="ID_868509694" MODIFIED="1573590291433">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13049,7 +13126,7 @@
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
 <icon BUILTIN="closed"/>
 </node>
-<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1574475710369" TEXT="Radio Communication and Navigation Aids">
+<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1574648004786" TEXT="Radio Communication and Navigation Aids">
 <node CREATED="1573764157635" ID="ID_1495037692" MODIFIED="1573855657638">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13822,14 +13899,14 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573928479274" ID="ID_629526416" MODIFIED="1573928504774">
+<node CREATED="1573928479274" ID="ID_629526416" MODIFIED="1574645482127">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      7.14 Lighting Detection Equipment
+      7.14 Lightning Detection Equipment
     </p>
     <p>
       
