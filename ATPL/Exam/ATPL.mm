@@ -2410,8 +2410,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1569974466249" ID="ID_1657905488" MODIFIED="1570054105342">
 <richcontent TYPE="NODE"><html>
@@ -9950,8 +9949,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1575315553902" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1575315553900" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1575401921463" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1575401921462" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1574636611671">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -12478,17 +12477,144 @@
 </html></richcontent>
 </node>
 <node CREATED="1573333381118" ID="ID_1639799285" MODIFIED="1573333389670" TEXT="6.16 Surface Based Layers"/>
-<node CREATED="1573333699232" FOLDED="true" ID="ID_353626057" MODIFIED="1574635291737" TEXT="6.17 Meteorological Services for Pilots">
-<node CREATED="1573333722271" ID="ID_1510631225" MODIFIED="1573333736230" TEXT="6.18 Graphic Area Forcast (GFA)"/>
+<node CREATED="1573333699232" FOLDED="true" ID="ID_353626057" MODIFIED="1575401921396" TEXT="6.17 Meteorological Services for Pilots">
+<node CREATED="1573333722271" ID="ID_1510631225" MODIFIED="1575401540611">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.18 Graphic Area Forcast (GFA)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        issued 30 minutes before VLD period
+      </li>
+      <li>
+        T+0, T+6, T+12
+      </li>
+      <li>
+        0000, 0600, 1200, 1800
+      </li>
+      <li>
+        IFR outlook T+12 until T+24
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1573333740648" ID="ID_1869474482" MODIFIED="1573333765170" TEXT="6.19 International Aerdrome Forecasts (TAF)"/>
-<node CREATED="1573333770621" ID="ID_206035143" MODIFIED="1573333791329" TEXT="6.20 Upper Level Winds and Temperatures Forecasts (FD)"/>
+<node CREATED="1573333770621" ID="ID_206035143" MODIFIED="1575401319920">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.20 Upper Level Winds and Temperatures Forecasts (FD)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        D + 50 -&gt; W + 100
+      </li>
+      <li>
+        W = 99 -&gt; W &gt;= 199
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1573333796869" ID="ID_1014188423" MODIFIED="1573333816444" TEXT="6.21 Aviation Routine Weather Reports (METAR)"/>
-<node CREATED="1573333825638" ID="ID_1528078280" MODIFIED="1573333835432" TEXT="6.22 SIGMET"/>
+<node CREATED="1573333825638" ID="ID_1528078280" MODIFIED="1575401432719">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.22 SIGMET
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        VLD 4h
+      </li>
+      <li>
+        updated or canceled by SIGMET
+      </li>
+      <li>
+        severe WX hazards and FRQ TS
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1573333842543" ID="ID_1495155462" MODIFIED="1573333866446" TEXT="6.23 PIREP and AIREP"/>
-<node CREATED="1573333872222" ID="ID_1194590033" MODIFIED="1573333877796" TEXT="6.24 AIRMET"/>
+<node CREATED="1573333872222" ID="ID_1194590033" MODIFIED="1575401423678">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.24 AIRMET
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        VLD 4h
+      </li>
+      <li>
+        updated or canceled by AIRMET
+      </li>
+      <li>
+        moderate WX hazards and ISOL, OCSL TS
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1573333889451" ID="ID_1599588579" MODIFIED="1573333897199" TEXT="6.26 CAVOK"/>
-<node CREATED="1573333905959" ID="ID_851727738" MODIFIED="1573333913957" TEXT="6.27 Surface Weather Charts"/>
-<node CREATED="1573334104774" FOLDED="true" ID="ID_1100851419" MODIFIED="1574635291733">
+<node CREATED="1573333905959" ID="ID_851727738" MODIFIED="1575401863234">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.27 Surface Weather Charts
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        based on data 2-3 hours before issue
+      </li>
+      <li>
+        SFC to 850-900hPa: 3000ft
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573334104774" FOLDED="true" ID="ID_1100851419" MODIFIED="1575401873994">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12519,9 +12645,13 @@
           </li>
         </ul>
       </li>
+      <li>
+        based on data 10-12 hours before issue
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1573763754201" ID="ID_509300835" MODIFIED="1573763870401">
 <richcontent TYPE="NODE"><html>
   <head>
