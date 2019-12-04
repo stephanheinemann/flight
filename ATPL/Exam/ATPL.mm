@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1575410901597" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1575410901595" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1575498387286" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1575498387285" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -57,7 +57,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1575405310954">
+<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1575495756231">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -692,7 +692,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569274096513" FOLDED="true" ID="ID_1509217189" MODIFIED="1575315522590">
+<node CREATED="1569274096513" FOLDED="true" ID="ID_1509217189" MODIFIED="1575495756207">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2333,7 +2333,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1575405315946" TEXT="1.19 IFR Flight">
+<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1575495777612" TEXT="1.19 IFR Flight">
 <node CREATED="1569972903894" ID="ID_1927607732" MODIFIED="1575316027430">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2763,7 +2763,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1570128169387" FOLDED="true" ID="ID_377019714" MODIFIED="1574116172178">
+<node CREATED="1570128169387" FOLDED="true" ID="ID_377019714" MODIFIED="1575495751614">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2919,7 +2919,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1570481596004" FOLDED="true" ID="ID_1588304105" MODIFIED="1575405319190" TEXT="1.22 Air Traffic Services">
+<node CREATED="1570481596004" FOLDED="true" ID="ID_1588304105" MODIFIED="1575495754825" TEXT="1.22 Air Traffic Services">
 <node CREATED="1570478913077" ID="ID_74301925" MODIFIED="1574108406491">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4298,7 +4298,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571180165952" FOLDED="true" ID="ID_1126967731" MODIFIED="1574117785482" TEXT="1.45 North Atlantic Operations">
+<node CREATED="1571180165952" FOLDED="true" ID="ID_1126967731" MODIFIED="1575498387263" TEXT="1.45 North Atlantic Operations">
 <node CREATED="1571247817344" FOLDED="true" ID="ID_554157276" MODIFIED="1574117785473">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5065,7 +5065,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568173515599" FOLDED="true" ID="ID_228371769" MODIFIED="1575315550605" TEXT="Instruments">
+<node CREATED="1568173515599" FOLDED="true" ID="ID_228371769" MODIFIED="1575495785651" TEXT="Instruments">
 <node CREATED="1571427682321" ID="ID_452501545" MODIFIED="1571427696475" TEXT="3.01 Pitot Static System"/>
 <node CREATED="1571427847687" FOLDED="true" ID="ID_597355976" MODIFIED="1571428362967" TEXT="3.02 Airspeed Indicator">
 <node CREATED="1571428317400" ID="ID_1249929966" MODIFIED="1571428358882">
@@ -5459,7 +5459,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571511813964" FOLDED="true" ID="ID_1899769253" MODIFIED="1575315550601" TEXT="Advanced Avionics">
+<node CREATED="1571511813964" FOLDED="true" ID="ID_1899769253" MODIFIED="1575495785644" TEXT="Advanced Avionics">
 <node CREATED="1571511847731" FOLDED="true" ID="ID_1043332875" MODIFIED="1571689715425" TEXT="Inertial Guidance / Navigation">
 <node CREATED="1571511860897" ID="ID_466892123" MODIFIED="1571512746475">
 <richcontent TYPE="NODE"><html>
@@ -5661,7 +5661,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571512691326" FOLDED="true" ID="ID_1356159857" MODIFIED="1575315542758" TEXT="Flight Guidance">
+<node CREATED="1571512691326" FOLDED="true" ID="ID_1356159857" MODIFIED="1575495785636" TEXT="Flight Guidance">
 <node CREATED="1571512701913" FOLDED="true" ID="ID_1067228576" MODIFIED="1571689347944">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5832,7 +5832,7 @@
 </node>
 <node CREATED="1571598677320" ID="ID_500380032" MODIFIED="1571598684527" TEXT="Flight Control Computer (FCC)"/>
 </node>
-<node CREATED="1571513704646" FOLDED="true" ID="ID_507011782" MODIFIED="1571689359853" TEXT="Electronic Flight Information System (EFIS)">
+<node CREATED="1571513704646" FOLDED="true" ID="ID_507011782" MODIFIED="1575495785631" TEXT="Electronic Flight Information System (EFIS)">
 <node CREATED="1571516673519" FOLDED="true" ID="ID_1100983526" MODIFIED="1574106630540">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6019,7 +6019,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173570034" FOLDED="true" ID="ID_1285060949" MODIFIED="1575315432807" TEXT="Navigation">
+<node CREATED="1568173570034" FOLDED="true" ID="ID_1285060949" MODIFIED="1575495800689" TEXT="Navigation">
 <node CREATED="1572722855252" ID="ID_1252294476" MODIFIED="1572722864170" TEXT="5.01 Basic Navigation Concepts"/>
 <node CREATED="1572723482390" FOLDED="true" ID="ID_787148057" MODIFIED="1573082487386" TEXT="5.02 Navigation Calculations">
 <node CREATED="1572727356484" ID="ID_590399689" MODIFIED="1572727496625">
@@ -6376,8 +6376,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572736905999" FOLDED="true" ID="ID_158440117" MODIFIED="1574114494303" TEXT="5.06 Maps and Charts / Projections">
-<node CREATED="1572736941182" FOLDED="true" ID="ID_1468522731" MODIFIED="1574114494296">
+<node CREATED="1572736905999" FOLDED="true" ID="ID_158440117" MODIFIED="1575495800684" TEXT="5.06 Maps and Charts / Projections">
+<node CREATED="1572736941182" FOLDED="true" ID="ID_1468522731" MODIFIED="1575495800678">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6556,7 +6556,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572736951961" FOLDED="true" ID="ID_1383404834" MODIFIED="1573082363399">
+<node CREATED="1572736951961" FOLDED="true" ID="ID_1383404834" MODIFIED="1575495793961">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6719,7 +6719,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572736959045" FOLDED="true" ID="ID_1239272804" MODIFIED="1574110717699">
+<node CREATED="1572736959045" FOLDED="true" ID="ID_1239272804" MODIFIED="1575495800647">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9182,7 +9182,7 @@
 <node CREATED="1572557841087" ID="ID_1393851454" MODIFIED="1572557849804" TEXT="4.17 Landing Techniques"/>
 <node CREATED="1572557899101" ID="ID_7440582" MODIFIED="1572557905885" TEXT="4.18 Volcanic Ash"/>
 </node>
-<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1574452324329" TEXT="Theory of Flight">
+<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1575495783930" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
 <node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1574110711320" TEXT="4.01 General Theory of Flight">
 <node CREATED="1571791871556" ID="ID_1614108199" MODIFIED="1572115126055">
@@ -9304,7 +9304,7 @@
 <node CREATED="1571795140889" ID="ID_591096612" MODIFIED="1571795152185" TEXT="Span, Taper and Aspect Ratio"/>
 <node CREATED="1571795169821" ID="ID_1283277097" MODIFIED="1571795179785" TEXT="Mean Aerodynamic Cord (MAC)"/>
 </node>
-<node CREATED="1571698150394" FOLDED="true" ID="ID_330232180" MODIFIED="1574452324320">
+<node CREATED="1571698150394" FOLDED="true" ID="ID_330232180" MODIFIED="1575495783919">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9949,8 +9949,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1575412804952" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1575412804952" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1575502052625" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1575502052602" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1575405562722">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -12508,8 +12508,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573333740648" ID="ID_1869474482" MODIFIED="1573333765170" TEXT="6.19 International Aerdrome Forecasts (TAF)"/>
 <node CREATED="1573333770621" ID="ID_206035143" MODIFIED="1575408480691">
@@ -12556,8 +12555,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573333796869" ID="ID_1014188423" MODIFIED="1573333816444" TEXT="6.21 Aviation Routine Weather Reports (METAR)"/>
 <node CREATED="1573333825638" ID="ID_1528078280" MODIFIED="1575401432719">
@@ -12584,8 +12582,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573333842543" ID="ID_1495155462" MODIFIED="1573333866446" TEXT="6.23 PIREP and AIREP"/>
 <node CREATED="1573333872222" ID="ID_1194590033" MODIFIED="1575401423678">
@@ -12612,8 +12609,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573333889451" ID="ID_1599588579" MODIFIED="1573333897199" TEXT="6.26 CAVOK"/>
 <node CREATED="1573333905959" ID="ID_851727738" MODIFIED="1575401863234">
@@ -12637,8 +12633,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573334104774" FOLDED="true" ID="ID_1100851419" MODIFIED="1575412804887">
 <richcontent TYPE="NODE"><html>
@@ -12703,8 +12698,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573763754201" ID="ID_509300835" MODIFIED="1573763870401">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13306,8 +13300,8 @@
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
 <icon BUILTIN="closed"/>
 </node>
-<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1575408174961" TEXT="Radio Communication and Navigation Aids">
-<node CREATED="1573764157635" ID="ID_1495037692" MODIFIED="1573855657638">
+<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1575502052624" TEXT="Radio Communication and Navigation Aids">
+<node CREATED="1573764157635" FOLDED="true" ID="ID_1495037692" MODIFIED="1575502052611">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13344,8 +13338,325 @@
     </ul>
   </body>
 </html></richcontent>
+<node CREATED="1575493316375" FOLDED="true" ID="ID_748154109" MODIFIED="1575502052609">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Propagation Theory
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        electric vs. magnetic wave
+      </li>
+      <li>
+        horizontal, vertical, circular polarization
+
+        <ul>
+          <li>
+            f = 1 / t [1/s = Hz] where period t
+          </li>
+          <li>
+            l = c / f [m] where propagation speed c, frequency f
+          </li>
+          <li>
+            c = 300.000.000 = 3 * 10^8 m/s
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1575497198549" ID="ID_1701176666" MODIFIED="1575497266399">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Attenuation
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        ange attenuation
+
+        <ul>
+          <li>
+            P ~ 1 / R^2 where power required P, range R
+          </li>
+        </ul>
+      </li>
+      <li>
+        surface attenuation (vertical polarization)
+
+        <ul>
+          <li>
+            sea range ~ 3 * sqrt(P)
+          </li>
+          <li>
+            land range ~ 2 * sqrt(P)
+          </li>
+          <li>
+            higher attenuation for higher frequencies
+          </li>
+        </ul>
+      </li>
+      <li>
+        ionospheric attenuation
+
+        <ul>
+          <li>
+            higher attenuation for lower frequencies
+          </li>
+        </ul>
+      </li>
+      <li>
+        atmospheric attenuation
+
+        <ul>
+          <li>
+            pollution, water, ice
+          </li>
+        </ul>
+      </li>
+      <li>
+        static interference / electric charges
+
+        <ul>
+          <li>
+            thunderstorms, rain, solar activity
+          </li>
+          <li>
+            higher interference at lower frequencies
+          </li>
+        </ul>
+      </li>
+      <li>
+        signal to noise ratio (SNR), signal hiss
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1573764536763" ID="ID_395794237" MODIFIED="1574451805706">
+<node CREATED="1575497210888" ID="ID_1606388291" MODIFIED="1575499233158">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Refraction
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        ionospheric refraction
+
+        <ul>
+          <li>
+            higher density of charged particles (ions)
+          </li>
+          <li>
+            lower refraction for higher frequencies
+          </li>
+        </ul>
+      </li>
+      <li>
+        atmospheric refraction / diffraction
+      </li>
+      <li>
+        super-refraction
+
+        <ul>
+          <li>
+            meteorological conditions to bend VHF waves
+          </li>
+          <li>
+            relative humidity decreases with height
+          </li>
+          <li>
+            temperature decreases slowly with height
+          </li>
+          <li>
+            high atmospheric pressure
+          </li>
+          <li>
+            warm air advection over cool surfaces
+          </li>
+        </ul>
+      </li>
+      <li>
+        sub-refraction
+
+        <ul>
+          <li>
+            relative humidity increases with height
+          </li>
+          <li>
+            temperature increases quickly with height
+          </li>
+          <li>
+            low atmospheric pressure
+          </li>
+          <li>
+            cold air advection over warm surfaces
+          </li>
+        </ul>
+      </li>
+      <li>
+        coastal refraction
+
+        <ul>
+          <li>
+            radio wave propagation faster over sea than land
+          </li>
+          <li>
+            bend towards land-based station
+          </li>
+          <li>
+            higher refraction for lower frequencies
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1575501687598" ID="ID_1632205735" MODIFIED="1575501904719">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fading
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        multi-path fading
+
+        <ul>
+          <li>
+            spaced diversity: multiple antennae at different locations
+          </li>
+          <li>
+            frequency diversity: multiple tuned frequencies
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1575499017033" ID="ID_648145629" MODIFIED="1575501490756">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Propagation Types
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        non-ionospheric
+
+        <ul>
+          <li>
+            surface (ground) wave: 20kHz to 50MHz (mainly LF, MF, HF)
+          </li>
+          <li>
+            space wave (direct and ground reflected)
+
+            <ul>
+              <li>
+                D = 1.23 * (sqrt(txh) + sqrt(rxh))
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        ionospheric, 50-400km (D, E, F1/2 layers)
+
+        <ul>
+          <li>
+            sky wave
+          </li>
+          <li>
+            satellite
+          </li>
+          <li>
+            ducting
+          </li>
+          <li>
+            ionization depends on UV light and takes place during day
+          </li>
+          <li>
+            recombination happens during night
+          </li>
+          <li>
+            only higher layers remains ionized: D and F layers
+          </li>
+          <li>
+            higher layers increase range of refracted sky waves
+          </li>
+          <li>
+            refraction and distance depend on (critical) angle and (critical) frequency
+          </li>
+          <li>
+            higher frequency requires higher angle
+          </li>
+          <li>
+            maximum usable frequency (MUF)
+          </li>
+          <li>
+            optimum working frequency (OWF) = 0.85 * MUF
+          </li>
+        </ul>
+      </li>
+      <li>
+        skip distance, skip zone (dead space)
+
+        <ul>
+          <li>
+            critical angle reduces with higher ionization
+          </li>
+          <li>
+            skip distance can be reduced by transmission angle
+          </li>
+        </ul>
+      </li>
+      <li>
+        surface reflection / multi-hop propagation
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1573764536763" FOLDED="true" ID="ID_395794237" MODIFIED="1575502052612">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13373,8 +13684,29 @@
     </ul>
   </body>
 </html></richcontent>
+<node CREATED="1575501559330" ID="ID_842816107" MODIFIED="1575501618530">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      SELCAL
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        4 letter codes to alert crew for communication
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1573764628595" FOLDED="true" ID="ID_1452684835" MODIFIED="1573851914432">
+</node>
+<node CREATED="1573764628595" FOLDED="true" ID="ID_1452684835" MODIFIED="1575502052613">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13432,7 +13764,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573765838461" FOLDED="true" ID="ID_674804851" MODIFIED="1573766468153">
+<node CREATED="1573765838461" FOLDED="true" ID="ID_674804851" MODIFIED="1575498387330">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13556,7 +13888,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573767489852" FOLDED="true" ID="ID_975583169" MODIFIED="1573929190047">
+<node CREATED="1573767489852" FOLDED="true" ID="ID_975583169" MODIFIED="1575498387332">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13702,7 +14034,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573854692769" FOLDED="true" ID="ID_1838919694" MODIFIED="1574475710350">
+<node CREATED="1573854692769" FOLDED="true" ID="ID_1838919694" MODIFIED="1575498387337">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13982,7 +14314,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573856910020" FOLDED="true" ID="ID_735602432" MODIFIED="1573932996987">
+<node CREATED="1573856910020" FOLDED="true" ID="ID_735602432" MODIFIED="1575498387338">
 <richcontent TYPE="NODE"><html>
   <head>
     
