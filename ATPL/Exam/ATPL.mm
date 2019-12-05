@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1575498387286" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1575498387285" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1575506230567" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1575503194149" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -4298,7 +4298,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571180165952" FOLDED="true" ID="ID_1126967731" MODIFIED="1575498387263" TEXT="1.45 North Atlantic Operations">
+<node CREATED="1571180165952" FOLDED="true" ID="ID_1126967731" MODIFIED="1575503194132" TEXT="1.45 North Atlantic Operations">
 <node CREATED="1571247817344" FOLDED="true" ID="ID_554157276" MODIFIED="1574117785473">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4572,7 +4572,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571252278585" FOLDED="true" ID="ID_1312997842" MODIFIED="1574106630515">
+<node CREATED="1571252278585" FOLDED="true" ID="ID_1312997842" MODIFIED="1575502762923">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4598,14 +4598,15 @@
         6 HF frequency groups: NAT A to NAT F
       </li>
       <li>
-        SelCal system and checks to avoid HF monitoring
+        SELCAL system and checks to avoid HF monitoring
       </li>
       <li>
         TXPR A2000 30 minutes after entering OCA
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1571261888520" ID="ID_67184243" MODIFIED="1571264039315">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5065,7 +5066,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568173515599" FOLDED="true" ID="ID_228371769" MODIFIED="1575495785651" TEXT="Instruments">
+<node CREATED="1568173515599" FOLDED="true" ID="ID_228371769" MODIFIED="1575506230566" TEXT="Instruments">
 <node CREATED="1571427682321" ID="ID_452501545" MODIFIED="1571427696475" TEXT="3.01 Pitot Static System"/>
 <node CREATED="1571427847687" FOLDED="true" ID="ID_597355976" MODIFIED="1571428362967" TEXT="3.02 Airspeed Indicator">
 <node CREATED="1571428317400" ID="ID_1249929966" MODIFIED="1571428358882">
@@ -5163,7 +5164,7 @@
 </node>
 </node>
 <node CREATED="1571431083099" ID="ID_1042975001" MODIFIED="1571431091660" TEXT="3.04 Vertical Speed Indicator"/>
-<node CREATED="1571431240857" FOLDED="true" ID="ID_148193878" MODIFIED="1573929066064" TEXT="3.05 Altimeter">
+<node CREATED="1571431240857" FOLDED="true" ID="ID_148193878" MODIFIED="1575506230563" TEXT="3.05 Altimeter">
 <node CREATED="1571431330523" ID="ID_4045659" MODIFIED="1571434385661">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -9949,7 +9950,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1575502052625" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1575506399860" POSITION="left" TEXT="SAMRA">
 <node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1575502052602" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1575405562722">
 <richcontent TYPE="NODE"><html>
@@ -13300,8 +13301,8 @@
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
 <icon BUILTIN="closed"/>
 </node>
-<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1575502052624" TEXT="Radio Communication and Navigation Aids">
-<node CREATED="1573764157635" FOLDED="true" ID="ID_1495037692" MODIFIED="1575502052611">
+<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1575506399859" TEXT="Radio Communication and Navigation Aids">
+<node CREATED="1573764157635" FOLDED="true" ID="ID_1495037692" MODIFIED="1575506399846">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13338,7 +13339,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1575493316375" FOLDED="true" ID="ID_748154109" MODIFIED="1575502052609">
+<node CREATED="1575493316375" FOLDED="true" ID="ID_748154109" MODIFIED="1575503168161">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13655,8 +13656,56 @@
 </html></richcontent>
 </node>
 </node>
+<node CREATED="1575505971618" ID="ID_201576985" MODIFIED="1575506395738">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Modulation
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        emission designators table
+
+        <ul>
+          <li>
+            modulation, signal type, information
+          </li>
+        </ul>
+      </li>
+      <li>
+        key modulation, keying
+      </li>
+      <li>
+        amplitude modulation (AM)
+
+        <ul>
+          <li>
+            SSB, sideband / carrier suppression
+          </li>
+        </ul>
+      </li>
+      <li>
+        frequency modulation (FM)
+      </li>
+      <li>
+        phase modulation, phase shift keying (PSK)
+      </li>
+      <li>
+        pulse modulation
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1573764536763" FOLDED="true" ID="ID_395794237" MODIFIED="1575502052612">
+</node>
+<node CREATED="1573764536763" FOLDED="true" ID="ID_395794237" MODIFIED="1575506196855">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13684,7 +13733,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1575501559330" ID="ID_842816107" MODIFIED="1575501618530">
+<node CREATED="1575501559330" ID="ID_842816107" MODIFIED="1575503120343">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13699,6 +13748,54 @@
     <ul>
       <li>
         4 letter codes to alert crew for communication
+      </li>
+      <li>
+        2 pairs of 2 letters alphabetically ordered
+      </li>
+      <li>
+        each letter corresponds to audible tone
+      </li>
+      <li>
+        1s first pair (added), 0.2s pause, 1s second pair (added)
+      </li>
+      <li>
+        currently more registered users than codes
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1575504784874" ID="ID_510308510" MODIFIED="1575505439119">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      SSB
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        upper and lower sideband audio duplication
+      </li>
+      <li>
+        audio duplication removed by eliminating one sideband
+      </li>
+      <li>
+        lower sideband suppression
+      </li>
+      <li>
+        frequency spectrum narrowed
+      </li>
+      <li>
+        narrowband increases available channels
+      </li>
+      <li>
+        higher&#160;transmission power&#160;for the remaining sideband
       </li>
     </ul>
   </body>
