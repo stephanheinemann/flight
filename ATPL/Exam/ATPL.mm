@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1575510903866" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1575510903864" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1575580751954" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1575580751948" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -2333,7 +2333,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1575508362207" TEXT="1.19 IFR Flight">
+<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1575580751925" TEXT="1.19 IFR Flight">
 <node CREATED="1569972903894" ID="ID_1927607732" MODIFIED="1575316027430">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2724,7 +2724,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571604461685" ID="ID_284111892" MODIFIED="1571608011403">
+<node CREATED="1571604461685" ID="ID_284111892" MODIFIED="1575575668712">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2738,10 +2738,10 @@
     </p>
     <ul>
       <li>
-        CATI&#160;&#160;not below DH 200ft (BALT), VIS 800m, RVR 550m (2600, 1800)
+        CATI&#160;&#160;not below DH 200ft (BALT), VIS 800m, RVR 550m (2600, 1800), 1/2 SM
       </li>
       <li>
-        CATII below DH 200ft but not below DH 100ft (RALT), RVR 300m (900)
+        CATII below DH 200ft but not below DH 100ft (RALT), RVR 300m (1200, 900)
       </li>
       <li>
         CATIII
@@ -2760,7 +2760,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1570128169387" FOLDED="true" ID="ID_377019714" MODIFIED="1575508531491">
@@ -5068,7 +5069,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568173515599" FOLDED="true" ID="ID_228371769" MODIFIED="1575508355502" TEXT="Instruments">
+<node CREATED="1568173515599" FOLDED="true" ID="ID_228371769" MODIFIED="1575580751953" TEXT="Instruments">
 <node CREATED="1571427682321" ID="ID_452501545" MODIFIED="1571427696475" TEXT="3.01 Pitot Static System"/>
 <node CREATED="1571427847687" FOLDED="true" ID="ID_597355976" MODIFIED="1571428362967" TEXT="3.02 Airspeed Indicator">
 <node CREATED="1571428317400" ID="ID_1249929966" MODIFIED="1571428358882">
@@ -5462,7 +5463,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571511813964" FOLDED="true" ID="ID_1899769253" MODIFIED="1575495785644" TEXT="Advanced Avionics">
+<node CREATED="1571511813964" FOLDED="true" ID="ID_1899769253" MODIFIED="1575580751951" TEXT="Advanced Avionics">
 <node CREATED="1571511847731" FOLDED="true" ID="ID_1043332875" MODIFIED="1571689715425" TEXT="Inertial Guidance / Navigation">
 <node CREATED="1571511860897" ID="ID_466892123" MODIFIED="1571512746475">
 <richcontent TYPE="NODE"><html>
@@ -6022,7 +6023,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173570034" FOLDED="true" ID="ID_1285060949" MODIFIED="1575507726487" TEXT="Navigation">
+<node CREATED="1568173570034" FOLDED="true" ID="ID_1285060949" MODIFIED="1575577747496" TEXT="Navigation">
 <node CREATED="1572722855252" ID="ID_1252294476" MODIFIED="1572722864170" TEXT="5.01 Basic Navigation Concepts"/>
 <node CREATED="1572723482390" FOLDED="true" ID="ID_787148057" MODIFIED="1573082487386" TEXT="5.02 Navigation Calculations">
 <node CREATED="1572727356484" ID="ID_590399689" MODIFIED="1572727496625">
@@ -6379,8 +6380,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572736905999" FOLDED="true" ID="ID_158440117" MODIFIED="1575495800684" TEXT="5.06 Maps and Charts / Projections">
-<node CREATED="1572736941182" FOLDED="true" ID="ID_1468522731" MODIFIED="1575495800678">
+<node CREATED="1572736905999" FOLDED="true" ID="ID_158440117" MODIFIED="1575577747490" TEXT="5.06 Maps and Charts / Projections">
+<node CREATED="1572736941182" FOLDED="true" ID="ID_1468522731" MODIFIED="1575577747482">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6917,7 +6918,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573240693929" FOLDED="true" ID="ID_1448361304" MODIFIED="1573248075403">
+<node CREATED="1573240693929" FOLDED="true" ID="ID_1448361304" MODIFIED="1575577747457">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9952,7 +9953,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1575510903892" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1575580752000" POSITION="left" TEXT="SAMRA">
 <node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1575502052602" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1575405562722">
 <richcontent TYPE="NODE"><html>
@@ -13303,8 +13304,8 @@
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
 <icon BUILTIN="closed"/>
 </node>
-<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1575510903892" TEXT="Radio Communication and Navigation Aids">
-<node CREATED="1573764157635" FOLDED="true" ID="ID_1495037692" MODIFIED="1575506399846">
+<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1575580751999" TEXT="Radio Communication and Navigation Aids">
+<node CREATED="1573764157635" FOLDED="true" ID="ID_1495037692" MODIFIED="1575580751966">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13341,7 +13342,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1575493316375" FOLDED="true" ID="ID_748154109" MODIFIED="1575503168161">
+<node CREATED="1575493316375" FOLDED="true" ID="ID_748154109" MODIFIED="1575580751963">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13449,7 +13450,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1575497210888" ID="ID_1606388291" MODIFIED="1575499233158">
+<node CREATED="1575497210888" ID="ID_1606388291" MODIFIED="1575574038908">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13529,11 +13530,15 @@
           <li>
             higher refraction for lower frequencies
           </li>
+          <li>
+            higher refraction for lower shoreline angles
+          </li>
         </ul>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1575501687598" ID="ID_1632205735" MODIFIED="1575501904719">
 <richcontent TYPE="NODE"><html>
@@ -13798,7 +13803,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573764628595" FOLDED="true" ID="ID_1452684835" MODIFIED="1575508531508">
+<node CREATED="1573764628595" FOLDED="true" ID="ID_1452684835" MODIFIED="1575573611479">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13812,10 +13817,10 @@
     </p>
     <ul>
       <li>
-        variable phase 1800RPM
+        Canada 112.0 to 117.95 MHz, 50kHz spacing
       </li>
       <li>
-        reference signal every 360deg
+        variable phase 1800RPM, reference signal every 360deg
       </li>
       <li>
         D [NM] = 1.23 sqrt (h [ft AGL])
@@ -13827,15 +13832,19 @@
         air check tolerance +/-6deg
       </li>
       <li>
+        dual VOR check tolerance +/-4deg (air and ground)
+      </li>
+      <li>
         VOR checkpoint +/-4deg, DME +/-0.5NM
       </li>
       <li>
-        VOR airway +/-3deg
+        VOR airway (published radials) +/-3deg
       </li>
     </ul>
   </body>
-</html></richcontent>
-<node CREATED="1573765666888" ID="ID_1078463134" MODIFIED="1573765811094">
+</html>
+</richcontent>
+<node CREATED="1573765666888" ID="ID_1078463134" MODIFIED="1575569322593">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13852,14 +13861,15 @@
         TTS [min] = T [s] / #Radials
       </li>
       <li>
-        DTS [NM] = GS * TTS [min] / 60
+        DTS [NM] = GS [kts] * TTS [h] = GS [kts] * TTS [min] / 60
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
-<node CREATED="1573765838461" FOLDED="true" ID="ID_674804851" MODIFIED="1575498387330">
+<node CREATED="1573765838461" FOLDED="true" ID="ID_674804851" MODIFIED="1575573922312">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13873,7 +13883,10 @@
     </p>
     <ul>
       <li>
-        190-1750KHz
+        190-1750kHz
+      </li>
+      <li>
+        Canada 190-415kHz and 510-535kHz
       </li>
       <li>
         NDB transmission power
@@ -13890,10 +13903,17 @@
           </li>
         </ul>
       </li>
+      <li>
+        NDB check +/-5deg approach, +/-10deg en route
+      </li>
+      <li>
+        largest shoreline error at less than 30deg
+      </li>
     </ul>
   </body>
-</html></richcontent>
-<node CREATED="1573766225298" ID="ID_500852561" MODIFIED="1573766276157">
+</html>
+</richcontent>
+<node CREATED="1573766225298" ID="ID_500852561" MODIFIED="1575569297845">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13909,13 +13929,17 @@
       <li>
         TTS [min] = T [s] / RB Change
       </li>
+      <li>
+        DTS [NM] = GS [kts] * TTS [h] = GS [kts] * TTS [min] / 60
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1573766472295" ID="ID_1799060410" MODIFIED="1573766482465" TEXT="7.05 TACAN Systems"/>
-<node CREATED="1573766502784" ID="ID_1342315489" MODIFIED="1573766782520">
+<node CREATED="1573766502784" ID="ID_1342315489" MODIFIED="1575574311414">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13935,20 +13959,24 @@
         126 channels, 63MHz spacing
       </li>
       <li>
+        X (one decimal digit) and Y (two decimal digits) channels
+      </li>
+      <li>
         air to ground 1025MHz, ground to air 962MHz
       </li>
       <li>
-        D [NM] = sqrt(S^2 [NM] - H^2 [NM])
+        D [NM] = sqrt(S^2 [NM] - H^2 [NM]) where slant range S, height H
       </li>
       <li>
         tolerance +/-0.5NM or 3% distance, whichever is greater
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1573766804059" ID="ID_740616356" MODIFIED="1573766811122" TEXT="7.07 RNAV"/>
-<node CREATED="1573766821646" ID="ID_1748378733" MODIFIED="1575510892148">
+<node CREATED="1573766821646" FOLDED="true" ID="ID_1748378733" MODIFIED="1575580751968">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13962,28 +13990,49 @@
     </p>
     <ul>
       <li>
-        VHF localizer (2.5deg full deflection)
+        VHF localizer - LOC (2.5deg full deflection)
 
         <ul>
+          <li>
+            1000ft beyond far end of runway in use
+          </li>
+          <li>
+            Canada 108.1 MHz to 111.9 MHz
+          </li>
+          <li>
+            within 3 to 6deg angular width
+          </li>
           <li>
             reliable up to 35deg off and 10NM distance
           </li>
           <li>
             reliable up to 10deg off and 18NM distance
           </li>
+          <li>
+            X identifier: alignment exceeds 3deg RWY HDG
+          </li>
+          <li>
+            I identifier: alignment is within 3deg RWY HDG
+          </li>
         </ul>
       </li>
       <li>
-        UHF glide slope 3deg
-      </li>
-      <li>
-        glide path beam depth 1.4deg (+/-0.7deg)
-      </li>
-      <li>
-        X identifier: localizer front course alignment exceeds 3deg RWY HDG
-      </li>
-      <li>
-        I identifier: localizer back course alignment is within 3deg RWY HDG
+        UHF glide path / slope - GP
+
+        <ul>
+          <li>
+            750ft to 1250ft beyond threshold abeam landing zone
+          </li>
+          <li>
+            Canada 329.3 MHz to 335.0 MHz
+          </li>
+          <li>
+            3deg approach angle
+          </li>
+          <li>
+            beam depth 1.4deg (+/-0.7deg)
+          </li>
+        </ul>
       </li>
       <li>
         CAT I/II/III
@@ -13992,8 +14041,35 @@
   </body>
 </html>
 </richcontent>
+<node CREATED="1575576303490" ID="ID_1660268821" MODIFIED="1575576466661">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      AFCS Caution
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        possible false course capture
+      </li>
+      <li>
+        APR mode only within 18NM and 6deg of LOC
+      </li>
+      <li>
+        crosscheck ADF, RNAV
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1573767489852" FOLDED="true" ID="ID_975583169" MODIFIED="1575498387332">
+</node>
+<node CREATED="1573767489852" FOLDED="true" ID="ID_975583169" MODIFIED="1575572244009">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14069,7 +14145,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573768025279" ID="ID_1770451184" MODIFIED="1573852979583">
+<node CREATED="1573768025279" FOLDED="true" ID="ID_1770451184" MODIFIED="1575580751971">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14094,11 +14170,81 @@
       <li>
         Pre-Departure Clearance (PDC), flight plan equipment code (E3)
       </li>
+      <li>
+        ACARS Management Unit (MU), Communications Management Unit (CMU)
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<node CREATED="1575571240932" ID="ID_1732030884" MODIFIED="1575571403559">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Protocols
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Analog VHF, Plain Old ACARS (POA)
+      </li>
+      <li>
+        VHF Digital Link (VDL), ACARS over AVLC (AOA)
+      </li>
+      <li>
+        HF Data Link (HFDL)
+      </li>
+      <li>
+        Satellite Data Link (SATCOM)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1573768043690" ID="ID_308343974" MODIFIED="1573854645142">
+<node CREATED="1575571662974" ID="ID_1256516987" MODIFIED="1575572339420">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Services
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Digital ATIS (D-ATIS)
+      </li>
+      <li>
+        Pre-Departure Clearance (PDC) aircraft-dispatch-tower
+      </li>
+      <li>
+        Departure Clearance (DCL): aircraft-tower
+      </li>
+      <li>
+        Automatic Dependent Surveillance Contract (ADS-C)
+
+        <ul>
+          <li>
+            position reporting: periodic, demand, event
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1573768043690" FOLDED="true" ID="ID_308343974" MODIFIED="1575580751973">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14138,6 +14284,51 @@
     </ul>
   </body>
 </html></richcontent>
+<node CREATED="1575572576875" ID="ID_1975077926" MODIFIED="1575572858752">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Air Traffic Services Facilities (AFN)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        notification / logon process
+
+        <ul>
+          <li>
+            ATS unit
+          </li>
+          <li>
+            aircraft identification
+          </li>
+          <li>
+            aircraft registration
+          </li>
+          <li>
+            departure and destination aerodromes
+          </li>
+        </ul>
+      </li>
+      <li>
+        current (active) vs. next (standby) data authority
+
+        <ul>
+          <li>
+            automatic transfer / handover
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1573854692769" FOLDED="true" ID="ID_1838919694" MODIFIED="1575508357784">
 <richcontent TYPE="NODE"><html>
@@ -14419,7 +14610,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573856910020" FOLDED="true" ID="ID_735602432" MODIFIED="1575498387338">
+<node CREATED="1573856910020" FOLDED="true" ID="ID_735602432" MODIFIED="1575580751975">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14439,13 +14630,13 @@
         GPS:
       </li>
       <li>
-        24 satellites at 10900 NM altitude
+        24 satellites at 10900 NM altitude (36 in orbit)
       </li>
       <li>
         2 orbits per day
       </li>
       <li>
-        6 orbital planes with 4 satellites per plane
+        6 orbital planes with 4 satellites per plane (55deg)
       </li>
       <li>
         UHF: 1574.42 MHz (L1), 1227.6 MHz (L2)
@@ -14481,12 +14672,13 @@
         accuracy, integrity, continuity, availability
       </li>
       <li>
-        1: time, 2: line / curved range, 3: 2D fix, 4: 3D fix, 5+: RAIM
+        1: time, 2: line / curved range, 3: 2D fix, 4: 3D fix, 5+: RAIM, 6+: FDE
       </li>
     </ul>
   </body>
-</html></richcontent>
-<node CREATED="1573932355344" ID="ID_1572270857" MODIFIED="1573932726550">
+</html>
+</richcontent>
+<node CREATED="1573932355344" ID="ID_1572270857" MODIFIED="1575577825869">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14503,7 +14695,7 @@
         DGPS: ABAS, GBAS, SBAS
       </li>
       <li>
-        ABAS: RAIM
+        ABAS: RAIM, FDE
       </li>
       <li>
         GBAS: LAAS (CAT3C capability)
@@ -14513,7 +14705,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1573928479274" ID="ID_629526416" MODIFIED="1574645482127">
@@ -14574,7 +14767,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568671682779" FOLDED="true" ID="ID_1658639647" MODIFIED="1574624487281" POSITION="right" TEXT="Study Material">
+<node CREATED="1568671682779" FOLDED="true" ID="ID_1658639647" MODIFIED="1575580752004" POSITION="right" TEXT="Study Material">
 <node CREATED="1568671700482" FOLDED="true" ID="ID_217896736" MODIFIED="1574459222970">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -14640,9 +14833,9 @@
 <icon BUILTIN="idea"/>
 </node>
 </node>
-<node CREATED="1568671726237" FOLDED="true" ID="ID_1380778162" MODIFIED="1574619222923" TEXT="TC / NavCanada">
+<node CREATED="1568671726237" FOLDED="true" ID="ID_1380778162" MODIFIED="1575580752001" TEXT="TC / NavCanada">
 <node CREATED="1568671734720" ID="ID_1022674447" MODIFIED="1568671737822" TEXT="AIP"/>
-<node CREATED="1568671740725" FOLDED="true" ID="ID_825659791" MODIFIED="1574106630568" TEXT="AIM">
+<node CREATED="1568671740725" FOLDED="true" ID="ID_825659791" MODIFIED="1575580752000" TEXT="AIM">
 <icon BUILTIN="idea"/>
 <node CREATED="1568678096877" ID="ID_494792293" MODIFIED="1568678157624" TEXT="GEN">
 <icon BUILTIN="button_ok"/>
