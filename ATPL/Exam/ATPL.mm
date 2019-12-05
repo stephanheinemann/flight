@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1575508531507" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1575508531507" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1575510903866" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1575510903864" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -2853,8 +2853,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1570129659132" ID="ID_1425881350" MODIFIED="1570130163281">
 <richcontent TYPE="NODE"><html>
@@ -4609,8 +4608,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571261888520" ID="ID_67184243" MODIFIED="1571264039315">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -9954,7 +9952,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1575508531520" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1575510903892" POSITION="left" TEXT="SAMRA">
 <node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1575502052602" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1575405562722">
 <richcontent TYPE="NODE"><html>
@@ -13305,7 +13303,7 @@
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
 <icon BUILTIN="closed"/>
 </node>
-<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1575508531519" TEXT="Radio Communication and Navigation Aids">
+<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1575510903892" TEXT="Radio Communication and Navigation Aids">
 <node CREATED="1573764157635" FOLDED="true" ID="ID_1495037692" MODIFIED="1575506399846">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13376,8 +13374,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1575497198549" ID="ID_1701176666" MODIFIED="1575497266399">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13450,8 +13447,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1575497210888" ID="ID_1606388291" MODIFIED="1575499233158">
 <richcontent TYPE="NODE"><html>
@@ -13537,8 +13533,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1575501687598" ID="ID_1632205735" MODIFIED="1575501904719">
 <richcontent TYPE="NODE"><html>
@@ -13567,8 +13562,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1575499017033" ID="ID_648145629" MODIFIED="1575501490756">
 <richcontent TYPE="NODE"><html>
@@ -13705,8 +13699,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573764536763" FOLDED="true" ID="ID_395794237" MODIFIED="1575506196855">
@@ -13767,8 +13760,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1575504784874" ID="ID_510308510" MODIFIED="1575505439119">
 <richcontent TYPE="NODE"><html>
@@ -13803,8 +13795,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1573764628595" FOLDED="true" ID="ID_1452684835" MODIFIED="1575508531508">
@@ -13843,8 +13834,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573765666888" ID="ID_1078463134" MODIFIED="1573765811094">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13958,7 +13948,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1573766804059" ID="ID_740616356" MODIFIED="1573766811122" TEXT="7.07 RNAV"/>
-<node CREATED="1573766821646" ID="ID_1748378733" MODIFIED="1575508471578">
+<node CREATED="1573766821646" ID="ID_1748378733" MODIFIED="1575510892148">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13988,6 +13978,12 @@
       </li>
       <li>
         glide path beam depth 1.4deg (+/-0.7deg)
+      </li>
+      <li>
+        X identifier: localizer front course alignment exceeds 3deg RWY HDG
+      </li>
+      <li>
+        I identifier: localizer back course alignment is within 3deg RWY HDG
       </li>
       <li>
         CAT I/II/III
