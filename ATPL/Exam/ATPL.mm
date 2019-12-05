@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1575506230567" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1575503194149" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1575508531507" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1575508531507" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -2333,7 +2333,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1575495777612" TEXT="1.19 IFR Flight">
+<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1575508362207" TEXT="1.19 IFR Flight">
 <node CREATED="1569972903894" ID="ID_1927607732" MODIFIED="1575316027430">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2554,7 +2554,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569978569428" FOLDED="true" ID="ID_1973426945" MODIFIED="1574114338839">
+<node CREATED="1569978569428" FOLDED="true" ID="ID_1973426945" MODIFIED="1575508362191">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2763,7 +2763,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1570128169387" FOLDED="true" ID="ID_377019714" MODIFIED="1575495751614">
+<node CREATED="1570128169387" FOLDED="true" ID="ID_377019714" MODIFIED="1575508531491">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2820,7 +2820,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1570129141480" ID="ID_788719889" MODIFIED="1570129579498">
+<node CREATED="1570129141480" ID="ID_788719889" MODIFIED="1575507702644">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2841,6 +2841,9 @@
             VHF airways: 4NM wide from centerline (8NM), 4.5deg from fix beyond width intersection
           </li>
           <li>
+            VOR airway accuracy +/-3deg
+          </li>
+          <li>
             LF/MF airways: 4.34NM wide from centerline (8.68NM), 5deg from fix beyond width intersection
           </li>
         </ul>
@@ -2850,7 +2853,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1570129659132" ID="ID_1425881350" MODIFIED="1570130163281">
 <richcontent TYPE="NODE"><html>
@@ -5066,7 +5070,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568173515599" FOLDED="true" ID="ID_228371769" MODIFIED="1575506230566" TEXT="Instruments">
+<node CREATED="1568173515599" FOLDED="true" ID="ID_228371769" MODIFIED="1575508355502" TEXT="Instruments">
 <node CREATED="1571427682321" ID="ID_452501545" MODIFIED="1571427696475" TEXT="3.01 Pitot Static System"/>
 <node CREATED="1571427847687" FOLDED="true" ID="ID_597355976" MODIFIED="1571428362967" TEXT="3.02 Airspeed Indicator">
 <node CREATED="1571428317400" ID="ID_1249929966" MODIFIED="1571428358882">
@@ -5164,7 +5168,7 @@
 </node>
 </node>
 <node CREATED="1571431083099" ID="ID_1042975001" MODIFIED="1571431091660" TEXT="3.04 Vertical Speed Indicator"/>
-<node CREATED="1571431240857" FOLDED="true" ID="ID_148193878" MODIFIED="1575506230563" TEXT="3.05 Altimeter">
+<node CREATED="1571431240857" FOLDED="true" ID="ID_148193878" MODIFIED="1575508355498" TEXT="3.05 Altimeter">
 <node CREATED="1571431330523" ID="ID_4045659" MODIFIED="1571434385661">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6020,7 +6024,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173570034" FOLDED="true" ID="ID_1285060949" MODIFIED="1575495800689" TEXT="Navigation">
+<node CREATED="1568173570034" FOLDED="true" ID="ID_1285060949" MODIFIED="1575507726487" TEXT="Navigation">
 <node CREATED="1572722855252" ID="ID_1252294476" MODIFIED="1572722864170" TEXT="5.01 Basic Navigation Concepts"/>
 <node CREATED="1572723482390" FOLDED="true" ID="ID_787148057" MODIFIED="1573082487386" TEXT="5.02 Navigation Calculations">
 <node CREATED="1572727356484" ID="ID_590399689" MODIFIED="1572727496625">
@@ -9950,7 +9954,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1575506399860" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1575508531520" POSITION="left" TEXT="SAMRA">
 <node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1575502052602" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1575405562722">
 <richcontent TYPE="NODE"><html>
@@ -13301,7 +13305,7 @@
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
 <icon BUILTIN="closed"/>
 </node>
-<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1575506399859" TEXT="Radio Communication and Navigation Aids">
+<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1575508531519" TEXT="Radio Communication and Navigation Aids">
 <node CREATED="1573764157635" FOLDED="true" ID="ID_1495037692" MODIFIED="1575506399846">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13803,7 +13807,7 @@
 </richcontent>
 </node>
 </node>
-<node CREATED="1573764628595" FOLDED="true" ID="ID_1452684835" MODIFIED="1575502052613">
+<node CREATED="1573764628595" FOLDED="true" ID="ID_1452684835" MODIFIED="1575508531508">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13834,9 +13838,13 @@
       <li>
         VOR checkpoint +/-4deg, DME +/-0.5NM
       </li>
+      <li>
+        VOR airway +/-3deg
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1573765666888" ID="ID_1078463134" MODIFIED="1573765811094">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13950,7 +13958,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1573766804059" ID="ID_740616356" MODIFIED="1573766811122" TEXT="7.07 RNAV"/>
-<node CREATED="1573766821646" ID="ID_1748378733" MODIFIED="1573767345705">
+<node CREATED="1573766821646" ID="ID_1748378733" MODIFIED="1575508471578">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13979,11 +13987,15 @@
         UHF glide slope 3deg
       </li>
       <li>
+        glide path beam depth 1.4deg (+/-0.7deg)
+      </li>
+      <li>
         CAT I/II/III
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1573767489852" FOLDED="true" ID="ID_975583169" MODIFIED="1575498387332">
 <richcontent TYPE="NODE"><html>
@@ -14131,7 +14143,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573854692769" FOLDED="true" ID="ID_1838919694" MODIFIED="1575498387337">
+<node CREATED="1573854692769" FOLDED="true" ID="ID_1838919694" MODIFIED="1575508357784">
 <richcontent TYPE="NODE"><html>
   <head>
     
