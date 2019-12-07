@@ -1,0 +1,60 @@
+1) What would make indicated altitude lower in relation to true altitude? Warm or cold air, dense air, etc…
+2) “Pick the best list” of things relating to the 406 ELT.
+3) PIREP with the location as a radial/DME. Asked you to pick the best answer. Options were “PIREP was reported at Radial/DME” and “Occurred at Radial/DME”. 
+4) Stormscope detects:
+	a) turbulence in cloud, b) turbulence in rain, c) lightening, d) all
+5) Factors that affect radio reception for VHF/LF. For VHF I picked altitude. For LF I picked Ionosphere. The other option for LF had power and something else…
+6) What type of air mass  and wind would produce fog over coastal waters, not on land. Answers have offshore winds and onshore winds plus cold/dry air mass and warm/moist airmass.1
+7) Question about tailwind component on flightplan to the alternate, and how much fuel would be remaining at the destination.
+8) Night VFR fuel calculation, how much fuel needed for a turboprop.
+9) Classic radar reflectivity. Doesn’t ask for the order but gives a list to pick the most reflective. Answer is rain. Has hail as an option, but not wet hail.
+10) What type of electromagnetic waves have the best range: VHF/UHF/etc…
+11) Low level airway width.
+12) “Pick the best list” of characteristics of HF comms. I got the freq range incorrect.
+13) DME charactersics. Answer has paired pulses in it.
+14) RMI question. Heading is 180, magnetic bearing is 240, what is the heading you need to turn to if you want to intercept the 180 radial outbound.
+15) How RAIM works; does it detect satellite outages/faults or does it correct/compensate for it.
+16) Does RAIM have fault detection capabilities?
+17) Components of EFIS.
+18) Radalt doesn’t work, which system does if affect? GPWS.
+19) If you’re planning to conduct GNSS approaches at your destination and alternate… Answer is that they have to be 100nm apart.
+20) Experience moderate rain and trying to detect CB’s. Answer is adjusting the gain. They have an answer about a contouring feature.
+21) Tricky worded question about being above the freezing level AND detecting CB’s while flying at 30K. How far to avoid the cells? I picked 10NM. Other answers were 5 and 20, 30NM,
+22) MLAT uses…
+23) Pick what ADSB DOES NOT do: crew monitoring, ATC real time, weather info, collision alerts/advisories.
+24) Tricky worded question about differences/capabilities of different types of TCAS. I recall it said something to do with conflict avoidance for TCAS I.
+25) SSB
+26) IFR Outlook: cig less than 1000ft and vis less than 3sm. I picked “and/or”.
+27) What is a contour line.
+28) “Pick the best list” to do with LWIS. What it provides, can’t be used for alternate, etc..
+29) What type of clouds does drizzle and freezing drizzle form in.
+30) Definition of squall line.
+31) Names of the fronts associated with weather masses in Canada.
+32) List conditions needed for a low level nocturnal jet.
+33) Where would CAT be worst around a jet stream.
+34) Where is a SLCC located on mountain waves? Answer is below the crest.
+35) Conditions needed for radiation fog.
+36) 2 questions on how clouds are formed during warm and cold fronts. Answers both have to do with expansional cooling. 
+37) What does VIRGA indicate.
+38) Something to do with saturated air condensing with reference to humidity.
+39) Wind is blowing 30 degrees across isobars at the surface at 20 kts. What would it be at 3K? answers have a variety of angles including 20 degrees and 30 kts. I picked 0 degrees and 30 kts.
+40) Question asked what was the height of a high pressure system just west of Rankin. Look at both the 250 anal to get the altitude in meters, and look at the GFA.
+41) When is RIME icing most likely to occur: cloud type and temp range.
+42) Various questions about temp ranges of a variety of icing. Including one about cumulus and convective clouds, ie. most likely form of ice.
+43) 500 kts to prevent airframe icing.
+44) Classic question about affects on an aircrafts speed/AOA during downdraft.
+45) GFA: identify why an airport is experiencing turbulence: LLJ.
+46) Flight from Vancouver to Alaska, identify the type of icing and turbulence.
+47) When is a flightplan not required. Answers are military airfield/US/etc…
+48) Definition of Eye to Wheel height: on ground, on approach at VRef (I picked), level flight, etc…
+49) Two “pick the best list” questions about VASIS. Study up!
+50) Frequencies used at night using an ADF/NDB – use lower frequency.
+51) What does ATC see from your mode C: indicated, pressure, density, true altitude.
+52) What does the TROWAL symbol on a GFA look like.
+53) What do you do if you fly in to a thunderstorm.
+54) Pick the true statement from a list of PIREPS. Don’t confuse “RM” aka remarks, with “RIME”, as this is one of the answers. I picked the answer to do with the lowest base of cloud.
+
+Pay attention in the met practical questions to wording. Sometimes you will need to refer to both the GFA’s and the Analysis. A few tricky questions about picking the airport that WILL experience the worst icing during a forecast period. 2 airports are similar, Fort Mac and Lynn Lake.  Calgary was another option. Fort Mac was worse at the time and the system seemed to be moving towards Lynn Lake. I picked Lynn Lake. METAR and TAF questions were fairly easy.
+
+No questions on: Critical Point, Satellite weather interpretation, NATMNPS or CMNPS.
+

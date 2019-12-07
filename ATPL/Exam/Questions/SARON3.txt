@@ -1,0 +1,127 @@
+1. You are on approach and 40KT HEAD WIND turns into 5KT HEADWIND what power adjustments must be made?
+ 
+2. The bottom of the wing forms grain of ice with a diameter of 0.15-0.30 what affect does it have on lift and on the 2nd climb segment?
+Ans: No affect on lift but performance is degraded in 2nd climb segment due increased drag.
+ 
+3. ATC TRAFFIC IS BASED ON- OPTIONS:
+All known traffic
+ 
+4. When does a person receive a Company manual:
+Should be available to him when he is unable to contact to company ops
+Should be available to him onboard the a/c
+When a first is initially hired
+ 
+5. No person shall conduct T/O landing in a built up area unless?
+500ft obstacle clearance is assured on approach
+at airport or military aerodrome
+ 
+6. You are in IFR a/d in VMC and you have COMM Failure and your squawk 7600?
+Remain VFR and land at the nearest suitable airport
+Leave controlled airspace and land as soon as possible
+ 
+7. You have filed an IFR flight plan and fail to take off after 60 minutes?
+The ATC will initiate SAR after 60 min
+ 
+8. Class C airspace closes:
+Class E controlled
+ 
+9. Approach slope indicator system safe obstruction clearance is?
+6 degrees /4 NM
+ 
+10. Question regarding fire detection the exact answer was:
+Eutectic salt when heated results in the cores resistance dropping allowing current to flow that is sensed as fire.
+ 
+11. Compressor Stall:
+ITT INC, ITT DECR, OIL TEMP INCR, N1 INC, N1 DECR, FF INCR, SURGE,  (IN THE 2 CLOSE COMBINATIONS YOU HAD TO CHOOSE
+BETWEEN N1 DECREASE & FF INCREASE)
+ 
+12. 42 year old crew in 2 crew aircraft in commercial air service has a medical validity of?
+12 months
+ 
+13. You have received a climb clearance to FL350 ?
+Promptly climb at best rate of climb
+ 
+14. Time of useful consciousness at FL400? 15 - 30 sec
+15. Class F airspace marked as CYA?
+Not encouraged but can be entered at pilots discretion
+ 
+16. V2 is the speed?
+Minimum speed that must be achieved before climbing
+ 
+17. V1 speed?
+Abort speed or if you continue you will reach 35 feet by Dep End of Rwy.
+ 
+18. Calculate ROD required if you are descending from 18000 – 10000 at a speed of 250 kts within a distance of 20 NM: ANS 1700
+ 
+19. Simple weight shift W 116000 lbs, CG Shift was 1.5” and you had to calculate weight of baggage needed to be shifted from forward hold to aft hold and shift distance was 504 inches the correct answer was 346 lbs.
+ 
+20. TCAS question = Do the action and return inform ATC
+There was one incorrect answer pretty similarly worded in which you preformed the RA action remained at the new position and inform ATC.
+ 
+21. Flying from Canada to Mexico:
+i. ICAO flight plan
+ii. ICAO for commercial a/c only
+iii. ICAO for commercial and itinerary for S.E aircrafts
+ 
+22. What flight level will you choose: FL310 or FL350 on a westbound flight with wind 27050 Answer was FL 310 SGR – 0.28 NM/LB
+23. Hydroplanning question and the answer was Dynamic hydroplaning
+24. TODA = Runway + Clearway
+25. High altitude training is required above 13000’
+26. After OCT 1991 a multi-engine aircraft with more than 10 pax requires?
+a. CVR only
+b. FDR only
+c. CVR & FDR
+ 
+27. What happens when you make a quick head movement during a constant rate turn that has ceased?
+Answer was: Coriolis illusion
+ 
+28. In clouds and you notice airspeed has dropped to 0?
+Pitot blocked but drain hole is open
+ 
+29. Large aircraft? = 5700 kg
+30. RVR A? = Touchdown zone visibility
+31. Compress bypass? = To prevent compressor surge
+32. Smokers are more susceptible to hypoxia because?
+There is more nicotine in their lungs
+Oxygen carrying capacity of is reduced in their lungs
+ 
+33. Calculate CG % MAC: pretty simple answer was 22.1%
+34. Fuel required for a Turbojet a/c on IFR flight plan: climb, cruise descent, alternate approach and landing, plus 30 min plus delays
+35. Journey log: enough entries to ensure an unbroken chain
+36. You are flying uncontrolled airspace and landing at an uncontrolled airport you should broadcast your position: ANS:126.7 and then on MF
+37. Aircraft de-iced with type 2 & 4 fluids? Ans: Should be restricted to a/c with a VR greater than 100 kts
+38. How long will ATC protect the alternate aerodrome for an aircraft with a COMM failure?
+39. Privileges of an ATPL?
+40. Flight Control Locks: Ans: unmistakable warning when lock engaged
+41. What type of flights are permitted when altitude alert is unserviceable?
+42. How long after receiving extensive dental treatment, local anesthesia?
+43. To avoid damage to ears drums:
+Clear the ears during descent or climb
+Use nasal decongestant or spray when flying with a cold
+44. During Descent at a constant TAS what happens to Mach and IAS?
+45. Forest Fire?
+46. Movement Area?
+47. Holding speed below 14000 but above 6000?
+48. Position reporting in NCA on a north – south track
+49. If you don’t have an alternate aerodrome within 60 minutes s.e. cruise – ETOPs simple definition in the question.
+50. A Foreign airworthiness directive which affect a Canadian registered a/c does it first have to be approved by Transport Canada or is it applicable to a foreign built aircraft.
+51. Graph on buffet margin where you had to start off with Bank angle 0, a/c weight 160,000 FL400 2 more factors cant remember answer was: 0.744 and 0.85
+52. Another graph that we discussed in class: LRC Chart; regarding the bold line running through the figures, simple graph where a/c weight was 238000 and you could get cruise performance like between; weight range was 230-240 against cruising level: FF/EPR/N1/ITT it was left of the bold line so:  you had to figure what time you would reduce power; TOC time was 0845 F/F was 3770 per engine.
+Answers were 0917, 0932, 0945, 1045
+53. Question discussed in class regarding mode awareness; what is mode awareness?
+54. Shock wave; Ans: Pressure / Temp Increase & Velocity decrease
+55. What does CRFI 0.3 mean?
+-Increase landing distance by 30%
+-Runway friction value from 0 to 1 representing xxx
+-2 other answers I cant remember
+56. Can a pilot perform elementary Maintenance on an aircraft?
+ANS: has to be approved and trained by company
+57. In Beta range the Power Levers control the Blade angle and Fuel
+58. CRFI 0.35 wind direction 2800 runway 24 what is the maximum wind? Ans: 20 kts
+59. LRC graph as in the work book pretty simple
+60. What is the advantage of lightning detection equipment? Ans: can detect Wx behind mountain
+61. Low energy regime?
+Ans: Aircraft can successfully go-around after ground contact.
+62. A precautionary engine shutdown in flight will constitute as? Ans: 2 answers 1 regarding Accident other regarding Incident – cant remember the wordings (simple)
+63. When flying a GPS overlay approach are you required to monitor the underlying NAVAIDs? Ans: not unless specifically stated in AFM or AFM supplement.
+

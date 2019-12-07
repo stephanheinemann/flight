@@ -1,0 +1,48 @@
+1. Aerodynamic heating is 500kts to... prevent icing
+2. Large super cooled water droplets are found... Lower levels of cloud in unstable air where temps are few degrees below zero
+3. As frequency increases what happens to attenuation? ( Attenuation increase and reception distance decrease)
+4. What is the lowest reception distance of a VOR ( use the reception range formula to get the answer, think it was 50nm ...... 1500ft.)
+5. High cumulus clouds has rain falling from it. What does that mean ( dry microburst. )
+6.worst turbulence for mountain wave (rotor cloud and below)
+7. ILS localizer full scale deflection ... Both sides of center (5 degrees)
+8. What's a volmet (taf,metatarsals, sigmets on frequency found in CFS)
+9. What gives you greatest radar returns ( wet hail, rain, wet snow.... The answer was rain there was no option for wet hail)
+10. Vertical distance between two specific pressure levels. ( In cold air due to its increased density.. the air pressure will be greater with height)
+11. What happens to A of A and lift at position 3... Like the slide... ( Both decreases)
+12. That sun up.. frequency up question.Â 
+13. In the northern hemisphere the frontal system tends to move..(parallel with the warm sector isobars)
+14. During flight in the lower levels towards warm from you notice precipitation changes from steady rain to showers what does this mean(warm air is moist and unstable )
+15. The airport your landing at is saying there's ice pellets and snow you can expect ( moderate icing and freezing rain on approach)
+16. Hooks and fingers on wx radar(possible tornado
+17.on GFA it had a low level jet. I said it was from a nocturnals jet stream. Not sure if I got it wrong I had 2 "decode a GFA" on my exams..... ðŸ˜‚ But know where nocturnals jets come on GFA
+18. Ads-b. I got it wrong. It was asking to state the false statement. .....
+19. Gps overlay approach and standalone GPS. (Don't have to monitor for overlay, and NAV aid doesn't have to be working)
+20. What is waas?
+21. Under what conditions will fog form off the coast of Canada over ocean but not land...(cold dry airmass with off shore flow)
+22. What happens to the ground wave as frequency increases.Â 
+23. Nat tracks reporting... 10degrees of long south of 75degrrees north latitude.Â 
+24. What's mlat ( based off transponder)
+25. Explains ADF coastal effectÂ 
+26. Doing approach with an alt setting higher than 31.00 " hg. ( 100ft and 1/4 sm for every 0.1)
+27. Warm fronts found in Canada during summer
+28. Warm fronts found in Canada during winter.Â 
+28. Question about cold frontal weather.. you notice cumulus clouds... What do you expect ( if the frontal surface is steep( rapidly moving cold front) and no areas of vert development.... The warm airmass has a low relative humidity...))
+29. What's density altitude.(pressure alt and oat)
+30. Aircraft equipment for NAT MNPS( 2 long range NAV)
+31. Most turb with mountain wave?( Rotor cloud and below)
+32.lenticular clouds form where?( Wave crest)
+33. Effect a tail wind will have on critical point (cp moves in direction the wind is coming from... So from departure it will be closer to departure airport)
+34. Constant pressure chart, the contour or altitude gradient can be considered as the (slope of the pressure surface)
+35. Describe anabatic wind ( day time heating upslops)
+36. Gas transforms directly to a solid (deposition)
+37. In early spring fog forms on vicinity of Toronto ...the air mass responsible...(I said mT)
+38. Fog over threshold (slant vis is greater than RVR)
+39. You are at and airport which experience the passage of a cold front in early afternoon.... Shortly after the skies clear. What happens to temp during next 12 hours ( temp increase then decrease)
+40. It's raining outside your plane. ..... And asked you why the wx radar doesn't work well (attenuation)
+41. How to know when dissipation stage of thunderstorm.. I got it wrong.Â  It said 1) presence of a roll cloud 2) there a presence of down drafts through the bottom not the top...????)
+
+What's cockpit management system.?
+
+Also had a IR satellite image ... And asked you what the clouds where like at a specific point. It had a hurricane in the photo and asked what the clouds where like... Sorta outside the very edge of it.. so I said high cirrus cloud.Â 
+
+Also the questions and jet stream clouds... So got me thinking..... :P I have no idea where or how or what types. So I guessed whispy clouds. And that jet streams from in breaks of the troposphere. Not sure if I got those right or wrong. (They were 2 different questions)

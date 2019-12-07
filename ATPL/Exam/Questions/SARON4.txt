@@ -1,0 +1,114 @@
+SARON 007 (March 2016)
+
+Passed with 83%
+
+Bolded answers were correct, otherwise unknown answer
+
+-Extreme cold weather conditions, operating IFR
+-add 1,000’
+-add 2,000’
+-Aircraft without oxygen can operate to a maximum altitude of
+-10,000
+-12,500
+-13,000
+-Airline ops maintaining currency ??? in 90 days
+-3 take offs and landings and 1 sector, or 5 sectors
+-5 take offs and landings at night
+-CVR FDR with no MEL
+-90 days
+-Precipitation falling on a cold soaked wing
+-clear ice
+-rime ice
+-melt
+-melt
+-Takeoff safety speed is defined as
+-V2
+-Question asking to define beta range
+-2 questionable answers
+-1 regarding it controlling the range and trim of a turbo prop engine
+-receives input and metering from FCU
+-ASI shows 0
+-blocked pitot tube, vent and static clean
+-blocked vent
+-blocked static
+-Dynamic hydroplaning
+- high speed - water deeper than tread depth
+-low speed - water deeper than tread depth
+-low speed - thin layer of water (Viscus)
+-something to do with reverted rubber (reverted rubber)
+-An aircraft sprayed with Type II or Type IV that would make an undesirable surface condition on rotation TRICK, they want you to pick VR over 100, but it is the usual question in reverse.
+-VR 85 or less
+-VR 100 or less
+-VR greater than 100
+-Factored landing distance for commuter propeller
+-60%
+-70%
+-80%
+-90%
+-Preventing beta in flight
+-
+-in the climb, IAS remains constant and TAS, while MACH
+-increases, increases
+-Winglets increase
+-induced drag
+-form drag
+-parasite drag
+-profile drag
+-ARCAL on approach
+-lights will stay on
+-lights will remain on for 15 minutes once re-keyed
+-rekey lights on final approach
+-Decent and approach intentions when arriving at a uncontrolled airport
+-contact MF
+-123.2
+-123.45
+-broadcast intentions on 126.7, and then the MF
+-Sweptback wings improve
+-longitudinal stability
+-lat stability
+-Tail plane icing can
+-occur at high speeds
+-Hung start is defined as
+-not reaching fast enough RPM to maintain IDLE
+-Blowing snow at an airport is
+-whiteout conditions (incorrect)
+-Taxiing in low visibility conditions (below airport level of service)
+-Can continue taxi if already started taxiing
+-Cannot taxi
+-Setting local altimeter when in the Standard pressure region
+-when leaving lowest assigned holding altitude
+-just prior to level off
+-final descent for landing
+-Medical validity for 42 year old ATPL holder
+-ATPL holder with expired instrument rating can operate
+-Pic or co pilot of a large aircraft
+-PIC or co pilot less than 5,700 kg
+-PIC any aircraft
+-co-pilot any aircraft
+-Shown a primary flight display in a severe nose down banked attitude, identify this portion of the TEM
+-a threat
+-an error
+-undesirable attitude
+-
+-Transport Category life preservers but no life rafts range question
+-TOC at 20,000
+-5-12 minutes
+-Define ASDA
+-Define TODA
+-Define TORA
+-Given runway length, stop way and clearway, select the correct answer for TORA and TODA
+-Fuel float gages work based
+-volume corrected for temperature
+-volume not corrected for temperature
+-weight corrected for temperature
+-weight not corrected for temperature
+-Crosswind calculation. Given runway, wind, max crosswind component and CFRI calculate the max wind the aircraft can accept
+-Calculating the max wind = 36 (trick!)
+-Using the CFRI as a limiting factor, the correct answer is quite a bit lower (12-14)
+-Take-off performance ASDA chart
+-Calculate EPR - trick in the notes, add 0.03 for no anti-ice, minus 0.01 for gravel ON
+-Calculate mach low-high
+-Given Mach speed in cruise, and wind conditions, find leg time for 150 NM?
+-need to use the temperature to find the local speed of sound, convert to TAS, use wind to convert to G/S, use groundspeed to find time
+-Payload question using a chart of weights and a W/B chart. *TRICK*, ZFW limited, select smaller answer
+

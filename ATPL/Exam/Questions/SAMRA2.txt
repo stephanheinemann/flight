@@ -1,0 +1,68 @@
+Q: decrease of rate with height of the pressure surface is less?
+A: in warm air
+Q: Then a vertical height between pressure levels (but worded weird)
+A: less in cold air
+ Q: The tropopause is
+A: Higher and colder above warm air
+Q: Your at FL280 and its -48C what is the ISA temp?
+A: ISA -8C (I know it's not technically right but it was the closest answer other answers were -11C, +8C, +6C)
+Q: Coriolis force
+A: Rotation of the Earth
+Q: A descending parcel of air....
+A: compresses (more to the answer but it was pretty easy to guess)
+Q: Frontal fog develops?
+A: In front of a warm front
+Q: 250hpa pressure level corresponds to...
+A: FL340
+Q: Def of density altitude
+A: pressure alt and OAT
+Q: an Aircrafts indicated altitude is lower than it's true altitude.
+A: when the air is warmer than indicated
+Q: virga means?
+A: dry micro burst
+
+3 jet stream questions
+3 fog questions (one was weirdly worded...something like. Extensive fog forms over Eastern North America in April. What Air mass is responsible? Answer is cA.
+Next fog questions was fog forms over water but not land what is responsible? Answer is dry cold air mass and offshore flow.
+Other one was fog over the threshold? Answer was slant visibility greater than RVR
+2 Radiation Fog questions
+Question about: Mature wave of a front moves parallel to the isobars in the warm sector.
+Q: If your descending into an airport and its reporting Ice Pellets and show what do you expect on descent?
+A: freezing rain, moderate icing
+Q: daytime wind blows up a slope?
+A: Anabatic
+Q: supercooled droplet...
+A: increase with height if temps right below 0
+Q:Dissapating stage of a thunderstorm?
+A: downdrafts throughout  while cell except the top
+Q: Aerodynamic heating
+A: airspeed has to be at least 500kts to prevent icing
+A couple mountain wave questions. Where are lenticular clouds? Answer Top of wave crest
+Where is worst turbulence? Answer is Rotor clouds and below
+Q: on a constant pressure  chart contour or altitude gradient is?
+A: Slope.of pressure surface
+There was a CAT question. Where to find it? Had to pick from a bunch
+A couple GFA questions pretty easy to decipher.
+
+I got the decode a pirep wrong of course. Not sure why
+
+ WAFC sig wx chart. Why does jet stream change direction? Answer is around a low
+
+Wx radar question: what does the hook mean. Answer is Possible tornado
+
+Question about micro burst: position C (same as slide) AoA and lift Decrease.
+
+2 GPS questions: 1 overlay and one raim?
+
+TCAS question. They ask about TCAS II (but call it ACAS tricky tricky). And its answer is can give you TAs and RAs.
+
+Q: What give greatest echo on wx radar?
+A: Rain (gives you other answers snow, wet snow and hail)
+
+Q: why is it hard to show embedded CBs when flying in cloud and heavy precip?
+A: Attenuation
+
+Critical point question: what will and increase in tailwind do? Answer distance will be closer to departure point.
+
+Q: Natmnps question
+A: need 2 long range navigation systems.

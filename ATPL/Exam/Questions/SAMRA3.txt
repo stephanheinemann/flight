@@ -1,0 +1,76 @@
+1. On chart for standard isobaric surface such as 250 mbs charts, 30kts isotachs, spaced closer than 90NM :indicate sufficient horizontal shear for CAT.
+2. Jet stream turbulence-CAT is just above the central core of the jet stream,near the polar tropopause and just below the core,stronger in the south in winter, stronger in the north in summer。
+3. When entry TS，Don't turn back , slow down to maneuvering speed.
+4. Prognostic chart :the key word is for future weather.
+5. In a high pressure air is: diverging and Subsiding .
+6. CA air move to great lake: Steam fog
+7. In international standard atmosphere , FL250the temp is：-35°
+8. Common fronts in Canada in the Summer are: Maritime Artic + Maritime Polar
+9. Clear ice ,the catch of rate is: High , and Large droplet
+10. Heading to a warm front, you encounter SN, RA, what's next: Freezing rain is above you.
+11. Fly in cold air at -25° descend to an warm airport which at 5°-10°，what will you get: Frost/Ice form on the fuel tank. (Hoar frost)
+12. SteamFog: Raising dewpoint to temperature.
+13. In the northern hemispheric,frontal systems tend to Parallel with:warm sector Isobar.
+14.TAF，Broken600，what is the cloud at 600ft :5-7 octers.
+15.GFA is valid for: 12 hrs + 12 hrs IFR outlook.
+16. Weather radar: Detect the SIZE of the liquid as the primary factor.
+17. Surface wind report in GFA: More than 20kts
+18. Dry lapse rate for saturated air
+19. Thunderstorm, what is the sign from growing to mature stage：precipitation
+20. What is the range of the TAF：5NM from centre of the airport
+21.What kind of VIS does the AWOS give: fixed sensors looking one direction, the key word is：Sense. (Looks straight up).
+22. An air mass to the Southeast is Warmer, Northwest is Colder, so the wind comes from: The Southwest.
+23. With the same distance, Air pressure change less in cold air than Warm air.
+24. Rotor Cloud: form at downwind side of the mountain and below the peak.
+25. With weather radar scan the: Middle or lower regions of the CB first.
+26. A echo shows up at 90NM: The intensity will decrease as distance increase.
+27. Where can you find most sever turbulence: Polar Side of the tropopause.
+28. Volmet broadcast TAF, METAR, SIGMET, where can you find the information：the list in HF section the CFS.
+29. What is in front of the COLD FRONT ：Squall line.
+30. Theres fog over the ocean, but not on the ground：MOIST AIR, OFF SHORE WIND
+31. The pressure at 35,000' ：250MB
+32. Moist air move westbound: Will form upslope fog.
+33. GFA has 3 Cloud/Weather chart and 3 Ice Icing/Frzlvl/Turb charts.
+34. IFR outlook valid for: additional 12 hrs.
+35. Cold front warm front: evaporation& rain fall from warm air. (Frontal fog)
+36. Common fronts in Canada in the Summer is： MA + MP (Summer no CA)
+37. MircoBurst recognition: Virga
+38. 28. North America air mass in winter: CA, MA, MP
+39. TS dissapating stage: Down Draft
+40. Clear Ice: High catch rate, Large droplet.
+41. TS dissapating stage: Down Drafts
+42. Clear Ice: High catch rate, Large droplet.
+43. Radiation Fog: Radiation Cooling, ground cooling layer of air sitting on surface.
+44. PSR can be used to: Detect weather; SSR need TRANSPONDER, CAN'T DETECT WEATHER.
+45. Flying through the jet stream, temperature decrease, if you want to aviod the jet stream, what should you do: DESCEND.
+46. Rotor cloud is: Lee side of mountain (Downwind)
+47. Air mass going over top of ROCKIES from Pacific will form: Upslope Fog.
+48. Cloud base: Dewpoint and Temp. difference.(Temp-dewpoint x 406)
+49. Jet Stream location: winter South ,summer North
+50. Counter line: a constant pressure slope of a Pressure Surface.
+51. Tropopause: Higher and Colder in tropics.
+52. Aerodynamic de-ice: >500kts to Prevent ICE.
+53. Lenticular Cloud: Found at upwind portion of WAVE CREST .
+54. Jet stream: found most commonly over the Polar and Tropical Break.
+55. Condensation : Release of latent Heat.
+56. Drizzle and FRDZ (what kind of cloud)：Stratus.（has drizzle）
+57. Temp increase, humidity doesn’t change, what changes?：Relative Humidity.
+58. For Virga, what can you know about it: Down Draft, up to 6000'/min.
+59. In the METAR, FEW & SCT cloud: Ceiling is unlimited.
+60. A descending air will be: Compressed because the air in low level is more dense.
+61. Moist, very stable air with mechanical turbulence, what kind of cloud will form: NS SC
+62. SQUALL LINE：choose TCU, CBs.
+63. What's RERA: Recent rain. ( it rained earlier)
+64. What's VCSH. (Showers in vicinity)
+65. Jet stream Most severe turbulence: Polar Side.
+66. The sign TS in mature stage: ONSET of Precipitation.
+67. 'Hooks and fingers' as seen on WX radar indicate....possibility of tornados and hail.
+68. Steam fog - dewpoint raised to temperature.
+69. Cloud and precip associated with a cold front develops by: Warm air that is lifted up the frontal surface and cools by expansion.
+70. Fronts are named: By the speed and direction of the colder air mass.
+71. Tropopause is higher and colder over a warm air mass.
+72. What's stops a column of air from rising: an inversion.
+73. Weather radar tilt shows best at: lower to middle scan first.
+74. OAT after cold front passes: increase then eventually decrease.
+75. Surface winds are not found on GFA unless < 20kts.
+

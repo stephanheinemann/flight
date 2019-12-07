@@ -1,0 +1,367 @@
+1.) the operator, in respect to an aircraft, is: A) the person renting the aircraft B) the leasee C) person in possession of the aircraft
+
+2) class B airspace lies: between 12500 up to but not including 18000
+
+3) it is recommended not to fly after 24 hours of drinking because the alcohol remains in: A)the inner ear, B)outer ear, etc. answer is the inner ear
+
+4) when deicing an airplane, what should be deiced first: A) the tail, B) top of fuselage, C) the surfaces that can be seen from the cockpit
+
+5) no aircraft should be operated below 10000 feet and above 3000 at a speed of: 250 or less
+
+6) what is viscous hydroplaining
+Very thin amount of water, damp surface, neat touch down zones
+
+7) a pilot on a VFR flight plan must revise eta if entering the ADIZ: +- 5 minutes
+
+8.)what does "R25/4000" mean
+
+9) after taking off behind a heavy how do you avoid wake turbulence the most: plan to rotate before the heavy's rotation, and stay above flight path
+
+10) what do vortex generators do?
+Delays boundry layer seperation
+
+11) the worst configuration for wing tip vorticies is a heavy aircraft: low, slow, and clean
+
+12) given a NOTAM with an APPROX.. asks when it will expire.. you are given different dates. It requires a canceling notam
+
+13) which is true about class C airspace: must maintain a listening watch on appropriate ATC unit.
+
+14) going from YVR-YUL and winds veer from the South west to the north west. What is true about your true altitude as you near montreal.. higher? Lower?
+
+15) in an overshoot situation in IMC, what is the tenendency to do: lower the nose
+
+16) what does a machmeter do? Compares your true airspeed to the local speed of sound
+
+17) in beta range, what controls the prop pitch? The power lever through mechanical linkage
+1
+￼
+what stops the prop from going into reverse while flying? A)low pitch stops B) high pitch stops etc..
+
+19) given a map of a trip to Halifax from another small place. You encounter freezing rain while flying at 4000 feet… what do you do? Climb into warmer air aloft
+
+20) given the upper winds chart, asked if the temperature in Winnipeg was close to ISA or not. It was 1 degree above ISA.
+
+21) given the 700-400 mb chart, there were some fronts on the chart, asked what altitude the fronts were at. They were surface fronts because they were filled in black.
+
+22)given a TAF, asked what the visibility was at 0730.. the answer was 2SM with a tempo of 1SM
+
+23) rime ice: has a low catch rate and small droplets
+
+24)what is EPR.
+Turbine discharge total pressure, to compressor inlet pressure
+
+25) you are on a flight that is 3 hours and 4 minutes including a climb of 18 minutes. You are given fuel burns for a climb, cruise, and a hold. You are night VFR. Asks you to calculate the the total fuel required. Have to remember the 45 minutes at night at normal cruise. holding fuel burn is a red herring
+
+26) FL310 or FL350, you are given TAS and winds as well as a fuel burn per hour. Asked to calculate the SGR or SAR. The answer was .28NM SGR.
+SAR = fuel flow / TAS, SGR = fuel flow / GS
+
+27) question about DME. The least difference between ground and slant distance occurs when.. ? - low altitudes far away
+
+28) The take off safety speed is what? V1, V2, Vr, and something else.
+V1=critical engine recognition speed, V2=takeoff safety speed,Vr=rotation speed
+
+29) the take off safety speed is based on….. aircraft accelerating to V1, having an engine failure, etc.. The speed at which the aircraft may safely become airborne with one engine inoperative, after V1
+
+30) you are above your threshold crossing speed when you are landing.. the best way to stop the aircraft as soon as possible is to? - land, push down, brake hard
+
+31) you are in the jetstream and the temperature is contaant.. the best way to avoice turbulence is to? Temp Rise=climb, drop=descent, constant=climb or descent to other flight level.
+
+32) when isotachs are closer than 30NM apart, what does this mean?
+Enough wind shear for clear air turbulence
+If 30kt isotachs are spaced closer together more than 90NM, there is sufficient horizontal shear for CAT
+
+33) calculate the TAS
+
+34) Crititcal point question. Given some info then asked to calculate the ground speed out.
+Dist to CP from A = (total dist from A to B x GS to A from CP)/(GS to A + GS to B)
+
+35) critical point question. Given different info asked to calculate the CP distance
+
+36) Calculate true wind velocity. They give you heading in magnetic and track as magnetic. You are given 14 west variation
+
+37) identify areas where CAT can form
+Above 15,000ft
+
+38) what affects wx radar the most? The answer was drop size
+
+39) with an eye to wheel height of more than 25 feet, you would use the upwind bar on a vasis and??? The middle
+
+40) question to move some weight because the a/c is out of balance
+Weight to move / aircraft gross weight = CG required to move / dif between arms
+
+41) given an accelerate go chart. you are given a runway (25) and the winds for the runway which were 290 at 40 . You have to use the cross wind chart as well to calculate the headwind component, which was around 22 knots. You are given a temp of 20 degrees, the runway elevation is 1500 feet and the altimeter is 29.92. you are asked to find the max allowable take off weight. The answer was 11,500
+
+42) type II and IV fluids are bad for which types of aircraft? Those with a rotation speed of 100 knots or less.
+
+43) you are flying along in -20 temperautre.. you land at an airport for a short stop that has a temp of 10 and a dewpoint of 9. what will occur? You will get frost on the portion of the wing that overlies the fuel tanks.
+
+What is negative torque sensing?
+-prevents overspeed
+
+Balanced field length. Definition.
+-shortest distance a aircraft can accelerate to V1, have critical eng fail, climb to V2 at 35 ft, or reject takeoff and stop safely
+Balanced field takeoff=the accelerate-stop dist required is equal to the takeoff distance required
+Balanced field length=the shortest field length at which a balanced field takeoff can be performed
+
+IFR procedures for altimeter setting above 31.00.
+AIM RAC 12.12.2
+
+How does GPS calculate position?
+-triangluating position with satellites
+
+What is virga?
+- is precipitation that falls from a cloud but evaporates before reaching the ground
+
+1. how do u go over the checklist when inturpted in the cockpit..... choices were like , silently while other crew member take cares of the intereption, when the checlist is in ur hand, chklist in in its normal position
+all checks or drills once initial shall be carried out in the sequence that they are listed until complete. No items may be deleted nor the order be altered. If it is necessary to interrupt a check or drill, the person saying Challenge or Action shall indicate the item tgat the check is being held at by stating “holding at (item)”. Should the crew lose track of the progress of the check then the check must be re-started from the beginning or commenced from last item known to be completed.
+
+2. airborne weather radar ... how does airborn weather radar detech thnderstorm and lightning while you are in cloud ... choices were ... cant due to attenuation, scan above the rain, cant due to precipt between the radome and cloud,
+moisture in relatively close proximity to the aircraft can scatter the radar beams. This problem is called attenuation, means that heavy rain areas can block out a radar return from significant weather that lies beyond. Moisture and ice on the radome installation on the nose of the aircraft can diminish the radar signal.
+
+3. who is respobsible for wake turbulence ... i answered atc/pilot its wrong
+the right answer is the pilot
+
+4. SAR/SGR Q to find SGR Groundspeed is required but they dont give you winds but wind factor of -50 or -80 << i didnt know what to do -- give is TAS, Flight level, fuel flow .
+
+5. greatest DME error -- high & short
+
+6. clear ice rather than rime ice is most likly to occur in : high catch, large droplets
+
+7. u fly from 30.12 '' to 29.92 '' FL220 .. what would happen if u change the setting to 29.92 after levelling off @ FL220 and u have encoding altimeter ...
+
+8. when is indicated altitude lower then actual: high pressure to low pressure
+
+1. the operator, in respect to an aircraft, is: A) the person renting the aircraft B) the leasee C) person in possession of the aircraft
+
+5) no aircraft should be operated below 10000 feet at what speed
+
+6) what is dynamic hydroplaining
+
+7) a pilot on a VFR flight plan must revise eta if entering the ADIZ when/where?
+
+10) what do vortex generators do?
+
+12) given a NOTAM with an APPROX.. asks when it will expire.. you are given different dates.
+
+15) what type of tx do you need in class C airspace?
+
+16) what does a machmeter do?
+
+17) in beta range, what controls the prop pitch?
+18) what stops the prop from going into reverse while flying?
+19) given a map of a trip to Halifax from another small place. You encounter freezing rain while flying at 4000 feet… what do you do?
+
+22)given a TAF, asked what the visibility was at 0730.
+
+24)what is EPR.
+25) you are on a flight that is 2 hours including a climb of 20 minutes. You are given fuel burns for a climb, cruise, and a hold. You are night VFR. Asks you to calculate the the total fuel required.
+
+26) FL310 or FL350, you are given TAS and winds as well as a fuel burn per hour. Asked to calculate the SGR or SAR.
+
+27) question about DME. The greatest difference between ground and slant distance occurs when?
+
+30) you are above your threshold crossing speed when you are landing.. the best way to stop the aircraft as soon as possible is to?
+
+31) you are in the jetstream and the temperature is dropping.. the best way to avoice turbulence is to?
+
+34) Crititcal point question. Given some info then asked to calculate the time to CP.
+
+36) Calculate true wind velocity. They give you heading in magnetic and track as magnetic. You are given 10 east variation
+
+38) Question about Thunderstorm detection while in cloud w/ precip. Is it harder to detect t-storms?
+
+40) question to move some weight because the a/c is out of balance
+
+41) given an accelerate go chart. find the max allowable take out weight.
+
+42) type II and IV fluids are bad for which types of aircraft?
+43) you are flying along in -20 temperautre.. you land at an airport for a short stop that has a temp of 10 and a dewpoint of 9. what will occur? Or something close to this.
+
+And the stuff not already posted:
+
+1. CRM is good because? Answer was it allows input from all crew members, or something like that.
+2. An effective captain does, and there was 5 things and you had to pick 3. Answers were like "recognizes reduced effectiveness of crew under stress" and "takes input from all crew members"
+4. GPS calculates position how.
+5. Question about reading the Jet Stream on an upper level anal chart. What height and what turb was associated with it.
+6. When taking medication, what precautions should be taken for flying? answers were like "wait 8 hrs", "wait 12", "read instructions" and "consult doctor". I got it wrong when answering "wait 8 hrs"
+7. What happens when precip falls onto a coal soaked wing. I answered that frost forms but thats wrong, I think the answer is it melts the frost already formed.
+8. Calculate the true wind direction when you are given Mag heading, track, GS,Variation.
+9. When is your True Altitude lower than Indicated. Answers were like "temp is lower than ISA", "temp is higher than ISA", "pressure is the same as ISA"
+10. A couple compare TAF to actual METAR reports and say if the system is moving faster / slower than fore casted.
+11. If you find yourself strongly disagree with the Capt, how do you approach the situation? Answer was to overcome shyness to question, ask for clarification, and state your viewpoint.
+12. What is the floor of the Arctic CA?
+
+
+
+
+Calculate TAS
+GFA question. Lowest ceiling.
+Upper winds chart - winnipeg close to ISA?
+Class C - maintain a listening watch on ATC
+Class B - VFR permitted with clearance from ATC
+GPS calculates position - by triangulation
+Overlays and Stand Alone - no traditional needed, and traditional can be out of service.
+Rime ice formed - small drops and low catch
+flying in minus someodd temp - decend and land into 10degrees and dewpoint of 9. - Frost forms where fuel is held in wings (cold soaking)
+Calculate Critical Point - no formula provided
+Weight and Balance shift question - no formula provided
+Maximum MTOW question - have to do chart from 2 ways, and find answer in the middle.
+Flying in freezing rain - climb to warmer air above
+Type II deice fluids - bad for rotation speeds below 100knots
+No pilot shall take off in conditions where blah blah could form - unless the A/C is inspected for contamination
+CRM - I forget, but really easy common sense question
+3 questions about Jetstream and CAT and what to do.
+True Altitude in Mountain conditions, temperature drops sharply - Indicated higher or True Altitude higher question.
+Weather radar - return signal is based on water drop size
+V2 - take off safety speed
+Definition of "Balanced Field Length"
+Overshoot in IMC - pilot tempted to lower nose
+Calculate SGR
+Controls pitch in BETA - the power lever and mechanical linkage
+Prevents Prop reverse in flight - Fine pitch stop
+Viscous Hydroplaning
+Fuel requirements question - night VFR.(45min) they b-s you with "plus time to hold"
+EPR - definition
+After accessive alcohol consumption - wait 48hrs
+Wake turbulence question - become airborne before the point the jet did, stay above flightpath
+Take off performance - use the chart question
+3 bar Vasis - upwind and middle bars for +25feet EWH
+TAF - visibility at 0730 was 2sm tempo 1sm
+ADIZ question - +5min and 20NM
+Airspeed limits below 10 000
+Vortex generators
+worst wing tip vortices configuration
+Notam and approx - requires cancelling notam
+Machmeter - compares TAS to local speed of sound
+
+
+
+1. ADIZ ETA penetration question, answer was +/- 5 NM.
+2. Worst wing tip vorticies experianced from heavy slow moving aircraft in the clean configuration.
+3. Wake Turbulence after preceding aircraft, become airborne before the point of rotation and stay above there glidepath.
+4. Machmeter, compares Indicated airspeed to local speed of sound.
+5. Viscous hydroplaning, Low tire pressure and low speeds no standing water.
+6. Calculate TAS, i got the question wrong and it was because they give you a temp of -12 and an altitude of 19,000 but there is also mention of a temp rise of +11, this is where they got me so watch this one!!!! I factored in the temp rise and missed this one.
+7.Upper winds question.
+8.NOTAM, it had APPROX so it requires a cancelling NOTAM.
+9.Type 2 and 4 de-icing fluids are bad for aircraft with a VR speed below 100 knots.
+10.GPS and Overlay approaches, choose 2 that apply answer was B+C
+11.GPS calculates position by triangulation of satellite signals.
+12.Weight and balance 28% of MAC is the answer.
+13.Weight and balance moving 2 inches answer was 120 lbs.
+14. Floor of the Northern control Area? FL 230
+15.ETOPS? I chose 60 minutes and got it right.
+16.Take off safety speed, VR.
+17.The operator in respect of the airplane? Person in possesion of aircraft.
+18.Class B Airspace requires ATC clearance from a VFR aircraft.
+19.Class C maintain a listening watch is the answer.
+20.Mountainous areas? Indicated altitude is higher than actual altitude.
+21.High on final with high airspeed, how to slow the airplane down the best? Touch down as soon as possible and use maximum braking.
+22.Compressor stall on a jet engine? Caused by excessive angle of attack on the compressor blades.
+23.Isotachs spaced closely together on 250 hpa chart you can expect? Sufficient horizontal wind shear for the occurance of CAT.
+24.Calculate critical point?
+25.Overshoot in IMC? Tempted to lower the nose.
+26.When are you most likely to encounter CFIT? When you get below DH or MDA
+27.BETA? Power lever and mechanical linkage.
+28.Reversing in flight? Fine pitch stop or low pitch stop both are mentioned together, this is the answer.
+29.Weather radar? Water droplet size.
+30.Rime Icing? Small droplets low rate of catch.
+31.Flight in -20, landind at +10 airport, what happens? Frost forms around the fuel tanks.
+32.VFR flight fuel? They include PPH for a hold but you don't need it so don't falll for it.
+33.Which part of an airplane do you de-ice first? I got it wrong, choices are fuselage, tailplane engine inlets or something as viewed by the pilot? Look this one up.
+34.EPR Definition.
+35.VASIA? Upwind and middle bar for EWH of +45
+36.CRM question.
+37.LAHSO? When given this clearance it is the pilots responsibility to hold short of the position given and the instruction must be read back.
+38.Alcohol question? 48 Hours
+39.Vortex generators primary objective? Delay flow seperation.
+
+the operator, in respect to an aircraft, is:
+
+- CRM is valuable because?
+
+- Qualities of a good Captian (NOT authoritative, overbearing)
+
+- Avoidance of wake turbulence is...sole responsibility of PIC? Shared between ATC/PIC?
+
+- No person shall consume medication unless..ASK THE DOC!
+
+- %MAC question but distances in feet! (Doesnt matter)
+
+- Given a weather chart and asked to find max speed of jet stream and altitude/severity of CAT in the vicinity
+
+- Given upper weather chart and asked what wind speed over an airport is ( just read the barbs!)
+
+- Which condition would Clear Ice form best in (High Rate of Catch , Large drops etc. )
+
+- When is Indicated Altitude LOWER than true? Options were air warmer than standard/cooler than standard/flying high to low press/press. Higher than ICAO standard
+Colder than standard = true alt＜ indicated
+Warmer than standard = true alt ＞ indicated
+
+- Compressor Bleed Valve's purpose is to (Prevents Compressor stall)
+
+- Difference between Vra and Vb (obvious answer because it's the only one that mentions gust) Vra= rough air speed (turbulence penetration speed), Vb= design speed for maximum gust intensity
+- PAPI - which indication shows an on-slope profile
+
+- White Out occurs when..yadda yadda ‘uniform overcast layer'
+
+- GNSS RAIM question: obvious answer mentions RAIM prediction
+
+- When reading checklist and you're interrupted, the best way to avoid missing items is to (I put read the rest silently to yourself while the other CM handles the distraction but that's wrong I guess)
+
+- no aircraft should be operated below 10000 feet at what speed
+
+- what is dynamic hydroplaning ( I mixed it up with reverted-rubber hydroplaning - it's the one where tire loses complete contact with runway)
+
+- a pilot on a VFR flight plan must revise eta if entering the ADIZ when/where?
+
+- what do vortex generators do?
+
+- given a NOTAM with an APPROX.. asks when it will expire.. you are given different dates.
+
+- what type of tx do you need in class C airspace?
+
+- what does a machmeter do?
+
+- in beta range, what controls the prop pitch?
+
+- what stops the prop from going into reverse while flying? (Kind of a squirrely set of answers...closest one to what I remembered involved hydro-mechanical linkage)
+
+- given a map of a trip to Halifax from another small place. You encounter freezing rain while flying at 4000 feet… what do you do?
+
+- given a TAF with several changes in vis/ceiling, which of the following is true? Vis changed, Ceiling etc..
+
+- Given a TAF and a current METAR, the frontal passage is going faster than forecast? Slower? As Forecast?
+
+- Define EPR.
+
+- you are on a flight that is 2 hours including a climb of 20 minutes. You are given fuel burns for a climb, cruise, and a hold. Night VFR in a turbo-prop. Asks you to calculate the the total fuel required (Assume ATO/Commuter since in any case it's 45)
+
+- FL310 or FL350, you are given TAS and winds as well as a fuel burn per hour. Asked to calculate the SGR or SAR and then decide which one gives the maximum range.
+
+- DME: The greatest difference between ground and slant distance occurs when?
+
+- you are above Vref in a turbojet when you are landing.. the best way to stop the aircraft as soon as possible is to?
+
+- you are crossing the jetstream and the temperature is dropping.. the best way to avoice turbulence is to?
+
+- Crititcal point question. Given some info then asked to calculate the time to CP.
+
+- Calculate true wind velocity. They give you heading in magnetic and track as magnetic. You are given 10 east variation (I didn't clue into the "true" part of that and left it magnetic..DUH)
+￼
+
+
+- Question about Thunderstorm detection while in cloud w/ precip. Harder to see TS due to attenuation
+
+- Weight Shift: Given: Fore/aft position arms/GTOW/Fore limit and current CofG position; Required: weight to move
+
+EXACT accelerate-go chart from aerocourse; Find max. Allowable weight for 6000 foot runway
+
+- type II and IV fluids are bad for which types of aircraft?
+
+- you are flying along in -20 temp.. you land at an airport with a tight Dewpoint/Temp spread, you can expect (yup it's a nail-biter folks)
+
+- When experiencing the presence of cold soak phenomenon, you can expect: something like 'rainfall to cause rime ice/rainfall to cause clear ice/rainfall melts frost on wings/snow to adhere to wings'
+
+
+

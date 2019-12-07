@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1575665171474" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1575588097482" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1575683184475" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1575683184474" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -2922,7 +2922,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1570481596004" FOLDED="true" ID="ID_1588304105" MODIFIED="1575583402172" TEXT="1.22 Air Traffic Services">
+<node CREATED="1570481596004" FOLDED="true" ID="ID_1588304105" MODIFIED="1575683184441" TEXT="1.22 Air Traffic Services">
 <node CREATED="1570478913077" ID="ID_74301925" MODIFIED="1574108406491">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -9952,8 +9952,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1575663420621" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1575663420592" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1575684321189" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1575684316017" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1575405562722">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13303,7 +13303,7 @@
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
 <icon BUILTIN="closed"/>
 </node>
-<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1575663420620" TEXT="Radio Communication and Navigation Aids">
+<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1575684308346" TEXT="Radio Communication and Navigation Aids">
 <node CREATED="1573764157635" FOLDED="true" ID="ID_1495037692" MODIFIED="1575580751966">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13801,7 +13801,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573764628595" FOLDED="true" ID="ID_1452684835" MODIFIED="1575573611479">
+<node CREATED="1573764628595" FOLDED="true" ID="ID_1452684835" MODIFIED="1575683157358">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13821,26 +13821,27 @@
         variable phase 1800RPM, reference signal every 360deg
       </li>
       <li>
-        D [NM] = 1.23 sqrt (h [ft AGL])
+        <b>D [NM] = 1.23 sqrt (h [ft AGL]) </b>
       </li>
       <li>
-        ground check tolerance +/-4deg
+        <b>ground check tolerance +/-4deg </b>
       </li>
       <li>
-        air check tolerance +/-6deg
+        <b>air check tolerance +/-6deg </b>
       </li>
       <li>
-        dual VOR check tolerance +/-4deg (air and ground)
+        <b>dual VOR check tolerance +/-4deg (air and ground) </b>
       </li>
       <li>
-        VOR checkpoint +/-4deg, DME +/-0.5NM
+        <b>VOR checkpoint +/-4deg, DME +/-0.5NM </b>
       </li>
       <li>
-        VOR airway (published radials) +/-3deg
+        <b>VOR airway (published radials) +/-3deg</b>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1573765666888" ID="ID_1078463134" MODIFIED="1575569322593">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13865,7 +13866,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573765838461" FOLDED="true" ID="ID_674804851" MODIFIED="1575573922312">
+<node CREATED="1573765838461" FOLDED="true" ID="ID_674804851" MODIFIED="1575683129985">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13900,14 +13901,15 @@
         </ul>
       </li>
       <li>
-        NDB check +/-5deg approach, +/-10deg en route
+        <b>NDB check +/-5deg approach, +/-10deg en route </b>
       </li>
       <li>
-        largest shoreline error at less than 30deg
+        <b>largest shoreline error at less than 30deg</b>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1573766225298" ID="ID_500852561" MODIFIED="1575569297845">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13933,7 +13935,7 @@
 </node>
 </node>
 <node CREATED="1573766472295" ID="ID_1799060410" MODIFIED="1573766482465" TEXT="7.05 TACAN Systems"/>
-<node CREATED="1573766502784" ID="ID_1342315489" MODIFIED="1575574311414">
+<node CREATED="1573766502784" ID="ID_1342315489" MODIFIED="1575683109882">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13959,16 +13961,17 @@
         air to ground 1025MHz, ground to air 962MHz
       </li>
       <li>
-        D [NM] = sqrt(S^2 [NM] - H^2 [NM]) where slant range S, height H
+        <b>D [NM] = sqrt(S^2 [NM] - H^2 [NM]) where slant range S, height H </b>
       </li>
       <li>
-        tolerance +/-0.5NM or 3% distance, whichever is greater
+        <b>tolerance +/-0.5NM or 3% distance, whichever is greater</b>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1573766804059" FOLDED="true" ID="ID_740616356" MODIFIED="1575659658003">
+<node CREATED="1573766804059" FOLDED="true" ID="ID_740616356" MODIFIED="1575683184482">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14004,8 +14007,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1575583703890" ID="ID_1514222030" MODIFIED="1575657403841">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -14027,8 +14029,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1575583711899" ID="ID_1195904555" MODIFIED="1575657338456">
 <richcontent TYPE="NODE"><html>
@@ -14051,8 +14052,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1575657271432" ID="ID_1168804357" MODIFIED="1575657317092">
 <richcontent TYPE="NODE"><html>
@@ -14072,8 +14072,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1575657346149" ID="ID_815200747" MODIFIED="1575657369957">
 <richcontent TYPE="NODE"><html>
@@ -14093,10 +14092,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1575585873098" ID="ID_709903784" MODIFIED="1575657950535">
+<node CREATED="1575585873098" ID="ID_709903784" MODIFIED="1575683052371">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14114,13 +14112,13 @@
 
         <ul>
           <li>
-            en route full deflection 5 NM
+            <b>en route full deflection 5 NM </b>
           </li>
           <li>
-            approach full deflection 1.25 NM
+            <b>approach full deflection 1.25 NM </b>
           </li>
           <li>
-            VOR/DME 10deg
+            <b>VOR/DME 10deg</b>
           </li>
         </ul>
       </li>
@@ -14135,7 +14133,7 @@
 
         <ul>
           <li>
-            en route 0.5 NM per dot
+            <b>en route 0.5 NM per dot</b>
           </li>
         </ul>
       </li>
@@ -14168,7 +14166,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573766821646" FOLDED="true" ID="ID_1748378733" MODIFIED="1575580751968">
+<node CREATED="1573766821646" FOLDED="true" ID="ID_1748378733" MODIFIED="1575683184485">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14192,13 +14190,13 @@
             Canada 108.1 MHz to 111.9 MHz
           </li>
           <li>
-            within 3 to 6deg angular width
+            <b>within 3 to 6deg angular width </b>
           </li>
           <li>
-            reliable up to 35deg off and 10NM distance
+            <b>reliable up to 35deg off and 10NM distance </b>
           </li>
           <li>
-            reliable up to 10deg off and 18NM distance
+            <b>reliable up to 10deg off and 18NM distance</b>
           </li>
           <li>
             X identifier: alignment exceeds 3deg RWY HDG
@@ -14219,10 +14217,10 @@
             Canada 329.3 MHz to 335.0 MHz
           </li>
           <li>
-            3deg approach angle
+            <b>3deg approach angle </b>
           </li>
           <li>
-            beam depth 1.4deg (+/-0.7deg)
+            <b>beam depth 1.4deg (+/-0.7deg)</b>
           </li>
         </ul>
       </li>
@@ -14231,7 +14229,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1575576303490" ID="ID_1660268821" MODIFIED="1575576466661">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -14335,7 +14334,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573768025279" FOLDED="true" ID="ID_1770451184" MODIFIED="1575580751971">
+<node CREATED="1573768025279" FOLDED="true" ID="ID_1770451184" MODIFIED="1575682974533">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14808,11 +14807,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1573856910020" FOLDED="true" ID="ID_735602432" MODIFIED="1575580751975">
+<node CREATED="1573856910020" FOLDED="true" ID="ID_735602432" MODIFIED="1575683184488">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14853,10 +14851,10 @@
         Receiver Autonomous Integrity Monitoring (RAIM), ETA +/-15 min
       </li>
       <li>
-        RAIM alert limits: 2NM enroute, 1NM terminal, 0.3NM NPA
+        <b>RAIM alert limits: 2NM enroute, 1NM terminal, 0.3NM NPA </b>
       </li>
       <li>
-        CDI scale: 5NM enroute, 1NM terminal, 0.3NM approach
+        <b>CDI scale: 5NM enroute, 1NM terminal, 0.3NM approach</b>
       </li>
       <li>
         terminal within 30NM of destination airport
@@ -14878,7 +14876,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1573932355344" ID="ID_1572270857" MODIFIED="1575577825869">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -15002,7 +15001,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568671682779" FOLDED="true" ID="ID_1658639647" MODIFIED="1575658428474" POSITION="right" TEXT="Study Material">
+<node CREATED="1568671682779" FOLDED="true" ID="ID_1658639647" MODIFIED="1575684321195" POSITION="right" TEXT="Study Material">
 <node CREATED="1568671700482" FOLDED="true" ID="ID_217896736" MODIFIED="1574459222970">
 <richcontent TYPE="NODE"><html>
   <head>
