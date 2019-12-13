@@ -1,7 +1,7 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576101258568" POSITION="right" TEXT="SARON">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576197034183" POSITION="right" TEXT="SARON">
 <node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576027206455" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
@@ -4841,10 +4841,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576000399681" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576197034182" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
-<node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1575780067935" TEXT="2.02 Reciprocating Engines">
-<node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1571327873060">
+<node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1576195852455" TEXT="2.02 Reciprocating Engines">
+<node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1576181781383">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4872,11 +4872,367 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1571329870429" ID="ID_1307000896" MODIFIED="1571329877838" TEXT="2.03 Gas Turbine Engines"/>
-<node CREATED="1571331490943" ID="ID_887788242" MODIFIED="1571331495746" TEXT="2.04 Propellers"/>
-<node CREATED="1571335183691" FOLDED="true" ID="ID_1931384718" MODIFIED="1576000399678" TEXT="2.05 Fuels">
+<node CREATED="1571329870429" FOLDED="true" ID="ID_1307000896" MODIFIED="1576195516227" TEXT="2.03 Gas Turbine Engines">
+<node CREATED="1576179392548" ID="ID_1353323" MODIFIED="1576181511077">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Compression Ratios
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        centrifugal compressor
+
+        <ul>
+          <li>
+            practical limit 2 stages with 12:1
+          </li>
+        </ul>
+      </li>
+      <li>
+        axial flow compressor
+
+        <ul>
+          <li>
+            pressure ratio per stage 1.2 : 1
+          </li>
+          <li>
+            pressure ratio per spool 12 : 1
+          </li>
+          <li>
+            pressure ratio per compressor (3 spools) 36&#160;: 1 or higher
+          </li>
+          <li>
+            up to 600 degC COT
+          </li>
+        </ul>
+      </li>
+      <li>
+        combined axial flow / centrifugal compressors
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
+</node>
+<node CREATED="1576183740759" ID="ID_1549809460" MODIFIED="1576188555145">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Starting
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        starter motor
+
+        <ul>
+          <li>
+            duty cycle, cooling down period
+          </li>
+        </ul>
+      </li>
+      <li>
+        hung start
+
+        <ul>
+          <li>
+            indications: compressor N2 is lower (below SSS), EGT is higher
+          </li>
+          <li>
+            causes:
+
+            <ul>
+              <li>
+                insufficient airflow
+              </li>
+              <li>
+                contaminated compressor
+              </li>
+              <li>
+                insufficient starter RPM
+              </li>
+            </ul>
+          </li>
+          <li>
+            procedure: shut down fuel supply
+          </li>
+        </ul>
+      </li>
+      <li>
+        wet start
+
+        <ul>
+          <li>
+            indications: compressor N2 high, EGT low, positive fuel flow
+          </li>
+          <li>
+            causes:
+
+            <ul>
+              <li>
+                engine does not light up, ignitor failure
+              </li>
+              <li>
+                fuel collects in the combustion chamber
+              </li>
+            </ul>
+          </li>
+          <li>
+            procedure:
+
+            <ul>
+              <li>
+                shut down fuel supply and ignition
+              </li>
+              <li>
+                keep starter running
+              </li>
+              <li>
+                additional blowout cycle to prevent torching
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        hot start
+
+        <ul>
+          <li>
+            indications: compressor N2 low, EGT high
+          </li>
+          <li>
+            causes:
+
+            <ul>
+              <li>
+                too much fuel
+              </li>
+              <li>
+                engine air flow is not high enough (back pressure)
+              </li>
+              <li>
+                compressor contamination
+              </li>
+              <li>
+                tailwind
+              </li>
+            </ul>
+          </li>
+          <li>
+            procedure: shut down fuel supply immediately (prevent redlining)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1576189211442" ID="ID_1020631" MODIFIED="1576190602221">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      reverse thrust
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        to be activated when WoW for the main wheels (in combination with spoilers)
+      </li>
+      <li>
+        clam shell doors / cascade type
+
+        <ul>
+          <li>
+            pneumatic actuation (bleed air)
+          </li>
+          <li>
+            direction through cascade vanes preventing re-ingestion
+          </li>
+        </ul>
+      </li>
+      <li>
+        bucket doors / target type (external doors)
+
+        <ul>
+          <li>
+            hydraulic actuation
+          </li>
+        </ul>
+      </li>
+      <li>
+        blocker doors (cold reverser)
+
+        <ul>
+          <li>
+            electric motor actuation
+          </li>
+          <li>
+            high bypass engines
+          </li>
+          <li>
+            direction through cascade vanes preventing re-ingestion
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571331490943" FOLDED="true" ID="ID_887788242" MODIFIED="1576197034180" TEXT="2.04 Propellers">
+<node CREATED="1576195863629" ID="ID_1923247072" MODIFIED="1576195910343">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      governors / PCUs
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        double versus single acting
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1576195932207" ID="ID_1944162821" MODIFIED="1576195971985">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      feathering
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        manual versus automatic feathering
+      </li>
+      <li>
+        feathering locks
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1576194959003" ID="ID_1286845581" MODIFIED="1576195510229">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      pitch limits and ranges
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        reverse pitch
+      </li>
+      <li>
+        superfine pitch / ground fine pitch
+      </li>
+      <li>
+        flight fine pitch
+      </li>
+      <li>
+        maximum coarse (cruise) pitch
+      </li>
+      <li>
+        feathered
+      </li>
+      <li>
+        alpha: flight fine to maximum coarse
+      </li>
+      <li>
+        beta: reverse to flight fine
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1576190810864" ID="ID_1646461580" MODIFIED="1576195486218">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      reverse thrust (beta range)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        disengage flight fine pitch stop (FFPS)
+      </li>
+      <li>
+        move throttle below flight idle detent (gate)
+      </li>
+      <li>
+        governor relinquishes control and throttle controls RPM
+      </li>
+      <li>
+        discing (superfine pitch) versus power-on breaking (reverse pitch)
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1576195794677" ID="ID_1267681611" MODIFIED="1576195833285">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      synchronizing / synchrophasing
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1576196145985" FOLDED="true" ID="ID_1783917954" MODIFIED="1576197034173" TEXT="reduction gears">
+<node CREATED="1576196386835" ID="ID_1683140722" MODIFIED="1576196391121" TEXT="torque control"/>
+</node>
+</node>
+<node CREATED="1571335183691" FOLDED="true" ID="ID_1931384718" MODIFIED="1576187510854" TEXT="2.05 Fuels">
 <node CREATED="1571335333208" ID="ID_1636736781" MODIFIED="1575996610277">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4911,7 +5267,7 @@
 <node CREATED="1571337390420" ID="ID_403438234" MODIFIED="1571337401592" TEXT="2.09 Electrical Systems"/>
 <node CREATED="1571339436291" ID="ID_1248214412" MODIFIED="1571339444022" TEXT="2.10 Hydraulic Systems"/>
 <node CREATED="1571339670886" ID="ID_1386068437" MODIFIED="1571339676518" TEXT="2.11 Exhaust Systems"/>
-<node CREATED="1571339719060" FOLDED="true" ID="ID_1555393324" MODIFIED="1575780067936">
+<node CREATED="1571339719060" FOLDED="true" ID="ID_1555393324" MODIFIED="1576187518014">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4924,7 +5280,7 @@
 </html></richcontent>
 <node CREATED="1572467038737" ID="ID_1622990577" MODIFIED="1572467052226" TEXT="Autobrake / Anti-Skid"/>
 </node>
-<node CREATED="1571417536290" FOLDED="true" ID="ID_20123901" MODIFIED="1575780067939" TEXT="2.13 Anti-Icing and De-Icing Systems">
+<node CREATED="1571417536290" FOLDED="true" ID="ID_20123901" MODIFIED="1576187523494" TEXT="2.13 Anti-Icing and De-Icing Systems">
 <node CREATED="1571417673651" ID="ID_436647626" MODIFIED="1571418114587">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5048,7 +5404,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571420876034" FOLDED="true" ID="ID_1781514654" MODIFIED="1575780067941" TEXT="2.14 Fire Detection and Extinguishing Systems">
+<node CREATED="1571420876034" FOLDED="true" ID="ID_1781514654" MODIFIED="1576187526770" TEXT="2.14 Fire Detection and Extinguishing Systems">
 <node CREATED="1571422631604" ID="ID_383730027" MODIFIED="1571422727742">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5111,7 +5467,7 @@
 <node CREATED="1571423291475" ID="ID_1304706377" MODIFIED="1571423298158" TEXT="2.15 Pneumatic Systems"/>
 <node CREATED="1571423467329" ID="ID_1285076520" MODIFIED="1571423474124" TEXT="2.16 Oxygen Systems"/>
 <node CREATED="1571423605458" ID="ID_756681702" MODIFIED="1571423742044" TEXT="2.17 Heating Systems"/>
-<node CREATED="1571423731172" FOLDED="true" ID="ID_78825032" MODIFIED="1575780067942" TEXT="2.18 Cabin Pressurization Systems">
+<node CREATED="1571423731172" FOLDED="true" ID="ID_78825032" MODIFIED="1576187530289" TEXT="2.18 Cabin Pressurization Systems">
 <node CREATED="1571423832130" ID="ID_966658189" MODIFIED="1571423857117">
 <richcontent TYPE="NODE"><html>
   <head>
