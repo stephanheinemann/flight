@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576197034183" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576027206455" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576277635719" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576277378626" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -3865,7 +3865,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571168779387" FOLDED="true" ID="ID_1082738327" MODIFIED="1575780067894">
+<node CREATED="1571168779387" FOLDED="true" ID="ID_1082738327" MODIFIED="1576277635674">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4841,7 +4841,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576197034182" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576277635711" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
 <node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1576195852455" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1576181781383">
@@ -4875,7 +4875,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1571329870429" FOLDED="true" ID="ID_1307000896" MODIFIED="1576195516227" TEXT="2.03 Gas Turbine Engines">
+<node CREATED="1571329870429" FOLDED="true" ID="ID_1307000896" MODIFIED="1576277635702" TEXT="2.03 Gas Turbine Engines">
 <node CREATED="1576179392548" ID="ID_1353323" MODIFIED="1576181511077">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5043,14 +5043,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1576189211442" ID="ID_1020631" MODIFIED="1576190602221">
+<node CREATED="1576189211442" ID="ID_1020631" MODIFIED="1576269573973">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      reverse thrust
+      Reverse Thrust
     </p>
     <p>
       
@@ -5097,18 +5097,79 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-</node>
-<node CREATED="1571331490943" FOLDED="true" ID="ID_887788242" MODIFIED="1576197034180" TEXT="2.04 Propellers">
-<node CREATED="1576195863629" ID="ID_1923247072" MODIFIED="1576195910343">
+<node CREATED="1576269545968" ID="ID_640794940" MODIFIED="1576276609731">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      governors / PCUs
+      Performance Considerations
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Assumed Temperature Thrust Reduction / Reduced Take-Off Thrust / Factored Take-Off Thrust
+
+        <ul>
+          <li>
+            reduced thrust take-off based on flex temperature
+          </li>
+          <li>
+            flex is entered into FMS for engine control during take-off
+          </li>
+          <li>
+            override possible with TOGA switch / detent during take-off
+          </li>
+          <li>
+            compare to flat rated engines / derated take-off
+          </li>
+          <li>
+            factors
+
+            <ul>
+              <li>
+                take-off weight
+              </li>
+              <li>
+                density altitude (temperature, pressure)
+              </li>
+              <li>
+                runway condition and slope
+              </li>
+              <li>
+                required climb performance
+              </li>
+            </ul>
+          </li>
+          <li>
+            FADEC limits applicable torque for take-off
+          </li>
+          <li>
+            not allowed for contaminated runways
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571331490943" FOLDED="true" ID="ID_887788242" MODIFIED="1576277635707" TEXT="2.04 Propellers">
+<node CREATED="1576195863629" ID="ID_1923247072" MODIFIED="1576269589489">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Governors / PCUs
     </p>
     <p>
       
@@ -5119,16 +5180,17 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1576195932207" ID="ID_1944162821" MODIFIED="1576195971985">
+<node CREATED="1576195932207" ID="ID_1944162821" MODIFIED="1576269598603">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      feathering
+      Feathering
     </p>
     <p>
       
@@ -5142,16 +5204,17 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1576194959003" ID="ID_1286845581" MODIFIED="1576195510229">
+<node CREATED="1576194959003" ID="ID_1286845581" MODIFIED="1576269613106">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      pitch limits and ranges
+      Pitch Limits and Ranges
     </p>
     <p>
       
@@ -5180,16 +5243,17 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1576190810864" ID="ID_1646461580" MODIFIED="1576195486218">
+<node CREATED="1576190810864" ID="ID_1646461580" MODIFIED="1576269630558">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      reverse thrust (beta range)
+      Reverse Thrust (Beta Range)
     </p>
     <p>
       
@@ -5209,25 +5273,50 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1576195794677" ID="ID_1267681611" MODIFIED="1576195833285">
+<node CREATED="1576195794677" ID="ID_1267681611" MODIFIED="1576269643537">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      synchronizing / synchrophasing
+      Synchronizing / Synchrophasing
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1576196145985" FOLDED="true" ID="ID_1783917954" MODIFIED="1576197034173" TEXT="reduction gears">
-<node CREATED="1576196386835" ID="ID_1683140722" MODIFIED="1576196391121" TEXT="torque control"/>
+<node CREATED="1576196145985" FOLDED="true" ID="ID_1783917954" MODIFIED="1576277635703">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Reduction Gears
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1576196386835" ID="ID_1683140722" MODIFIED="1576269665977">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Torque Control
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
-<node CREATED="1571335183691" FOLDED="true" ID="ID_1931384718" MODIFIED="1576187510854" TEXT="2.05 Fuels">
+</node>
+<node CREATED="1571335183691" FOLDED="true" ID="ID_1931384718" MODIFIED="1576267116407" TEXT="2.05 Fuels">
 <node CREATED="1571335333208" ID="ID_1636736781" MODIFIED="1575996610277">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5462,8 +5551,8 @@
 <node CREATED="1571423291475" ID="ID_1304706377" MODIFIED="1571423298158" TEXT="2.15 Pneumatic Systems"/>
 <node CREATED="1571423467329" ID="ID_1285076520" MODIFIED="1571423474124" TEXT="2.16 Oxygen Systems"/>
 <node CREATED="1571423605458" ID="ID_756681702" MODIFIED="1571423742044" TEXT="2.17 Heating Systems"/>
-<node CREATED="1571423731172" FOLDED="true" ID="ID_78825032" MODIFIED="1576187530289" TEXT="2.18 Cabin Pressurization Systems">
-<node CREATED="1571423832130" ID="ID_966658189" MODIFIED="1571423857117">
+<node CREATED="1571423731172" FOLDED="true" ID="ID_78825032" MODIFIED="1576277635709" TEXT="2.18 Cabin Pressurization Systems">
+<node CREATED="1571423832130" ID="ID_966658189" MODIFIED="1576277626995">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5482,6 +5571,29 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
+</node>
+<node CREATED="1576277398593" ID="ID_1113110050" MODIFIED="1576277620822">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cabin Altitude
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        max. 8000ft
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
 </node>
 </node>
 <node CREATED="1571424123744" ID="ID_146942940" MODIFIED="1571424133239" TEXT="2.19 Air Conditioning Systems"/>
@@ -6461,7 +6573,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173570034" FOLDED="true" ID="ID_1285060949" MODIFIED="1576018759857" TEXT="Navigation">
+<node CREATED="1568173570034" FOLDED="true" ID="ID_1285060949" MODIFIED="1576270617762" TEXT="Navigation">
 <node CREATED="1572722855252" ID="ID_1252294476" MODIFIED="1572722864170" TEXT="5.01 Basic Navigation Concepts"/>
 <node CREATED="1572723482390" FOLDED="true" ID="ID_787148057" MODIFIED="1575780067970" TEXT="5.02 Navigation Calculations">
 <node CREATED="1572727356484" ID="ID_590399689" MODIFIED="1572727496625">
@@ -6818,8 +6930,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572736905999" FOLDED="true" ID="ID_158440117" MODIFIED="1575780068028" TEXT="5.06 Maps and Charts / Projections">
-<node CREATED="1572736941182" FOLDED="true" ID="ID_1468522731" MODIFIED="1575780068024">
+<node CREATED="1572736905999" FOLDED="true" ID="ID_158440117" MODIFIED="1576270617754" TEXT="5.06 Maps and Charts / Projections">
+<node CREATED="1572736941182" FOLDED="true" ID="ID_1468522731" MODIFIED="1576270617744">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7599,7 +7711,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1576101258567" TEXT="Flight Operations">
+<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1576277635719" TEXT="Flight Operations">
 <node CREATED="1571851864451" ID="ID_416756973" MODIFIED="1572288401755">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -9641,7 +9753,7 @@
 <node CREATED="1572557841087" ID="ID_1393851454" MODIFIED="1572557849804" TEXT="4.17 Landing Techniques"/>
 <node CREATED="1572557899101" ID="ID_7440582" MODIFIED="1572557905885" TEXT="4.18 Volcanic Ash"/>
 </node>
-<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1575932471534" TEXT="Theory of Flight">
+<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1576270627300" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
 <node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1575932471532" TEXT="4.01 General Theory of Flight">
 <node CREATED="1571791871556" ID="ID_1614108199" MODIFIED="1572115126055">
@@ -9806,7 +9918,7 @@
 <node CREATED="1571795140889" ID="ID_591096612" MODIFIED="1571795152185" TEXT="Span, Taper and Aspect Ratio"/>
 <node CREATED="1571795169821" ID="ID_1283277097" MODIFIED="1571795179785" TEXT="Mean Aerodynamic Cord (MAC)"/>
 </node>
-<node CREATED="1571698150394" FOLDED="true" ID="ID_330232180" MODIFIED="1575780068135">
+<node CREATED="1571698150394" FOLDED="true" ID="ID_330232180" MODIFIED="1576270627291">
 <richcontent TYPE="NODE"><html>
   <head>
     
