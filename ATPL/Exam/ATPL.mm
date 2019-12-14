@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576277635719" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576277378626" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576363728632" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576358569866" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -61,7 +61,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1576027206432">
+<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1576358569846">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1021,7 +1021,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569274115428" FOLDED="true" ID="ID_366097208" MODIFIED="1576027146408">
+<node CREATED="1569274115428" FOLDED="true" ID="ID_366097208" MODIFIED="1576358569830">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1076,7 +1076,7 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1569288441269" ID="ID_263318218" MODIFIED="1576018792540">
+<node CREATED="1569288441269" ID="ID_263318218" MODIFIED="1576357023112">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1093,11 +1093,15 @@
         max. 60 minutes at OEI cruise to adequate aerodrome unless wholly within CDA
       </li>
       <li>
-        ETOPS approval for operators of turbine powered aeroplanes removes this restriction&#160;
+        ETOPS approval for operators of turbine powered aeroplanes removes this restriction
+      </li>
+      <li>
+        ETOPS certification and time requirements are issued for the particular aircraft type
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1569355197333" ID="ID_860289433" MODIFIED="1569355382081">
@@ -1123,7 +1127,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569355545849" ID="ID_1836421546" MODIFIED="1569355877937">
+<node CREATED="1569355545849" ID="ID_1836421546" MODIFIED="1576355306855">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1148,6 +1152,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 <node CREATED="1569357621019" ID="ID_1746123140" MODIFIED="1569357701696">
 <richcontent TYPE="NODE"><html>
@@ -4841,7 +4846,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576277635711" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576363728631" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
 <node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1576195852455" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1576181781383">
@@ -4875,7 +4880,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1571329870429" FOLDED="true" ID="ID_1307000896" MODIFIED="1576277635702" TEXT="2.03 Gas Turbine Engines">
+<node CREATED="1571329870429" FOLDED="true" ID="ID_1307000896" MODIFIED="1576294097939" TEXT="2.03 Gas Turbine Engines">
 <node CREATED="1576179392548" ID="ID_1353323" MODIFIED="1576181511077">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5097,8 +5102,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1576269545968" ID="ID_640794940" MODIFIED="1576276609731">
 <richcontent TYPE="NODE"><html>
@@ -5157,8 +5161,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571331490943" FOLDED="true" ID="ID_887788242" MODIFIED="1576277635707" TEXT="2.04 Propellers">
@@ -5180,8 +5183,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1576195932207" ID="ID_1944162821" MODIFIED="1576269598603">
 <richcontent TYPE="NODE"><html>
@@ -5204,8 +5206,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1576194959003" ID="ID_1286845581" MODIFIED="1576269613106">
 <richcontent TYPE="NODE"><html>
@@ -5243,8 +5244,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1576190810864" ID="ID_1646461580" MODIFIED="1576269630558">
 <richcontent TYPE="NODE"><html>
@@ -5273,8 +5273,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1576195794677" ID="ID_1267681611" MODIFIED="1576269643537">
 <richcontent TYPE="NODE"><html>
@@ -5286,8 +5285,7 @@
       Synchronizing / Synchrophasing
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1576196145985" FOLDED="true" ID="ID_1783917954" MODIFIED="1576277635703">
 <richcontent TYPE="NODE"><html>
@@ -5299,8 +5297,7 @@
       Reduction Gears
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1576196386835" ID="ID_1683140722" MODIFIED="1576269665977">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5311,8 +5308,7 @@
       Torque Control
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -5551,8 +5547,81 @@
 <node CREATED="1571423291475" ID="ID_1304706377" MODIFIED="1571423298158" TEXT="2.15 Pneumatic Systems"/>
 <node CREATED="1571423467329" ID="ID_1285076520" MODIFIED="1571423474124" TEXT="2.16 Oxygen Systems"/>
 <node CREATED="1571423605458" ID="ID_756681702" MODIFIED="1571423742044" TEXT="2.17 Heating Systems"/>
-<node CREATED="1571423731172" FOLDED="true" ID="ID_78825032" MODIFIED="1576277635709" TEXT="2.18 Cabin Pressurization Systems">
-<node CREATED="1571423832130" ID="ID_966658189" MODIFIED="1576277626995">
+<node CREATED="1571423731172" FOLDED="true" ID="ID_78825032" MODIFIED="1576363728623">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2.18 Cabin Pressurization Systems
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        bleed air
+      </li>
+      <li>
+        mass flow control
+      </li>
+      <li>
+        outflow valve
+      </li>
+      <li>
+        safety valves
+
+        <ul>
+          <li>
+            open when 0.25 PSI above max. pressure differential
+          </li>
+        </ul>
+      </li>
+      <li>
+        negative pressure relieve valves
+
+        <ul>
+          <li>
+            open when environment pressure 0.5 to 1.0 PSI above cabin pressure
+          </li>
+          <li>
+            above aircraft flotation line
+          </li>
+        </ul>
+      </li>
+      <li>
+        dump valve
+
+        <ul>
+          <li>
+            emergency depressurization
+          </li>
+        </ul>
+      </li>
+      <li>
+        blow out panels
+
+        <ul>
+          <li>
+            cabin and cargo compartment equalization
+          </li>
+        </ul>
+      </li>
+      <li>
+        ditching control
+
+        <ul>
+          <li>
+            closes inflow openings
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1571423832130" ID="ID_966658189" MODIFIED="1576361593978">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5566,14 +5635,15 @@
     </p>
     <ul>
       <li>
-        8.0 to 8.9 PSI
+        max. 8.0 to 8.9 PSI
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1576277398593" ID="ID_1113110050" MODIFIED="1576277620822">
+<node CREATED="1576277398593" ID="ID_1113110050" MODIFIED="1576362839786">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5587,7 +5657,13 @@
     </p>
     <ul>
       <li>
-        max. 8000ft
+        max. 8000ft (10.91 PSI atmospheric pressure)
+      </li>
+      <li>
+        could be reduced due to indicated structural failure
+      </li>
+      <li>
+        cockpit warnings for exceeding 10000ft cabin altitude
       </li>
     </ul>
   </body>
@@ -5595,8 +5671,397 @@
 </richcontent>
 <icon BUILTIN="help"/>
 </node>
+<node CREATED="1576362107096" ID="ID_946006774" MODIFIED="1576362164101">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Pressurized / Unpressurized Areas
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        pressurized
+
+        <ul>
+          <li>
+            passenger cabin
+          </li>
+          <li>
+            flight deck
+          </li>
+          <li>
+            cargo compartments
+          </li>
+        </ul>
+      </li>
+      <li>
+        unpressurized
+
+        <ul>
+          <li>
+            landing gear bays
+          </li>
+          <li>
+            radome
+          </li>
+          <li>
+            tail and nose cones
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1571424123744" ID="ID_146942940" MODIFIED="1571424133239" TEXT="2.19 Air Conditioning Systems"/>
+<node CREATED="1576362921108" ID="ID_1774904395" MODIFIED="1576363712789">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Controllers
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        pneumatic, electro-pneumatic, electronic
+      </li>
+      <li>
+        cabin altitude, cabin climb/descent rate, maximum differential
+      </li>
+      <li>
+        inputs: cruise altitude, landing altitude
+      </li>
+      <li>
+        connected to FMC for automatic outflow valve control
+      </li>
+      <li>
+        pre-pressurization schedule on the ground possible (modern aircraft)
+      </li>
+      <li>
+        modes: auto, alternate, manual
+      </li>
+      <li>
+        cabin rate 500 ft / minute during climb
+      </li>
+      <li>
+        cabin rate 300 ft / minute during descent
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571424123744" FOLDED="true" ID="ID_146942940" MODIFIED="1576361370490">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2.19 Air Conditioning Systems
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        low pressure versus high pressure bleed air
+
+        <ul>
+          <li>
+            main engines, APU, ground air
+          </li>
+          <li>
+            isolation valve
+          </li>
+        </ul>
+      </li>
+      <li>
+        environment air
+      </li>
+      <li>
+        air conditioning packs
+
+        <ul>
+          <li>
+            pack flow control valve
+          </li>
+        </ul>
+      </li>
+      <li>
+        humidification and de-humidification
+      </li>
+      <li>
+        mass flow and temperature control
+      </li>
+      <li>
+        distribution and trim adjustment
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1576293727086" ID="ID_476460493" MODIFIED="1576361308277">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Air Conditioning Packs
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        air cycle machines
+
+        <ul>
+          <li>
+            turbo-compressor (boot strap)
+
+            <ul>
+              <li>
+                ram air inlet (door)
+              </li>
+              <li>
+                charge air (lower pressure)
+              </li>
+              <li>
+                primary heat exchanger
+              </li>
+              <li>
+                compressor
+              </li>
+              <li>
+                secondary heat exchanger
+              </li>
+              <li>
+                turbine (turbo refrigerator)
+              </li>
+              <li>
+                ram air exhaust
+              </li>
+            </ul>
+          </li>
+          <li>
+            brake turbine
+
+            <ul>
+              <li>
+                charge air (higher pressure)
+              </li>
+              <li>
+                heat exchanger
+              </li>
+              <li>
+                compressor and turbine
+              </li>
+            </ul>
+          </li>
+          <li>
+            turbo-fan
+
+            <ul>
+              <li>
+                charge air (higher pressure)
+              </li>
+              <li>
+                heat exchanger
+              </li>
+              <li>
+                fan and turbine
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        vapour cycle system
+
+        <ul>
+          <li>
+            small aircraft
+          </li>
+          <li>
+            refrigerant (freon)
+          </li>
+          <li>
+            receiver / dryer (reservoir)
+          </li>
+          <li>
+            blowers
+          </li>
+          <li>
+            expansion valve
+          </li>
+          <li>
+            evaporator
+          </li>
+          <li>
+            compressor
+          </li>
+          <li>
+            condenser
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1576359595649" ID="ID_1091600786" MODIFIED="1576359872904">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Humidification and De-Humidification
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        water separator / dehumidifier
+
+        <ul>
+          <li>
+            coalescer (increase water droplet size)
+          </li>
+          <li>
+            relieve valve in case coalescer ices up
+          </li>
+          <li>
+            collector tubes (catch droplets)
+          </li>
+          <li>
+            water drain
+          </li>
+        </ul>
+      </li>
+      <li>
+        humidifier
+
+        <ul>
+          <li>
+            portable water tank (pressurized by bleed air)
+          </li>
+          <li>
+            water supply valve
+          </li>
+          <li>
+            diffuser block (air and water jet)
+          </li>
+          <li>
+            venturi tube and swirl vanes
+          </li>
+          <li>
+            humidistat control water supply valve
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1576359880410" ID="ID_840157276" MODIFIED="1576360388579">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mass Flow and Temperature Control
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        mass flow
+
+        <ul>
+          <li>
+            spill valve control in blower systems
+          </li>
+          <li>
+            pressure cylinder with spring-loaded piston (air)
+          </li>
+        </ul>
+      </li>
+      <li>
+        temperature
+
+        <ul>
+          <li>
+            hot air valve (thermostat)
+          </li>
+          <li>
+            mixing ratio of bleed and cooled air
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1576293739311" ID="ID_40942327" MODIFIED="1576360933353">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Distribution and Trim
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        zones and zone control
+      </li>
+      <li>
+        main supply and riser ducts
+      </li>
+      <li>
+        pack output is controlled by the coolest zone
+      </li>
+      <li>
+        trim valve for each zone
+      </li>
+      <li>
+        recirculation via floor ducts (excludes toilets and galleys)
+      </li>
+      <li>
+        gasper air and fan (individual overhead valves)
+      </li>
+      <li>
+        cockpit: foot warmers, windshield demisters
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node CREATED="1571424207731" ID="ID_1043737505" MODIFIED="1571597006953">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -7711,7 +8176,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1576277635719" TEXT="Flight Operations">
+<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1576294097996" TEXT="Flight Operations">
 <node CREATED="1571851864451" ID="ID_416756973" MODIFIED="1572288401755">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -8025,7 +8490,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572288362185" FOLDED="true" ID="ID_864967113" MODIFIED="1576101258554">
+<node CREATED="1572288362185" FOLDED="true" ID="ID_864967113" MODIFIED="1576294097972">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -8050,7 +8515,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572288258686" FOLDED="true" ID="ID_647059776" MODIFIED="1576101258547">
+<node CREATED="1572288258686" FOLDED="true" ID="ID_647059776" MODIFIED="1576294097961">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9655,7 +10120,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572554141069" FOLDED="true" ID="ID_927511902" MODIFIED="1575780068097" TEXT="4.12 Winter Operations">
+<node CREATED="1572554141069" FOLDED="true" ID="ID_927511902" MODIFIED="1576294061752" TEXT="4.12 Winter Operations">
 <node CREATED="1572555948811" ID="ID_1357109696" MODIFIED="1572555973583" TEXT="Critical Surface Contamination"/>
 <node CREATED="1572555977081" ID="ID_1971333746" MODIFIED="1572556036297">
 <richcontent TYPE="NODE"><html>
