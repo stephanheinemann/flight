@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576363728632" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576358569866" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576370829619" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576366012443" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -61,7 +61,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1576358569846">
+<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1576366008371">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2275,7 +2275,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569964452061" FOLDED="true" ID="ID_1954294482" MODIFIED="1575850513710">
+<node CREATED="1569964452061" FOLDED="true" ID="ID_1954294482" MODIFIED="1576366009689">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4247,7 +4247,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571178687846" FOLDED="true" ID="ID_1698057109" MODIFIED="1575780067902" TEXT="1.40 Altitude Alerting Systems and Ground Proximity Warning System (GPWS)">
+<node CREATED="1571178687846" FOLDED="true" ID="ID_1698057109" MODIFIED="1576366012427" TEXT="1.40 Altitude Alerting Systems and Ground Proximity Warning System (GPWS)">
 <node CREATED="1571178865632" ID="ID_1197022434" MODIFIED="1571179343377">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4846,7 +4846,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576363728631" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576370829619" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
 <node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1576195852455" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1576181781383">
@@ -5312,8 +5312,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1571335183691" FOLDED="true" ID="ID_1931384718" MODIFIED="1576267116407" TEXT="2.05 Fuels">
-<node CREATED="1571335333208" ID="ID_1636736781" MODIFIED="1575996610277">
+<node CREATED="1571335183691" FOLDED="true" ID="ID_1931384718" MODIFIED="1576370829609" TEXT="2.05 Fuels">
+<node CREATED="1571335333208" ID="ID_1636736781" MODIFIED="1576367529808">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5327,21 +5327,184 @@
     </p>
     <ul>
       <li>
-        Avgas 6.0 lbs / USG
+        Avgas 6.0 lbs / USG (SG 0.72)
       </li>
       <li>
-        Jet A 6.8 lbs / USG
+        Jet A 6.8 lbs / USG (SG 0.8)
       </li>
       <li>
-        Jet B 6.5 lbs / USG
+        Jet A-1 6.8 lbs / USG&#160;&#160;(SG 0.8): includes FSII
+      </li>
+      <li>
+        Jet B 6.5 lbs / USG (SG 0.77): gasoline/kerosine mix
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="help"/>
 </node>
+<node CREATED="1576366983162" ID="ID_800170671" MODIFIED="1576367108171">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Additives
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        lubricants
+      </li>
+      <li>
+        static dissipators
+      </li>
+      <li>
+        corrosion inhibitors
+      </li>
+      <li>
+        metal deactivators (anti-oxidants)
+      </li>
+      <li>
+        icing / fungus inhibitors
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1571335460648" ID="ID_1255193771" MODIFIED="1571335469850" TEXT="2.06 Fuel Systems"/>
+<node CREATED="1576367200837" ID="ID_1626699169" MODIFIED="1576367333800">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Properties
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        octane rating (lean, rich)
+      </li>
+      <li>
+        flash point
+      </li>
+      <li>
+        freezing point / waxing point
+      </li>
+      <li>
+        boiling / evaporating
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1571335460648" FOLDED="true" ID="ID_1255193771" MODIFIED="1576370829610">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2.06 Fuel Systems
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        tanks (integral, rigid, flexible; internal, external)
+
+        <ul>
+          <li>
+            baffles and baffle check valves
+          </li>
+          <li>
+            vents, vent pipes, vent surge tanks
+
+            <ul>
+              <li>
+                partial pressurization to prevent boiling (ram air / bleed air)
+              </li>
+            </ul>
+          </li>
+          <li>
+            drains, gauging systems, filler caps
+          </li>
+          <li>
+            booster pumps / transfer pumps
+
+            <ul>
+              <li>
+                non-return valves
+              </li>
+              <li>
+                suction feed pipes
+              </li>
+              <li>
+                filters / screens
+              </li>
+              <li>
+                feeder box / collector tanks
+              </li>
+            </ul>
+          </li>
+          <li>
+            float switches (high-level, low-level)
+          </li>
+          <li>
+            pressure refueling valves
+          </li>
+          <li>
+            temperature sensors
+          </li>
+          <li>
+            center tank scavenge jet pump
+          </li>
+        </ul>
+      </li>
+      <li>
+        fuel shutoff values (spar valves), crossfeed valves
+      </li>
+      <li>
+        fuel cooled oil coolers, fuel heaters
+      </li>
+      <li>
+        fuel filters
+      </li>
+      <li>
+        booster pumps, jet pumps
+      </li>
+      <li>
+        jettison system
+
+        <ul>
+          <li>
+            dump pumps
+          </li>
+          <li>
+            dump master valves
+          </li>
+          <li>
+            dump outlets
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1576370498308" ID="ID_467953219" MODIFIED="1576370504771" TEXT="Fuel Metering Systems"/>
+</node>
 <node CREATED="1571336538202" ID="ID_1926004849" MODIFIED="1571336545412" TEXT="2.07 Ignition Systems"/>
 <node CREATED="1571336652039" ID="ID_1673304721" MODIFIED="1571336660494" TEXT="2.08 Oil Systems"/>
 <node CREATED="1571337390420" ID="ID_403438234" MODIFIED="1571337401592" TEXT="2.09 Electrical Systems"/>
@@ -11028,8 +11191,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1576202799522" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1576096456087" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1576366005550" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1576366005549" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1575780068159">
 <richcontent TYPE="NODE"><html>
   <head>
