@@ -1,7 +1,7 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576370829619" POSITION="right" TEXT="SARON">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576445523968" POSITION="right" TEXT="SARON">
 <node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576366012443" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
@@ -1100,8 +1100,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1569355197333" ID="ID_860289433" MODIFIED="1569355382081">
@@ -4846,7 +4845,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576370829619" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576445523966" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
 <node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1576195852455" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1576181781383">
@@ -5312,7 +5311,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1571335183691" FOLDED="true" ID="ID_1931384718" MODIFIED="1576370829609" TEXT="2.05 Fuels">
+<node CREATED="1571335183691" FOLDED="true" ID="ID_1931384718" MODIFIED="1576441508888" TEXT="2.05 Fuels">
 <node CREATED="1571335333208" ID="ID_1636736781" MODIFIED="1576367529808">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5340,8 +5339,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1576366983162" ID="ID_800170671" MODIFIED="1576367108171">
@@ -5374,8 +5372,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1576367200837" ID="ID_1626699169" MODIFIED="1576367333800">
 <richcontent TYPE="NODE"><html>
@@ -5404,11 +5401,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1571335460648" FOLDED="true" ID="ID_1255193771" MODIFIED="1576370829610">
+<node CREATED="1571335460648" FOLDED="true" ID="ID_1255193771" MODIFIED="1576441550711">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5460,6 +5456,12 @@
           </li>
           <li>
             float switches (high-level, low-level)
+
+            <ul>
+              <li>
+                fuelling, dumping
+              </li>
+            </ul>
           </li>
           <li>
             pressure refueling valves
@@ -5501,16 +5503,180 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
-<node CREATED="1576370498308" ID="ID_467953219" MODIFIED="1576370504771" TEXT="Fuel Metering Systems"/>
+</html></richcontent>
+<node CREATED="1576370498308" ID="ID_467953219" MODIFIED="1576440174789">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fuel Metering Systems
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        volume versus weight
+      </li>
+      <li>
+        volume changes with temperature
+      </li>
+      <li>
+        temperature decreases: specific gravity increases and vice versa
+      </li>
+      <li>
+        energy of fuel is a factor of mass not volume
+      </li>
+      <li>
+        float sensors (volume)
+
+        <ul>
+          <li>
+            manoeuvering error, specific gravity change error
+          </li>
+        </ul>
+      </li>
+      <li>
+        capacitive sensors (weight)
+
+        <ul>
+          <li>
+            fuel and air as dielectric
+          </li>
+          <li>
+            dielectric value of fuel changes with its specific gravity
+          </li>
+          <li>
+            manoeuvering error corrected by multiple sensors
+          </li>
+        </ul>
+      </li>
+      <li>
+        tank volume inspection
+
+        <ul>
+          <li>
+            dip strick
+          </li>
+          <li>
+            drip stick
+          </li>
+          <li>
+            drop stick (magnetic level indicator / magnastick)
+          </li>
+          <li>
+            calculate mass based on known specific gravity (temperature)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1576439149846" ID="ID_862435521" MODIFIED="1576439220918">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fuel Quantity Display
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        analog gauges in older systems
+      </li>
+      <li>
+        digital displays in modern avionics
+
+        <ul>
+          <li>
+            fuel quantity indicating system (FQIS)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1576439573151" ID="ID_112764121" MODIFIED="1576439634962">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fuel System Monitoring
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        flow diagrams with indicators and switches
+      </li>
+      <li>
+        displayed schematics with state and value indications
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node CREATED="1571336538202" ID="ID_1926004849" MODIFIED="1571336545412" TEXT="2.07 Ignition Systems"/>
 <node CREATED="1571336652039" ID="ID_1673304721" MODIFIED="1571336660494" TEXT="2.08 Oil Systems"/>
 <node CREATED="1571337390420" ID="ID_403438234" MODIFIED="1571337401592" TEXT="2.09 Electrical Systems"/>
-<node CREATED="1571339436291" ID="ID_1248214412" MODIFIED="1571339444022" TEXT="2.10 Hydraulic Systems"/>
+<node CREATED="1571339436291" FOLDED="true" ID="ID_1248214412" MODIFIED="1576445523934" TEXT="2.10 Hydraulic Systems">
+<node CREATED="1576445082801" ID="ID_1462536552" MODIFIED="1576445506614">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Principles
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        P = F / A (hydraulic pressure)
+      </li>
+      <li>
+        W = D * F (hydraulic work)
+      </li>
+      <li>
+        W1 = W1
+
+        <ul>
+          <li>
+            performed work is equal on both hydraulic ends
+          </li>
+          <li>
+            since pressure is equal, but area is different, force is different
+          </li>
+          <li>
+            since work is equal and force is different, distance is different
+          </li>
+          <li>
+            piston area determines work that can be performed given a limited force
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node CREATED="1571339670886" ID="ID_1386068437" MODIFIED="1571339676518" TEXT="2.11 Exhaust Systems"/>
-<node CREATED="1571339719060" FOLDED="true" ID="ID_1555393324" MODIFIED="1576187518014">
+<node CREATED="1571339719060" FOLDED="true" ID="ID_1555393324" MODIFIED="1576445523943">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5521,9 +5687,31 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1572467038737" ID="ID_1622990577" MODIFIED="1572467052226" TEXT="Autobrake / Anti-Skid"/>
+<node CREATED="1572467038737" ID="ID_1622990577" MODIFIED="1576441546370">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Autobrake / Anti-Skid
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        lock wheel protection
+      </li>
+      <li>
+        touchdown protection
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
 </node>
-<node CREATED="1571417536290" FOLDED="true" ID="ID_20123901" MODIFIED="1576187523494" TEXT="2.13 Anti-Icing and De-Icing Systems">
+</node>
+<node CREATED="1571417536290" FOLDED="true" ID="ID_20123901" MODIFIED="1576441567235" TEXT="2.13 Anti-Icing and De-Icing Systems">
 <node CREATED="1571417673651" ID="ID_436647626" MODIFIED="1571418114587">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5782,8 +5970,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571423832130" ID="ID_966658189" MODIFIED="1576361593978">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5802,8 +5989,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1576277398593" ID="ID_1113110050" MODIFIED="1576362839786">
@@ -5830,8 +6016,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1576362107096" ID="ID_946006774" MODIFIED="1576362164101">
@@ -5879,8 +6064,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1576362921108" ID="ID_1774904395" MODIFIED="1576363712789">
 <richcontent TYPE="NODE"><html>
@@ -5921,8 +6105,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571424123744" FOLDED="true" ID="ID_146942940" MODIFIED="1576361370490">
@@ -5973,8 +6156,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1576293727086" ID="ID_476460493" MODIFIED="1576361308277">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6083,8 +6265,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1576359595649" ID="ID_1091600786" MODIFIED="1576359872904">
 <richcontent TYPE="NODE"><html>
@@ -6140,8 +6321,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1576359880410" ID="ID_840157276" MODIFIED="1576360388579">
 <richcontent TYPE="NODE"><html>
@@ -6182,8 +6362,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1576293739311" ID="ID_40942327" MODIFIED="1576360933353">
 <richcontent TYPE="NODE"><html>
@@ -6221,8 +6400,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571424207731" ID="ID_1043737505" MODIFIED="1571597006953">
