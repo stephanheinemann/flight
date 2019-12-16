@@ -1,7 +1,7 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576445523968" POSITION="right" TEXT="SARON">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576470408887" POSITION="right" TEXT="SARON">
 <node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576366012443" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
@@ -4845,7 +4845,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576445523966" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576470408878" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
 <node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1576195852455" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1576181781383">
@@ -4879,7 +4879,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1571329870429" FOLDED="true" ID="ID_1307000896" MODIFIED="1576294097939" TEXT="2.03 Gas Turbine Engines">
+<node CREATED="1571329870429" FOLDED="true" ID="ID_1307000896" MODIFIED="1576470408840" TEXT="2.03 Gas Turbine Engines">
 <node CREATED="1576179392548" ID="ID_1353323" MODIFIED="1576181511077">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5631,8 +5631,114 @@
 <node CREATED="1571336538202" ID="ID_1926004849" MODIFIED="1571336545412" TEXT="2.07 Ignition Systems"/>
 <node CREATED="1571336652039" ID="ID_1673304721" MODIFIED="1571336660494" TEXT="2.08 Oil Systems"/>
 <node CREATED="1571337390420" ID="ID_403438234" MODIFIED="1571337401592" TEXT="2.09 Electrical Systems"/>
-<node CREATED="1571339436291" FOLDED="true" ID="ID_1248214412" MODIFIED="1576445523934" TEXT="2.10 Hydraulic Systems">
-<node CREATED="1576445082801" ID="ID_1462536552" MODIFIED="1576445506614">
+<node CREATED="1571339436291" FOLDED="true" ID="ID_1248214412" MODIFIED="1576470408852">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2.10 Hydraulic Systems
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        open versus closed
+
+        <ul>
+          <li>
+            one versus multiple systems
+          </li>
+        </ul>
+      </li>
+      <li>
+        reservoir
+
+        <ul>
+          <li>
+            thermal expansion
+          </li>
+          <li>
+            actuator ram displacement
+          </li>
+          <li>
+            small leaks
+          </li>
+          <li>
+            boiling and cavitation prevention
+          </li>
+          <li>
+            bootstrap
+          </li>
+        </ul>
+      </li>
+      <li>
+        pump
+      </li>
+      <li>
+        filter
+
+        <ul>
+          <li>
+            warning and bypass valve
+          </li>
+        </ul>
+      </li>
+      <li>
+        relieve valve
+
+        <ul>
+          <li>
+            thermal (10% excess pressure)
+          </li>
+          <li>
+            full flow (high pressure ACOV failure)
+          </li>
+          <li>
+            pressure maintaining / priority valve (primary versus secondary service)
+          </li>
+          <li>
+            pressure reducing valve (brakes)
+          </li>
+          <li>
+            flap
+          </li>
+        </ul>
+      </li>
+      <li>
+        selector valve
+      </li>
+      <li>
+        actuator (jack)
+
+        <ul>
+          <li>
+            hydraulic lock
+          </li>
+        </ul>
+      </li>
+      <li>
+        accumulator
+
+        <ul>
+          <li>
+            gas compression
+          </li>
+          <li>
+            cylinder and floating piston versus flexible diaphragm
+          </li>
+          <li>
+            non-return valve
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1576445082801" ID="ID_1462536552" MODIFIED="1576456044029">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5659,10 +5765,10 @@
             performed work is equal on both hydraulic ends
           </li>
           <li>
-            since pressure is equal, but area is different, force is different
+            since pressure is equal, but areas are different, forces are different
           </li>
           <li>
-            since work is equal and force is different, distance is different
+            since work is equal and forces are different, distances are different
           </li>
           <li>
             piston area determines work that can be performed given a limited force
@@ -5674,9 +5780,325 @@
 </html>
 </richcontent>
 </node>
+<node CREATED="1576456344087" ID="ID_634486880" MODIFIED="1576458777516">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fluids and Seals
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        incompressible
+      </li>
+      <li>
+        good lubricating properties
+      </li>
+      <li>
+        good viscosity (friction versus leaks)
+      </li>
+      <li>
+        high boiling and low freezing point
+      </li>
+      <li>
+        non flammable / high flash point
+      </li>
+      <li>
+        non corrosive / chemically invert
+      </li>
+      <li>
+        evaporation resistant
+      </li>
+      <li>
+        resistant to slushing and foaming
+      </li>
+      <li>
+        available and affordable
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        DEF STAN 91-48
+
+        <ul>
+          <li>
+            mineral
+          </li>
+          <li>
+            red
+          </li>
+          <li>
+            neoprene rubber seals
+          </li>
+          <li>
+            flammable
+          </li>
+        </ul>
+      </li>
+      <li>
+        SKYDROL
+
+        <ul>
+          <li>
+            synthetic
+          </li>
+          <li>
+            purple
+          </li>
+          <li>
+            synthetic rubber seals
+          </li>
+          <li>
+            damages skin and eyes
+          </li>
+          <li>
+            high flash point but flammable
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1576457276674" ID="ID_1482812988" MODIFIED="1576461006460">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Pumps
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        hand operated (double acting)
+      </li>
+      <li>
+        engine driven
+      </li>
+      <li>
+        electrically driven
+      </li>
+      <li>
+        pneumatically driven
+      </li>
+      <li>
+        ram air driven (RAD)
+      </li>
+      <li>
+        hydraulically driven - power transfer unit (PTU)
+
+        <ul>
+          <li>
+            fix swash plate angle
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <ul>
+      <li>
+        constant delivery / rate fixed volume
+
+        <ul>
+          <li>
+            automatic cut-out valve (ACOV): cut-in, cut-out
+          </li>
+          <li>
+            accumulator
+          </li>
+          <li>
+            non-return valve
+          </li>
+          <li>
+            leakage indicated by frequent loading and unloading
+          </li>
+        </ul>
+      </li>
+      <li>
+        constant pressure variable volume (on-demand)
+
+        <ul>
+          <li>
+            3000 to 4000 PSI
+          </li>
+          <li>
+            control piston and swash plate (angle)
+          </li>
+          <li>
+            depressurizing valve (offload valve)
+          </li>
+          <li>
+            case drain and heat exchanger
+          </li>
+        </ul>
+      </li>
+      <li>
+        firewall shutoff valve
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1576459749558" ID="ID_1189208997" MODIFIED="1576459939903">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Actuator / Jack
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        single-acting (spring-loaded)
+      </li>
+      <li>
+        double-acting unbalanced (single rod)
+      </li>
+      <li>
+        double-acting balanced (double rod)
+      </li>
+      <li>
+        hydraulic lock
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1576461464450" ID="ID_925384760" MODIFIED="1576462078556">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flow Control
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        non-return valve (check valve, non-reversible valve)
+      </li>
+      <li>
+        restrictor valve (choke valve)
+
+        <ul>
+          <li>
+            different flows in different directions
+          </li>
+        </ul>
+      </li>
+      <li>
+        selector valve
+
+        <ul>
+          <li>
+            mechanically or electrically operated
+          </li>
+        </ul>
+      </li>
+      <li>
+        shuttle valve
+
+        <ul>
+          <li>
+            normal versus alternate supply
+          </li>
+        </ul>
+      </li>
+      <li>
+        sequence valve
+
+        <ul>
+          <li>
+            mechanically or hydraulically operated
+          </li>
+          <li>
+            plunger displacement
+          </li>
+        </ul>
+      </li>
+      <li>
+        hydraulic fuse
+
+        <ul>
+          <li>
+            leak protection
+          </li>
+        </ul>
+      </li>
+      <li>
+        modulator
+
+        <ul>
+          <li>
+            initial full flow and subsequent restricted flow
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1576462137458" ID="ID_1026907046" MODIFIED="1576462559305">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Indicators and Switches
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        quantity
+      </li>
+      <li>
+        temperature
+      </li>
+      <li>
+        pressure
+      </li>
+      <li>
+        state
+      </li>
+      <li>
+        warning lights / annuciators
+      </li>
+      <li>
+        electronic schematics and control panels
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1571339670886" ID="ID_1386068437" MODIFIED="1571339676518" TEXT="2.11 Exhaust Systems"/>
-<node CREATED="1571339719060" FOLDED="true" ID="ID_1555393324" MODIFIED="1576445523943">
+<node CREATED="1571339719060" FOLDED="true" ID="ID_1555393324" MODIFIED="1576470408861">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5685,30 +6107,280 @@
     <p>
       2.12 Undercarriage and Brake Systems
     </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        configurations
+      </li>
+      <li>
+        shock absorption and dampening
+      </li>
+      <li>
+        extension and retraction
+      </li>
+      <li>
+        steering and towing
+      </li>
+      <li>
+        braking
+      </li>
+      <li>
+        indicators and levers
+      </li>
+      <li>
+        safety features
+      </li>
+      <li>
+        wheels
+      </li>
+    </ul>
   </body>
-</html></richcontent>
-<node CREATED="1572467038737" ID="ID_1622990577" MODIFIED="1576441546370">
+</html>
+</richcontent>
+<node CREATED="1576466871733" ID="ID_1811452481" MODIFIED="1576470033447">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Autobrake / Anti-Skid
+      Wheels and Tires
     </p>
     <p>
       
     </p>
     <ul>
       <li>
-        lock wheel protection
+        removable rims
       </li>
       <li>
-        touchdown protection
+        split and fusible plugs
+      </li>
+      <li>
+        creep and creep marks
+      </li>
+      <li>
+        tubes versus tubeless
+      </li>
+      <li>
+        radial versus bias (cross) ply (rating)
+      </li>
+      <li>
+        construction
+
+        <ul>
+          <li>
+            tread
+          </li>
+          <li>
+            crown
+          </li>
+          <li>
+            shoulder
+          </li>
+          <li>
+            sidewall
+          </li>
+          <li>
+            bead
+          </li>
+          <li>
+            inner wall
+          </li>
+          <li>
+            chine
+          </li>
+        </ul>
+      </li>
+      <li>
+        pressure
+
+        <ul>
+          <li>
+            low 20-50 PSI (30 PSI)
+          </li>
+          <li>
+            medium 50-70 PSI (60 PSI)
+          </li>
+          <li>
+            high 70-90 PSI (80 PSI)
+          </li>
+          <li>
+            extra high pressure &gt; 90 PSI (300PSI)
+          </li>
+        </ul>
+      </li>
+      <li>
+        limiting speed
+      </li>
+      <li>
+        hydroplaning
+
+        <ul>
+          <li>
+            rotating v = 9 * sqrt(P)
+          </li>
+          <li>
+            non-rotating v = 7.7 * sqrt(P)
+          </li>
+        </ul>
+      </li>
+      <li>
+        wear and damage
+      </li>
+      <li>
+        sensors, indicators, annunciators, displays
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
+</node>
+<node CREATED="1576468229224" ID="ID_1781247628" MODIFIED="1576468675219">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Brakes
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        master and slave cylinder versus hydraulic metering valve
+      </li>
+      <li>
+        rotating plates (rotors)
+
+        <ul>
+          <li>
+            better heat dissipation in chained rotors
+          </li>
+          <li>
+            carbon brakes versus steel brakes
+          </li>
+        </ul>
+      </li>
+      <li>
+        pad assemblies (stators)
+      </li>
+      <li>
+        brake adjusters
+      </li>
+      <li>
+        actuating pistons
+      </li>
+      <li>
+        pressure plate and thrust plate
+      </li>
+      <li>
+        breake torque rods
+      </li>
+      <li>
+        retraction pin (pad wear indicator pin)
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        brake fading
+      </li>
+      <li>
+        brake drag
+      </li>
+      <li>
+        brake fire
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1572467038737" ID="ID_1622990577" MODIFIED="1576469839934">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Autobrake / Anti-Skid (Brake Modulation)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        deceleration is controlling parameter
+      </li>
+      <li>
+        deceleration datum determines brake modulation activation
+      </li>
+      <li>
+        components
+
+        <ul>
+          <li>
+            wheel speed sensor
+          </li>
+          <li>
+            anti-skid unit (ASU)
+          </li>
+          <li>
+            anti-skid valve
+          </li>
+          <li>
+            brake torque sensor
+          </li>
+        </ul>
+      </li>
+      <li>
+        touchdown protection
+
+        <ul>
+          <li>
+            no braking before touchdown
+          </li>
+          <li>
+            disabled at 80 kts wheel speed
+          </li>
+        </ul>
+      </li>
+      <li>
+        locked wheel protection
+
+        <ul>
+          <li>
+            release pressure to any locked wheel
+          </li>
+          <li>
+            disabled below 20 kts wheel speed
+          </li>
+        </ul>
+      </li>
+      <li>
+        skid prevention
+
+        <ul>
+          <li>
+            disabled below 10 kts wheel speed (some systems)
+          </li>
+        </ul>
+      </li>
+      <li>
+        brakes can be automatically activated with weight off wheels after take-off
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1571417536290" FOLDED="true" ID="ID_20123901" MODIFIED="1576441567235" TEXT="2.13 Anti-Icing and De-Icing Systems">
@@ -5895,7 +6567,45 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571423291475" ID="ID_1304706377" MODIFIED="1571423298158" TEXT="2.15 Pneumatic Systems"/>
+<node CREATED="1571423291475" ID="ID_1304706377" MODIFIED="1576462830971">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2.15 Pneumatic Systems
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        air is highly compressible (disadvantage)
+      </li>
+      <li>
+        smaller systems can be driven pneumatically
+      </li>
+      <li>
+        compressor
+      </li>
+      <li>
+        filter
+      </li>
+      <li>
+        accumulator
+      </li>
+      <li>
+        valves
+      </li>
+      <li>
+        typical pressure 1000PSI
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1571423467329" ID="ID_1285076520" MODIFIED="1571423474124" TEXT="2.16 Oxygen Systems"/>
 <node CREATED="1571423605458" ID="ID_756681702" MODIFIED="1571423742044" TEXT="2.17 Heating Systems"/>
 <node CREATED="1571423731172" FOLDED="true" ID="ID_78825032" MODIFIED="1576363728623">
@@ -6425,7 +7135,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568173515599" FOLDED="true" ID="ID_228371769" MODIFIED="1575845527282" TEXT="Instruments">
+<node CREATED="1568173515599" FOLDED="true" ID="ID_228371769" MODIFIED="1576470408886" TEXT="Instruments">
 <node CREATED="1571427682321" ID="ID_452501545" MODIFIED="1571427696475" TEXT="3.01 Pitot Static System"/>
 <node CREATED="1571427847687" FOLDED="true" ID="ID_597355976" MODIFIED="1575780067943" TEXT="3.02 Airspeed Indicator">
 <node CREATED="1571428317400" ID="ID_1249929966" MODIFIED="1571428358882">
@@ -6819,7 +7529,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571511813964" FOLDED="true" ID="ID_1899769253" MODIFIED="1575843315235" TEXT="Advanced Avionics">
+<node CREATED="1571511813964" FOLDED="true" ID="ID_1899769253" MODIFIED="1576470408884" TEXT="Advanced Avionics">
 <node CREATED="1571511847731" FOLDED="true" ID="ID_1043332875" MODIFIED="1575780067953" TEXT="Inertial Guidance / Navigation">
 <node CREATED="1571511860897" ID="ID_466892123" MODIFIED="1571512746475">
 <richcontent TYPE="NODE"><html>
@@ -7263,7 +7973,7 @@
 </node>
 <node CREATED="1571514026350" ID="ID_354818846" MODIFIED="1571514057039" TEXT="Automatic Depdendent Surveillance Broadcast (ADS-B)"/>
 </node>
-<node CREATED="1571688196576" FOLDED="true" ID="ID_1381806881" MODIFIED="1575843315229">
+<node CREATED="1571688196576" FOLDED="true" ID="ID_1381806881" MODIFIED="1576470408881">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7308,7 +8018,7 @@
 </html></richcontent>
 <node CREATED="1571688235461" ID="ID_908331825" MODIFIED="1571688239177" TEXT="Altitude Alert"/>
 <node CREATED="1571688255182" ID="ID_1554790256" MODIFIED="1571688260091" TEXT="Overspeed and Stall Warning"/>
-<node CREATED="1571688272457" FOLDED="true" ID="ID_686133653" MODIFIED="1575780067963" TEXT="Ground Proximity Warning System (GPWS)">
+<node CREATED="1571688272457" FOLDED="true" ID="ID_686133653" MODIFIED="1576470408879" TEXT="Ground Proximity Warning System (GPWS)">
 <node CREATED="1571691065210" ID="ID_213020306" MODIFIED="1571691351040">
 <richcontent TYPE="NODE"><html>
   <head>
