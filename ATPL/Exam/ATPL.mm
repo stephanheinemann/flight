@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576544677193" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576542635071" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576623499252" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576623499231" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -4289,7 +4289,9 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571179085250" ID="ID_926128685" MODIFIED="1571179100592" TEXT="1.41 De-Icing and Anti-Icling Equipment"/>
+<node CREATED="1571179085250" FOLDED="true" ID="ID_926128685" MODIFIED="1576623499204" TEXT="1.41 De-Icing and Anti-Icling Equipment">
+<node CREATED="1576618929914" ID="ID_1389155237" MODIFIED="1576618939600" TEXT="Ground Icing Detection Systems (GIDS)"/>
+</node>
 <node CREATED="1571179144541" ID="ID_318052441" MODIFIED="1571179445427">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4846,7 +4848,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576544677183" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576623499251" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
 <node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1576542661651" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1576181781383">
@@ -6131,8 +6133,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1576466871733" ID="ID_1811452481" MODIFIED="1576470033447">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6294,8 +6295,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1572467038737" ID="ID_1622990577" MODIFIED="1576523228146">
 <richcontent TYPE="NODE"><html>
@@ -6376,7 +6376,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1571417536290" FOLDED="true" ID="ID_20123901" MODIFIED="1576544677153" TEXT="2.13 Anti-Icing and De-Icing Systems">
+<node CREATED="1571417536290" FOLDED="true" ID="ID_20123901" MODIFIED="1576623499237" TEXT="2.13 Anti-Icing and De-Icing Systems">
 <node CREATED="1571417673651" ID="ID_436647626" MODIFIED="1576544380321">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6436,7 +6436,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571418901746" ID="ID_852356804" MODIFIED="1571419191163">
+<node CREATED="1571418901746" ID="ID_852356804" MODIFIED="1576608241182">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6457,10 +6457,10 @@
 
         <ul>
           <li>
-            +10 degC for Type I fluid
+            +10 degC frreezing point buffer for Type I fluid
           </li>
           <li>
-            + 7 degC for Type II or IV fluid
+            + 7 degC freezing point buffer for Type II or IV fluid
           </li>
         </ul>
       </li>
@@ -6468,13 +6468,15 @@
         contact manufacturer for Type III fluid
       </li>
       <li>
-        LOUT must not be higher than OAT or skin temperature
+        LOUT must not be higher than OAT or aircraft skin temperature
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1571420443713" ID="ID_810746995" MODIFIED="1571420629870">
+<node CREATED="1571420443713" ID="ID_810746995" MODIFIED="1576608528944">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6499,6 +6501,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 </node>
 <node CREATED="1571420876034" FOLDED="true" ID="ID_1781514654" MODIFIED="1576187526770" TEXT="2.14 Fire Detection and Extinguishing Systems">
@@ -7357,8 +7360,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1571441181767" ID="ID_277976817" MODIFIED="1576539872155">
@@ -7394,8 +7396,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 </node>
@@ -10191,8 +10192,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571856245414" ID="ID_1387124390" MODIFIED="1576527266036">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11521,8 +11521,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571705639473" ID="ID_1841809956" MODIFIED="1571854070345">
 <richcontent TYPE="NODE"><html>
@@ -11577,8 +11576,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1571705477861" ID="ID_1408529317" MODIFIED="1572114971928">
 <richcontent TYPE="NODE"><html>
@@ -17189,7 +17187,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568671682779" FOLDED="true" ID="ID_1658639647" MODIFIED="1576542658273" POSITION="right" TEXT="Study Material">
+<node CREATED="1568671682779" FOLDED="true" ID="ID_1658639647" MODIFIED="1576623499256" POSITION="right" TEXT="Study Material">
 <node CREATED="1568671700482" FOLDED="true" ID="ID_217896736" MODIFIED="1575780068297">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -17255,7 +17253,7 @@
 <icon BUILTIN="idea"/>
 </node>
 </node>
-<node CREATED="1568671726237" FOLDED="true" ID="ID_1380778162" MODIFIED="1575780068302" TEXT="TC / NavCanada">
+<node CREATED="1568671726237" FOLDED="true" ID="ID_1380778162" MODIFIED="1576623499252" TEXT="TC / NavCanada">
 <node CREATED="1568671734720" ID="ID_1022674447" MODIFIED="1568671737822" TEXT="AIP"/>
 <node CREATED="1568671740725" FOLDED="true" ID="ID_825659791" MODIFIED="1575780068301" TEXT="AIM">
 <icon BUILTIN="idea"/>
@@ -17275,13 +17273,15 @@
 </node>
 <node CREATED="1568674586021" ID="ID_1727617852" MODIFIED="1568674598849" TEXT="Aerodrome Standards and Recommended Practices"/>
 </node>
-<node CREATED="1568671893663" FOLDED="true" ID="ID_1218729693" MODIFIED="1576542658265" TEXT="Weather">
+<node CREATED="1568671893663" FOLDED="true" ID="ID_1218729693" MODIFIED="1576623499253" TEXT="Weather">
 <node CREATED="1568671904065" ID="ID_1030988294" MODIFIED="1568671911048" TEXT="Air Command Weather Manual"/>
 <node CREATED="1568671914218" ID="ID_886306784" MODIFIED="1568672057251" TEXT="BC Weather Guide / Aviation Weather Hazards"/>
 <node CREATED="1568671967758" ID="ID_1483860915" MODIFIED="1568671975335" TEXT="AWS Services Guide"/>
 <node CREATED="1568671984132" ID="ID_1627165801" MODIFIED="1568672006890" TEXT="Weather Hazards Guide"/>
 <node CREATED="1568672156942" ID="ID_1232469084" MODIFIED="1568672159670" TEXT="TP 14052 - Guidelines for Aircraft Ground - Icing Operations - Transport Canada"/>
-<node CREATED="1568672206364" ID="ID_556857642" MODIFIED="1568672208314" TEXT="TP 10643 - When in Doubt... - Transport Canada"/>
+<node CREATED="1568672206364" ID="ID_556857642" MODIFIED="1576608577460" TEXT="TP 10643 - When in Doubt... - Transport Canada">
+<icon BUILTIN="idea"/>
+</node>
 </node>
 <node CREATED="1571511735162" ID="ID_564986092" MODIFIED="1571527269317" TEXT="Oxford Aviation Manual">
 <icon BUILTIN="idea"/>
