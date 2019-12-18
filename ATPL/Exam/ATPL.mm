@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576629327543" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576629324722" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576704361524" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576704361522" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -61,7 +61,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1576366008371">
+<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1576704361496">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -87,7 +87,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1568327234243" ID="ID_1382274443" MODIFIED="1574108075893">
+<node CREATED="1568327234243" ID="ID_1382274443" MODIFIED="1576697819791">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -106,8 +106,9 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1568327544891" ID="ID_1922978008" MODIFIED="1568336883235">
+<node CREATED="1568327544891" ID="ID_1922978008" MODIFIED="1576701821809">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -121,7 +122,7 @@
     </p>
     <ul>
       <li>
-        <font size="3">includes 15 min post flight duties</font>
+        <font size="3">includes 15 minutes post flight duties</font>
       </li>
       <li>
         <font size="3">max. 14 consecutive hours in 24 consecutive hours</font>
@@ -148,13 +149,12 @@
         <font size="3">exceptions may be authorized in the AOC</font>
       </li>
     </ul>
-    <p>
-      
-    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1568327614580" ID="ID_114771698" MODIFIED="1568327782122">
+<node CREATED="1568327614580" ID="ID_114771698" MODIFIED="1576701792750">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -168,19 +168,21 @@
     </p>
     <ul>
       <li>
-        <font size="3">On Standby: specific location and report within &lt;= 1h </font>
+        <font size="3">On Standby: specific location and report within &lt;= 1hour</font>
       </li>
       <li>
-        <font size="3">On Call: report within &lt;= 1h </font>
+        <font size="3">On Call: report within &lt;= 1hour </font>
       </li>
       <li>
-        <font size="3">On Reserve: report within &gt; 1h</font>
+        <font size="3">On Reserve: report within &gt; 1hour</font>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1568327837237" ID="ID_176350889" MODIFIED="1568327957445">
+<node CREATED="1568327837237" ID="ID_176350889" MODIFIED="1576701803293">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -194,7 +196,7 @@
     </p>
     <ul>
       <li>
-        <font size="3">uninterrupted 8 h of consecutive sleep in suitable accomodation </font>
+        <font size="3">uninterrupted 8 hours of consecutive sleep in suitable accomodation </font>
       </li>
       <li>
         <font size="3">time to commute </font>
@@ -204,9 +206,11 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1568334563134" ID="ID_1456146745" MODIFIED="1568335090868">
+<node CREATED="1568334563134" ID="ID_1456146745" MODIFIED="1576700120556">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -246,8 +250,9 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1568939215743" ID="ID_115231217" MODIFIED="1568939583477">
+<node CREATED="1568939215743" ID="ID_115231217" MODIFIED="1576701112094">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -284,8 +289,9 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1568939780393" ID="ID_924830446" MODIFIED="1568939963234">
+<node CREATED="1568939780393" ID="ID_924830446" MODIFIED="1576701468257">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -307,8 +313,9 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1568939989087" ID="ID_1035279483" MODIFIED="1568940089256">
+<node CREATED="1568939989087" ID="ID_1035279483" MODIFIED="1576701637677">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -330,8 +337,9 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1568941349966" ID="ID_411903113" MODIFIED="1568941539412">
+<node CREATED="1568941349966" ID="ID_411903113" MODIFIED="1576701967648">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -359,8 +367,9 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1568941757956" ID="ID_789879009" MODIFIED="1568942289511">
+<node CREATED="1568941757956" ID="ID_789879009" MODIFIED="1576702582029">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -385,8 +394,9 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1568942407116" ID="ID_215437811" MODIFIED="1568942873762">
+<node CREATED="1568942407116" ID="ID_215437811" MODIFIED="1576703346552">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -417,8 +427,9 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1568996218527" FOLDED="true" ID="ID_381676043" MODIFIED="1575850490787">
+<node CREATED="1568996218527" FOLDED="true" ID="ID_381676043" MODIFIED="1576704361434">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -443,6 +454,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 <node CREATED="1568999209156" ID="ID_1754657585" MODIFIED="1568999339101">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -634,7 +646,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569274082808" FOLDED="true" ID="ID_96945613" MODIFIED="1575780067805">
+<node CREATED="1569274082808" FOLDED="true" ID="ID_96945613" MODIFIED="1576704361437">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -697,7 +709,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569274096513" FOLDED="true" ID="ID_1509217189" MODIFIED="1576027206418">
+<node CREATED="1569274096513" FOLDED="true" ID="ID_1509217189" MODIFIED="1576704361452">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -722,6 +734,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 <node CREATED="1569277998461" ID="ID_1773039314" MODIFIED="1575850497475">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1021,7 +1034,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569274115428" FOLDED="true" ID="ID_366097208" MODIFIED="1576358569830">
+<node CREATED="1569274115428" FOLDED="true" ID="ID_366097208" MODIFIED="1576704361476">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1046,6 +1059,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 <node CREATED="1569287429711" ID="ID_293470951" MODIFIED="1575850454421">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1939,7 +1953,7 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1574106698600" ID="ID_154141422" MODIFIED="1574106821813">
+<node CREATED="1574106698600" ID="ID_154141422" MODIFIED="1576703533196">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1961,6 +1975,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 </node>
 <node CREATED="1569785860152" FOLDED="true" ID="ID_1710772429" MODIFIED="1575926628773" TEXT="1.14 VFR Flight">
@@ -17191,7 +17206,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568671682779" FOLDED="true" ID="ID_1658639647" MODIFIED="1576629303084" POSITION="right" TEXT="Study Material">
+<node CREATED="1568671682779" FOLDED="true" ID="ID_1658639647" MODIFIED="1576697721491" POSITION="right" TEXT="Study Material">
 <node CREATED="1568671700482" FOLDED="true" ID="ID_217896736" MODIFIED="1575780068297">
 <richcontent TYPE="NODE"><html>
   <head>
