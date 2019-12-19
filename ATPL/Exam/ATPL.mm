@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576715739021" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576715739008" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576722047185" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576722047184" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -152,8 +152,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1568327614580" ID="ID_114771698" MODIFIED="1576701792750">
@@ -180,8 +179,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1568327837237" ID="ID_176350889" MODIFIED="1576701803293">
@@ -208,8 +206,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1568334563134" ID="ID_1456146745" MODIFIED="1576700120556">
@@ -581,8 +578,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1569277821797" ID="ID_854673184" MODIFIED="1575850488568">
@@ -630,8 +626,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1569278567909" ID="ID_167821188" MODIFIED="1569278760010">
@@ -789,8 +784,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1569278887082" ID="ID_1573739209" MODIFIED="1576708193237">
@@ -1151,8 +1145,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1569355545849" ID="ID_1836421546" MODIFIED="1576355306855">
@@ -3691,7 +3684,7 @@
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1571166316411" ID="ID_865272226" MODIFIED="1571166338194" TEXT="1.31 Transportation Safety Board and Aircraft Accidents"/>
-<node CREATED="1571166347496" FOLDED="true" ID="ID_289569663" MODIFIED="1575850702908">
+<node CREATED="1571166347496" FOLDED="true" ID="ID_289569663" MODIFIED="1576721533300">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3799,7 +3792,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1571167665117" FOLDED="true" ID="ID_738976037" MODIFIED="1576026192474" TEXT="1.33 Operational and Emergency Equipment">
+<node CREATED="1571167665117" FOLDED="true" ID="ID_738976037" MODIFIED="1576721539720" TEXT="1.33 Operational and Emergency Equipment">
 <node CREATED="1571167683745" ID="ID_628907529" MODIFIED="1571167861193">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3883,7 +3876,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1571168751901" ID="ID_13730826" MODIFIED="1574107782280">
+<node CREATED="1571168751901" ID="ID_13730826" MODIFIED="1576721814755">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3905,8 +3898,9 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1571168779387" FOLDED="true" ID="ID_1082738327" MODIFIED="1576715738989">
+<node CREATED="1571168779387" FOLDED="true" ID="ID_1082738327" MODIFIED="1576722039864">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3919,11 +3913,12 @@
       
     </p>
     <p>
-      <i>Note that all altitudes are given in cabin pressure. Most pressurized aircraft operate at cabin pressure altitudes of 8000ft or below. Does an aircraft with CPALT 8000ft flying at FL250 not require oxygen? The definitions do not appear to be correct. CARs 605.31</i>
+      <i>Note that all altitudes are given in cabin pressure. Most pressurized aircraft operate at cabin pressure altitudes of 8000ft or below. Does an aircraft with CPALT 8000ft flying at FL250 not require supplemental oxygen? The definitions do not appear to be correct. CARs 605.31</i>
     </p>
   </body>
-</html></richcontent>
-<node CREATED="1571168801765" ID="ID_1090588926" MODIFIED="1571169842543">
+</html>
+</richcontent>
+<node CREATED="1571168801765" ID="ID_1090588926" MODIFIED="1576719630713">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3966,8 +3961,9 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1571168818324" ID="ID_1112778612" MODIFIED="1571171022547">
+<node CREATED="1571168818324" ID="ID_1112778612" MODIFIED="1576721345056">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3990,10 +3986,13 @@
           <li>
             entire flight period exceeding 30 minutes
           </li>
+          <li>
+            air transport service: at least 30 minutes for all crew members and 10% PAX (at least one)
+          </li>
         </ul>
       </li>
       <li>
-        above 13000ft ASL CPALT up to FL250
+        above 13000ft ASL CPALT
 
         <ul>
           <li>
@@ -4003,30 +4002,26 @@
             entire flight period
           </li>
           <li>
-            air transport service: at least 10 minutes for all PAX, at least 30 minutes for 10% PAX (at least one)
+            air transport service: at least 10 minutes for all PAX, at least 30 minutes for all crew members and 10% PAX (at least one)
           </li>
         </ul>
       </li>
       <li>
-        above 13000ft ASL CPALT above FL250
+        aircraft certified for flights above FL250 and operated in air transport service
 
         <ul>
           <li>
-            all persons on board
-          </li>
-          <li>
-            entire flight period
-          </li>
-          <li>
-            air transport service: at least 10 minutes for all PAX, at least 30 minutes for 10% PAX (at least one), 2 hours for flight crew members
+            2 hours for flight crew members
           </li>
         </ul>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1571171072086" ID="ID_1037070784" MODIFIED="1571171675889">
+<node CREATED="1571171072086" ID="ID_1037070784" MODIFIED="1576719080544">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4049,7 +4044,7 @@
         </ul>
       </li>
       <li>
-        above 13000ft ASL CPALT up to FL250
+        above 13000ft ASL CPALT
 
         <ul>
           <li>
@@ -4058,7 +4053,7 @@
         </ul>
       </li>
       <li>
-        above FL250 up to FL410
+        at or above FL250 up to FL410
 
         <ul>
           <li>
@@ -4077,7 +4072,9 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
 </node>
 </node>
 <node CREATED="1571171758809" ID="ID_588647730" MODIFIED="1571171931928">
@@ -11957,8 +11954,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1572643477285" ID="ID_1388532118" MODIFIED="1572643494118" TEXT="Carbon Monoxide Poisoning"/>
