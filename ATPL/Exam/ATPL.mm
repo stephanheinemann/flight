@@ -1,13 +1,13 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576722047185" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576722047184" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576732094163" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576732094161" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
 <node CREATED="1568248671336" ID="ID_1155718466" MODIFIED="1568248678874" TEXT="1.04 Aeroplane Class Ratings"/>
-<node CREATED="1568248686329" FOLDED="true" ID="ID_162885590" MODIFIED="1576715738883" TEXT="1.05 Aircraft Type Ratings">
+<node CREATED="1568248686329" FOLDED="true" ID="ID_162885590" MODIFIED="1576728987366" TEXT="1.05 Aircraft Type Ratings">
 <node CREATED="1568245337961" ID="ID_75602462" MODIFIED="1576704988855">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -34,7 +34,7 @@
 </node>
 </node>
 <node CREATED="1568248706165" ID="ID_314960253" MODIFIED="1568248713473" TEXT="1.06 Instrument Rating"/>
-<node CREATED="1568248720694" FOLDED="true" ID="ID_544994370" MODIFIED="1576715738888" TEXT="1.07 CARs General Provisions">
+<node CREATED="1568248720694" FOLDED="true" ID="ID_544994370" MODIFIED="1576728996654" TEXT="1.07 CARs General Provisions">
 <node CREATED="1568251901677" ID="ID_228267398" MODIFIED="1576708099351">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -63,7 +63,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1576715738970">
+<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1576732094093">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -650,7 +650,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569274082808" FOLDED="true" ID="ID_96945613" MODIFIED="1576704361437">
+<node CREATED="1569274082808" FOLDED="true" ID="ID_96945613" MODIFIED="1576731974084">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -666,7 +666,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1569276803155" ID="ID_894625942" MODIFIED="1569276951567">
+<node CREATED="1569276803155" ID="ID_894625942" MODIFIED="1576729386876">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -691,8 +691,9 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1569278273880" ID="ID_286554040" MODIFIED="1569278525315">
+<node CREATED="1569278273880" ID="ID_286554040" MODIFIED="1576729764437">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -706,11 +707,13 @@
     </p>
     <ul>
       <li>
-        Day VFR: less than 2 SM below 1000 ft AGL in uncontrolled airspace if authorized in AOC
+        DVFR: less than 2 SM below 1000 ft AGL in uncontrolled airspace if authorized in AOC
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
 </node>
 </node>
 <node CREATED="1569274096513" FOLDED="true" ID="ID_1509217189" MODIFIED="1576715738932">
@@ -2816,7 +2819,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1570128169387" FOLDED="true" ID="ID_377019714" MODIFIED="1575780067873">
+<node CREATED="1570128169387" FOLDED="true" ID="ID_377019714" MODIFIED="1576732094104">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2853,7 +2856,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1570129088326" ID="ID_1540591317" MODIFIED="1570129127234">
+<node CREATED="1570129088326" ID="ID_1540591317" MODIFIED="1576732069416">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2872,6 +2875,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 <node CREATED="1570129141480" ID="ID_788719889" MODIFIED="1575507702644">
 <richcontent TYPE="NODE"><html>
@@ -3916,8 +3920,7 @@
       <i>Note that all altitudes are given in cabin pressure. Most pressurized aircraft operate at cabin pressure altitudes of 8000ft or below. Does an aircraft with CPALT 8000ft flying at FL250 not require supplemental oxygen? The definitions do not appear to be correct. CARs 605.31</i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1571168801765" ID="ID_1090588926" MODIFIED="1576719630713">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4017,8 +4020,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1571171072086" ID="ID_1037070784" MODIFIED="1576719080544">
@@ -4072,8 +4074,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 </node>
