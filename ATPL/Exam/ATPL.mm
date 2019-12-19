@@ -1,14 +1,14 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576704361524" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576704361522" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1576715739021" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1576715739008" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
 <node CREATED="1568248671336" ID="ID_1155718466" MODIFIED="1568248678874" TEXT="1.04 Aeroplane Class Ratings"/>
-<node CREATED="1568248686329" FOLDED="true" ID="ID_162885590" MODIFIED="1575780067796" TEXT="1.05 Aircraft Type Ratings">
-<node CREATED="1568245337961" ID="ID_75602462" MODIFIED="1575779217860">
+<node CREATED="1568248686329" FOLDED="true" ID="ID_162885590" MODIFIED="1576715738883" TEXT="1.05 Aircraft Type Ratings">
+<node CREATED="1568245337961" ID="ID_75602462" MODIFIED="1576704988855">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -30,11 +30,12 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 </node>
 <node CREATED="1568248706165" ID="ID_314960253" MODIFIED="1568248713473" TEXT="1.06 Instrument Rating"/>
-<node CREATED="1568248720694" FOLDED="true" ID="ID_544994370" MODIFIED="1575780067798" TEXT="1.07 CARs General Provisions">
-<node CREATED="1568251901677" ID="ID_228267398" MODIFIED="1568327093033">
+<node CREATED="1568248720694" FOLDED="true" ID="ID_544994370" MODIFIED="1576715738888" TEXT="1.07 CARs General Provisions">
+<node CREATED="1568251901677" ID="ID_228267398" MODIFIED="1576708099351">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -59,9 +60,10 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1576704361496">
+<node CREATED="1568327213275" FOLDED="true" ID="ID_666978895" MODIFIED="1576715738970">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -429,7 +431,7 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1568996218527" FOLDED="true" ID="ID_381676043" MODIFIED="1576704361434">
+<node CREATED="1568996218527" FOLDED="true" ID="ID_381676043" MODIFIED="1576715738911">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -549,7 +551,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569272752308" ID="ID_439516675" MODIFIED="1569612157902">
+<node CREATED="1569272752308" ID="ID_439516675" MODIFIED="1576712515721">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -561,6 +563,9 @@
     <ul>
       <li>
         3 take-offs and landings within previous 90 days
+      </li>
+      <li>
+        PPC valid for 24 months
       </li>
       <li>
         PPC expired for less than 6 months: emergency procedures and PPC
@@ -576,7 +581,9 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
 </node>
 <node CREATED="1569277821797" ID="ID_854673184" MODIFIED="1575850488568">
 <richcontent TYPE="NODE"><html>
@@ -602,28 +609,30 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1569278398982" ID="ID_253945643" MODIFIED="1569278494618">
+<node CREATED="1569278398982" ID="ID_253945643" MODIFIED="1576714087595">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Obstacle Clearance
+      VFR Obstacle Clearance
     </p>
     <p>
       
     </p>
     <ul>
       <li>
-        Night VFR: min. 1000 ft within 3 NM above obstacle
+        NVFR: min. 1000 ft within 3 NM above obstacle
       </li>
       <li>
-        Day VFR: min. 300 ft within 300 ft above obstacle
+        DVFR: min. 300 ft within 300 ft above obstacle
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
 </node>
 <node CREATED="1569278567909" ID="ID_167821188" MODIFIED="1569278760010">
 <richcontent TYPE="NODE"><html>
@@ -709,7 +718,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1569274096513" FOLDED="true" ID="ID_1509217189" MODIFIED="1576704361452">
+<node CREATED="1569274096513" FOLDED="true" ID="ID_1509217189" MODIFIED="1576715738932">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -759,30 +768,32 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1569278115246" ID="ID_1636033233" MODIFIED="1569278241970">
+<node CREATED="1569278115246" ID="ID_1636033233" MODIFIED="1576714102522">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Obstacle Clearance
+      VFR Obstacle Clearance
     </p>
     <p>
       
     </p>
     <ul>
       <li>
-        Night VFR: min. 1000 ft within 3 NM above obstacle
+        NVFR: min. 1000 ft within 3 NM above obstacle
       </li>
       <li>
-        Day VFR: min. 500 ft within 500 ft above obstacle
+        DVFR: min. 500 ft within 500 ft above obstacle
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1569278887082" ID="ID_1573739209" MODIFIED="1569279070972">
+<node CREATED="1569278887082" ID="ID_1573739209" MODIFIED="1576708193237">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -804,6 +815,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 <node CREATED="1569281573442" ID="ID_1729397033" MODIFIED="1576027095452">
 <richcontent TYPE="NODE"><html>
@@ -1007,7 +1019,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569284043350" ID="ID_1450281365" MODIFIED="1569611980062">
+<node CREATED="1569284043350" ID="ID_1450281365" MODIFIED="1576713050243">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1032,9 +1044,10 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1569274115428" FOLDED="true" ID="ID_366097208" MODIFIED="1576704361476">
+<node CREATED="1569274115428" FOLDED="true" ID="ID_366097208" MODIFIED="1576715738948">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1117,28 +1130,30 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1569355197333" ID="ID_860289433" MODIFIED="1569355382081">
+<node CREATED="1569355197333" ID="ID_860289433" MODIFIED="1576714046590">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Obstacle Clearance
+      VFR Obstacle Clearance
     </p>
     <p>
       
     </p>
     <ul>
       <li>
-        Day VFR: 1000 ft AGL within 1000 ft horizontal distance
+        NVFR: 1000 ft above highest obstacle within 5 NM, 2000 ft above highest obstacle within 5 NM in designated mountainous regions
       </li>
       <li>
-        NVFR: 1000 ft above highest obstacle within 5 NM, 2000 ft above highest obstacle within 5 NM in designated mountainous regions
+        DVFR: 1000 ft AGL within 1000 ft horizontal distance
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
 </node>
 <node CREATED="1569355545849" ID="ID_1836421546" MODIFIED="1576355306855">
 <richcontent TYPE="NODE"><html>
@@ -1561,7 +1576,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569364534432" ID="ID_886033734" MODIFIED="1569611905742">
+<node CREATED="1569364534432" ID="ID_886033734" MODIFIED="1576713063532">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1589,9 +1604,10 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1569439775195" FOLDED="true" ID="ID_1537078320" MODIFIED="1575780067835">
+<node CREATED="1569439775195" FOLDED="true" ID="ID_1537078320" MODIFIED="1576715738957">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1668,7 +1684,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569443249485" ID="ID_1915761200" MODIFIED="1569443344317">
+<node CREATED="1569443249485" ID="ID_1915761200" MODIFIED="1576714694988">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1696,8 +1712,9 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1569443258041" ID="ID_451803918" MODIFIED="1569443562408">
+<node CREATED="1569443258041" ID="ID_451803918" MODIFIED="1576714969364">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1719,6 +1736,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 <node CREATED="1569443788565" ID="ID_407672218" MODIFIED="1569609886028">
 <richcontent TYPE="NODE"><html>
@@ -1876,7 +1894,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569611162370" ID="ID_1967018689" MODIFIED="1569611303456">
+<node CREATED="1569611162370" ID="ID_1967018689" MODIFIED="1576715321642">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1901,8 +1919,9 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1569611621773" ID="ID_1592305663" MODIFIED="1569611848038">
+<node CREATED="1569611621773" ID="ID_1592305663" MODIFIED="1576713321570">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1930,6 +1949,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 </node>
 <node CREATED="1574106412534" ID="ID_434152860" MODIFIED="1576009278005">
@@ -2372,7 +2392,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1575780067871" TEXT="1.19 IFR Flight">
+<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1576715738985" TEXT="1.19 IFR Flight">
 <node CREATED="1569972903894" ID="ID_1927607732" MODIFIED="1575316027430">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2567,7 +2587,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569976929588" ID="ID_1529647965" MODIFIED="1569977468899">
+<node CREATED="1569976929588" ID="ID_1529647965" MODIFIED="1576708539682">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2592,6 +2612,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 <node CREATED="1569978569428" FOLDED="true" ID="ID_1973426945" MODIFIED="1575780067862">
 <richcontent TYPE="NODE"><html>
@@ -3885,7 +3906,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1571168779387" FOLDED="true" ID="ID_1082738327" MODIFIED="1576277635674">
+<node CREATED="1571168779387" FOLDED="true" ID="ID_1082738327" MODIFIED="1576715738989">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4863,7 +4884,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576623499251" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1576715637170" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
 <node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1576542661651" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1576181781383">
@@ -8115,7 +8136,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173570034" FOLDED="true" ID="ID_1285060949" MODIFIED="1576537010138" TEXT="Navigation">
+<node CREATED="1568173570034" FOLDED="true" ID="ID_1285060949" MODIFIED="1576715739012" TEXT="Navigation">
 <node CREATED="1572722855252" ID="ID_1252294476" MODIFIED="1572722864170" TEXT="5.01 Basic Navigation Concepts"/>
 <node CREATED="1572723482390" FOLDED="true" ID="ID_787148057" MODIFIED="1575780067970" TEXT="5.02 Navigation Calculations">
 <node CREATED="1572727356484" ID="ID_590399689" MODIFIED="1572727496625">
@@ -9253,7 +9274,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1576544677193" TEXT="Flight Operations">
+<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1576708293662" TEXT="Flight Operations">
 <node CREATED="1571851864451" ID="ID_416756973" MODIFIED="1572288401755">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11806,10 +11827,10 @@
 </node>
 <node CREATED="1571853418545" ID="ID_1219340529" MODIFIED="1571853423895" TEXT="Stability"/>
 </node>
-<node CREATED="1568173906119" FOLDED="true" ID="ID_1943574224" MODIFIED="1576627478807" TEXT="Human Factors">
+<node CREATED="1568173906119" FOLDED="true" ID="ID_1943574224" MODIFIED="1576715739020" TEXT="Human Factors">
 <icon BUILTIN="closed"/>
-<node CREATED="1572558188251" FOLDED="true" ID="ID_1717275900" MODIFIED="1576627478806" TEXT="4.19 Aviation Physiology">
-<node CREATED="1572643026817" FOLDED="true" ID="ID_666486395" MODIFIED="1576627478793">
+<node CREATED="1572558188251" FOLDED="true" ID="ID_1717275900" MODIFIED="1576715739018" TEXT="4.19 Aviation Physiology">
+<node CREATED="1572643026817" FOLDED="true" ID="ID_666486395" MODIFIED="1576715739015">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11890,7 +11911,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1572643325826" FOLDED="true" ID="ID_1984416719" MODIFIED="1576627475231">
+<node CREATED="1572643325826" FOLDED="true" ID="ID_1984416719" MODIFIED="1576715739013">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11915,7 +11936,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572643416442" ID="ID_1605916307" MODIFIED="1572643459962">
+<node CREATED="1572643416442" ID="ID_1605916307" MODIFIED="1576715709481">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11931,9 +11952,13 @@
       <li>
         nitrogen release - bends (same as scuba diving)
       </li>
+      <li>
+        chokes
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1572643477285" ID="ID_1388532118" MODIFIED="1572643494118" TEXT="Carbon Monoxide Poisoning"/>
@@ -12039,7 +12064,7 @@
 </node>
 <node CREATED="1572643959402" ID="ID_369845979" MODIFIED="1572643966217" TEXT="Hyperventilation"/>
 <node CREATED="1572643971066" ID="ID_1832774504" MODIFIED="1572643974013" TEXT="Fatique"/>
-<node CREATED="1572644013433" FOLDED="true" ID="ID_1360022806" MODIFIED="1576627469024">
+<node CREATED="1572644013433" FOLDED="true" ID="ID_1360022806" MODIFIED="1576715720330">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12056,7 +12081,7 @@
 <node CREATED="1572644084922" ID="ID_798073100" MODIFIED="1572644090891" TEXT="Vestibular Illusions"/>
 </node>
 </node>
-<node CREATED="1572558220602" FOLDED="true" ID="ID_128215353" MODIFIED="1575780068155" TEXT="4.20 Aviation Psychology">
+<node CREATED="1572558220602" FOLDED="true" ID="ID_128215353" MODIFIED="1576715739020" TEXT="4.20 Aviation Psychology">
 <node CREATED="1572644202151" ID="ID_1876853536" MODIFIED="1572644484197" TEXT="4.21 Pilot Equipment Materials Relationship"/>
 <node CREATED="1572644499849" ID="ID_762532305" MODIFIED="1572644521632" TEXT="4.22 Interpersonal Relations / Crew Resource Management (CRM)"/>
 <node CREATED="1572644542120" ID="ID_171943623" MODIFIED="1572644555627" TEXT="4.23 Controlled Flight Into Terrain (CFIT)"/>
@@ -12119,8 +12144,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1576542654129" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1576542654127" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1576715638488" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1576715638486" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1575780068159">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -15505,7 +15530,7 @@
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
 <icon BUILTIN="closed"/>
 </node>
-<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1576540311331" TEXT="Radio Communication and Navigation Aids">
+<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1576714582049" TEXT="Radio Communication and Navigation Aids">
 <node CREATED="1573764157635" FOLDED="true" ID="ID_1495037692" MODIFIED="1576018806543">
 <richcontent TYPE="NODE"><html>
   <head>
