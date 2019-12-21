@@ -12200,8 +12200,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1576883816763" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1576883816763" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1576900852477" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1576900852476" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1576880326970">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -12316,8 +12316,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1573411225691" FOLDED="true" ID="ID_472655295" MODIFIED="1576880326967">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -12454,8 +12453,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 </node>
@@ -14746,7 +14744,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1573333381118" ID="ID_1639799285" MODIFIED="1573333389670" TEXT="6.16 Surface Based Layers"/>
-<node CREATED="1573333699232" FOLDED="true" ID="ID_353626057" MODIFIED="1576883816723" TEXT="6.17 Meteorological Services for Pilots">
+<node CREATED="1573333699232" FOLDED="true" ID="ID_353626057" MODIFIED="1576900852413" TEXT="6.17 Meteorological Services for Pilots">
 <node CREATED="1573333722271" ID="ID_1510631225" MODIFIED="1576883751910">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -14781,7 +14779,7 @@
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1573333740648" ID="ID_1869474482" MODIFIED="1573333765170" TEXT="6.19 International Aerdrome Forecasts (TAF)"/>
-<node CREATED="1573333770621" ID="ID_206035143" MODIFIED="1575408480691">
+<node CREATED="1573333770621" ID="ID_206035143" MODIFIED="1576900231935">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14826,9 +14824,10 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 <node CREATED="1573333796869" ID="ID_1014188423" MODIFIED="1573333816444" TEXT="6.21 Aviation Routine Weather Reports (METAR)"/>
-<node CREATED="1573333825638" ID="ID_1528078280" MODIFIED="1575401432719">
+<node CREATED="1573333825638" ID="ID_1528078280" MODIFIED="1576898823868">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14853,9 +14852,10 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 <node CREATED="1573333842543" ID="ID_1495155462" MODIFIED="1573333866446" TEXT="6.23 PIREP and AIREP"/>
-<node CREATED="1573333872222" ID="ID_1194590033" MODIFIED="1575401423678">
+<node CREATED="1573333872222" ID="ID_1194590033" MODIFIED="1576898831731">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14880,9 +14880,37 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1573333889451" ID="ID_1599588579" MODIFIED="1573333897199" TEXT="6.26 CAVOK"/>
-<node CREATED="1573333905959" ID="ID_851727738" MODIFIED="1575401863234">
+<node CREATED="1573333889451" ID="ID_1599588579" MODIFIED="1576900739927">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      6.26 CAVOK
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        at least 10km visibility (P6SM)
+      </li>
+      <li>
+        no clouds below 5000 ft or MSA, whichever is higher
+      </li>
+      <li>
+        NSW forcast
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
+</node>
+<node CREATED="1573333905959" ID="ID_851727738" MODIFIED="1576898405056">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14904,8 +14932,9 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1573334104774" FOLDED="true" ID="ID_1100851419" MODIFIED="1576880326972">
+<node CREATED="1573334104774" FOLDED="true" ID="ID_1100851419" MODIFIED="1576898203984">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14969,6 +14998,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 <node CREATED="1573763754201" ID="ID_509300835" MODIFIED="1576880110605">
 <richcontent TYPE="NODE"><html>
   <head>
