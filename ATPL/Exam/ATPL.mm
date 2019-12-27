@@ -12202,8 +12202,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1577416088157" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1577145054580" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1577479147292" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1577479151636" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1577145054531">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -12459,7 +12459,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1573330358412" FOLDED="true" ID="ID_1590225205" MODIFIED="1575780068161">
+<node CREATED="1573330358412" FOLDED="true" ID="ID_1590225205" MODIFIED="1577479151633">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12574,7 +12574,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573330379861" FOLDED="true" ID="ID_227963538" MODIFIED="1576792435996">
+<node CREATED="1573330379861" FOLDED="true" ID="ID_227963538" MODIFIED="1577479086633">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12719,7 +12719,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573330402397" FOLDED="true" ID="ID_368882476" MODIFIED="1576096456026">
+<node CREATED="1573330402397" FOLDED="true" ID="ID_368882476" MODIFIED="1577479151633">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13041,7 +13041,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573330478270" FOLDED="true" ID="ID_990537658" MODIFIED="1576096456035">
+<node CREATED="1573330478270" FOLDED="true" ID="ID_990537658" MODIFIED="1577479151634">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13066,6 +13066,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 <node CREATED="1573431683901" ID="ID_1940104592" MODIFIED="1574793950313">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13148,7 +13149,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573516421546" FOLDED="true" ID="ID_1297652932" MODIFIED="1576096450104">
+<node CREATED="1573516421546" FOLDED="true" ID="ID_1297652932" MODIFIED="1577479151634">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13270,7 +13271,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573585924526" FOLDED="true" ID="ID_824289493" MODIFIED="1575780068172">
+<node CREATED="1573585924526" FOLDED="true" ID="ID_824289493" MODIFIED="1577479151634">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13395,7 +13396,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1573330572405" FOLDED="true" ID="ID_1665720219" MODIFIED="1576883816706">
+<node CREATED="1573330572405" FOLDED="true" ID="ID_1665720219" MODIFIED="1577479023043">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14033,7 +14034,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573330615743" FOLDED="true" ID="ID_1077695511" MODIFIED="1575780068193">
+<node CREATED="1573330615743" FOLDED="true" ID="ID_1077695511" MODIFIED="1577478395816">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14100,6 +14101,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 <node CREATED="1573408894651" ID="ID_1229506004" MODIFIED="1573602402393">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -14490,7 +14492,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573331153527" FOLDED="true" ID="ID_1872410311" MODIFIED="1576878911349">
+<node CREATED="1573331153527" FOLDED="true" ID="ID_1872410311" MODIFIED="1577479151635">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14524,7 +14526,8 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1573592888756" ID="ID_730717142" MODIFIED="1573594148794">
+<icon BUILTIN="help"/>
+<node CREATED="1573592888756" ID="ID_730717142" MODIFIED="1577478851414">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14567,6 +14570,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 </node>
 <node CREATED="1573331171164" ID="ID_1165763841" MODIFIED="1575850366469">
@@ -14746,7 +14750,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1573333381118" ID="ID_1639799285" MODIFIED="1573333389670" TEXT="6.16 Surface Based Layers"/>
-<node CREATED="1573333699232" FOLDED="true" ID="ID_353626057" MODIFIED="1576900852413" TEXT="6.17 Meteorological Services for Pilots">
+<node CREATED="1573333699232" FOLDED="true" ID="ID_353626057" MODIFIED="1577479151635" TEXT="6.17 Meteorological Services for Pilots">
 <node CREATED="1573333722271" ID="ID_1510631225" MODIFIED="1576883751910">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -14935,7 +14939,7 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1573334104774" FOLDED="true" ID="ID_1100851419" MODIFIED="1576898203984">
+<node CREATED="1573334104774" FOLDED="true" ID="ID_1100851419" MODIFIED="1577478991120">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15079,7 +15083,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573341269453" FOLDED="true" ID="ID_698670885" MODIFIED="1576880326983">
+<node CREATED="1573341269453" FOLDED="true" ID="ID_698670885" MODIFIED="1577479151635">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15381,7 +15385,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573588792642" FOLDED="true" ID="ID_45066549" MODIFIED="1576879125534">
+<node CREATED="1573588792642" FOLDED="true" ID="ID_45066549" MODIFIED="1577479151636">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15482,7 +15486,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1573590247098" FOLDED="true" ID="ID_716094335" MODIFIED="1575780068211">
+<node CREATED="1573590247098" FOLDED="true" ID="ID_716094335" MODIFIED="1577479151635">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15635,7 +15639,7 @@
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
 <icon BUILTIN="closed"/>
 </node>
-<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1577416088157" TEXT="Radio Communication and Navigation Aids">
+<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1577479151636" TEXT="Radio Communication and Navigation Aids">
 <node CREATED="1573764157635" FOLDED="true" ID="ID_1495037692" MODIFIED="1576812162296">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -16037,7 +16041,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573764536763" FOLDED="true" ID="ID_395794237" MODIFIED="1577303753677">
+<node CREATED="1573764536763" FOLDED="true" ID="ID_395794237" MODIFIED="1577479139193">
 <richcontent TYPE="NODE"><html>
   <head>
     
