@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1577664719038" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1577664718992" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1577731262278" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1577731262277" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -581,8 +581,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1569277821797" ID="ID_854673184" MODIFIED="1575850488568">
@@ -2994,7 +2993,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1570131692655" ID="ID_1788939260" MODIFIED="1570131913054">
+<node CREATED="1570131692655" ID="ID_1788939260" MODIFIED="1577731225443">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3016,9 +3015,10 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
-<node CREATED="1570481596004" FOLDED="true" ID="ID_1588304105" MODIFIED="1577579055012" TEXT="1.22 Air Traffic Services">
-<node CREATED="1570478913077" ID="ID_74301925" MODIFIED="1575926619563">
+<node CREATED="1570481596004" FOLDED="true" ID="ID_1588304105" MODIFIED="1577731240592" TEXT="1.22 Air Traffic Services">
+<node CREATED="1570478913077" ID="ID_74301925" MODIFIED="1577730995538">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3059,7 +3059,7 @@
         </ul>
       </li>
       <li>
-        Lateral: protected airspace (airways, tracks, holds, procedures)
+        Lateral: protected airspace (off airway tracks)
 
         <ul>
           <li>
@@ -3126,7 +3126,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="help"/>
 </node>
 </node>
@@ -6654,8 +6655,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1571423291475" ID="ID_1304706377" MODIFIED="1577575363900">
