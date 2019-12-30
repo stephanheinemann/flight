@@ -12212,8 +12212,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1577663723274" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1577663496879" TEXT="Meteorology">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1577746649650" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1577746649621" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1577501121921">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -14046,7 +14046,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573330615743" FOLDED="true" ID="ID_1077695511" MODIFIED="1577478395816">
+<node CREATED="1573330615743" FOLDED="true" ID="ID_1077695511" MODIFIED="1577746649563">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14114,14 +14114,14 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="help"/>
-<node CREATED="1573408894651" ID="ID_1229506004" MODIFIED="1573602402393">
+<node CREATED="1573408894651" ID="ID_1229506004" MODIFIED="1577742318102">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Frontogenisis
+      Frontogenesis
     </p>
     <p>
       
@@ -14132,7 +14132,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1573408906409" ID="ID_1552787567" MODIFIED="1573605268866">
 <richcontent TYPE="NODE"><html>
@@ -15657,7 +15658,7 @@
 <node CREATED="1568172603794" ID="ID_1873206513" MODIFIED="1568249087804" TEXT="Flight Planning">
 <icon BUILTIN="closed"/>
 </node>
-<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1577663723271" TEXT="Radio Communication and Navigation Aids">
+<node CREATED="1568172671136" FOLDED="true" ID="ID_1053951536" MODIFIED="1577746649649" TEXT="Radio Communication and Navigation Aids">
 <node CREATED="1573764157635" FOLDED="true" ID="ID_1495037692" MODIFIED="1576812162296">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -16059,7 +16060,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1573764536763" FOLDED="true" ID="ID_395794237" MODIFIED="1577479139193">
+<node CREATED="1573764536763" FOLDED="true" ID="ID_395794237" MODIFIED="1577746649625">
 <richcontent TYPE="NODE"><html>
   <head>
     
