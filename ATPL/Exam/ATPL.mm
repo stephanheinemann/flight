@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1577731262278" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1577731262277" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1577817724713" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1577817724713" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -2412,7 +2412,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1577664718977" TEXT="1.19 IFR Flight">
+<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1577817724682" TEXT="1.19 IFR Flight">
 <node CREATED="1569972903894" ID="ID_1927607732" MODIFIED="1577578858274">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2584,7 +2584,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1569975971914" ID="ID_1241632014" MODIFIED="1569976357997">
+<node CREATED="1569975971914" ID="ID_1241632014" MODIFIED="1577817431856">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2598,17 +2598,37 @@
     </p>
     <ul>
       <li>
-        RVR A only: 1200
+        NPA, APV, CAT I/II
+
+        <ul>
+          <li>
+            RVR A only: 1200
+          </li>
+          <li>
+            RVR A and B: 1200/600
+          </li>
+          <li>
+            RVR B only: 1200
+          </li>
+        </ul>
       </li>
       <li>
-        RVR A and B: 1200/600
+        CAT IIIa
+
+        <ul>
+          <li>
+            RVR A, B and C: 600/600/600
+          </li>
+        </ul>
       </li>
       <li>
-        RVR B only: 1200
+        CAT IIIb/c not authorized
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
 </node>
 <node CREATED="1569976929588" ID="ID_1529647965" MODIFIED="1576708539682">
 <richcontent TYPE="NODE"><html>
@@ -2848,6 +2868,48 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
+<node CREATED="1577817440887" ID="ID_767416946" MODIFIED="1577817712330">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Approach Ban - Commercial Operators
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        NPA, APV, CAT I/II
+
+        <ul>
+          <li>
+            Standard (~75% CAP Advisory)
+          </li>
+          <li>
+            OPS SPEC (~50% CAP Advisory)
+          </li>
+        </ul>
+      </li>
+      <li>
+        CAT IIIa
+
+        <ul>
+          <li>
+            RVR A, B, and C: 600/600/600
+          </li>
+        </ul>
+      </li>
+      <li>
+        CAT IIIb/c is not authorized
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1570128169387" FOLDED="true" ID="ID_377019714" MODIFIED="1576871149185">
 <richcontent TYPE="NODE"><html>
@@ -3017,7 +3079,7 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1570481596004" FOLDED="true" ID="ID_1588304105" MODIFIED="1577731240592" TEXT="1.22 Air Traffic Services">
+<node CREATED="1570481596004" FOLDED="true" ID="ID_1588304105" MODIFIED="1577816987344" TEXT="1.22 Air Traffic Services">
 <node CREATED="1570478913077" ID="ID_74301925" MODIFIED="1577730995538">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3126,8 +3188,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 </node>
@@ -14132,8 +14193,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1573408906409" ID="ID_1552787567" MODIFIED="1573605268866">
 <richcontent TYPE="NODE"><html>
