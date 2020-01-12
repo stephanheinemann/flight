@@ -1,7 +1,7 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1578788146358" POSITION="right" TEXT="SARON">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1578863147024" POSITION="right" TEXT="SARON">
 <node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1578788146352" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
@@ -5003,7 +5003,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1578785125749" TEXT="Aircraft, Power Plants, Propellers and Systems">
+<node CREATED="1568173327294" FOLDED="true" ID="ID_1056315969" MODIFIED="1578863147023" TEXT="Aircraft, Power Plants, Propellers and Systems">
 <node CREATED="1571327524134" ID="ID_29009248" MODIFIED="1571327532756" TEXT="2.01 Airframes"/>
 <node CREATED="1571327585082" FOLDED="true" ID="ID_1625666533" MODIFIED="1576542661651" TEXT="2.02 Reciprocating Engines">
 <node CREATED="1571327618540" ID="ID_1652578402" MODIFIED="1576181781383">
@@ -5037,7 +5037,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1571329870429" FOLDED="true" ID="ID_1307000896" MODIFIED="1578785113106" TEXT="2.03 Gas Turbine Engines">
+<node CREATED="1571329870429" FOLDED="true" ID="ID_1307000896" MODIFIED="1578863147003" TEXT="2.03 Gas Turbine Engines">
 <node CREATED="1576179392548" ID="ID_1353323" MODIFIED="1576181511077">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5320,8 +5320,206 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1578860596777" ID="ID_1209201355" MODIFIED="1578862971178">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Lubrication
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        pressure relieve valve system
+
+        <ul>
+          <li>
+            constant pressure (range) is controlled by relieve valve in parallel to oil pressure pump
+          </li>
+          <li>
+            components
+
+            <ul>
+              <li>
+                suction filter
+              </li>
+              <li>
+                oil pump pack (pressure and scavenge pumps)
+              </li>
+              <li>
+                dry sump system
+              </li>
+              <li>
+                pressure filter
+              </li>
+              <li>
+                pressure relieve valve
+              </li>
+              <li>
+                bearings and accessories (propeller pitch)
+              </li>
+              <li>
+                torque meter pump
+              </li>
+              <li>
+                collecting trays
+              </li>
+              <li>
+                oil cooler
+              </li>
+              <li>
+                de-aerator tray
+              </li>
+              <li>
+                centrifugal breather
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        full flow system
+
+        <ul>
+          <li>
+            no pressure relieve valve
+          </li>
+          <li>
+            components
+
+            <ul>
+              <li>
+                suction filter
+              </li>
+              <li>
+                high-pressure filter
+              </li>
+              <li>
+                oil differential pressure switch
+              </li>
+              <li>
+                oil pressure transmitter and warning switch
+              </li>
+              <li>
+                bearings and accessories
+              </li>
+              <li>
+                thread-type filters and oil jets
+              </li>
+              <li>
+                scavenge pump
+              </li>
+              <li>
+                chip detector
+              </li>
+              <li>
+                oil cooler (fuel and air) and automatic cooler control
+              </li>
+              <li>
+                centrifugal breather
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        oil tanks
+
+        <ul>
+          <li>
+            filler
+          </li>
+          <li>
+            quantity indication (sight glass, dip stick)
+          </li>
+          <li>
+            de-aerator tray / plate
+          </li>
+        </ul>
+      </li>
+      <li>
+        oil pumps
+
+        <ul>
+          <li>
+            gear type pumps
+          </li>
+          <li>
+            oil pump and several scavenge pumps (oil pump pack)
+          </li>
+        </ul>
+      </li>
+      <li>
+        oil coolers
+
+        <ul>
+          <li>
+            air cooled
+          </li>
+          <li>
+            fuel cooled (bypass valve, pressure maintaining valve)
+
+            <ul>
+              <li>
+                pressure maintaining valve prevents a potential fuel leak into the oil system
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        chip detectors
+
+        <ul>
+          <li>
+            permanent magnet
+          </li>
+          <li>
+            self-sealing housing
+          </li>
+        </ul>
+      </li>
+      <li>
+        centrifugal breather
+
+        <ul>
+          <li>
+            vents the oil system separating oil mist first
+          </li>
+        </ul>
+      </li>
+      <li>
+        filters
+
+        <ul>
+          <li>
+            suction, pressure, thread-type and scavenge filters
+          </li>
+          <li>
+            pop-up indicators
+          </li>
+        </ul>
+      </li>
+      <li>
+        oils
+
+        <ul>
+          <li>
+            synthetic oils to achieve desired properties
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1571331490943" FOLDED="true" ID="ID_887788242" MODIFIED="1576526442347" TEXT="2.04 Propellers">
+</node>
+<node CREATED="1571331490943" FOLDED="true" ID="ID_887788242" MODIFIED="1578863147009" TEXT="2.04 Propellers">
 <node CREATED="1576195863629" ID="ID_1923247072" MODIFIED="1576269589489">
 <richcontent TYPE="NODE"><html>
   <head>
