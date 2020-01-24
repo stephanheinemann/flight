@@ -398,7 +398,7 @@
 <node CREATED="1579644466100" ID="ID_1705369011" MODIFIED="1579644474483" TEXT="Departures from Uncontrolled Airports"/>
 <node CREATED="1579644760443" ID="ID_77314256" MODIFIED="1579644770079" TEXT="Alerting Service for Uncontrolled Airports"/>
 </node>
-<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1579815780664" POSITION="right" TEXT="En Route Procedures">
+<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1579902025466" POSITION="right" TEXT="En Route Procedures">
 <node CREATED="1579811215993" ID="ID_1170940779" MODIFIED="1579811219032" TEXT="Position Reports"/>
 <node CREATED="1579811805490" ID="ID_1221424960" MODIFIED="1579812031916">
 <richcontent TYPE="NODE"><html>
@@ -424,8 +424,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1579812064801" ID="ID_1599666678" MODIFIED="1579812068098" TEXT="Altitude Reports"/>
 <node CREATED="1579812268334" FOLDED="true" ID="ID_1339956055" MODIFIED="1579813319579" TEXT="Climb or Descent">
@@ -464,10 +463,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1579813700085" ID="ID_1129084101" MODIFIED="1579813705668" TEXT="ATC Assignment of Altitudes">
+<node CREATED="1579813700085" FOLDED="true" ID="ID_1129084101" MODIFIED="1579904549611" TEXT="ATC Assignment of Altitudes">
 <node CREATED="1579814173974" ID="ID_1577062654" MODIFIED="1579814179584" TEXT="Minimum IFR Altitude"/>
 <node CREATED="1579814200983" ID="ID_1216937735" MODIFIED="1579814663894">
 <richcontent TYPE="NODE"><html>
@@ -490,8 +488,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1579814734237" ID="ID_1535449685" MODIFIED="1579815049227">
@@ -521,8 +518,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1579815238411" ID="ID_1474722692" MODIFIED="1579815247343" TEXT="Clearances - Leaving or Entering Controlled Airspace"/>
 <node CREATED="1579815331121" ID="ID_1845828154" MODIFIED="1579815335324" TEXT="Clearance Limit"/>
@@ -553,11 +549,116 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1579904549620" POSITION="left" TEXT="Arrival Procedures">
+<node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
+<node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1579904549619" TEXT="STAR, MSA, and TAA">
+<node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1579902286271">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      MSA
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        <b>1000</b>&#160;ft obstacle clearance within a sector of a <b>25</b>&#160;NM circle
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1579902341158" ID="ID_1761658528" MODIFIED="1579902867806">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      TAA
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        intended for FMS or GNSS equipped aircraft
+      </li>
+      <li>
+        may include step-down arcs and sectors for lower minimums
+      </li>
+      <li>
+        <b>1000</b>&#160;ft obstacle clearance
+      </li>
+      <li>
+        basic T with three areas: straight-in, left-base, right-base
+      </li>
+      <li>
+        alternative procedure designs: Y, L, I shapes
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1579902359091" ID="ID_1858405094" MODIFIED="1579904234297">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      STAR
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        STAR clearance need not to be accepted
+      </li>
+      <li>
+        ATC will issue alternative clearance if unable to accept STAR
+      </li>
+      <li>
+        conventional vs. performance-based navigation (PBN) STARs
+      </li>
+      <li>
+        STAR or STAR (RNAV)
+      </li>
+      <li>
+        FLP 18: RMK/NO RNAV STAR if not authorized PBN STAR
+      </li>
+      <li>
+        lateral clearance on STAR is implicit
+      </li>
+      <li>
+        vertical clearance on STAR needs to be obtained from ATC
+      </li>
+      <li>
+        STAR vertical restrictions remain mandatory
+      </li>
+      <li>
+        STAR speed restrictions are mandatory
+      </li>
+      <li>
+        ATC speed restrictions override STAR speed restrictions
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
 </node>
-<node CREATED="1579633454131" ID="ID_307271175" MODIFIED="1579633457973" POSITION="left" TEXT="Arrival Procedures"/>
+</node>
 <node CREATED="1579633476953" ID="ID_66824391" MODIFIED="1579633482399" POSITION="right" TEXT="Holding Procedures"/>
 <node CREATED="1579815802154" ID="ID_971957458" MODIFIED="1579815814323" POSITION="left" TEXT="Practical Procedures"/>
 </node>
