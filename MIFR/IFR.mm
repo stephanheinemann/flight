@@ -721,8 +721,8 @@
 <node CREATED="1579918535045" ID="ID_1956152002" MODIFIED="1579918552883" TEXT="Descent Out of Controlled Airspace"/>
 </node>
 <node CREATED="1579633476953" ID="ID_66824391" MODIFIED="1579633482399" POSITION="right" TEXT="Holding Procedures"/>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1580238971723" POSITION="left" TEXT="Practical Procedures">
-<node CREATED="1580232275260" FOLDED="true" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1580238971716">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1580245408725" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1580232275260" FOLDED="true" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1580245408710">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -736,11 +736,23 @@
     </p>
     <ul>
       <li>
+        speed
+
+        <ul>
+          <li>
+            enter and hold at constant IAS
+          </li>
+          <li>
+            slow down before entering the hold (low cruise)
+          </li>
+        </ul>
+      </li>
+      <li>
         entries
 
         <ul>
           <li>
-            POD 70 degrees rule (P 110 + O 70 + D 180)
+            POD <b>70</b>&#160;degrees rule (P <b>110</b>&#160;+ O <b>70</b>&#160;+ D <b>180</b>)
           </li>
           <li>
             based on heading and <i>not</i>&#160;track
@@ -752,10 +764,10 @@
             right turns - right thumb - right up
           </li>
           <li>
-            offset / teardrop - 30 degrees off outbound radial
+            offset / teardrop - <b>30</b>&#160;degrees off outbound radial
           </li>
           <li>
-            parallel - intercept 30-45 (depending on wind) degrees off inbound course
+            parallel - intercept <b>30 </b>to <b>45</b>&#160;(depending on wind) degrees off inbound course
           </li>
           <li>
             start outbound timing at abeam fix or wings level (special direct)
@@ -779,19 +791,28 @@
       </li>
       <li>
         wind corrections
+
+        <ul>
+          <li>
+            maintain a constant heading on the outbound leg
+          </li>
+          <li>
+            write down outbound times and headings for subsequent corrections
+          </li>
+        </ul>
       </li>
     </ul>
   </body>
 </html>
 </richcontent>
-<node CREATED="1570039214997" ID="ID_1496885480" MODIFIED="1580237202658">
+<node CREATED="1570039214997" ID="ID_1496885480" MODIFIED="1580242657308">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      VFC Holding Corrections
+      VFC Holding Wind Corrections
     </p>
     <p>
       
@@ -804,7 +825,7 @@
         Start outbound timing abeam fix
       </li>
       <li>
-        Outbound +4/3 of inbound error short, -2/3 of inbound error long
+        Outbound <b>+4/3</b>&#160;of inbound error short, <b>-2/3</b>&#160;of inbound error long
       </li>
       <li>
         1:00 outbound, 1:10 inbound -&gt; 0:54 outbound
@@ -819,21 +840,21 @@
         1:20 outbound, 0:55 inbound -&gt; 1:33 outbound
       </li>
       <li>
-        WCA single on inbound (freeze heading), triple on outbound
+        WCA single on inbound (freeze heading), <b>triple</b>&#160;on outbound
       </li>
     </ul>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1570048813514" ID="ID_1352143971" LINK="BoldMethod/Holding%20Pattern%20Wind%20Correction%20And%20Timing%20Boldmethod%20Live%20.webm" MODIFIED="1580238954150">
+<node CREATED="1570048813514" ID="ID_1352143971" LINK="BoldMethod/Holding%20Pattern%20Wind%20Correction%20And%20Timing%20Boldmethod%20Live%20.webm" MODIFIED="1580242678127">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      BoldMethod Corrections
+      BoldMethod Holding Wind Corrections
     </p>
     <p>
       
@@ -846,7 +867,7 @@
         Start outbound timing abeam fix
       </li>
       <li>
-        +2 times inbound error short, -2 times inbound error long
+        <b>+2</b>&#160;times inbound error short, <b>-2</b>&#160;times inbound error long
       </li>
       <li>
         1:00 outbound, 1:10 inbound -&gt; 0:40 outbound
@@ -861,11 +882,12 @@
         1:20 outbound, 0:55 inbound -&gt; 1:30 outbound
       </li>
       <li>
-        WCA single inbound (freeze heading), triple on outbound
+        WCA single inbound (freeze heading), <b>triple</b>&#160;on outbound
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1580232866346" ID="ID_710521327" MODIFIED="1580234019078">
@@ -925,6 +947,30 @@
             Gas / Gauges, Undercarriage, Mixture, Propeller / Power, Switches / Seatbelts
           </li>
         </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1580242496504" ID="ID_1271336510" MODIFIED="1580242868357">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Turns
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        standard rate (bank angle = <b>IAS / 10 + 7</b>), or
+      </li>
+      <li>
+        <b>25</b>&#160;degrees bank angle (flight director limit), <i>whichever is less</i>
       </li>
     </ul>
   </body>
