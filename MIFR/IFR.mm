@@ -552,9 +552,9 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1579904549620" POSITION="left" TEXT="Arrival Procedures">
+<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1580238971708" POSITION="left" TEXT="Arrival Procedures">
 <node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
-<node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1579904549619" TEXT="STAR, MSA, and TAA">
+<node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1579918601736" TEXT="STAR, MSA, and TAA">
 <node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1579902286271">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -573,8 +573,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1579902341158" ID="ID_1761658528" MODIFIED="1579902867806">
 <richcontent TYPE="NODE"><html>
@@ -606,10 +605,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1579902359091" ID="ID_1858405094" MODIFIED="1579904234297">
+<node CREATED="1579902359091" FOLDED="true" ID="ID_1858405094" MODIFIED="1579918599761">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -652,14 +650,290 @@
       <li>
         ATC speed restrictions override STAR speed restrictions
       </li>
+      <li>
+        visual approach clearance automatically cancels STAR
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      <i>Notice the difference between approach procedures and STARs with respect to vertical restrictions. STARs require ATC clearances for altitude changes whereas approach procedures implicitly clear to the restricting altitudes.</i>
+    </p>
+  </body>
+</html></richcontent>
+<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1579916274638" ID="ID_1710215338" MODIFIED="1579916504131">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Closed STAR
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        STAR connects to FACF
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1579916281060" ID="ID_1954275355" MODIFIED="1579917365147">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Open STAR
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        STAR connects to DTW
+      </li>
+      <li>
+        vectors to to the FAC complete the approach
+      </li>
+      <li>
+        published transitions or connecting IAWP, IWP possible
+      </li>
+      <li>
+        STAR / approach interface waypoint
+      </li>
+      <li>
+        STAR linked to approach after approach clearance
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1579917648858" ID="ID_1387758290" MODIFIED="1579917654928" TEXT="Approach Clearance"/>
+<node CREATED="1579918535045" ID="ID_1956152002" MODIFIED="1579918552883" TEXT="Descent Out of Controlled Airspace"/>
+</node>
+<node CREATED="1579633476953" ID="ID_66824391" MODIFIED="1579633482399" POSITION="right" TEXT="Holding Procedures"/>
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1580238971723" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1580232275260" FOLDED="true" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1580238971716">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Holding Procedures
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        entries
+
+        <ul>
+          <li>
+            POD 70 degrees rule (P 110 + O 70 + D 180)
+          </li>
+          <li>
+            based on heading and <i>not</i>&#160;track
+          </li>
+          <li>
+            left turns - left thumb - left up
+          </li>
+          <li>
+            right turns - right thumb - right up
+          </li>
+          <li>
+            offset / teardrop - 30 degrees off outbound radial
+          </li>
+          <li>
+            parallel - intercept 30-45 (depending on wind) degrees off inbound course
+          </li>
+          <li>
+            start outbound timing at abeam fix or wings level (special direct)
+          </li>
+          <li>
+            first inbound timing irrelevant except for normal direct
+          </li>
+        </ul>
+      </li>
+      <li>
+        calls
+
+        <ul>
+          <li>
+            <i>entering the hold</i>&#160;(mandatory) at first fix crossing
+          </li>
+          <li>
+            <i>established in the hold</i>&#160;(on request) at second fix crossing
+          </li>
+        </ul>
+      </li>
+      <li>
+        wind corrections
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1570039214997" ID="ID_1496885480" MODIFIED="1580237202658">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      VFC Holding Corrections
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Start inbound timing at wings level
+      </li>
+      <li>
+        Start outbound timing abeam fix
+      </li>
+      <li>
+        Outbound +4/3 of inbound error short, -2/3 of inbound error long
+      </li>
+      <li>
+        1:00 outbound, 1:10 inbound -&gt; 0:54 outbound
+      </li>
+      <li>
+        0:55 outbound, 1:15 inbound -&gt; 0:45 outbound
+      </li>
+      <li>
+        1:00 outbound, 0:50 inbound -&gt; 1:13 outbound
+      </li>
+      <li>
+        1:20 outbound, 0:55 inbound -&gt; 1:33 outbound
+      </li>
+      <li>
+        WCA single on inbound (freeze heading), triple on outbound
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1570048813514" ID="ID_1352143971" LINK="BoldMethod/Holding%20Pattern%20Wind%20Correction%20And%20Timing%20Boldmethod%20Live%20.webm" MODIFIED="1580238954150">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      BoldMethod Corrections
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Start inbound timing at wings level and CDI alive (intercept), or CDI overshoot
+      </li>
+      <li>
+        Start outbound timing abeam fix
+      </li>
+      <li>
+        +2 times inbound error short, -2 times inbound error long
+      </li>
+      <li>
+        1:00 outbound, 1:10 inbound -&gt; 0:40 outbound
+      </li>
+      <li>
+        0:55 outbound, 1:15 inbound -&gt; 0:25 outbound
+      </li>
+      <li>
+        1:00 outbound, 0:50 inbound -&gt; 1:20 outbound
+      </li>
+      <li>
+        1:20 outbound, 0:55 inbound -&gt; 1:30 outbound
+      </li>
+      <li>
+        WCA single inbound (freeze heading), triple on outbound
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1580232866346" ID="ID_710521327" MODIFIED="1580234019078">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mnemonics
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        <b>ANCM</b>
+
+        <ul>
+          <li>
+            Aviate, Navigate, Communicate, Manage
+          </li>
+        </ul>
+      </li>
+      <li>
+        <b>WXCAAP</b>
+
+        <ul>
+          <li>
+            Weather (ATIS), Clearances, Approach Plates, Approach Briefing, Pre-Landing GUMPS
+          </li>
+        </ul>
+      </li>
+      <li>
+        <b>POD</b>
+
+        <ul>
+          <li>
+            Parallel, Offset, Direct
+          </li>
+        </ul>
+      </li>
+      <li>
+        <b>5 T's</b>
+
+        <ul>
+          <li>
+            Turn, Time, Throttle, Tune, Talk
+          </li>
+        </ul>
+      </li>
+      <li>
+        <b>GUMPS</b>
+
+        <ul>
+          <li>
+            Gas / Gauges, Undercarriage, Mixture, Propeller / Power, Switches / Seatbelts
+          </li>
+        </ul>
+      </li>
     </ul>
   </body>
 </html>
 </richcontent>
 </node>
 </node>
+<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1579918608273" POSITION="right" TEXT="Emergencies">
+<node CREATED="1579917618923" ID="ID_53256768" MODIFIED="1579917625373" TEXT="Communication Failure"/>
 </node>
-<node CREATED="1579633476953" ID="ID_66824391" MODIFIED="1579633482399" POSITION="right" TEXT="Holding Procedures"/>
-<node CREATED="1579815802154" ID="ID_971957458" MODIFIED="1579815814323" POSITION="left" TEXT="Practical Procedures"/>
 </node>
 </map>
