@@ -552,7 +552,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1580263351768" POSITION="left" TEXT="Arrival Procedures">
+<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1580330826503" POSITION="left" TEXT="Arrival Procedures">
 <node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
 <node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1580263351763" TEXT="STAR, MSA, and TAA">
 <node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1579902286271">
@@ -720,7 +720,7 @@
 <node CREATED="1579917648858" ID="ID_1387758290" MODIFIED="1579917654928" TEXT="Approach Clearance"/>
 <node CREATED="1579918535045" ID="ID_1956152002" MODIFIED="1579918552883" TEXT="Descent Out of Controlled Airspace"/>
 <node CREATED="1580261946820" ID="ID_1414029609" MODIFIED="1580261978756" TEXT="Advance Notice of Intent in Minimum Weather Conditions"/>
-<node CREATED="1580262064124" FOLDED="true" ID="ID_677652104" MODIFIED="1580263351767" TEXT="Contact and Visual Approaches">
+<node CREATED="1580262064124" FOLDED="true" ID="ID_677652104" MODIFIED="1580330230617" TEXT="Contact and Visual Approaches">
 <node CREATED="1580262091072" ID="ID_1482678814" MODIFIED="1580262592887">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -751,8 +751,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1580262097702" ID="ID_1073609894" MODIFIED="1580263077584">
 <richcontent TYPE="NODE"><html>
@@ -790,11 +789,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1580263122647" ID="ID_1477912224" MODIFIED="1580263265181">
+<node CREATED="1580263122647" FOLDED="true" ID="ID_1477912224" MODIFIED="1580330228748">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -812,13 +810,159 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+<node CREATED="1580329187506" ID="ID_1571347781" MODIFIED="1580329379525">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Radar Required
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        procedure turns are <i>never</i>&#160;flown at major airports in Canada
+      </li>
+      <li>
+        aircraft are vectored to allow straight-in approaches
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1580329459948" ID="ID_223805524" MODIFIED="1580330064922">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Speed Adjustments - Radar-Controlled Aircraft
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        max. <b>250</b>&#160;KIAS below <b>10000</b>&#160;ft ASL
+      </li>
+      <li>
+        max. <b>200</b>&#160;KIAS below <b>3000</b>&#160;ft&#160;AGL within <b>10</b>&#160;&#160;NM of controlled airport
+      </li>
+      <li>
+        exceptions: cruise climb, minimum safe speed, SFOC (airshow)
+      </li>
+      <li>
+        speed adjustments to be maintained +/- <b>10</b>&#160;KIAS
+      </li>
+      <li>
+        minimum ATC speed adjustment
+
+        <ul>
+          <li>
+            at or above <b>10000</b>&#160;ft within <b>20</b>&#160;NM of destination: <b>250</b>&#160; KIAS
+          </li>
+          <li>
+            below <b>10000</b>&#160;ft within <b>20</b>&#160;NM of destination: <b>210</b>&#160; KIAS
+          </li>
+          <li>
+            turbo-jet less than <b>20</b>&#160;NM of destination: <b>160</b>&#160;KIAS
+          </li>
+          <li>
+            propeller aircraft less than <b>20</b>&#160;NM of destination: <b>120</b>&#160;KIAS
+          </li>
+        </ul>
+      </li>
+      <li>
+        speed adjustments normally cancelled with approach clearance
+
+        <ul>
+          <li>
+            <i>resume normal speed</i>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1580330091737" ID="ID_799651953" MODIFIED="1580330207706">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Precision Radar Approaches (PAR)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        at military airports only following approach vectors
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1580330238779" ID="ID_228081240" MODIFIED="1580330471482">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Initial Contact with Control Towers
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        contact tower after instruction from ATC providing ETA (except vectors), or otherwise
+      </li>
+      <li>
+        <b>25</b>&#160;NM from the airport providing ETA and receiving approach clearance
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1580330494517" ID="ID_271164036" MODIFIED="1580330566263">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Approach Position Reqports - Controlled Airports
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        only as requested by ATC (e.g., FAF)
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
 </node>
 <node CREATED="1579633476953" ID="ID_66824391" MODIFIED="1579633482399" POSITION="right" TEXT="Holding Procedures"/>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1580261984458" POSITION="left" TEXT="Practical Procedures">
-<node CREATED="1580232275260" FOLDED="true" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1580263351769">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1580327437948" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1580232275260" FOLDED="true" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1580330826504">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1058,8 +1202,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1580242496504" ID="ID_1271336510" MODIFIED="1580242868357">
 <richcontent TYPE="NODE"><html>
@@ -1084,8 +1227,107 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1580326684086" FOLDED="true" ID="ID_612458635" MODIFIED="1580330826504">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Descents
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        <b>3</b>&#160;degrees constant descent angle (CDA)
+
+        <ul>
+          <li>
+            <b>VS = GS / 2 * 10</b>
+          </li>
+          <li>
+            GS = 120 kts -&gt; VS = 600 ft / min
+          </li>
+        </ul>
+      </li>
+      <li>
+        constant descent angle (CDA)
+
+        <ul>
+          <li>
+            <b>VS = DA * 100 * GS / 60</b>
+          </li>
+          <li>
+            DA = 3 deg, GS = 120 -&gt; 600 ft / min
+          </li>
+          <li>
+            DA = 4 deg, GS = 120 -&gt; 800 ft / min
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1570119212294" ID="ID_1672773467" MODIFIED="1580327362878">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      BoldMethod CDA
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        1/60 Rule: 1 degree climb / descent = 100 ft / NM gradient
+      </li>
+      <li>
+        1 deg, 1 NM -&gt; 100ft, 500 ft / NM -&gt; 5deg
+      </li>
+      <li>
+        <b>DA [deg] * GS [NM / min] * 100 = VS [ft / min]</b>
+      </li>
+      <li>
+        120 kts / 60 = 2 NM / min, 3deg * 2 NM / min * 100 = 600 ft / min
+      </li>
+      <li>
+        example CZBB VOR 07:
+
+        <ul>
+          <li>
+            FAF 2000 ft, MDA 420 ft, 5.1 NM
+          </li>
+          <li>
+            2000 ft - 420 ft = 1580 ft
+          </li>
+          <li>
+            1580 ft / 5.1NM = 310 ft / NM -&gt; DA = 3 deg,
+          </li>
+          <li>
+            3 deg * 2 NM / min * 100 = 600 ft / min
+          </li>
+          <li>
+            use 700 to 800 ft / min to be at MDA before MAP
+          </li>
+        </ul>
+      </li>
+      <li>
+        check GPS GS for correct approach speed
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1579918608273" POSITION="right" TEXT="Emergencies">
+</node>
+</node>
+<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1580329436710" POSITION="right" TEXT="Emergencies">
 <node CREATED="1579917618923" ID="ID_53256768" MODIFIED="1579917625373" TEXT="Communication Failure"/>
 </node>
 </node>
