@@ -552,9 +552,9 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1580238971708" POSITION="left" TEXT="Arrival Procedures">
+<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1580263351768" POSITION="left" TEXT="Arrival Procedures">
 <node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
-<node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1579918601736" TEXT="STAR, MSA, and TAA">
+<node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1580263351763" TEXT="STAR, MSA, and TAA">
 <node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1579902286271">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -607,7 +607,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1579902359091" FOLDED="true" ID="ID_1858405094" MODIFIED="1579918599761">
+<node CREATED="1579902359091" FOLDED="true" ID="ID_1858405094" MODIFIED="1580261049442">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -719,10 +719,106 @@
 </node>
 <node CREATED="1579917648858" ID="ID_1387758290" MODIFIED="1579917654928" TEXT="Approach Clearance"/>
 <node CREATED="1579918535045" ID="ID_1956152002" MODIFIED="1579918552883" TEXT="Descent Out of Controlled Airspace"/>
+<node CREATED="1580261946820" ID="ID_1414029609" MODIFIED="1580261978756" TEXT="Advance Notice of Intent in Minimum Weather Conditions"/>
+<node CREATED="1580262064124" FOLDED="true" ID="ID_677652104" MODIFIED="1580263351767" TEXT="Contact and Visual Approaches">
+<node CREATED="1580262091072" ID="ID_1482678814" MODIFIED="1580262592887">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Contact Approach
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        clear of cloud with at least <b>1</b>&#160;NM visibility
+      </li>
+      <li>
+        visual reference to surface
+      </li>
+      <li>
+        at least <b>1000</b>&#160;ft above the highest obstacle within <b>5</b>&#160;NM
+      </li>
+      <li>
+        familiarity with environment and airspace (avoid F)
+      </li>
+      <li>
+        only upon pilot request and functional published IAP
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1580262097702" ID="ID_1073609894" MODIFIED="1580263077584">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Visual Approach
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        ceiling at least <b>300</b>&#160;ft above minimum IFR altitude
+      </li>
+      <li>
+        at least <b>3</b>&#160;SM ground visibility
+      </li>
+      <li>
+        pilot reports sighting the aerodrome
+      </li>
+      <li>
+        pilot reports sighting preceding aircraft: visual separation
+      </li>
+      <li>
+        pilot reports not sighting preceding aircraft:&#160;ATC separation
+      </li>
+      <li>
+        <i>not an IAP, maintain clear of cloud and visual separation</i>
+      </li>
+      <li>
+        <i>missed requires explicit ATC clearance</i>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1580263122647" ID="ID_1477912224" MODIFIED="1580263265181">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Radar Arrivals
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        vectored to final approach course <b>2</b>&#160;NM before final descent
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1579633476953" ID="ID_66824391" MODIFIED="1579633482399" POSITION="right" TEXT="Holding Procedures"/>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1580245408725" POSITION="left" TEXT="Practical Procedures">
-<node CREATED="1580232275260" FOLDED="true" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1580245408710">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1580261984458" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1580232275260" FOLDED="true" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1580263351769">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -803,8 +899,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1570039214997" ID="ID_1496885480" MODIFIED="1580242657308">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -844,8 +939,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1570048813514" ID="ID_1352143971" LINK="BoldMethod/Holding%20Pattern%20Wind%20Correction%20And%20Timing%20Boldmethod%20Live%20.webm" MODIFIED="1580242678127">
 <richcontent TYPE="NODE"><html>
@@ -886,11 +980,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1580232866346" ID="ID_710521327" MODIFIED="1580234019078">
+<node CREATED="1580232866346" ID="ID_710521327" MODIFIED="1580260987086">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -903,6 +996,9 @@
       
     </p>
     <ul>
+      <li>
+        DEP PREP
+      </li>
       <li>
         <b>ANCM</b>
 
@@ -918,6 +1014,18 @@
         <ul>
           <li>
             Weather (ATIS), Clearances, Approach Plates, Approach Briefing, Pre-Landing GUMPS
+          </li>
+          <li>
+            Weather (ATIS), Clearances, Avionics, Approach Plates, Pre-Landing GUMPS
+          </li>
+        </ul>
+      </li>
+      <li>
+        <b>AFET</b>&#160;(Holds)
+
+        <ul>
+          <li>
+            Altitude, Fuel, Entry (POD), T's
           </li>
         </ul>
       </li>
@@ -974,8 +1082,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1579918608273" POSITION="right" TEXT="Emergencies">
