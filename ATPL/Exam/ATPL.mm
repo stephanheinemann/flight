@@ -1,7 +1,7 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1579222158047" POSITION="right" TEXT="SARON">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1580499068334" POSITION="right" TEXT="SARON">
 <node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1579222157988" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
@@ -9600,7 +9600,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1579206390179" TEXT="Flight Operations">
+<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1580497175424" TEXT="Flight Operations">
 <node CREATED="1571851864451" ID="ID_416756973" MODIFIED="1572288401755">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11646,9 +11646,9 @@
 <node CREATED="1572557841087" ID="ID_1393851454" MODIFIED="1572557849804" TEXT="4.17 Landing Techniques"/>
 <node CREATED="1572557899101" ID="ID_7440582" MODIFIED="1572557905885" TEXT="4.18 Volcanic Ash"/>
 </node>
-<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1577993066411" TEXT="Theory of Flight">
+<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1580499068333" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
-<node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1577663507830" TEXT="4.01 General Theory of Flight">
+<node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1580499068329" TEXT="4.01 General Theory of Flight">
 <node CREATED="1571791871556" ID="ID_1614108199" MODIFIED="1576531102598">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -11676,7 +11676,7 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1571791977756" ID="ID_620857148" MODIFIED="1576531097706">
+<node CREATED="1571791977756" ID="ID_620857148" MODIFIED="1580498009881">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11693,7 +11693,7 @@
         usual stall AoA 16-18deg
       </li>
       <li>
-        1G stall speed: Vs1g = sqrt (W / cl 1/2 rho S )
+        1G stall speed: Vs1g = sqrt (L / cl_max 1/2 rho S )
       </li>
       <li>
         nG stall speed Vsng = Vs sqrt (n)
@@ -11703,7 +11703,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1571795030438" FOLDED="true" ID="ID_1185899766" MODIFIED="1576532522581">
