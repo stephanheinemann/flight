@@ -170,7 +170,7 @@
 </node>
 <node CREATED="1579645689253" ID="ID_80744334" MODIFIED="1579645696519" TEXT="Development of Instrument Procedures"/>
 </node>
-<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1579811178893" POSITION="left" TEXT="Departure Procedures">
+<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1580499322546" POSITION="left" TEXT="Departure Procedures">
 <node CREATED="1579645753810" ID="ID_1034102258" MODIFIED="1579645765446" TEXT="Aerodrome Operations"/>
 <node CREATED="1579645777165" ID="ID_948846528" MODIFIED="1579645790319" TEXT="Automatic Terminal Information System (ATIS) Broadcast"/>
 <node CREATED="1579645820876" ID="ID_1542868492" MODIFIED="1579645824944" TEXT="Initial Contact"/>
@@ -552,7 +552,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1580330826503" POSITION="left" TEXT="Arrival Procedures">
+<node CREATED="1579633454131" ID="ID_307271175" MODIFIED="1580499324886" POSITION="left" TEXT="Arrival Procedures">
 <node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
 <node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1580263351763" TEXT="STAR, MSA, and TAA">
 <node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1579902286271">
@@ -720,7 +720,7 @@
 <node CREATED="1579917648858" ID="ID_1387758290" MODIFIED="1579917654928" TEXT="Approach Clearance"/>
 <node CREATED="1579918535045" ID="ID_1956152002" MODIFIED="1579918552883" TEXT="Descent Out of Controlled Airspace"/>
 <node CREATED="1580261946820" ID="ID_1414029609" MODIFIED="1580261978756" TEXT="Advance Notice of Intent in Minimum Weather Conditions"/>
-<node CREATED="1580262064124" FOLDED="true" ID="ID_677652104" MODIFIED="1580330230617" TEXT="Contact and Visual Approaches">
+<node CREATED="1580262064124" ID="ID_677652104" MODIFIED="1580500143631" TEXT="Contact and Visual Approaches">
 <node CREATED="1580262091072" ID="ID_1482678814" MODIFIED="1580262592887">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -832,8 +832,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1580329459948" ID="ID_223805524" MODIFIED="1580330064922">
 <richcontent TYPE="NODE"><html>
@@ -889,8 +888,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1580330091737" ID="ID_799651953" MODIFIED="1580330207706">
 <richcontent TYPE="NODE"><html>
@@ -910,8 +908,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1580330238779" ID="ID_228081240" MODIFIED="1580330471482">
@@ -935,8 +932,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1580330494517" ID="ID_271164036" MODIFIED="1580330566263">
 <richcontent TYPE="NODE"><html>
@@ -956,12 +952,28 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1580501112932" ID="ID_1135930507" MODIFIED="1580501124427" TEXT="Control Transfer - IFR Units to Towers"/>
+<node CREATED="1580501300042" ID="ID_986095295" MODIFIED="1580501362582">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Initial Contact with Air-Ground Facility at Uncontrolled Airports
+    </p>
+  </body>
 </html>
 </richcontent>
 </node>
+<node CREATED="1580502674633" ID="ID_597235475" MODIFIED="1580502687474" TEXT="IFR Reporting Procedures at Uncontrolled Aerodromes"/>
+<node CREATED="1580503637076" ID="ID_1543133518" MODIFIED="1580503671676" TEXT="IFR Procedures at an Uncontrolled Aerodrome in Uncontrolled Airspace"/>
+<node CREATED="1580503960976" ID="ID_1267260612" MODIFIED="1580503965722" TEXT="Outbound Report"/>
 </node>
 <node CREATED="1579633476953" ID="ID_66824391" MODIFIED="1579633482399" POSITION="right" TEXT="Holding Procedures"/>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1580327437948" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1580499317283" POSITION="left" TEXT="Practical Procedures">
 <node CREATED="1580232275260" FOLDED="true" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1580330826504">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1269,8 +1281,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1570119212294" ID="ID_1672773467" MODIFIED="1580327362878">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1322,13 +1333,39 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 <node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1580329436710" POSITION="right" TEXT="Emergencies">
 <node CREATED="1579917618923" ID="ID_53256768" MODIFIED="1579917625373" TEXT="Communication Failure"/>
+</node>
+<node CREATED="1580500672430" ID="ID_393965596" MODIFIED="1580500766704" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Interview Questions
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        approach identifier letter versus runway only
+      </li>
+      <li>
+        ILS without functioning FAF
+      </li>
+      <li>
+        contact, visual approach requirements
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </map>
