@@ -398,7 +398,7 @@
 <node CREATED="1579644466100" ID="ID_1705369011" MODIFIED="1579644474483" TEXT="Departures from Uncontrolled Airports"/>
 <node CREATED="1579644760443" ID="ID_77314256" MODIFIED="1579644770079" TEXT="Alerting Service for Uncontrolled Airports"/>
 </node>
-<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1579902025466" POSITION="right" TEXT="En Route Procedures">
+<node CREATED="1579633433848" ID="ID_1247278460" MODIFIED="1580838226074" POSITION="right" TEXT="En Route Procedures">
 <node CREATED="1579811215993" ID="ID_1170940779" MODIFIED="1579811219032" TEXT="Position Reports"/>
 <node CREATED="1579811805490" ID="ID_1221424960" MODIFIED="1579812031916">
 <richcontent TYPE="NODE"><html>
@@ -965,15 +965,16 @@
       Initial Contact with Air-Ground Facility at Uncontrolled Airports
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1580502674633" ID="ID_597235475" MODIFIED="1580502687474" TEXT="IFR Reporting Procedures at Uncontrolled Aerodromes"/>
 <node CREATED="1580503637076" ID="ID_1543133518" MODIFIED="1580503671676" TEXT="IFR Procedures at an Uncontrolled Aerodrome in Uncontrolled Airspace"/>
 <node CREATED="1580503960976" ID="ID_1267260612" MODIFIED="1580503965722" TEXT="Outbound Report"/>
+<node CREATED="1580847117529" ID="ID_1802295" MODIFIED="1580847122778" TEXT="Straight-In Approach"/>
+<node CREATED="1580847165218" ID="ID_1562852606" MODIFIED="1580847203663" TEXT="Straight-In Approaches from an Intermediate Fix"/>
 </node>
 <node CREATED="1579633476953" ID="ID_66824391" MODIFIED="1579633482399" POSITION="right" TEXT="Holding Procedures"/>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1580499317283" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1580846790298" POSITION="left" TEXT="Practical Procedures">
 <node CREATED="1580232275260" FOLDED="true" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1580330826504">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1239,28 +1240,28 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1580326684086" FOLDED="true" ID="ID_612458635" MODIFIED="1580330826504">
+<node CREATED="1580326684086" ID="ID_612458635" MODIFIED="1580840214012">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Descents
+      Descents (CDA)
     </p>
     <p>
       
     </p>
     <ul>
       <li>
-        <b>3</b>&#160;degrees constant descent angle (CDA)
+        1&#160;/ 60 rule
 
         <ul>
           <li>
-            <b>VS = GS / 2 * 10</b>
+            1 degree DA, 1 NM -&gt; 100 ft
           </li>
           <li>
-            GS = 120 kts -&gt; VS = 600 ft / min
+            descent gradient <b>DG </b>[ft / NM]<b>&#160;= DA * 100</b>
           </li>
         </ul>
       </li>
@@ -1279,9 +1280,37 @@
           </li>
         </ul>
       </li>
+      <li>
+        <b>3</b>&#160;degrees constant descent angle (CDA)
+
+        <ul>
+          <li>
+            <b>VS = GS / 2 * 10</b>
+          </li>
+          <li>
+            GS = 120 kts -&gt; VS = 600 ft / min
+          </li>
+          <li>
+            <b>VS = GS * 5</b>
+          </li>
+        </ul>
+      </li>
+      <li>
+        distance to commence a CDA at <b>3</b>&#160;degrees
+
+        <ul>
+          <li>
+            <b>D = FL / 3</b>
+          </li>
+          <li>
+            FL = 60 -&gt; D = 20 NM
+          </li>
+        </ul>
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1570119212294" ID="ID_1672773467" MODIFIED="1580327362878">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1364,8 +1393,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </map>
