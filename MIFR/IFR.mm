@@ -552,7 +552,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1581005981607" POSITION="left" TEXT="Arrival Procedures">
+<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1581027179061" POSITION="left" TEXT="Arrival Procedures">
 <node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
 <node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1580263351763" TEXT="STAR, MSA, and TAA">
 <node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1579902286271">
@@ -751,8 +751,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1580262097702" ID="ID_1073609894" MODIFIED="1580263077584">
 <richcontent TYPE="NODE"><html>
@@ -1309,8 +1308,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1581001893928" ID="ID_628022719" MODIFIED="1581002303002">
 <richcontent TYPE="NODE"><html>
@@ -1333,8 +1331,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1581002391342" FOLDED="true" ID="ID_1576573055" MODIFIED="1581004481266">
@@ -1376,8 +1373,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1581002872865" ID="ID_1377192233" MODIFIED="1581003882441">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1444,8 +1440,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1581004097747" ID="ID_383645704" MODIFIED="1581005467633">
@@ -1484,8 +1479,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1581004462596" ID="ID_586675709" MODIFIED="1581004867699">
 <richcontent TYPE="NODE"><html>
@@ -1517,8 +1511,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1581004905331" ID="ID_1472974950" MODIFIED="1581005559273">
 <richcontent TYPE="NODE"><html>
@@ -1571,8 +1564,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 </node>
 <node CREATED="1581005627032" ID="ID_1993281242" MODIFIED="1581005631847" TEXT="Circling Procedures"/>
@@ -1594,6 +1586,107 @@
       </li>
       <li>
         execute missed approach as published
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1581025852477" ID="ID_1217875557" MODIFIED="1581026140791">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Missed Approach Procedures
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        observe published holding procedures, otherwise hold on inbound track
+      </li>
+      <li>
+        observe required climb gradient, which might be higher than <b>200</b>&#160; ft/NM
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1581026224056" ID="ID_1637984158" MODIFIED="1581026597198">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Simultaneous Precision Instrument Approaches - Parallel Runways
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        vectors for straight-in final - procedure turn not permitted
+      </li>
+      <li>
+        high and low side for parallel approaches
+      </li>
+      <li>
+        handover to tower before reaching FAF
+      </li>
+      <li>
+        ATC issues corrections if <b>1500</b>&#160;ft lateral deviation or more from localizer
+      </li>
+      <li>
+        monitoring terminates <b>1</b>&#160;NM from the threshold
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1581026651451" ID="ID_1233734690" MODIFIED="1581027159090">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Simultaneous Precision Approaches - Converging Runways
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        converging runways with relative angle between <b>15</b>&#160;and <b>100</b>&#160;degrees
+      </li>
+      <li>
+        radar available
+      </li>
+      <li>
+        precision approach for each runway
+      </li>
+      <li>
+        non-intersecting final approach courses
+      </li>
+      <li>
+        MAPs at least <b>3</b>&#160;NM apart
+      </li>
+      <li>
+        no overlapping primary missed approach airspace
+      </li>
+      <li>
+        dedicated charts for each approach
+      </li>
+      <li>
+        visual separation for intersecting runways, possible LAHSO
+      </li>
+      <li>
+        only straight-in appraoches
       </li>
     </ul>
   </body>
