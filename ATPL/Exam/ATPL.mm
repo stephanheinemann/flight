@@ -1,8 +1,8 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1580499068334" POSITION="right" TEXT="SARON">
-<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1579222157988" TEXT="Air Law and Procedures">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1581004258778" POSITION="right" TEXT="SARON">
+<node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1581004258777" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
 <node CREATED="1568248647568" ID="ID_829787578" MODIFIED="1568248662339" TEXT="1.03 Pilot Licence Privileges"/>
@@ -2412,8 +2412,8 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1578595132981" TEXT="1.19 IFR Flight">
-<node CREATED="1569972903894" ID="ID_1927607732" MODIFIED="1577578858274">
+<node CREATED="1569972736927" FOLDED="true" ID="ID_514782042" MODIFIED="1581004258753" TEXT="1.19 IFR Flight">
+<node CREATED="1569972903894" ID="ID_1927607732" MODIFIED="1580927480013">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2439,7 +2439,10 @@
         no IFR approach: <b>500</b>&#160;above minimum IFR altitude (MOCA, MEA) permitting VFR approach
       </li>
       <li>
-        no TAF but Aerodrome Advisory: 500 above the lowest usable HAT/HAA and 3 SM
+        no TAF but Aerodrome Advisory: <b>500</b>&#160;above the lowest usable HAT/HAA and <b>3</b>&#160;SM
+      </li>
+      <li>
+        GFA only: <b>1000</b>&#160;ft above the lowest usable HAT/HAA and <b>3</b>&#160;&#160;SM without CB
       </li>
     </ul>
     <p>
@@ -2486,6 +2489,9 @@
       </li>
       <li>
         1 3/4 -&gt; 2, 2 1/4 -&gt; 2
+      </li>
+      <li>
+        calculated visibilities should not exceed 3&#160;SM (VMC)
       </li>
     </ul>
   </body>
@@ -12471,7 +12477,7 @@
 </node>
 </node>
 <node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1580838241971" POSITION="left" TEXT="SAMRA">
-<node CREATED="1568172518654" ID="ID_1271575521" MODIFIED="1580838238260" TEXT="Meteorology">
+<node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1580927488852" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1577501121921">
 <richcontent TYPE="NODE"><html>
   <head>
