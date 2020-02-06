@@ -1,9 +1,9 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1579633293459" ID="ID_637111351" MODIFIED="1579633300923" TEXT="IFR">
-<node CREATED="1579633398684" FOLDED="true" ID="ID_59338447" MODIFIED="1579811131078" POSITION="right" TEXT="General">
+<node CREATED="1579633398684" FOLDED="true" ID="ID_59338447" MODIFIED="1581005981579" POSITION="right" TEXT="General">
 <node CREATED="1579644863953" ID="ID_1122055925" MODIFIED="1579644877096" TEXT="Air Traffic Control (ATC) Clearance"/>
-<node CREATED="1579644898252" FOLDED="true" ID="ID_1705905435" MODIFIED="1579811125587">
+<node CREATED="1579644898252" FOLDED="true" ID="ID_1705905435" MODIFIED="1580952774121">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -42,7 +42,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1579645256451" FOLDED="true" ID="ID_355525268" MODIFIED="1579811119354" TEXT="IFR Separation">
+<node CREATED="1579645256451" FOLDED="true" ID="ID_355525268" MODIFIED="1580952770207" TEXT="IFR Separation">
 <node CREATED="1579636165195" ID="ID_316886654" MODIFIED="1579645293475">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -170,7 +170,7 @@
 </node>
 <node CREATED="1579645689253" ID="ID_80744334" MODIFIED="1579645696519" TEXT="Development of Instrument Procedures"/>
 </node>
-<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1580499322546" POSITION="left" TEXT="Departure Procedures">
+<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1581005981583" POSITION="left" TEXT="Departure Procedures">
 <node CREATED="1579645753810" ID="ID_1034102258" MODIFIED="1579645765446" TEXT="Aerodrome Operations"/>
 <node CREATED="1579645777165" ID="ID_948846528" MODIFIED="1579645790319" TEXT="Automatic Terminal Information System (ATIS) Broadcast"/>
 <node CREATED="1579645820876" ID="ID_1542868492" MODIFIED="1579645824944" TEXT="Initial Contact"/>
@@ -285,7 +285,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1579642122387" FOLDED="true" ID="ID_15581158" MODIFIED="1579646185381">
+<node CREATED="1579642122387" FOLDED="true" ID="ID_15581158" MODIFIED="1581003944981">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -398,7 +398,7 @@
 <node CREATED="1579644466100" ID="ID_1705369011" MODIFIED="1579644474483" TEXT="Departures from Uncontrolled Airports"/>
 <node CREATED="1579644760443" ID="ID_77314256" MODIFIED="1579644770079" TEXT="Alerting Service for Uncontrolled Airports"/>
 </node>
-<node CREATED="1579633433848" ID="ID_1247278460" MODIFIED="1580838226074" POSITION="right" TEXT="En Route Procedures">
+<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1581005981588" POSITION="right" TEXT="En Route Procedures">
 <node CREATED="1579811215993" ID="ID_1170940779" MODIFIED="1579811219032" TEXT="Position Reports"/>
 <node CREATED="1579811805490" ID="ID_1221424960" MODIFIED="1579812031916">
 <richcontent TYPE="NODE"><html>
@@ -552,7 +552,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633454131" ID="ID_307271175" MODIFIED="1580499324886" POSITION="left" TEXT="Arrival Procedures">
+<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1581005981607" POSITION="left" TEXT="Arrival Procedures">
 <node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
 <node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1580263351763" TEXT="STAR, MSA, and TAA">
 <node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1579902286271">
@@ -720,8 +720,8 @@
 <node CREATED="1579917648858" ID="ID_1387758290" MODIFIED="1579917654928" TEXT="Approach Clearance"/>
 <node CREATED="1579918535045" ID="ID_1956152002" MODIFIED="1579918552883" TEXT="Descent Out of Controlled Airspace"/>
 <node CREATED="1580261946820" ID="ID_1414029609" MODIFIED="1580261978756" TEXT="Advance Notice of Intent in Minimum Weather Conditions"/>
-<node CREATED="1580262064124" ID="ID_677652104" MODIFIED="1580500143631" TEXT="Contact and Visual Approaches">
-<node CREATED="1580262091072" ID="ID_1482678814" MODIFIED="1580262592887">
+<node CREATED="1580262064124" FOLDED="true" ID="ID_677652104" MODIFIED="1581005981591" TEXT="Contact and Visual Approaches">
+<node CREATED="1580262091072" ID="ID_1482678814" MODIFIED="1581005943305">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -744,14 +744,15 @@
         at least <b>1000</b>&#160;ft above the highest obstacle within <b>5</b>&#160;NM
       </li>
       <li>
-        familiarity with environment and airspace (avoid F)
+        familiarity with environment and airspace (avoid airspace F)
       </li>
       <li>
         only upon pilot request and functional published IAP
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1580262097702" ID="ID_1073609894" MODIFIED="1580263077584">
 <richcontent TYPE="NODE"><html>
@@ -972,6 +973,633 @@
 <node CREATED="1580503960976" ID="ID_1267260612" MODIFIED="1580503965722" TEXT="Outbound Report"/>
 <node CREATED="1580847117529" ID="ID_1802295" MODIFIED="1580847122778" TEXT="Straight-In Approach"/>
 <node CREATED="1580847165218" ID="ID_1562852606" MODIFIED="1580847203663" TEXT="Straight-In Approaches from an Intermediate Fix"/>
+<node CREATED="1580924280117" FOLDED="true" ID="ID_1245861120" MODIFIED="1580926256118">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Procedure Altitudes and Current Altimeter Setting
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        altimeter setting assumed to be current for <b>90</b>&#160;min
+      </li>
+      <li>
+        care should be exercised for altimeter settings older than <b>60</b>&#160;min or when pressure is falling rapidly
+      </li>
+      <li>
+        corrections for rapidly falling pressure: <b>10</b>&#160;ft per <b>0.01</b>&#160;inHg
+      </li>
+      <li>
+        corrections for remote altimeter setting as indicated
+      </li>
+      <li>
+        corrections for cold temperatures&#160;
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+<node CREATED="1580924692768" ID="ID_442017505" MODIFIED="1580925915892">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Corrections for Temperature
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        apply altitude corrections chart in extreme cold temperatures
+      </li>
+      <li>
+        apply corrections to published altitudes including MSA and DME arcs
+      </li>
+      <li>
+        advise ATC before applying corrections (FAF, PT, MA)
+      </li>
+      <li>
+        assigned altitudes are not temperature corrected and may be accepted or refused
+      </li>
+      <li>
+        corrections are implicit to vector altitudes
+      </li>
+      <li>
+        final corrections are rounded to the next higher <b>100</b>&#160;ft for FAF and PT
+      </li>
+      <li>
+        final corrections are rounded to the next higher <b>10</b>&#160;ft for MDA
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1580926038199" ID="ID_1286230860" MODIFIED="1580926191604">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Remote Altimeter Setting
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        corrections are designed into the approach for a permanent RASS
+      </li>
+      <li>
+        corrections have to be applied for a temporary RASS as indicated
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1580926267597" FOLDED="true" ID="ID_1771605783" MODIFIED="1580927228647">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Departure, Approach, and Alternate Minima
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Alternate Minima
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        2 or more usable (WX, NOTAM) precision approaches: <b>400-1</b>&#160;(or <i>200-1/2</i>&#160;above lowest usable HAT whichever is greater)
+      </li>
+      <li>
+        1 usable (WX, NOTAM) precision approach: <b>600-2</b>&#160;(or <i>300-1</i>&#160;above lowest usable HAT whichever is greater)
+      </li>
+      <li>
+        non-precision approach only: <b>800-2</b>&#160;(or <i>300-1</i>&#160;above lowest usable HAT whichever is greater)
+      </li>
+      <li>
+        no IFR approach: <b>500</b>&#160;above minimum IFR altitude (MOCA, MEA) permitting VFR approach
+      </li>
+      <li>
+        no TAF but Aerodrome Advisory: <b>500</b>&#160;above the lowest usable HAT/HAA and <b>3</b>&#160;SM
+      </li>
+      <li>
+        GFA only: <b>1000</b>&#160;ft above the lowest usable HAT/HAA and <b>3</b>&#160; SM without CB
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      Sliding Scale
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Standard alternate minima: <b>600-2</b>&#160;and <b>800-2</b>
+      </li>
+      <li>
+        600-2: 700-1 1/2, 800-1
+      </li>
+      <li>
+        800-2: 900-1 1/2, 1000-1
+      </li>
+      <li>
+        apply +100, -1/2 up to twice
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      Rounding
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        HAT or HAA: 20ft
+      </li>
+      <li>
+        HAA = 620 -&gt; HAA = 600
+      </li>
+      <li>
+        HAA = 621 -&gt; HAA = 700
+      </li>
+      <li>
+        1 3/4 -&gt; 2, 2 1/4 -&gt; 2
+      </li>
+      <li>
+        calculated visibilities should not exceed 3 SM (VMC)
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+<node CREATED="1580926410611" ID="ID_1716710199" MODIFIED="1580926580691">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Category II ILS Approach Minima
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        requires TC approval
+      </li>
+      <li>
+        not below DH <b>100</b>&#160;ft RALT and RVR <b>1200</b>&#160;(1/4 SM)
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1580927293523" FOLDED="true" ID="ID_1742964639" MODIFIED="1581004486354" TEXT="Application of Minima">
+<node CREATED="1580927332001" ID="ID_440609933" MODIFIED="1580950259175">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Take-Off Minima
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        hierarchy: RVR, ground visibility, pilot visibility
+      </li>
+      <li>
+        RVR <b>2600</b>&#160;(1/2 SM)
+      </li>
+      <li>
+        <i>review controlled versus uncontrolled aerodromes departure criteria</i>
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node CREATED="1580939308428" ID="ID_527214784" MODIFIED="1581001876229">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Approach Ban
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        general aviation
+
+        <ul>
+          <li>
+            NPA, APV, CAT I, CAT II: <b>RVR A/B</b>&#160;<b>1200</b>, <b>RVR AB</b>&#160;<b>1200</b>, <b>600</b>
+
+            <ul>
+              <li>
+                LVOP conditions (<b>RVR 600</b>&#160;to below <b>RVR 1200</b>)
+              </li>
+              <li>
+                local phenomenon: ground visibility equal or greater 1/4
+              </li>
+            </ul>
+          </li>
+          <li>
+            CAT IIIA: <b>RVR ABC</b>&#160;<b>600</b>, <b>600</b>, <b>600</b>
+          </li>
+        </ul>
+      </li>
+      <li>
+        commercial aviation
+
+        <ul>
+          <li>
+            NPA, APV, CAT I: <b>~75%</b>&#160;CAP advisory (table)
+
+            <ul>
+              <li>
+                LVOP conditions (<b>RVR 600</b>&#160;to below <b>RVR 1200</b>)
+              </li>
+              <li>
+                hierarchy: RVR, runway visibility, ground visibility (south of 60N)
+              </li>
+              <li>
+                local phenomenon: approach visibility equal or greater&#160;CAP
+              </li>
+            </ul>
+          </li>
+          <li>
+            CAT II: <b>RVR AB</b>&#160;<b>1200</b>, <b>600</b>
+          </li>
+          <li>
+            CAT IIIA: <b>RVR ABC</b>&#160;<b>600</b>, <b>600</b>, <b>600</b>
+          </li>
+        </ul>
+      </li>
+      <li>
+        commercial aviation ops spec
+
+        <ul>
+          <li>
+            NPA, APV, CAT I: <b>~50%</b>&#160;CAP advisory (table)
+          </li>
+          <li>
+            hierarchy: RVR, runway visibility, ground visibility (south of 60N)
+          </li>
+        </ul>
+      </li>
+      <li>
+        runway visibility
+
+        <ul>
+          <li>
+            <b>200</b>&#160;ft edge light distance
+          </li>
+          <li>
+            pilot assessment valid for <b>20</b>&#160;min
+          </li>
+        </ul>
+      </li>
+      <li>
+        effect of HIALS on CAP advisory visibilities
+
+        <ul>
+          <li>
+            credit up to <b>1/2</b>&#160;SM to CAP advisory visibility
+          </li>
+          <li>
+            must be corrected if unserviceable
+          </li>
+          <li>
+            certified precision approach is downgraded to non-precision approach with at least <b>250</b>&#160;ft DH and <b>1</b>&#160;SM (tables)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1581001893928" ID="ID_628022719" MODIFIED="1581002303002">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Landing Minima
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        published CAP visibilities are advisory only and not limiting
+      </li>
+      <li>
+        intended to help judge the probability of successful landing
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1581002391342" FOLDED="true" ID="ID_1576573055" MODIFIED="1581004481266">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Runway Visual Range (RVR)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        prevailing visibility
+
+        <ul>
+          <li>
+            at least one half of horizon circle
+          </li>
+          <li>
+            human observation
+          </li>
+        </ul>
+      </li>
+      <li>
+        RVR
+
+        <ul>
+          <li>
+            established by visibility sensors adjacent to runway
+          </li>
+          <li>
+            runway threshold A, midpoint B, runway end C
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1581002872865" ID="ID_1377192233" MODIFIED="1581003882441">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Operational Use of RVR
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        ATC provides RVR when below <b>6000</b>&#160;and upon request
+
+        <ul>
+          <li>
+            <b>100</b>&#160;ft increments from <b>300</b>&#160;to <b>1199</b>&#160;ft
+          </li>
+          <li>
+            <b>200</b>&#160;ft increments from <b>1200</b>&#160;to <b>2999</b>&#160;ft
+          </li>
+          <li>
+            <b>500</b>&#160;ft increments from <b>3000</b>&#160;to <b>6000</b>&#160;ft
+          </li>
+          <li>
+            remains constant for lighting settings <b>1</b>&#160;to <b>3</b>
+          </li>
+          <li>
+            may increase for lighting settings <b>4</b>&#160;to <b>5</b>
+          </li>
+        </ul>
+      </li>
+      <li>
+        prevailing visibility might be a better assessment in certain scenarios
+
+        <ul>
+          <li>
+            low fog over snow covered surface with sun glare
+          </li>
+        </ul>
+      </li>
+      <li>
+        RVR to ground visibility conversion
+
+        <ul>
+          <li>
+            RVR <b>5000</b>, <b>1</b>&#160;SM
+          </li>
+          <li>
+            RVR <b>4000</b>, <b>3/4</b>&#160;SM
+          </li>
+          <li>
+            RVR <b>2600</b>, <b>1/2</b>&#160;SM
+          </li>
+          <li>
+            RVR <b>1400</b>, <b>1/4</b>&#160;SM
+          </li>
+          <li>
+            ground visibility does not apply for operations to below RVR 1200
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1581004097747" ID="ID_383645704" MODIFIED="1581005467633">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Aircraft Categories
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        approach reference or circling speed categories&#160;
+      </li>
+      <li>
+        <b>A</b>&#160;Vref up to <b>90</b>&#160;KIAS
+      </li>
+      <li>
+        <b>B</b>&#160;Vref 91 to <b>120</b>&#160;KIAS
+      </li>
+      <li>
+        <b>C</b>&#160;Vref 121 to <b>140</b>&#160;KIAS
+      </li>
+      <li>
+        <b>D</b>&#160;Vref 141 to <b>165</b>&#160;KIAS
+      </li>
+      <li>
+        <b>E</b>&#160;Vref <b>over</b>&#160;<b>165</b>&#160;KIAS (not applicable for civil IAP)
+      </li>
+      <li>
+        <i>approach speed may differ from circling speed category</i>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1581004462596" ID="ID_586675709" MODIFIED="1581004867699">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Straight-In Landing Minima
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        normal descent from FAF
+      </li>
+      <li>
+        approach track within <b>30</b>&#160;degrees of runway centerline
+      </li>
+      <li>
+        straight-in is possible if only circling minima are given
+      </li>
+      <li>
+        visual references and stable approach must be established
+      </li>
+      <li>
+        circling may be necessary to verify runway condition
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1581004905331" ID="ID_1472974950" MODIFIED="1581005559273">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Circling
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        circling area established by tangent-connected arcs
+      </li>
+      <li>
+        arcs are centered at runway thresholds&#160;
+      </li>
+      <li>
+        arcs radii are based on aircraft speed category
+
+        <ul>
+          <li>
+            <b>A</b>: <b>1.3</b>&#160;NM
+          </li>
+          <li>
+            <b>B</b>: <b>1.5</b>&#160;NM
+          </li>
+          <li>
+            <b>C</b>: <b>1.7</b>&#160;NM
+          </li>
+          <li>
+            <b>D</b>: <b>2.3</b>&#160;NM
+          </li>
+          <li>
+            <b>E</b>: <b>4.5</b>&#160;NM (not applicable to civil IAP)
+          </li>
+        </ul>
+      </li>
+      <li>
+        circling minima provide <b>300</b>&#160;ft obstacle clearance
+      </li>
+      <li>
+        <i>circling obstacle clearance not provided in restricted sectors</i>
+      </li>
+      <li>
+        <i>compare to VFR obstacle clearance requirements for 703, 704 and 705 operations</i>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node CREATED="1581005627032" ID="ID_1993281242" MODIFIED="1581005631847" TEXT="Circling Procedures"/>
+<node CREATED="1581005740501" ID="ID_42163889" MODIFIED="1581005872770">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Missed Approach Procedure while Visually Manoeuvering in the Vicinity of the Aerodrome
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        climb towards center of aerodrome
+      </li>
+      <li>
+        execute missed approach as published
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1579633476953" ID="ID_66824391" MODIFIED="1579633482399" POSITION="right" TEXT="Holding Procedures"/>
 <node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1580846790298" POSITION="left" TEXT="Practical Procedures">
@@ -1240,7 +1868,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1580326684086" ID="ID_612458635" MODIFIED="1580840214012">
+<node CREATED="1580326684086" FOLDED="true" ID="ID_612458635" MODIFIED="1581005981607">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1309,8 +1937,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1570119212294" ID="ID_1672773467" MODIFIED="1580327362878">
 <richcontent TYPE="NODE"><html>
   <head>
