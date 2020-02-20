@@ -1,7 +1,7 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1579633293459" ID="ID_637111351" MODIFIED="1579633300923" TEXT="IFR">
-<node CREATED="1579633398684" FOLDED="true" ID="ID_59338447" MODIFIED="1581709152392" POSITION="right" TEXT="General">
+<node CREATED="1579633398684" FOLDED="true" ID="ID_59338447" MODIFIED="1582230637064" POSITION="right" TEXT="General">
 <node CREATED="1579644863953" ID="ID_1122055925" MODIFIED="1579644877096" TEXT="Air Traffic Control (ATC) Clearance"/>
 <node CREATED="1579644898252" FOLDED="true" ID="ID_1705905435" MODIFIED="1581708442811">
 <richcontent TYPE="NODE"><html>
@@ -22,7 +22,7 @@
 <node CREATED="1579645115872" ID="ID_1851039404" MODIFIED="1579645123705" TEXT="Two-Way Communications Failure"/>
 <node CREATED="1579645186019" ID="ID_1781015447" MODIFIED="1579645198007" TEXT="Reporting Malfunctions of Navigation and Communications Equipment"/>
 </node>
-<node CREATED="1579635981458" ID="ID_831485465" MODIFIED="1581708438518">
+<node CREATED="1579635981458" ID="ID_831485465" MODIFIED="1582226636376">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -38,9 +38,13 @@
       <li>
         should be carried out at least <b>2000</b>&#160;ft above highest obstacle within <b>5</b>&#160;NM
       </li>
+      <li>
+        <b>5000</b>&#160;ft AGL in non-emergency situations (<i>CFS Section F</i>)
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1579645256451" FOLDED="true" ID="ID_355525268" MODIFIED="1581709152389" TEXT="IFR Separation">
@@ -766,8 +770,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1580262097702" ID="ID_1073609894" MODIFIED="1581704857962">
@@ -1048,8 +1051,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1580503637076" ID="ID_1543133518" MODIFIED="1581707350089">
 <richcontent TYPE="NODE"><html>
@@ -1084,8 +1086,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1580503960976" ID="ID_1267260612" MODIFIED="1580503965722" TEXT="Outbound Report"/>
 <node CREATED="1580847117529" ID="ID_1802295" MODIFIED="1580847122778" TEXT="Straight-In Approach"/>
@@ -1635,8 +1636,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1581004905331" ID="ID_1472974950" MODIFIED="1581707623299">
 <richcontent TYPE="NODE"><html>
@@ -1861,8 +1861,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1581698847423" ID="ID_1394734625" MODIFIED="1581700826060">
 <richcontent TYPE="NODE"><html>
@@ -1891,8 +1890,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1581699724942" ID="ID_738133244" MODIFIED="1581699769978">
 <richcontent TYPE="NODE"><html>
@@ -1915,8 +1913,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1581699791515" ID="ID_53087166" MODIFIED="1581700385405">
 <richcontent TYPE="NODE"><html>
@@ -1960,8 +1957,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1581700417808" ID="ID_273597162" MODIFIED="1581709106294">
 <richcontent TYPE="NODE"><html>
@@ -2008,8 +2004,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1581700737284" ID="ID_436724786" MODIFIED="1581709113836">
@@ -2048,8 +2043,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1581700963018" ID="ID_1925744876" MODIFIED="1581701294441">
@@ -2088,8 +2082,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1581701311915" ID="ID_908061580" MODIFIED="1581709122401">
 <richcontent TYPE="NODE"><html>
@@ -2109,8 +2102,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1581701448815" ID="ID_555723749" MODIFIED="1581701643574">
@@ -2140,8 +2132,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1581708301014" POSITION="left" TEXT="Practical Procedures">
@@ -2226,8 +2217,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1570039214997" ID="ID_1496885480" MODIFIED="1580242657308">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2412,8 +2402,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1580326684086" FOLDED="true" ID="ID_612458635" MODIFIED="1581708274900">
@@ -2485,8 +2474,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 <node CREATED="1570119212294" ID="ID_1672773467" MODIFIED="1580327362878">
 <richcontent TYPE="NODE"><html>
@@ -2543,8 +2531,330 @@
 </node>
 </node>
 </node>
-<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1581701430484" POSITION="right" TEXT="Emergencies">
-<node CREATED="1579917618923" ID="ID_53256768" MODIFIED="1579917625373" TEXT="Communication Failure"/>
+<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1582230637080" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Emergencies (<i>CFS Section F</i>)
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1579917618923" ID="ID_53256768" MODIFIED="1582225988027">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Transponder Operation
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1582225996262" ID="ID_1185691091" MODIFIED="1582226002826" TEXT="Unlawful Interference"/>
+<node CREATED="1582226009891" ID="ID_602280377" MODIFIED="1582226015145" TEXT="Traffic Control Light Signals"/>
+<node CREATED="1582226020788" ID="ID_1728646630" MODIFIED="1582226701766">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fuel Dumping
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        at least <b>5000</b>&#160;ft AGL in non-emergency situations
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1582226029162" ID="ID_370463462" MODIFIED="1582227764705">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Search and Rescue
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        recommended time for HF voice distress messages
+
+        <ul>
+          <li>
+            <b>15</b>&#160;and <b>45</b>&#160;minutes after the hour
+          </li>
+          <li>
+            <b>3</b>&#160;minutes duration
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1582226039100" ID="ID_1849828311" MODIFIED="1582228229302">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Emergency Radar Assistance
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        <i>Radar Assistance</i>&#160;on 121.5
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1582226051910" ID="ID_182373672" MODIFIED="1582228635277">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Emergency Communication Procedures
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        <b>120</b>&#160;degree triangle
+
+        <ul>
+          <li>
+            receiver U/S only: <i>right</i>&#160;turns
+          </li>
+          <li>
+            receiver and transmitter U/S: <i>left</i>&#160;turns
+          </li>
+          <li>
+            up to <b>300</b>&#160;kts: <b>2</b>&#160;minute legs
+          </li>
+          <li>
+            more than <b>300</b>&#160;kts: <b>1</b>&#160;minute legs
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1582226067592" FOLDED="true" ID="ID_1242975063" MODIFIED="1582230637073">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Two-Way Communications Failure
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        <b>7600</b>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1582228869277" ID="ID_1519174079" MODIFIED="1582228962798">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      IFR in VMC
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        continue VFR and land as soon as practicable
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1582228943313" ID="ID_194011432" MODIFIED="1582230416062">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      IFR in IMC
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        route
+
+        <ul>
+          <li>
+            last received and acknowledged route clearance
+          </li>
+          <li>
+            vectors: direct to vector clearance fix
+          </li>
+          <li>
+            ATC expected route
+          </li>
+          <li>
+            flight plan route
+          </li>
+        </ul>
+      </li>
+      <li>
+        altitude (highest)
+
+        <ul>
+          <li>
+            last received and acknowledged altitude clearance
+          </li>
+          <li>
+            STAR charted altitudes and levels
+          </li>
+          <li>
+            minimum IFR altitude
+          </li>
+          <li>
+            ATC expected altitude
+          </li>
+          <li>
+            <b>under vectors: climb minimum IFR altitude</b>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1582229380932" ID="ID_1530600274" MODIFIED="1582230393643">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      IFR on Approach
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        with STAR
+
+        <ul>
+          <li>
+            conventional: continue star until radar vector fix, then straight-in
+          </li>
+          <li>
+            closed PBN: follow lateral path and execute straight-in
+          </li>
+          <li>
+            open PBN:
+
+            <ul>
+              <li>
+                with DTW and FACF
+
+                <ul>
+                  <li>
+                    proceed laterally to DTW, then direct FACF, then straight-in, <i>or</i>
+                  </li>
+                  <li>
+                    proceed laterally to waypoint of expected vectors, then straight-in
+                  </li>
+                </ul>
+              </li>
+              <li>
+                without DTW and FACF
+
+                <ul>
+                  <li>
+                    proceed to approach interfacing waypoint (RNAV, ILS), then straight-in
+                  </li>
+                  <li>
+                    proceed laterally to waypoint of expected vectors, then straight-in
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        without STAR
+
+        <ul>
+          <li>
+            commence approach at
+
+            <ul>
+              <li>
+                ETA
+              </li>
+              <li>
+                ETA last notified and acknowledged by ATC
+              </li>
+              <li>
+                EAT last received by ATC and acknowledged
+              </li>
+              <li>
+                EFC in hold
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1582226085622" ID="ID_1513369444" MODIFIED="1582226088891" TEXT="Information Signals"/>
+<node CREATED="1582226095571" ID="ID_1341438576" MODIFIED="1582226103170" TEXT="Military Visual Signals"/>
+<node CREATED="1582226108810" ID="ID_1153297833" MODIFIED="1582226116015" TEXT="Interception of Civil Aircraft"/>
+<node CREATED="1582226122023" ID="ID_1733162758" MODIFIED="1582226125410" TEXT="Interception Signals"/>
+<node CREATED="1582226134506" ID="ID_455174213" MODIFIED="1582226157351" TEXT="Signals for Use in the Event of Interception"/>
+<node CREATED="1582226166020" ID="ID_1035087898" MODIFIED="1582226180568" TEXT="Emergency Security Control of Air Traffic (ESCAT) Plan"/>
 </node>
 <node CREATED="1580500672430" ID="ID_393965596" MODIFIED="1580500766704" POSITION="left">
 <richcontent TYPE="NODE"><html>
