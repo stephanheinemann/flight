@@ -43,8 +43,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1579645256451" FOLDED="true" ID="ID_355525268" MODIFIED="1581709152389" TEXT="IFR Separation">
@@ -2531,7 +2530,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1582230637080" POSITION="right">
+<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1582837038616" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2541,8 +2540,7 @@
       Emergencies (<i>CFS Section F</i>)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1579917618923" ID="ID_53256768" MODIFIED="1582225988027">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2553,8 +2551,7 @@
       Transponder Operation
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1582225996262" ID="ID_1185691091" MODIFIED="1582226002826" TEXT="Unlawful Interference"/>
 <node CREATED="1582226009891" ID="ID_602280377" MODIFIED="1582226015145" TEXT="Traffic Control Light Signals"/>
@@ -2576,8 +2573,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1582226029162" ID="ID_370463462" MODIFIED="1582227764705">
 <richcontent TYPE="NODE"><html>
@@ -2606,8 +2602,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1582226039100" ID="ID_1849828311" MODIFIED="1582228229302">
 <richcontent TYPE="NODE"><html>
@@ -2627,8 +2622,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1582226051910" ID="ID_182373672" MODIFIED="1582228635277">
 <richcontent TYPE="NODE"><html>
@@ -2663,8 +2657,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1582226067592" FOLDED="true" ID="ID_1242975063" MODIFIED="1582230637073">
 <richcontent TYPE="NODE"><html>
@@ -2684,8 +2677,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1582228869277" ID="ID_1519174079" MODIFIED="1582228962798">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2704,8 +2696,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1582228943313" ID="ID_194011432" MODIFIED="1582230416062">
 <richcontent TYPE="NODE"><html>
@@ -2761,8 +2752,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1582229380932" ID="ID_1530600274" MODIFIED="1582230393643">
 <richcontent TYPE="NODE"><html>
@@ -2845,8 +2835,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1582226085622" ID="ID_1513369444" MODIFIED="1582226088891" TEXT="Information Signals"/>
