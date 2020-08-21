@@ -177,7 +177,7 @@
 </node>
 <node CREATED="1579645689253" ID="ID_80744334" MODIFIED="1579645696519" TEXT="Development of Instrument Procedures"/>
 </node>
-<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1581703663748" POSITION="left" TEXT="Departure Procedures">
+<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1597685829882" POSITION="left" TEXT="Departure Procedures">
 <node CREATED="1579645753810" ID="ID_1034102258" MODIFIED="1579645765446" TEXT="Aerodrome Operations"/>
 <node CREATED="1579645777165" ID="ID_948846528" MODIFIED="1579645790319" TEXT="Automatic Terminal Information System (ATIS) Broadcast"/>
 <node CREATED="1579645820876" ID="ID_1542868492" MODIFIED="1579645824944" TEXT="Initial Contact"/>
@@ -568,7 +568,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1581708301007" POSITION="left" TEXT="Arrival Procedures">
+<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1598027670242" POSITION="left" TEXT="Arrival Procedures">
 <node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
 <node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1581704277396" TEXT="STAR, MSA, and TAA">
 <node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1581704144363">
@@ -1637,7 +1637,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1581004905331" ID="ID_1472974950" MODIFIED="1581707623299">
+<node CREATED="1581004905331" ID="ID_1472974950" MODIFIED="1598027658375">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1678,6 +1678,9 @@
         </ul>
       </li>
       <li>
+        since 2020 radii may be specified to accommodate higher TAS at higher altitudes with <b>c</b>&#160;symbol (refer to CAP GEN)
+      </li>
+      <li>
         circling minima provide <b>300</b>&#160;ft obstacle clearance
       </li>
       <li>
@@ -1688,7 +1691,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="messagebox_warning"/>
 <icon BUILTIN="help"/>
 </node>
@@ -2135,8 +2139,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1581708301014" POSITION="left" TEXT="Practical Procedures">
-<node CREATED="1580232275260" FOLDED="true" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1581700366381">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1598027769792" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1580232275260" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1598027700042">
 <richcontent TYPE="NODE"><html>
   <head>
     
