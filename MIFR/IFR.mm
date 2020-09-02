@@ -410,7 +410,7 @@
 <node CREATED="1579644466100" ID="ID_1705369011" MODIFIED="1579644474483" TEXT="Departures from Uncontrolled Airports"/>
 <node CREATED="1579644760443" ID="ID_77314256" MODIFIED="1579644770079" TEXT="Alerting Service for Uncontrolled Airports"/>
 </node>
-<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1581709152399" POSITION="right" TEXT="En Route Procedures">
+<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1599074118160" POSITION="right" TEXT="En Route Procedures">
 <node CREATED="1579811215993" ID="ID_1170940779" MODIFIED="1579811219032" TEXT="Position Reports"/>
 <node CREATED="1579811805490" ID="ID_1221424960" MODIFIED="1581708542639">
 <richcontent TYPE="NODE"><html>
@@ -1691,8 +1691,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 <icon BUILTIN="help"/>
 </node>
@@ -2535,7 +2534,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1582837038616" POSITION="right">
+<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1599074944034" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2664,7 +2663,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1582226067592" FOLDED="true" ID="ID_1242975063" MODIFIED="1582230637073">
+<node CREATED="1582226067592" FOLDED="true" ID="ID_1242975063" MODIFIED="1599074328725">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2875,6 +2874,19 @@
     </ul>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1599074135286" ID="ID_1566747846" MODIFIED="1599075240295" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mandatory IFR Routes (<i>CFS Section C118 Planning</i>)
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </map>
