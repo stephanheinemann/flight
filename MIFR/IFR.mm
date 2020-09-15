@@ -1,7 +1,7 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1579633293459" ID="ID_637111351" MODIFIED="1579633300923" TEXT="IFR">
-<node CREATED="1579633398684" FOLDED="true" ID="ID_59338447" MODIFIED="1582230637064" POSITION="right" TEXT="General">
+<node CREATED="1579633398684" FOLDED="true" ID="ID_59338447" MODIFIED="1600186705312" POSITION="right" TEXT="General">
 <node CREATED="1579644863953" ID="ID_1122055925" MODIFIED="1579644877096" TEXT="Air Traffic Control (ATC) Clearance"/>
 <node CREATED="1579644898252" FOLDED="true" ID="ID_1705905435" MODIFIED="1581708442811">
 <richcontent TYPE="NODE"><html>
@@ -46,7 +46,7 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1579645256451" FOLDED="true" ID="ID_355525268" MODIFIED="1581709152389" TEXT="IFR Separation">
+<node CREATED="1579645256451" FOLDED="true" ID="ID_355525268" MODIFIED="1600186705302" TEXT="IFR Separation">
 <node CREATED="1579636165195" ID="ID_316886654" MODIFIED="1581708457658">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -177,7 +177,7 @@
 </node>
 <node CREATED="1579645689253" ID="ID_80744334" MODIFIED="1579645696519" TEXT="Development of Instrument Procedures"/>
 </node>
-<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1597685829882" POSITION="left" TEXT="Departure Procedures">
+<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1600186707090" POSITION="left" TEXT="Departure Procedures">
 <node CREATED="1579645753810" ID="ID_1034102258" MODIFIED="1579645765446" TEXT="Aerodrome Operations"/>
 <node CREATED="1579645777165" ID="ID_948846528" MODIFIED="1579645790319" TEXT="Automatic Terminal Information System (ATIS) Broadcast"/>
 <node CREATED="1579645820876" ID="ID_1542868492" MODIFIED="1579645824944" TEXT="Initial Contact"/>
@@ -205,7 +205,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1579646030855" FOLDED="true" ID="ID_1367856101" MODIFIED="1581708300936" TEXT="Noise Abatement Procedures - Departure">
+<node CREATED="1579646030855" FOLDED="true" ID="ID_1367856101" MODIFIED="1600186707081" TEXT="Noise Abatement Procedures - Departure">
 <node CREATED="1579646068429" ID="ID_955884881" MODIFIED="1579646074672" TEXT="Noise-Preferential Runways"/>
 <node CREATED="1579640103681" FOLDED="true" ID="ID_1376215789" MODIFIED="1581708300935">
 <richcontent TYPE="NODE"><html>
@@ -410,7 +410,7 @@
 <node CREATED="1579644466100" ID="ID_1705369011" MODIFIED="1579644474483" TEXT="Departures from Uncontrolled Airports"/>
 <node CREATED="1579644760443" ID="ID_77314256" MODIFIED="1579644770079" TEXT="Alerting Service for Uncontrolled Airports"/>
 </node>
-<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1599074118160" POSITION="right" TEXT="En Route Procedures">
+<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1600186729757" POSITION="right" TEXT="En Route Procedures">
 <node CREATED="1579811215993" ID="ID_1170940779" MODIFIED="1579811219032" TEXT="Position Reports"/>
 <node CREATED="1579811805490" ID="ID_1221424960" MODIFIED="1581708542639">
 <richcontent TYPE="NODE"><html>
@@ -568,7 +568,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1598027670242" POSITION="left" TEXT="Arrival Procedures">
+<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1600188400814" POSITION="left" TEXT="Arrival Procedures">
 <node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
 <node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1581704277396" TEXT="STAR, MSA, and TAA">
 <node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1581704144363">
@@ -736,9 +736,56 @@
 </node>
 </node>
 <node CREATED="1579917648858" ID="ID_1387758290" MODIFIED="1579917654928" TEXT="Approach Clearance"/>
-<node CREATED="1579918535045" ID="ID_1956152002" MODIFIED="1579918552883" TEXT="Descent Out of Controlled Airspace"/>
+<node CREATED="1579918535045" ID="ID_1956152002" MODIFIED="1600188348543">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Descent Out of Controlled Airspace
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        descent to MOCA from MEA
+
+        <ul>
+          <li>
+            emergencies or operational constraints
+          </li>
+          <li>
+            no guaranteed ATC communication or radar surveillance
+          </li>
+          <li>
+            at pilot request only if unable to cancel IFR
+          </li>
+        </ul>
+      </li>
+      <li>
+        MEA is protected if no visual conditions at MOCA
+
+        <ul>
+          <li>
+            until pilot files arrival report, <i>or</i>
+          </li>
+          <li>
+            <b>30 min</b>&#160;to allow for descent to MOCA and return to MEA and reestablish communication, <i>otherwise</i>
+          </li>
+          <li>
+            <b>alternate ETA + 30 min</b>, if no communication can be reestablished
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1580261946820" ID="ID_1414029609" MODIFIED="1580261978756" TEXT="Advance Notice of Intent in Minimum Weather Conditions"/>
-<node CREATED="1580262064124" FOLDED="true" ID="ID_677652104" MODIFIED="1581708300943" TEXT="Contact and Visual Approaches">
+<node CREATED="1580262064124" FOLDED="true" ID="ID_677652104" MODIFIED="1600188380853" TEXT="Contact and Visual Approaches">
 <node CREATED="1580262091072" ID="ID_1482678814" MODIFIED="1581704853219">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -812,7 +859,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1580263122647" FOLDED="true" ID="ID_1477912224" MODIFIED="1581708300949">
+<node CREATED="1580263122647" FOLDED="true" ID="ID_1477912224" MODIFIED="1600186708524">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1184,7 +1231,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1580926267597" FOLDED="true" ID="ID_1771605783" MODIFIED="1581708300960">
+<node CREATED="1580926267597" FOLDED="true" ID="ID_1771605783" MODIFIED="1600186709896">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1299,7 +1346,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1580927293523" FOLDED="true" ID="ID_1742964639" MODIFIED="1581708300985" TEXT="Application of Minima">
+<node CREATED="1580927293523" FOLDED="true" ID="ID_1742964639" MODIFIED="1600186711172" TEXT="Application of Minima">
 <node CREATED="1580927332001" ID="ID_440609933" MODIFIED="1580950259175">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1456,7 +1503,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1581002391342" FOLDED="true" ID="ID_1576573055" MODIFIED="1581708300989">
+<node CREATED="1581002391342" FOLDED="true" ID="ID_1576573055" MODIFIED="1600186712430">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1820,7 +1867,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633476953" FOLDED="true" ID="ID_66824391" MODIFIED="1583369112472" POSITION="right" TEXT="Holding Procedures">
+<node CREATED="1579633476953" FOLDED="true" ID="ID_66824391" MODIFIED="1600186703692" POSITION="right" TEXT="Holding Procedures">
 <node CREATED="1581698162634" ID="ID_1555241956" MODIFIED="1581699112664">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2885,8 +2932,7 @@
       Mandatory IFR Routes (<i>CFS Section C118 Planning</i>)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </map>
