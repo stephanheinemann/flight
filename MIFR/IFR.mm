@@ -781,8 +781,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1580261946820" ID="ID_1414029609" MODIFIED="1580261978756" TEXT="Advance Notice of Intent in Minimum Weather Conditions"/>
 <node CREATED="1580262064124" FOLDED="true" ID="ID_677652104" MODIFIED="1600188380853" TEXT="Contact and Visual Approaches">
@@ -2185,7 +2184,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1598027769792" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1600201530571" POSITION="left" TEXT="Practical Procedures">
 <node CREATED="1580232275260" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1598027700042">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2454,8 +2453,38 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="help"/>
+<node CREATED="1600196278933" ID="ID_1967800735" MODIFIED="1600196522863">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Lead In Turns
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        manual turn anticipation during intercepts
+      </li>
+      <li>
+        radials, bearings, arcs, procedure turns
+      </li>
+      <li>
+        <b>XTD</b>&#160;[NM] <b>=</b>&#160;<b>GS</b>&#160;[KTS] <b>/ 100 </b>(1% of GS)
+      </li>
+      <li>
+        1.2 = 120 / 100 -&gt; initiate standard rate turn 1.2 NM XTD
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1580326684086" FOLDED="true" ID="ID_612458635" MODIFIED="1581708274900">
+</node>
+<node CREATED="1580326684086" ID="ID_612458635" MODIFIED="1600196263770">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2578,6 +2607,132 @@
     </ul>
   </body>
 </html></richcontent>
+</node>
+</node>
+<node CREATED="1600196703468" ID="ID_1883704705" MODIFIED="1600200898528">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      DME Arcs
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        GPS or traditional VOR/DME with CDI / HSI / RMI
+      </li>
+      <li>
+        traditional method may be required due to
+
+        <ul>
+          <li>
+            equipment limitations or failures
+          </li>
+          <li>
+            necessity to fly unpublished arcs
+          </li>
+        </ul>
+      </li>
+      <li>
+        fly <b>secant segments of 10 deg radial difference</b>
+      </li>
+      <li>
+        <i>twist 10 turn 10</i>
+
+        <ul>
+          <li>
+            set radial <b>10 deg</b>&#160;ahead and turn <b>10 deg</b>&#160;inbound
+          </li>
+          <li>
+            desired track is perpendicular to set radial
+          </li>
+          <li>
+            CDI / HSI shows <b>10 deg</b>&#160;full deflection, center, <b>10 deg</b>&#160;&#160;full deflection
+          </li>
+          <li>
+            CDI: <i>arc left -&gt; swing left, arc right swing right</i>
+          </li>
+          <li>
+            repeat until established on desired final radial
+          </li>
+        </ul>
+      </li>
+      <li>
+        wind corrections
+
+        <ul>
+          <li>
+            monitor DME and intercept in wind
+          </li>
+          <li>
+            turn inside or outside to maintain DME
+          </li>
+          <li>
+            small outside corrections on the inside of the arc
+          </li>
+          <li>
+            large inside corrections on the outside of the arc
+          </li>
+        </ul>
+      </li>
+      <li>
+        published lead radials based on faster GS
+      </li>
+      <li>
+        apply <b>1% GS</b>&#160;lead in and lead out
+      </li>
+      <li>
+        remain within <b>0.1</b>&#160;<b>DME</b>&#160;of the arc
+      </li>
+      <li>
+        traditional DME receiver would ideally show 0 KGS while on arc
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1600197928797" ID="ID_1155614633" MODIFIED="1600198583419">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1 in 60 Rule
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        6000 ft ~ 1 NM
+      </li>
+      <li>
+        60 DME arc: 1 deg radial difference corresponds to 1 NM
+      </li>
+      <li>
+        30 DME arc: 2 deg radial difference corresponds to 1 NM
+      </li>
+      <li>
+        15 DME arc: 4 deg radial difference corresponds to 1 NM
+      </li>
+      <li>
+        useful to establish lead in XTD to intercept final radial
+      </li>
+      <li>
+        1% of 120 = 1.2
+      </li>
+      <li>
+        15 DME arc -&gt; 1.2 * 4 deg = 5 deg radial lead in
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
