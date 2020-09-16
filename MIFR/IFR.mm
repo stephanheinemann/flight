@@ -2184,7 +2184,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1600201530571" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1600284400926" POSITION="left" TEXT="Practical Procedures">
 <node CREATED="1580232275260" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1598027700042">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2480,8 +2480,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1580326684086" ID="ID_612458635" MODIFIED="1600196263770">
@@ -2609,7 +2608,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1600196703468" ID="ID_1883704705" MODIFIED="1600200898528">
+<node CREATED="1600196703468" FOLDED="true" ID="ID_1883704705" MODIFIED="1600284394475">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2651,7 +2650,7 @@
             desired track is perpendicular to set radial
           </li>
           <li>
-            CDI / HSI shows <b>10 deg</b>&#160;full deflection, center, <b>10 deg</b>&#160;&#160;full deflection
+            CDI / HSI shows <b>5&#160;deg</b>&#160;half deflection, center, <b>5&#160;deg</b>&#160;&#160;half deflection
           </li>
           <li>
             CDI: <i>arc left -&gt; swing left, arc right swing right</i>
@@ -2666,7 +2665,7 @@
 
         <ul>
           <li>
-            monitor DME and intercept in wind
+            monitor DME and intercept desired arc
           </li>
           <li>
             turn inside or outside to maintain DME
@@ -2731,8 +2730,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
