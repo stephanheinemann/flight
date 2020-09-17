@@ -177,7 +177,7 @@
 </node>
 <node CREATED="1579645689253" ID="ID_80744334" MODIFIED="1579645696519" TEXT="Development of Instrument Procedures"/>
 </node>
-<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1600186707090" POSITION="left" TEXT="Departure Procedures">
+<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1600373420651" POSITION="left" TEXT="Departure Procedures">
 <node CREATED="1579645753810" ID="ID_1034102258" MODIFIED="1579645765446" TEXT="Aerodrome Operations"/>
 <node CREATED="1579645777165" ID="ID_948846528" MODIFIED="1579645790319" TEXT="Automatic Terminal Information System (ATIS) Broadcast"/>
 <node CREATED="1579645820876" ID="ID_1542868492" MODIFIED="1579645824944" TEXT="Initial Contact"/>
@@ -295,7 +295,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1579642122387" FOLDED="true" ID="ID_15581158" MODIFIED="1581708300937">
+<node CREATED="1579642122387" ID="ID_15581158" MODIFIED="1600365296281">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -348,7 +348,7 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="help"/>
-<node CREATED="1579642903721" ID="ID_284205814" MODIFIED="1581703640675">
+<node CREATED="1579642903721" ID="ID_284205814" MODIFIED="1600366516332">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -361,6 +361,9 @@
       
     </p>
     <ul>
+      <li>
+        only applies to <b>VCOA&#160;</b>departures
+      </li>
       <li>
         according to aircraft approach speed category
       </li>
@@ -409,6 +412,224 @@
 <node CREATED="1579644396728" ID="ID_1220853600" MODIFIED="1579644402728" TEXT="Release from Tower Frequency"/>
 <node CREATED="1579644466100" ID="ID_1705369011" MODIFIED="1579644474483" TEXT="Departures from Uncontrolled Airports"/>
 <node CREATED="1579644760443" ID="ID_77314256" MODIFIED="1579644770079" TEXT="Alerting Service for Uncontrolled Airports"/>
+<node CREATED="1600365369617" ID="ID_1586590438" MODIFIED="1600372963073">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Departure Types
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        obstacle and terrain clearance requirements apply if not otherwise stated
+      </li>
+      <li>
+        different climb gradients and speeds may be required
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1600365397456" ID="ID_1837255989" MODIFIED="1600372889468">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Obstacle Departure Procedure (ODP)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        option for aircraft not meeting the SID required climb gradients
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1600365508127" ID="ID_1967124099" MODIFIED="1600368045194">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Departure Procedure (DP)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Examples:
+
+        <ul>
+          <li>
+            CYWL Departure Procedure Chart
+          </li>
+          <li>
+            CYZT Departure Procedure Chart
+          </li>
+          <li>
+            CYBL Aerodrome Chart
+          </li>
+          <li>
+            CYAZ Aerodrome Chart
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+<node CREATED="1600366673308" ID="ID_1373945476" MODIFIED="1600368718756">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      RNAV
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        based on GNSS navigation
+      </li>
+      <li>
+        Examples:
+
+        <ul>
+          <li>
+            CAT4 SENRI3 DP (RNAV)
+          </li>
+          <li>
+            CBS8 KAVTU1 DP (RNAV), TUKES1 DP (RNAV)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1600365549095" ID="ID_1387972397" MODIFIED="1600372917989">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Visual Climb Over the Airport (VCOA)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        option for aircraft not meeting the ODP required climb gradients
+      </li>
+      <li>
+        SPEC VIS only applies to VCOA
+      </li>
+      <li>
+        Examples:
+
+        <ul>
+          <li>
+            CYCD Aerodrome Chart
+          </li>
+          <li>
+            CYWL Departure Procedure Chart
+          </li>
+          <li>
+            CYZT Departure Procedure Chart
+          </li>
+          <li>
+            CYBL Aerodrome Chart
+          </li>
+          <li>
+            CAT4 Aerodrome Chart
+          </li>
+          <li>
+            CYAZ Aerodrome Chart
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1600365418707" ID="ID_1721211248" MODIFIED="1600365461734" TEXT="Standard Instrument Departure (SID)">
+<node CREATED="1600365478655" ID="ID_1185433446" MODIFIED="1600365903292">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Pilot Nav
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Examples:
+
+        <ul>
+          <li>
+            CYYJ MB8 SID (PILOT NAV)
+          </li>
+          <li>
+            CYYJ CLOAKE6 SID (PILOT NAV)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1600365497400" ID="ID_1277227959" MODIFIED="1600365947523">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Vector
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Examples:
+
+        <ul>
+          <li>
+            CYYJ CYYJ5 SID (VECTOR)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
 </node>
 <node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1600186729757" POSITION="right" TEXT="En Route Procedures">
 <node CREATED="1579811215993" ID="ID_1170940779" MODIFIED="1579811219032" TEXT="Position Reports"/>
@@ -2184,7 +2405,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1600284400926" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1600369083387" POSITION="left" TEXT="Practical Procedures">
 <node CREATED="1580232275260" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1598027700042">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2608,7 +2829,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1600196703468" FOLDED="true" ID="ID_1883704705" MODIFIED="1600284394475">
+<node CREATED="1600196703468" ID="ID_1883704705" MODIFIED="1600366255072">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2692,8 +2913,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1600197928797" ID="ID_1155614633" MODIFIED="1600198583419">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2727,6 +2947,29 @@
       </li>
       <li>
         15 DME arc -&gt; 1.2 * 4 deg = 5 deg radial lead in
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1600366261645" ID="ID_690657015" MODIFIED="1600366349136">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      DME Arc Examples
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        CYWL VOR RWY 12
+      </li>
+      <li>
+        CYZT ILS RWY 11
       </li>
     </ul>
   </body>
@@ -3049,7 +3292,7 @@
 <node CREATED="1582226134506" ID="ID_455174213" MODIFIED="1582226157351" TEXT="Signals for Use in the Event of Interception"/>
 <node CREATED="1582226166020" ID="ID_1035087898" MODIFIED="1582226180568" TEXT="Emergency Security Control of Air Traffic (ESCAT) Plan"/>
 </node>
-<node CREATED="1580500672430" ID="ID_393965596" MODIFIED="1580500766704" POSITION="left">
+<node CREATED="1580500672430" ID="ID_393965596" MODIFIED="1600368564197" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3064,6 +3307,15 @@
     <ul>
       <li>
         approach identifier letter versus runway only
+
+        <ul>
+          <li>
+            A, B, ... circling minima only
+          </li>
+          <li>
+            X, Y, Z, ... different minima based on same navigation
+          </li>
+        </ul>
       </li>
       <li>
         ILS without functioning FAF
