@@ -177,7 +177,7 @@
 </node>
 <node CREATED="1579645689253" ID="ID_80744334" MODIFIED="1579645696519" TEXT="Development of Instrument Procedures"/>
 </node>
-<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1600373420651" POSITION="left" TEXT="Departure Procedures">
+<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1600390021958" POSITION="left" TEXT="Departure Procedures">
 <node CREATED="1579645753810" ID="ID_1034102258" MODIFIED="1579645765446" TEXT="Aerodrome Operations"/>
 <node CREATED="1579645777165" ID="ID_948846528" MODIFIED="1579645790319" TEXT="Automatic Terminal Information System (ATIS) Broadcast"/>
 <node CREATED="1579645820876" ID="ID_1542868492" MODIFIED="1579645824944" TEXT="Initial Contact"/>
@@ -412,7 +412,7 @@
 <node CREATED="1579644396728" ID="ID_1220853600" MODIFIED="1579644402728" TEXT="Release from Tower Frequency"/>
 <node CREATED="1579644466100" ID="ID_1705369011" MODIFIED="1579644474483" TEXT="Departures from Uncontrolled Airports"/>
 <node CREATED="1579644760443" ID="ID_77314256" MODIFIED="1579644770079" TEXT="Alerting Service for Uncontrolled Airports"/>
-<node CREATED="1600365369617" ID="ID_1586590438" MODIFIED="1600372963073">
+<node CREATED="1600365369617" ID="ID_1586590438" MODIFIED="1600389861648">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -426,7 +426,7 @@
     </p>
     <ul>
       <li>
-        obstacle and terrain clearance requirements apply if not otherwise stated
+        standard obstacle and terrain clearance requirements apply if not otherwise stated
       </li>
       <li>
         different climb gradients and speeds may be required
@@ -436,7 +436,7 @@
 </html>
 </richcontent>
 <icon BUILTIN="messagebox_warning"/>
-<node CREATED="1600365397456" ID="ID_1837255989" MODIFIED="1600372889468">
+<node CREATED="1600365397456" FOLDED="true" ID="ID_1837255989" MODIFIED="1600390008827">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -449,6 +449,12 @@
       
     </p>
     <ul>
+      <li>
+        only considers obstacles clearance but not ATC requirements
+      </li>
+      <li>
+        usually features a textual description only but may be graphical
+      </li>
       <li>
         option for aircraft not meeting the SID required climb gradients
       </li>
@@ -568,11 +574,32 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1600365418707" FOLDED="true" ID="ID_1721211248" MODIFIED="1600390008829">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Standard Instrument Departure (SID)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        considers both obstacle clearance and ATC requirements
+      </li>
+      <li>
+        always features a graphical depiction
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
-</node>
-</node>
-<node CREATED="1600365418707" ID="ID_1721211248" MODIFIED="1600365461734" TEXT="Standard Instrument Departure (SID)">
 <node CREATED="1600365478655" ID="ID_1185433446" MODIFIED="1600365903292">
 <richcontent TYPE="NODE"><html>
   <head>
