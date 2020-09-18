@@ -1,9 +1,9 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1579633293459" ID="ID_637111351" MODIFIED="1579633300923" TEXT="IFR">
-<node CREATED="1579633398684" FOLDED="true" ID="ID_59338447" MODIFIED="1600186705312" POSITION="right" TEXT="General">
+<node CREATED="1579633398684" FOLDED="true" ID="ID_59338447" MODIFIED="1600457386469" POSITION="right" TEXT="General">
 <node CREATED="1579644863953" ID="ID_1122055925" MODIFIED="1579644877096" TEXT="Air Traffic Control (ATC) Clearance"/>
-<node CREATED="1579644898252" FOLDED="true" ID="ID_1705905435" MODIFIED="1581708442811">
+<node CREATED="1579644898252" FOLDED="true" ID="ID_1705905435" MODIFIED="1600453688151">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -46,7 +46,7 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1579645256451" FOLDED="true" ID="ID_355525268" MODIFIED="1600186705302" TEXT="IFR Separation">
+<node CREATED="1579645256451" ID="ID_355525268" MODIFIED="1600453693915" TEXT="IFR Separation">
 <node CREATED="1579636165195" ID="ID_316886654" MODIFIED="1581708457658">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -177,7 +177,7 @@
 </node>
 <node CREATED="1579645689253" ID="ID_80744334" MODIFIED="1579645696519" TEXT="Development of Instrument Procedures"/>
 </node>
-<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1600390021958" POSITION="left" TEXT="Departure Procedures">
+<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1600457386479" POSITION="left" TEXT="Departure Procedures">
 <node CREATED="1579645753810" ID="ID_1034102258" MODIFIED="1579645765446" TEXT="Aerodrome Operations"/>
 <node CREATED="1579645777165" ID="ID_948846528" MODIFIED="1579645790319" TEXT="Automatic Terminal Information System (ATIS) Broadcast"/>
 <node CREATED="1579645820876" ID="ID_1542868492" MODIFIED="1579645824944" TEXT="Initial Contact"/>
@@ -433,8 +433,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 <node CREATED="1600365397456" FOLDED="true" ID="ID_1837255989" MODIFIED="1600390008827">
 <richcontent TYPE="NODE"><html>
@@ -460,8 +459,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1600365508127" ID="ID_1967124099" MODIFIED="1600368045194">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -598,8 +596,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1600365478655" ID="ID_1185433446" MODIFIED="1600365903292">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -658,7 +655,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1600186729757" POSITION="right" TEXT="En Route Procedures">
+<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1600457386485" POSITION="right" TEXT="En Route Procedures">
 <node CREATED="1579811215993" ID="ID_1170940779" MODIFIED="1579811219032" TEXT="Position Reports"/>
 <node CREATED="1579811805490" ID="ID_1221424960" MODIFIED="1581708542639">
 <richcontent TYPE="NODE"><html>
@@ -688,7 +685,7 @@
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1579812064801" ID="ID_1599666678" MODIFIED="1579812068098" TEXT="Altitude Reports"/>
-<node CREATED="1579812268334" FOLDED="true" ID="ID_1339956055" MODIFIED="1581709152393" TEXT="Climb or Descent">
+<node CREATED="1579812268334" FOLDED="true" ID="ID_1339956055" MODIFIED="1600453768104" TEXT="Climb or Descent">
 <node CREATED="1579812603291" ID="ID_189299697" MODIFIED="1579812609263" TEXT="Visual Climb and Descent"/>
 </node>
 <node CREATED="1579812710027" ID="ID_1761413884" MODIFIED="1581708662127">
@@ -727,7 +724,7 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1579813700085" FOLDED="true" ID="ID_1129084101" MODIFIED="1581709152394" TEXT="ATC Assignment of Altitudes">
+<node CREATED="1579813700085" FOLDED="true" ID="ID_1129084101" MODIFIED="1600453781988" TEXT="ATC Assignment of Altitudes">
 <node CREATED="1579814173974" ID="ID_1577062654" MODIFIED="1579814179584" TEXT="Minimum IFR Altitude"/>
 <node CREATED="1579814200983" ID="ID_1216937735" MODIFIED="1581708863443">
 <richcontent TYPE="NODE"><html>
@@ -816,9 +813,9 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1600188400814" POSITION="left" TEXT="Arrival Procedures">
+<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1600457386505" POSITION="left" TEXT="Arrival Procedures">
 <node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
-<node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1581704277396" TEXT="STAR, MSA, and TAA">
+<node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1600457369291" TEXT="STAR, MSA, and TAA">
 <node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1581704144363">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -873,7 +870,7 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1579902359091" FOLDED="true" ID="ID_1858405094" MODIFIED="1581708300938">
+<node CREATED="1579902359091" ID="ID_1858405094" MODIFIED="1600454739880">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -980,6 +977,42 @@
     </ul>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1600454749037" ID="ID_71582416" MODIFIED="1600456384024">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ATC Clearance Examples
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        <i>cleared direct HE NDB, fly the HE3 arrival </i>
+      </li>
+      <li>
+        <i>cleared direct KEKPO, fly the <b>balance</b>&#160;of the HE3 arrival </i>
+      </li>
+      <li>
+        <i>cleared direct HE NDB, <b>descent via</b>&#160;the HE3 arrival </i>
+      </li>
+      <li>
+        <i>cleared direct HE NDB, <b>descent and maintain</b>&#160;9000 on the HE3 arrival </i>
+      </li>
+      <li>
+        <i>cleared direct HE NDB, <b>descent via</b>&#160;the HE3 arrival <b>except maintain</b>&#160;8000</i>
+      </li>
+      <li>
+        <i>vectors for traffic, fly heading 180 maintain 8000, <b>expect rejoin</b>&#160; the arrival at VOGAD</i>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
@@ -2114,7 +2147,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633476953" FOLDED="true" ID="ID_66824391" MODIFIED="1600186703692" POSITION="right" TEXT="Holding Procedures">
+<node CREATED="1579633476953" FOLDED="true" ID="ID_66824391" MODIFIED="1600457386513" POSITION="right" TEXT="Holding Procedures">
 <node CREATED="1581698162634" ID="ID_1555241956" MODIFIED="1581699112664">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2432,7 +2465,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1600369083387" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1600457386531" POSITION="left" TEXT="Practical Procedures">
 <node CREATED="1580232275260" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1598027700042">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3004,7 +3037,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1599074944034" POSITION="right">
+<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1600457386535" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
