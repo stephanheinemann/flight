@@ -1,7 +1,7 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1579633293459" ID="ID_637111351" MODIFIED="1579633300923" TEXT="IFR">
-<node CREATED="1579633398684" FOLDED="true" ID="ID_59338447" MODIFIED="1600457386469" POSITION="right" TEXT="General">
+<node CREATED="1579633398684" FOLDED="true" ID="ID_59338447" MODIFIED="1600540082633" POSITION="right" TEXT="General">
 <node CREATED="1579644863953" ID="ID_1122055925" MODIFIED="1579644877096" TEXT="Air Traffic Control (ATC) Clearance"/>
 <node CREATED="1579644898252" FOLDED="true" ID="ID_1705905435" MODIFIED="1600453688151">
 <richcontent TYPE="NODE"><html>
@@ -177,7 +177,7 @@
 </node>
 <node CREATED="1579645689253" ID="ID_80744334" MODIFIED="1579645696519" TEXT="Development of Instrument Procedures"/>
 </node>
-<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1600457386479" POSITION="left" TEXT="Departure Procedures">
+<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1600540082641" POSITION="left" TEXT="Departure Procedures">
 <node CREATED="1579645753810" ID="ID_1034102258" MODIFIED="1579645765446" TEXT="Aerodrome Operations"/>
 <node CREATED="1579645777165" ID="ID_948846528" MODIFIED="1579645790319" TEXT="Automatic Terminal Information System (ATIS) Broadcast"/>
 <node CREATED="1579645820876" ID="ID_1542868492" MODIFIED="1579645824944" TEXT="Initial Contact"/>
@@ -655,7 +655,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1600457386485" POSITION="right" TEXT="En Route Procedures">
+<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1600540082646" POSITION="right" TEXT="En Route Procedures">
 <node CREATED="1579811215993" ID="ID_1170940779" MODIFIED="1579811219032" TEXT="Position Reports"/>
 <node CREATED="1579811805490" ID="ID_1221424960" MODIFIED="1581708542639">
 <richcontent TYPE="NODE"><html>
@@ -813,7 +813,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1600457386505" POSITION="left" TEXT="Arrival Procedures">
+<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1600540082668" POSITION="left" TEXT="Arrival Procedures">
 <node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
 <node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1600457369291" TEXT="STAR, MSA, and TAA">
 <node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1581704144363">
@@ -1011,8 +1011,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -1065,7 +1064,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1580261946820" ID="ID_1414029609" MODIFIED="1580261978756" TEXT="Advance Notice of Intent in Minimum Weather Conditions"/>
-<node CREATED="1580262064124" FOLDED="true" ID="ID_677652104" MODIFIED="1600188380853" TEXT="Contact and Visual Approaches">
+<node CREATED="1580262064124" FOLDED="true" ID="ID_677652104" MODIFIED="1600540068811" TEXT="Contact and Visual Approaches">
 <node CREATED="1580262091072" ID="ID_1482678814" MODIFIED="1581704853219">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2147,7 +2146,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633476953" FOLDED="true" ID="ID_66824391" MODIFIED="1600457386513" POSITION="right" TEXT="Holding Procedures">
+<node CREATED="1579633476953" FOLDED="true" ID="ID_66824391" MODIFIED="1600540082678" POSITION="right" TEXT="Holding Procedures">
 <node CREATED="1581698162634" ID="ID_1555241956" MODIFIED="1581699112664">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2465,7 +2464,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1600457386531" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1600540082696" POSITION="left" TEXT="Practical Procedures">
 <node CREATED="1580232275260" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1598027700042">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2708,7 +2707,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1580242496504" ID="ID_1271336510" MODIFIED="1581708280103">
+<node CREATED="1580242496504" ID="ID_1271336510" MODIFIED="1600539087313">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2730,9 +2729,13 @@
       <li>
         half-standard rate (bank angle = <b>IAS / 20 + 7</b>)
       </li>
+      <li>
+        <b>180</b>&#160;deg turn <b>radius</b>&#160;equals <b>1% TAS</b>&#160;[NM] in no wind
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="help"/>
 <node CREATED="1600196278933" ID="ID_1967800735" MODIFIED="1600196522863">
 <richcontent TYPE="NODE"><html>
@@ -2764,7 +2767,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1580326684086" ID="ID_612458635" MODIFIED="1600196263770">
+<node CREATED="1580326684086" ID="ID_612458635" MODIFIED="1600539234288">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2782,10 +2785,22 @@
 
         <ul>
           <li>
-            1 degree DA corresponds to 100 ft / NM
+            1 degree DA corresponds to approximately 1 ft / 60 ft
+          </li>
+          <li>
+            <b>1 NM = 6076.12 ft</b>
+          </li>
+          <li>
+            <b>1 degree DA corresponds to approximately 100 ft / NM</b>
           </li>
           <li>
             descent gradient <b>DG </b>[ft / NM]<b>&#160;= DA * 100</b>
+          </li>
+          <li>
+            DA = 4 deg -&gt; DG = 400 ft / NM
+          </li>
+          <li>
+            DA = 6.5 deg -&gt; DG = 650 ft / NM
           </li>
         </ul>
       </li>
@@ -2833,7 +2848,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="help"/>
 <node CREATED="1570119212294" ID="ID_1672773467" MODIFIED="1580327362878">
 <richcontent TYPE="NODE"><html>
@@ -3037,7 +3053,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1600457386535" POSITION="right">
+<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1600540082700" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
