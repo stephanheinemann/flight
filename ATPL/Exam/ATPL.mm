@@ -1,7 +1,7 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1581701745045" POSITION="right" TEXT="SARON">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1600801122652" POSITION="right" TEXT="SARON">
 <node CREATED="1568172948798" FOLDED="true" ID="ID_62855509" MODIFIED="1581701745044" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
@@ -9606,7 +9606,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1580497175424" TEXT="Flight Operations">
+<node CREATED="1568173802936" FOLDED="true" ID="ID_851590336" MODIFIED="1600801094383" TEXT="Flight Operations">
 <node CREATED="1571851864451" ID="ID_416756973" MODIFIED="1572288401755">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -9793,7 +9793,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1572287214392" ID="ID_958651418" MODIFIED="1572288166536">
+<node CREATED="1572287214392" ID="ID_958651418" MODIFIED="1600801082375">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -9917,11 +9917,15 @@
       <li>
         Vyse (best single-engine rate of climb speed)
       </li>
+      <li>
+        Vcc cruise climb speed
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1572288362185" FOLDED="true" ID="ID_864967113" MODIFIED="1578184015456">
+<node CREATED="1572288362185" FOLDED="true" ID="ID_864967113" MODIFIED="1600801094366">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10177,7 +10181,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1572288287627" FOLDED="true" ID="ID_860230094" MODIFIED="1578184015446">
+<node CREATED="1572288287627" FOLDED="true" ID="ID_860230094" MODIFIED="1600801094354">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10205,7 +10209,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1572371365302" FOLDED="true" ID="ID_480925617" MODIFIED="1578184015437">
+<node CREATED="1572371365302" FOLDED="true" ID="ID_480925617" MODIFIED="1600801090794">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10344,7 +10348,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572371376017" FOLDED="true" ID="ID_1286313910" MODIFIED="1576027165768">
+<node CREATED="1572371376017" FOLDED="true" ID="ID_1286313910" MODIFIED="1600801094344">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10506,6 +10510,27 @@
   </body>
 </html></richcontent>
 </node>
+</node>
+<node CREATED="1600800995095" ID="ID_1482664827" MODIFIED="1600801037869">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cruise Climb
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        rule of thumb Vcc = Vy + (Vy - Vx)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1572288315992" FOLDED="true" ID="ID_1443800187" MODIFIED="1576532522569" TEXT="4.07 Cruise Performance">
@@ -11652,9 +11677,9 @@
 <node CREATED="1572557841087" ID="ID_1393851454" MODIFIED="1572557849804" TEXT="4.17 Landing Techniques"/>
 <node CREATED="1572557899101" ID="ID_7440582" MODIFIED="1572557905885" TEXT="4.18 Volcanic Ash"/>
 </node>
-<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1580499068333" TEXT="Theory of Flight">
+<node CREATED="1568173868337" FOLDED="true" ID="ID_1290650653" MODIFIED="1600801108306" TEXT="Theory of Flight">
 <icon BUILTIN="closed"/>
-<node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1580499068329" TEXT="4.01 General Theory of Flight">
+<node CREATED="1571791842521" FOLDED="true" ID="ID_416036682" MODIFIED="1600801106449" TEXT="4.01 General Theory of Flight">
 <node CREATED="1571791871556" ID="ID_1614108199" MODIFIED="1576531102598">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -12476,7 +12501,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1580838241971" POSITION="left" TEXT="SAMRA">
+<node CREATED="1568172247782" FOLDED="true" ID="ID_1312210863" MODIFIED="1600801122652" POSITION="left" TEXT="SAMRA">
 <node CREATED="1568172518654" FOLDED="true" ID="ID_1271575521" MODIFIED="1580927488852" TEXT="Meteorology">
 <node CREATED="1568174438816" FOLDED="true" ID="ID_208638027" MODIFIED="1577501121921">
 <richcontent TYPE="NODE"><html>
@@ -17627,7 +17652,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1568671682779" FOLDED="true" ID="ID_1658639647" MODIFIED="1577579100743" POSITION="right" TEXT="Study Material">
+<node CREATED="1568671682779" FOLDED="true" ID="ID_1658639647" MODIFIED="1600801122659" POSITION="right" TEXT="Study Material">
 <node CREATED="1568671700482" FOLDED="true" ID="ID_217896736" MODIFIED="1577579100730">
 <richcontent TYPE="NODE"><html>
   <head>
