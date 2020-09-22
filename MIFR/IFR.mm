@@ -177,11 +177,46 @@
 </node>
 <node CREATED="1579645689253" ID="ID_80744334" MODIFIED="1579645696519" TEXT="Development of Instrument Procedures"/>
 </node>
-<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1600721240483" POSITION="left" TEXT="Departure Procedures">
+<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1600805173478" POSITION="left" TEXT="Departure Procedures">
 <node CREATED="1579645753810" ID="ID_1034102258" MODIFIED="1579645765446" TEXT="Aerodrome Operations"/>
 <node CREATED="1579645777165" ID="ID_948846528" MODIFIED="1579645790319" TEXT="Automatic Terminal Information System (ATIS) Broadcast"/>
 <node CREATED="1579645820876" ID="ID_1542868492" MODIFIED="1579645824944" TEXT="Initial Contact"/>
-<node CREATED="1579645828133" ID="ID_72886895" MODIFIED="1579645831414" TEXT="IFR Clearances"/>
+<node CREATED="1579645828133" ID="ID_72886895" MODIFIED="1600803230251">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      IFR Clearances
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        <b>CRAFT</b>
+      </li>
+      <li>
+        <b>C</b>learance Limit (fix or destination)
+      </li>
+      <li>
+        <b>R</b>oute (DP, FPR)
+      </li>
+      <li>
+        <b>A</b>ltitudes
+      </li>
+      <li>
+        <b>F</b>requencies
+      </li>
+      <li>
+        <b>T</b>ransponder Code
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1579645846990" ID="ID_425430365" MODIFIED="1579645964937">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -410,7 +445,39 @@
 </node>
 </node>
 <node CREATED="1579644396728" ID="ID_1220853600" MODIFIED="1579644402728" TEXT="Release from Tower Frequency"/>
-<node CREATED="1579644466100" ID="ID_1705369011" MODIFIED="1579644474483" TEXT="Departures from Uncontrolled Airports"/>
+<node CREATED="1579644466100" ID="ID_1705369011" MODIFIED="1600804158477">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Departures from Uncontrolled Airports
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        clearance indirectly via FSS from ATC
+      </li>
+      <li>
+        clearance directly from ATC (center)
+      </li>
+      <li>
+        hold until release
+      </li>
+      <li>
+        clearance void time
+      </li>
+      <li>
+        option: depart VFR, obtain IFR clearance when airborne
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1579644760443" ID="ID_77314256" MODIFIED="1579644770079" TEXT="Alerting Service for Uncontrolled Airports"/>
 <node CREATED="1600365369617" ID="ID_1586590438" MODIFIED="1600389861648">
 <richcontent TYPE="NODE"><html>
@@ -655,7 +722,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1600721240489" POSITION="right" TEXT="En Route Procedures">
+<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1600805902295" POSITION="right" TEXT="En Route Procedures">
 <node CREATED="1579811215993" ID="ID_1170940779" MODIFIED="1579811219032" TEXT="Position Reports"/>
 <node CREATED="1579811805490" ID="ID_1221424960" MODIFIED="1581708542639">
 <richcontent TYPE="NODE"><html>
@@ -813,7 +880,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1600721240513" POSITION="left" TEXT="Arrival Procedures">
+<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1600805869171" POSITION="left" TEXT="Arrival Procedures">
 <node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
 <node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1600457369291" TEXT="STAR, MSA, and TAA">
 <node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1581704144363">
@@ -2020,6 +2087,33 @@
 </html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 <icon BUILTIN="help"/>
+<node CREATED="1600801947839" ID="ID_1963411115" MODIFIED="1600802016697">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Criteria (FAA)
+    </p>
+    <p>
+      
+    </p>
+    <ul http-equiv="content-type" content="text/html; charset=utf-8">
+      <li>
+        The final approach course alignment with the runway centerline exceeds <b>30</b>&#160; degrees.
+      </li>
+      <li>
+        The descent gradient is greater than <b>400</b>&#160;ft/NM from the FAF to the threshold crossing height (TCH). When this maximum gradient is exceeded, the circling only approach procedure may be designed to meet the gradient criteria limits. This does not preclude a straight-in landing if a normal descent and landing can be made in accordance with the applicable CFRs.
+      </li>
+      <li>
+        A runway is not clearly defined on the airfield.
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1581005627032" ID="ID_1993281242" MODIFIED="1581005631847" TEXT="Circling Procedures"/>
 <node CREATED="1581005740501" ID="ID_42163889" MODIFIED="1581005872770">
@@ -2145,7 +2239,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1600715049686" ID="ID_1162526592" MODIFIED="1600718633568">
+<node CREATED="1600715049686" ID="ID_1162526592" MODIFIED="1600801749027">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2159,7 +2253,7 @@
     </p>
     <ul>
       <li>
-        &lt;nav aid&gt; [approach identifier] &lt;runway&gt;
+        &lt;nav aid&gt; [approach identifier] [runway]
       </li>
       <li>
         potentially different procedures and minima using the same nav aid
@@ -2178,7 +2272,10 @@
 
         <ul>
           <li>
-            VOR-A 09: first VOR approach with circling minima only
+            no designated runway
+          </li>
+          <li>
+            VOR-A: first VOR approach with circling minima only
           </li>
           <li>
             VOR DME-B second VOR approach with circling minima only
@@ -2186,14 +2283,14 @@
         </ul>
       </li>
       <li>
-        &lt;nav aid&gt;-<b>X</b>, <b>Y</b>, <b>Z</b>, ... <b>straight-in approaches </b>based on the same nav aid
+        &lt;nav aid&gt;-<b>X</b>, <b>Y</b>, <b>Z</b>, ... <b>straight-in minima </b>based on the same nav aid
 
         <ul>
           <li>
-            RNAV (GNSS) Z 09: first RNAV straight-in approach
+            RNAV (GNSS) Z 09: first RNAV approach with straight-in minima
           </li>
           <li>
-            RNAV (RNP) Y 09: second RNAV straight-in approach
+            RNAV (RNP) Y 09: second RNAV approach with straight-in minima
           </li>
         </ul>
       </li>
@@ -2205,19 +2302,7 @@
 
         <ul>
           <li>
-            required navigational performance
-          </li>
-          <li>
-            certified equipment and aircrew authorization
-          </li>
-        </ul>
-      </li>
-      <li>
-        RNAV (PBN)
-
-        <ul>
-          <li>
-            performance based navigation
+            required navigational performance, PBN
           </li>
           <li>
             certified equipment and aircrew authorization
@@ -2554,7 +2639,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1600721240540" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1600801852137" POSITION="left" TEXT="Practical Procedures">
 <node CREATED="1580232275260" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1598027700042">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3456,7 +3541,7 @@
 <node CREATED="1582226134506" ID="ID_455174213" MODIFIED="1582226157351" TEXT="Signals for Use in the Event of Interception"/>
 <node CREATED="1582226166020" ID="ID_1035087898" MODIFIED="1582226180568" TEXT="Emergency Security Control of Air Traffic (ESCAT) Plan"/>
 </node>
-<node CREATED="1580500672430" ID="ID_393965596" MODIFIED="1600721230274" POSITION="left">
+<node CREATED="1580500672430" ID="ID_393965596" MODIFIED="1600801288123" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3480,7 +3565,7 @@
             A, B, ... circling minima only
           </li>
           <li>
-            X, Y, Z, ... different straight-in procedures based on same nav aid
+            X, Y, Z, ... different straight-in minimums based on same nav aid
           </li>
         </ul>
       </li>
