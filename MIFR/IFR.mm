@@ -214,8 +214,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1579645846990" ID="ID_425430365" MODIFIED="1579645964937">
 <richcontent TYPE="NODE"><html>
@@ -475,8 +474,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1579644760443" ID="ID_77314256" MODIFIED="1579644770079" TEXT="Alerting Service for Uncontrolled Airports"/>
 <node CREATED="1600365369617" ID="ID_1586590438" MODIFIED="1600389861648">
@@ -880,9 +878,9 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1600805869171" POSITION="left" TEXT="Arrival Procedures">
+<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1601922743893" POSITION="left" TEXT="Arrival Procedures">
 <node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
-<node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1600457369291" TEXT="STAR, MSA, and TAA">
+<node CREATED="1579902101136" ID="ID_1440343756" MODIFIED="1601921770931" TEXT="STAR, MSA, and TAA">
 <node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1581704144363">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1083,7 +1081,7 @@
 </node>
 </node>
 <node CREATED="1579917648858" ID="ID_1387758290" MODIFIED="1579917654928" TEXT="Approach Clearance"/>
-<node CREATED="1579918535045" ID="ID_1956152002" MODIFIED="1600188348543">
+<node CREATED="1579918535045" ID="ID_1956152002" MODIFIED="1601921766440">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1129,9 +1127,10 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 <node CREATED="1580261946820" ID="ID_1414029609" MODIFIED="1580261978756" TEXT="Advance Notice of Intent in Minimum Weather Conditions"/>
-<node CREATED="1580262064124" FOLDED="true" ID="ID_677652104" MODIFIED="1600540068811" TEXT="Contact and Visual Approaches">
+<node CREATED="1580262064124" FOLDED="true" ID="ID_677652104" MODIFIED="1601921791955" TEXT="Contact and Visual Approaches">
 <node CREATED="1580262091072" ID="ID_1482678814" MODIFIED="1581704853219">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1205,7 +1204,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1580263122647" FOLDED="true" ID="ID_1477912224" MODIFIED="1600186708524">
+<node CREATED="1580263122647" FOLDED="true" ID="ID_1477912224" MODIFIED="1601921800798">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1383,7 +1382,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1580502674633" ID="ID_597235475" MODIFIED="1581705979947">
+<node CREATED="1580502674633" ID="ID_597235475" MODIFIED="1601921827638">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1425,7 +1424,7 @@
             fix / beacon inbound
           </li>
           <li>
-            3 minutes before ETA without fix
+            <b>3</b>&#160;minutes before ETA without fix
           </li>
           <li>
             final approach
@@ -1443,7 +1442,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1580503637076" ID="ID_1543133518" MODIFIED="1581707350089">
 <richcontent TYPE="NODE"><html>
@@ -2111,8 +2111,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1581005627032" ID="ID_1993281242" MODIFIED="1581005631847" TEXT="Circling Procedures"/>
@@ -2317,8 +2316,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1579633476953" FOLDED="true" ID="ID_66824391" MODIFIED="1600721240522" POSITION="right" TEXT="Holding Procedures">
@@ -2639,7 +2637,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1600801852137" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1601922743915" POSITION="left" TEXT="Practical Procedures">
 <node CREATED="1580232275260" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1598027700042">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2911,7 +2909,7 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="help"/>
-<node CREATED="1600196278933" ID="ID_1967800735" MODIFIED="1600196522863">
+<node CREATED="1600196278933" ID="ID_1967800735" MODIFIED="1601922638927">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2939,6 +2937,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 </node>
 <node CREATED="1580326684086" ID="ID_612458635" MODIFIED="1600539234288">
@@ -3577,8 +3576,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1599074135286" ID="ID_1566747846" MODIFIED="1599075240295" POSITION="right">
 <richcontent TYPE="NODE"><html>
