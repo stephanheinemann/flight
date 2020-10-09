@@ -1,7 +1,7 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1579633293459" ID="ID_637111351" MODIFIED="1579633300923" TEXT="IFR">
-<node CREATED="1579633398684" FOLDED="true" ID="ID_59338447" MODIFIED="1600721240466" POSITION="right" TEXT="General">
+<node CREATED="1579633398684" FOLDED="true" ID="ID_59338447" MODIFIED="1602286655400" POSITION="right" TEXT="General">
 <node CREATED="1579644863953" ID="ID_1122055925" MODIFIED="1579644877096" TEXT="Air Traffic Control (ATC) Clearance"/>
 <node CREATED="1579644898252" FOLDED="true" ID="ID_1705905435" MODIFIED="1600453688151">
 <richcontent TYPE="NODE"><html>
@@ -177,7 +177,7 @@
 </node>
 <node CREATED="1579645689253" ID="ID_80744334" MODIFIED="1579645696519" TEXT="Development of Instrument Procedures"/>
 </node>
-<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1600805173478" POSITION="left" TEXT="Departure Procedures">
+<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1602286655421" POSITION="left" TEXT="Departure Procedures">
 <node CREATED="1579645753810" ID="ID_1034102258" MODIFIED="1579645765446" TEXT="Aerodrome Operations"/>
 <node CREATED="1579645777165" ID="ID_948846528" MODIFIED="1579645790319" TEXT="Automatic Terminal Information System (ATIS) Broadcast"/>
 <node CREATED="1579645820876" ID="ID_1542868492" MODIFIED="1579645824944" TEXT="Initial Contact"/>
@@ -720,7 +720,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1600805902295" POSITION="right" TEXT="En Route Procedures">
+<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1602286655429" POSITION="right" TEXT="En Route Procedures">
 <node CREATED="1579811215993" ID="ID_1170940779" MODIFIED="1579811219032" TEXT="Position Reports"/>
 <node CREATED="1579811805490" ID="ID_1221424960" MODIFIED="1581708542639">
 <richcontent TYPE="NODE"><html>
@@ -878,7 +878,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1601922743893" POSITION="left" TEXT="Arrival Procedures">
+<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1602286655474" POSITION="left" TEXT="Arrival Procedures">
 <node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
 <node CREATED="1579902101136" ID="ID_1440343756" MODIFIED="1601921770931" TEXT="STAR, MSA, and TAA">
 <node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1581704144363">
@@ -1442,8 +1442,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1580503637076" ID="ID_1543133518" MODIFIED="1581707350089">
 <richcontent TYPE="NODE"><html>
@@ -2319,7 +2318,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633476953" FOLDED="true" ID="ID_66824391" MODIFIED="1600721240522" POSITION="right" TEXT="Holding Procedures">
+<node CREATED="1579633476953" FOLDED="true" ID="ID_66824391" MODIFIED="1602286655486" POSITION="right" TEXT="Holding Procedures">
 <node CREATED="1581698162634" ID="ID_1555241956" MODIFIED="1581699112664">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2637,7 +2636,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1601922743915" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1602286799532" POSITION="left" TEXT="Practical Procedures">
 <node CREATED="1580232275260" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1598027700042">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3200,7 +3199,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1600366261645" ID="ID_690657015" MODIFIED="1600366349136">
+<node CREATED="1600366261645" ID="ID_690657015" MODIFIED="1602286777393">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3219,13 +3218,17 @@
       <li>
         CYZT ILS RWY 11
       </li>
+      <li>
+        CYZP VOR/DME RWY 31
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1600721240543" POSITION="right">
+<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1602286655514" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3540,7 +3543,20 @@
 <node CREATED="1582226134506" ID="ID_455174213" MODIFIED="1582226157351" TEXT="Signals for Use in the Event of Interception"/>
 <node CREATED="1582226166020" ID="ID_1035087898" MODIFIED="1582226180568" TEXT="Emergency Security Control of Air Traffic (ESCAT) Plan"/>
 </node>
-<node CREATED="1580500672430" ID="ID_393965596" MODIFIED="1600801288123" POSITION="left">
+<node CREATED="1599074135286" ID="ID_1566747846" MODIFIED="1599075240295" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mandatory IFR Routes (<i>CFS Section C118 Planning</i>)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1602286632758" FOLDED="true" ID="ID_1597719984" MODIFIED="1602286661743" POSITION="left" TEXT="Career">
+<node CREATED="1580500672430" ID="ID_393965596" MODIFIED="1600801288123">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3578,17 +3594,6 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1599074135286" ID="ID_1566747846" MODIFIED="1599075240295" POSITION="right">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Mandatory IFR Routes (<i>CFS Section C118 Planning</i>)
-    </p>
-  </body>
-</html></richcontent>
 </node>
 </node>
 </map>
