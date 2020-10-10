@@ -23,8 +23,9 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1601686478539" FOLDED="true" ID="ID_446566040" MODIFIED="1602348703123" POSITION="left" TEXT="CARs">
-<node CREATED="1601687030791" ID="ID_1799555625" MODIFIED="1601687033959" TEXT="Part IV">
+<node CREATED="1601686478539" FOLDED="true" ID="ID_446566040" MODIFIED="1602356556321" POSITION="left" TEXT="CARs">
+<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1602356549019" TEXT="Part IV">
+<node CREATED="1602355279925" FOLDED="true" ID="ID_1595026383" MODIFIED="1602356522208" TEXT="Flight Crew Permits, Licenses and Ratings (401)">
 <node CREATED="1601927950343" ID="ID_500012379" MODIFIED="1601928484704">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -191,10 +192,57 @@
 </html></richcontent>
 </node>
 </node>
+<node CREATED="1602355336864" FOLDED="true" ID="ID_343175998" MODIFIED="1602356546954" TEXT="Medical Requirements (404)">
+<node CREATED="1602355776706" ID="ID_753014365" MODIFIED="1602356504576">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Issuance, Renewal, Validity Period and Extension of a
+    </p>
+    <p>
+      Medical Certificate (404.04)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        <b>5</b>&#160;years SPP
+      </li>
+      <li>
+        <b>5</b>&#160;years (&lt; <b>40</b>), <b>2</b>&#160;years PPL (&gt;= <b>40</b>)
+      </li>
+      <li>
+        <b>1</b>&#160;year CPL, ATPL (&lt; <b>40</b>)
+      </li>
+      <li>
+        <b>6</b>&#160;months CPL, ATPL in SP operations (&gt;= <b>40</b>&#160;with PAX, &gt;= <b>60</b>)
+      </li>
+      <li>
+        <b>1</b>st day of the following month initial after signing date
+      </li>
+      <li>
+        <b>1</b>st day of the following month renewal after previous date within <b>90</b>&#160;&#160;days before expiry
+      </li>
+      <li>
+        <b>60</b>&#160;days extension maximum with reasons
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1602355392724" ID="ID_1569390396" MODIFIED="1602355398274" TEXT="Flight Training (405)"/>
+<node CREATED="1602355414543" ID="ID_1039927574" MODIFIED="1602355421707" TEXT="Flight Training Units (406)"/>
+</node>
 <node CREATED="1601687037693" ID="ID_35577576" MODIFIED="1601687041603" TEXT="Part VI"/>
 </node>
 <node CREATED="1601686500988" ID="ID_739673680" MODIFIED="1601686504167" POSITION="right" TEXT="Standards"/>
-<node CREATED="1601687056181" FOLDED="true" ID="ID_1522117251" MODIFIED="1602348720474" POSITION="left" TEXT="Exam Preparation">
+<node CREATED="1601687056181" FOLDED="true" ID="ID_1522117251" MODIFIED="1602356556323" POSITION="left" TEXT="Exam Preparation">
 <node CREATED="1601687084749" ID="ID_230562098" MODIFIED="1601687089374" TEXT="Culhane"/>
 <node CREATED="1602348141673" ID="ID_623059859" MODIFIED="1602348212344">
 <richcontent TYPE="NODE"><html>
@@ -206,13 +254,12 @@
       PTR Slide Review / Update
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1602348183541" ID="ID_1440743899" MODIFIED="1602348200585" TEXT="NavPath Slide Review"/>
 </node>
 <node CREATED="1602348247050" ID="ID_904553130" MODIFIED="1602348259187" POSITION="right" TEXT="Flight Test Guides"/>
-<node CREATED="1602348569417" FOLDED="true" ID="ID_1190188854" MODIFIED="1602348696986" POSITION="left" TEXT="Deadlines">
+<node CREATED="1602348569417" FOLDED="true" ID="ID_1190188854" MODIFIED="1602356556324" POSITION="left" TEXT="Deadlines">
 <node CREATED="1602348577982" ID="ID_1128194867" MODIFIED="1602348604731" TEXT="12/2020 Written Exam"/>
 <node CREATED="1602348609971" ID="ID_1532898135" MODIFIED="1602348685448">
 <richcontent TYPE="NODE"><html>
@@ -235,8 +282,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
