@@ -23,9 +23,9 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1601686478539" FOLDED="true" ID="ID_446566040" MODIFIED="1602356556321" POSITION="left" TEXT="CARs">
-<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1602356549019" TEXT="Part IV">
-<node CREATED="1602355279925" FOLDED="true" ID="ID_1595026383" MODIFIED="1602356522208" TEXT="Flight Crew Permits, Licenses and Ratings (401)">
+<node CREATED="1601686478539" FOLDED="true" ID="ID_446566040" MODIFIED="1602545874916" POSITION="left" TEXT="CARs">
+<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1602545873581" TEXT="Part IV">
+<node CREATED="1602355279925" FOLDED="true" ID="ID_1595026383" MODIFIED="1602543901898" TEXT="Flight Crew Permits, Licenses and Ratings (401)">
 <node CREATED="1601927950343" ID="ID_500012379" MODIFIED="1601928484704">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -192,8 +192,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602355336864" FOLDED="true" ID="ID_343175998" MODIFIED="1602356546954" TEXT="Medical Requirements (404)">
-<node CREATED="1602355776706" ID="ID_753014365" MODIFIED="1602356504576">
+<node CREATED="1602355336864" FOLDED="true" ID="ID_343175998" MODIFIED="1602545615689" TEXT="Medical Requirements (404)">
+<node CREATED="1602355776706" ID="ID_753014365" MODIFIED="1602544038553">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -216,19 +216,112 @@
         <b>5</b>&#160;years (&lt; <b>40</b>), <b>2</b>&#160;years PPL (&gt;= <b>40</b>)
       </li>
       <li>
-        <b>1</b>&#160;year CPL, ATPL (&lt; <b>40</b>)
+        <b>1</b>&#160;year CPL, ATPL (&lt; <b>40</b>) and in MC operations (&gt;= <b>40</b>)
       </li>
       <li>
         <b>6</b>&#160;months CPL, ATPL in SP operations (&gt;= <b>40</b>&#160;with PAX, &gt;= <b>60</b>)
       </li>
       <li>
-        <b>1</b>st day of the following month initial after signing date
+        <b>1</b>st day of the following month after signing date
       </li>
       <li>
         <b>1</b>st day of the following month renewal after previous date within <b>90</b>&#160;&#160;days before expiry
       </li>
       <li>
         <b>60</b>&#160;days extension maximum with reasons
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1602543993206" ID="ID_1616264416" MODIFIED="1602544054431">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Prohibition Regarding Exercise of Privileges (404.06)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        <b>30</b>th week of pregnancy, <b>6</b>&#160;weeks after giving birth
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1602544117635" ID="ID_238536665" MODIFIED="1602544820626">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Medical Certificate Requirements for Personnel Licences (404.10)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        CAT <b>1</b>: CPL(A, H), MPL (A), ATPL (A, H), FE
+      </li>
+      <li>
+        CAT <b>1</b>&#160;/ <b>2</b>: ATC
+      </li>
+      <li>
+        CAT <b>1</b>&#160;/ <b>3</b>: SPP(H, GR, B), PP(GR), PPL(A, H), PL(B), FI(GL, U)
+      </li>
+      <li>
+        CAT <b>1</b>&#160;/ <b>3</b>&#160;/ <b>4</b>: SPP(A, U, GL), PP(R, U), PL(GL)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1602545011312" ID="ID_1234539042" MODIFIED="1602545184700">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Minister&#8217;s Assessment (404.11)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        inform no earlier than <b>30</b>&#160;days after notifying applicant about decision
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1602545258035" ID="ID_1938497332" MODIFIED="1602545316851">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Reconsideration of Assessment (404.12)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        request reconsideration no later than <b>30</b>&#160;days after having received decision
       </li>
     </ul>
   </body>
