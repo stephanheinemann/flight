@@ -23,8 +23,8 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1601686478539" FOLDED="true" ID="ID_446566040" MODIFIED="1602545874916" POSITION="left" TEXT="CARs">
-<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1602545873581" TEXT="Part IV">
+<node CREATED="1601686478539" FOLDED="true" ID="ID_446566040" MODIFIED="1602630557558" POSITION="left" TEXT="CARs">
+<node CREATED="1601687030791" ID="ID_1799555625" MODIFIED="1602627279932" TEXT="Part IV">
 <node CREATED="1602355279925" FOLDED="true" ID="ID_1595026383" MODIFIED="1602543901898" TEXT="Flight Crew Permits, Licenses and Ratings (401)">
 <node CREATED="1601927950343" ID="ID_500012379" MODIFIED="1601928484704">
 <richcontent TYPE="NODE"><html>
@@ -325,12 +325,113 @@
 </node>
 </node>
 <node CREATED="1602355392724" ID="ID_1569390396" MODIFIED="1602355398274" TEXT="Flight Training (405)"/>
-<node CREATED="1602355414543" ID="ID_1039927574" MODIFIED="1602355421707" TEXT="Flight Training Units (406)"/>
+<node CREATED="1602355414543" ID="ID_1039927574" MODIFIED="1602355421707" TEXT="Flight Training Units (406)">
+<node CREATED="1602629445864" ID="ID_1286691528" MODIFIED="1602629550380">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Notification Requirement (406.05)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        within <b>10</b>&#160;days of any change in the information
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1602629627297" FOLDED="true" ID="ID_71323751" MODIFIED="1602630416896">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Issuance or Amendment of a Flight Training Unit Operator Certificate (406.11)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        maintain an adequate organizational structure
+      </li>
+      <li>
+        maintain operational control
+      </li>
+      <li>
+        comply with maintenance requirements
+      </li>
+      <li>
+        meet the personnel licensing standards
+      </li>
+      <li>
+        conduct the operation safely
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1602629825686" ID="ID_93996328" MODIFIED="1602629879462">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Full-Time Employees
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        chief flight instructor
+      </li>
+      <li>
+        flight instructor
+      </li>
+      <li>
+        ground instructor
+      </li>
+      <li>
+        maintenance manager
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
 </node>
 <node CREATED="1601687037693" ID="ID_35577576" MODIFIED="1601687041603" TEXT="Part VI"/>
 </node>
-<node CREATED="1601686500988" ID="ID_739673680" MODIFIED="1601686504167" POSITION="right" TEXT="Standards"/>
-<node CREATED="1601687056181" FOLDED="true" ID="ID_1522117251" MODIFIED="1602611860510" POSITION="left" TEXT="Exam Preparation">
+<node CREATED="1601686500988" FOLDED="true" ID="ID_739673680" MODIFIED="1602630557559" POSITION="right" TEXT="Standards">
+<node CREATED="1602630518462" ID="ID_1213825687" MODIFIED="1602630533620">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Standard 421 - Flight Crew Permits, Licences and Ratings
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1602628822216" ID="ID_1481549891" MODIFIED="1602628834294" TEXT="Standard 425 - Flight Training"/>
+<node CREATED="1602628861361" ID="ID_1453884026" MODIFIED="1602628869957" TEXT="Standard 426 - Flight Training Units"/>
+<node CREATED="1602630467417" ID="ID_1985176486" MODIFIED="1602630479044" TEXT="Standard 428 - Conduct of Flight Tests"/>
+</node>
+<node CREATED="1601687056181" FOLDED="true" ID="ID_1522117251" MODIFIED="1602630557560" POSITION="left" TEXT="Exam Preparation">
 <node CREATED="1601687084749" ID="ID_230562098" MODIFIED="1601687089374" TEXT="Culhane"/>
 <node CREATED="1602348141673" ID="ID_623059859" MODIFIED="1602348212344">
 <richcontent TYPE="NODE"><html>
@@ -345,9 +446,10 @@
 </html></richcontent>
 </node>
 <node CREATED="1602348183541" ID="ID_1440743899" MODIFIED="1602348200585" TEXT="NavPath Slide Review"/>
+<node CREATED="1602628894783" ID="ID_618125190" MODIFIED="1602628910887" TEXT="Class 2 Flight Test Memo"/>
 </node>
 <node CREATED="1602348247050" ID="ID_904553130" MODIFIED="1602348259187" POSITION="right" TEXT="Flight Test Guides"/>
-<node CREATED="1602348569417" FOLDED="true" ID="ID_1190188854" MODIFIED="1602611911100" POSITION="left" TEXT="Deadlines">
+<node CREATED="1602348569417" FOLDED="true" ID="ID_1190188854" MODIFIED="1602630557561" POSITION="left" TEXT="Deadlines">
 <node CREATED="1602348577982" ID="ID_1128194867" MODIFIED="1602611906421">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -366,8 +468,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1602348609971" ID="ID_1532898135" MODIFIED="1602348685448">
 <richcontent TYPE="NODE"><html>
