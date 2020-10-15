@@ -144,8 +144,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1602709482609" ID="ID_367148948" MODIFIED="1602709491628" TEXT="Requirement to Hold a Flight Crew Permit, Licence or Rating or a Foreign Licence Validation Certificate (401.03)"/>
 <node CREATED="1602709525309" ID="ID_9133881" MODIFIED="1602709530022" TEXT="Flight Crew Members of Aircraft Registered in Contracting States Other Than Canada (401.04)"/>
@@ -232,9 +231,43 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602708627848" ID="ID_326761546" MODIFIED="1602708634191" TEXT="Division II - Testing"/>
-<node CREATED="1602708651847" ID="ID_365104351" MODIFIED="1602708658801" TEXT="Division III - Student Pilot Permits"/>
-<node CREATED="1602708671329" ID="ID_1634060802" MODIFIED="1602708676793" TEXT="Division IV - Pilot Permits"/>
+<node CREATED="1602708627848" FOLDED="true" ID="ID_326761546" MODIFIED="1602719186854" TEXT="Division II - Testing">
+<node CREATED="1602718619099" ID="ID_1553268553" MODIFIED="1602718625162" TEXT="Examination Prerequisites (401.13)"/>
+<node CREATED="1602718665641" ID="ID_1650594142" MODIFIED="1602718673187" TEXT="Flight Test Prerequisites (401.14)"/>
+<node CREATED="1602718825133" ID="ID_1519249816" MODIFIED="1602718934498">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Conduct of a Flight Test (401.15)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        applicable <b>standard 428</b>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1602718970866" ID="ID_875047402" MODIFIED="1602718977074" TEXT="Failure of a Flight Test (401.16)"/>
+<node CREATED="1602719006604" ID="ID_606010937" MODIFIED="1602719015733" TEXT="Failure of a Flight Test for a Rating Renewal (401.17)"/>
+<node CREATED="1602719073387" ID="ID_776085857" MODIFIED="1602719090339" TEXT="Examiner&#x2019;s Endorsement of Personal Log - Gliders and Balloons (401.18)"/>
+</node>
+<node CREATED="1602708651847" FOLDED="true" ID="ID_365104351" MODIFIED="1602719297489" TEXT="Division III - Student Pilot Permits">
+<node CREATED="1602719204802" ID="ID_1848954877" MODIFIED="1602719218316" TEXT="Privileges (401.19)"/>
+</node>
+<node CREATED="1602708671329" FOLDED="true" ID="ID_1634060802" MODIFIED="1602719770336" TEXT="Division IV - Pilot Permits">
+<node CREATED="1602719313659" ID="ID_534669498" MODIFIED="1602719329917" TEXT="Gyroplanes - Privileges (401.20)"/>
+<node CREATED="1602719418391" ID="ID_790621627" MODIFIED="1602719429740" TEXT="Ultra-light Aeroplanes - Privileges (401.21)"/>
+<node CREATED="1602719573422" ID="ID_120091614" MODIFIED="1602719599617" TEXT="Recreational - Aeroplanes - Privileges (401.22)"/>
+<node CREATED="1602719698689" ID="ID_528850096" MODIFIED="1602719722484" TEXT="Recreational - Helicopters - Privileges (401.23)"/>
+</node>
 <node CREATED="1602708693785" ID="ID_1273904181" MODIFIED="1602708700820" TEXT="Division V - Pilot License"/>
 <node CREATED="1602708717387" ID="ID_844779725" MODIFIED="1602708725893" TEXT="Division VI - Private Pilot License"/>
 <node CREATED="1602708742023" ID="ID_444083766" MODIFIED="1602708750655" TEXT="Division VII - Commercial Pilot License"/>
@@ -376,8 +409,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1602545258035" ID="ID_1938497332" MODIFIED="1602545316851">
 <richcontent TYPE="NODE"><html>
@@ -426,8 +458,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1602704778787" ID="ID_984703567" MODIFIED="1602704784456" TEXT="Application (405.02)"/>
 </node>
@@ -448,8 +479,7 @@
       Qualifications of Flight Instructors (405.21)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1602705019259" ID="ID_944917990" MODIFIED="1602705024716" TEXT="Aircraft Familiarization (405.22)"/>
 <node CREATED="1602705054530" ID="ID_479862282" MODIFIED="1602705060050" TEXT="Training Aircraft Requirements (405.23)"/>
@@ -472,8 +502,7 @@
       Division I - General
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1602702706290" ID="ID_968320992" MODIFIED="1602705239429">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -492,8 +521,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1602702764580" ID="ID_483259101" MODIFIED="1602702770884" TEXT="Application (406.02)"/>
 <node CREATED="1602702794074" ID="ID_1074986471" MODIFIED="1602702800132" TEXT="Requirement to Hold a Flight Training Unit Operator Certificate (406.03)"/>
@@ -507,8 +535,7 @@
       Eligibility to Hold a Flight Training Unit Operator Certificate (406.04)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1602629445864" ID="ID_1286691528" MODIFIED="1602700659712">
 <richcontent TYPE="NODE"><html>
@@ -541,8 +568,7 @@
       Division II - Certification
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1602629627297" FOLDED="true" ID="ID_71323751" MODIFIED="1602703184300">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -618,8 +644,7 @@
       Division III - Personnel
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1602699904222" ID="ID_770436872" MODIFIED="1602700389087">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -789,8 +814,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1602704207938" ID="ID_1362297902" MODIFIED="1602704215170" TEXT="Maintenance Arrangements (406.39)"/>
 </node>
@@ -805,8 +829,7 @@
       Division VI -&#160;Manuals and Course Certificates
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1602702552628" ID="ID_578560252" MODIFIED="1602702558151" TEXT="Division VII - Training"/>
 <node CREATED="1602702575444" ID="ID_263017236" MODIFIED="1602702583994" TEXT="Division VIII - Integrated Course"/>
@@ -848,6 +871,7 @@
 <node CREATED="1602348183541" ID="ID_1440743899" MODIFIED="1602348200585" TEXT="NavPath Slide Review"/>
 <node CREATED="1602628894783" ID="ID_618125190" MODIFIED="1602628910887" TEXT="Class 2 Flight Test Memo"/>
 <node CREATED="1602633541900" ID="ID_594574549" MODIFIED="1602633567189" TEXT="Anki Flash Cards (Existing)"/>
+<node CREATED="1602718684314" ID="ID_693952256" MODIFIED="1602718692608" TEXT="Aircraft POH"/>
 </node>
 <node CREATED="1602348247050" ID="ID_904553130" MODIFIED="1602348259187" POSITION="right" TEXT="Flight Test Guides"/>
 <node CREATED="1602348569417" ID="ID_1190188854" MODIFIED="1602709875477" POSITION="left" TEXT="Deadlines">
