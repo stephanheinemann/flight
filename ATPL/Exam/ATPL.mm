@@ -1,7 +1,7 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1568171896215" ID="ID_207039425" MODIFIED="1568174283124" TEXT="ATPL">
-<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1601684796441" POSITION="right" TEXT="SARON">
+<node CREATED="1568171989853" FOLDED="true" ID="ID_1998192836" MODIFIED="1603149386101" POSITION="right" TEXT="SARON">
 <node CREATED="1568172948798" ID="ID_62855509" MODIFIED="1600808759856" TEXT="Air Law and Procedures">
 <node CREATED="1568248593919" ID="ID_786473397" MODIFIED="1568248615351" TEXT="1.01 Airline Transport License - Aeroplane"/>
 <node CREATED="1568248623793" ID="ID_931108479" MODIFIED="1568248633722" TEXT="1.02 Medical Requirements"/>
@@ -3909,8 +3909,8 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1571167665117" FOLDED="true" ID="ID_738976037" MODIFIED="1576880326946" TEXT="1.33 Operational and Emergency Equipment">
-<node CREATED="1571167683745" ID="ID_628907529" MODIFIED="1576791481858">
+<node CREATED="1571167665117" ID="ID_738976037" MODIFIED="1603149290871" TEXT="1.33 Operational and Emergency Equipment">
+<node CREATED="1571167683745" ID="ID_628907529" MODIFIED="1603149324499">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3931,13 +3931,14 @@
             beyond gliding distance to shore
           </li>
           <li>
-            50NM from shore
+            50NM from shore, whichever is lesser
           </li>
         </ul>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1571167830450" ID="ID_506173388" MODIFIED="1576791807681">
