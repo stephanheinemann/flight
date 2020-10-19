@@ -2318,7 +2318,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633476953" FOLDED="true" ID="ID_66824391" MODIFIED="1602286655486" POSITION="right" TEXT="Holding Procedures">
+<node CREATED="1579633476953" FOLDED="true" ID="ID_66824391" MODIFIED="1603149447283" POSITION="right" TEXT="Holding Procedures">
 <node CREATED="1581698162634" ID="ID_1555241956" MODIFIED="1581699112664">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3223,8 +3223,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
