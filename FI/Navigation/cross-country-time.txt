@@ -1,0 +1,23 @@
+Cross Country Time
+
+When is it Logged?
+
+Wouldn’t it be great if XC was defined in the CARs? Alas, it’s not. It’s a question that often comes up and unfortunately many of the “answers” out there are just plain wrong. Here is the most widely accepted interpretation of what XC is and when we can log it.
+
+“Cross country” time must involve aspects of both planning and execution of a navigational procedure. The distance flown is irrelevant.
+
+For example, if a pilot completes a navigation log, then uses a departure procedure (ie set heading point, en-route, or overhead), and then corrects her track (opening/closing, double track error, visual adjustment) and makes time / distance calculations – she is on a cross country. It would be standard and acceptable practice to begin logging this time from engine start. The “XC time” stops when the en-route procedure is discontinued and airwork or another activity begins. If the navigation is continued to landing at another airport, then XC would be logged until engine stop.
+
+If you did some airwork first, followed by cross country, you could only log time from the commencement of the set heading procedure to the conclusion of the navigation en-route exercise. That is why many instructors start with a departure and en-route exercise; so that the PPL student not only gets practice departing the airport in preparation for their 150NM XC, but they also get to log additional XC time.
+
+In the case of a diversion, there is still an element of planning. The student either orbits, or tracks outbound and then inbound to, the set heading point. They then execute the navigational procedure, revise their ETA, and correct for drift. Therefore, XC logging can start when the planning begins and concludes when the destination is reached or the exercise is terminated.
+
+It should be noted that transiting to / from the practice area is NOT XC time because you are using dead reckoning (no planning, no departure procedure) and are not doing en-route navigation (course correction methods, ETA calculating, etc).
+
+Whether or not a landing occurred is as irrelevant as the distance flown, as landings require no navigational skills and do not form part of Exercise #23. If you land somewhere else, you cannot simply call it a XC flight unless you have the planning and execution elements stated above. For example, we may take off out of Kitchener and land in Guelph, a few miles away. Once you take off, you see the other airport and point at it; it meets none of the requirements to log XC.
+
+On the 150NM XC for PPL, and 300NM XC for CPL, landings ARE required. But that is because it says so in the CARs as an element of the licensing requirements; not because it is a part of the XC exercise in the Flight Training Manual and Flight Instructor Guide. Interestingly enough, the 100NM IFR XC requires no landings at all, just approaches. Again, landings/approaches are licensing elements, they have nothing to do with the logging of XC time.
+
+There DOES need to be a route entered in the logbook/PTR for all XC time an individual takes credit for. For example, CYTZ – CYOW. Or for a diversion, Listowel to CNM4; or Listowel to Orangeville (not necessarily an airport). A logbook/PTR always needs a ROUTE to log XC, not necessarily two different AIRPORTS to log XC (as noted above in the landings discussion). Indeed, Transport Canada Licensing Officers, Inspectors, and Authorized Persons cannot give credit for XC time without a ROUTE.
+
+Keep in mind because it is not defined in the CARs, different TC officers/inspectors/APs may have slightly different interpretations; but the above is the most widely accepted methodology.
