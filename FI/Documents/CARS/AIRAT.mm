@@ -216,8 +216,7 @@
       Validation of Foreign Licences (401.07)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1602709679056" ID="ID_1855485456" MODIFIED="1603142556925">
 <richcontent TYPE="NODE"><html>
@@ -229,8 +228,7 @@
       Personal Logs (401.08)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1602709712144" ID="ID_187554528" MODIFIED="1602709717542" TEXT="Credits towards Requirements for a Flight Crew Permit, Licence or Rating (401.09)"/>
 <node CREATED="1602709765080" ID="ID_1691762083" MODIFIED="1602709785892" TEXT="Airline Transport Licence - Training Program and Recording of Time (401.11)"/>
@@ -593,8 +591,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1602884130392" ID="ID_521287625" MODIFIED="1603143455176">
 <richcontent TYPE="NODE"><html>
@@ -614,8 +611,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1602884227018" ID="ID_1446765659" MODIFIED="1603143467439">
 <richcontent TYPE="NODE"><html>
@@ -635,8 +631,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1602884285332" ID="ID_1149182704" MODIFIED="1602884391604">
 <richcontent TYPE="NODE"><html>
@@ -702,8 +697,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 </node>
 <node CREATED="1602885579410" ID="ID_728042559" MODIFIED="1602886762928">
@@ -816,8 +810,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 </node>
 <node CREATED="1602886666165" ID="ID_325031001" MODIFIED="1602886866411">
@@ -912,8 +905,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603140037259" ID="ID_301720578" MODIFIED="1603140654456">
 <richcontent TYPE="NODE"><html>
@@ -948,8 +940,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603140683682" ID="ID_322674696" MODIFIED="1603141076708">
 <richcontent TYPE="NODE"><html>
@@ -981,8 +972,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603141164233" ID="ID_732547574" MODIFIED="1603141784807">
 <richcontent TYPE="NODE"><html>
@@ -1029,8 +1019,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603141884212" ID="ID_554531594" MODIFIED="1603143407012">
 <richcontent TYPE="NODE"><html>
@@ -1056,8 +1045,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603142361092" ID="ID_94175757" MODIFIED="1603142379861" TEXT="Renewal of Flight Instructor Ratings - Glider, Balloon and Gyroplane (401.86)"/>
 </node>
@@ -1072,8 +1060,7 @@
       Rating (401.87)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603142591717" ID="ID_1099332056" MODIFIED="1603143225574">
 <richcontent TYPE="NODE"><html>
@@ -1102,8 +1089,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603143274071" ID="ID_1631516086" MODIFIED="1603143380609">
 <richcontent TYPE="NODE"><html>
@@ -1126,8 +1112,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603143527494" ID="ID_1326753778" MODIFIED="1603143568051">
 <richcontent TYPE="NODE"><html>
@@ -1147,8 +1132,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1602709225376" FOLDED="true" ID="ID_896811367" MODIFIED="1603145953729" TEXT="Division XXII - Flight Instructor Rating - Aeroplane - Aerobatic">
@@ -1176,8 +1160,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603144727394" ID="ID_903268843" MODIFIED="1603144855534">
 <richcontent TYPE="NODE"><html>
@@ -1200,8 +1183,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603144756856" ID="ID_1101037573" MODIFIED="1603145894776">
 <richcontent TYPE="NODE"><html>
@@ -1227,8 +1209,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1602709265493" FOLDED="true" ID="ID_1409475765" MODIFIED="1603145956315" TEXT="Division XXIII - Flight Instructor Rating - Glider - Aerobatic">
@@ -1250,8 +1231,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603145730460" ID="ID_1960586733" MODIFIED="1603145876523">
 <richcontent TYPE="NODE"><html>
@@ -1277,8 +1257,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -1484,7 +1463,7 @@
 <node CREATED="1602705171676" ID="ID_1247108337" MODIFIED="1602705176615" TEXT="Pilot Training Record (405.33)"/>
 </node>
 </node>
-<node CREATED="1602355414543" ID="ID_1039927574" MODIFIED="1602709856971" TEXT="Flight Training Units (406)">
+<node CREATED="1602355414543" FOLDED="true" ID="ID_1039927574" MODIFIED="1603402353623" TEXT="Flight Training Units (406)">
 <node CREATED="1602702307374" FOLDED="true" ID="ID_1591047712" MODIFIED="1602883256300">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1833,8 +1812,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603146952801" ID="ID_596387629" MODIFIED="1603147028956">
 <richcontent TYPE="NODE"><html>
@@ -1860,8 +1838,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603147073973" ID="ID_1124850034" MODIFIED="1603147221600">
 <richcontent TYPE="NODE"><html>
@@ -1890,8 +1867,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603147268260" ID="ID_1339232442" MODIFIED="1603147273805" TEXT="Service Difficulty Reporting (406.42)"/>
 <node CREATED="1603147314268" ID="ID_1494102610" MODIFIED="1603147470264">
@@ -1915,8 +1891,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 </node>
 <node CREATED="1603147989037" ID="ID_1361182011" MODIFIED="1603147996372" TEXT="Servicing (406.44)"/>
@@ -1939,8 +1914,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603148229812" ID="ID_76662588" MODIFIED="1603148714217">
 <richcontent TYPE="NODE"><html>
@@ -1978,8 +1952,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1602702482555" FOLDED="true" ID="ID_1593431273" MODIFIED="1603149925167" TEXT="Division V - Flight Training Operations">
@@ -1993,8 +1966,7 @@
       Operational Control System (406.50)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603148970291" ID="ID_1369916832" MODIFIED="1603149145980">
 <richcontent TYPE="NODE"><html>
@@ -2017,8 +1989,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603149164201" ID="ID_1650198948" MODIFIED="1603149170136" TEXT="Facilities at Base of Operations (406.52)"/>
 <node CREATED="1603149196363" ID="ID_1421733025" MODIFIED="1603149202270" TEXT="Dispatch of Aircraft (406.53)"/>
@@ -2040,8 +2011,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603149484121" ID="ID_1007851878" MODIFIED="1603149528007">
 <richcontent TYPE="NODE"><html>
@@ -2061,8 +2031,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603149548967" ID="ID_1738860494" MODIFIED="1603149921972">
 <richcontent TYPE="NODE"><html>
@@ -2082,8 +2051,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603149618696" ID="ID_802720619" MODIFIED="1603149681667">
 <richcontent TYPE="NODE"><html>
@@ -2103,8 +2071,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 </node>
 <node CREATED="1603149703005" ID="ID_620625598" MODIFIED="1603149884081">
@@ -2131,11 +2098,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1602702513171" ID="ID_1843714321" MODIFIED="1602702535247">
+<node CREATED="1602702513171" FOLDED="true" ID="ID_1843714321" MODIFIED="1603402054546">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2146,10 +2112,286 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1603314688685" ID="ID_1772750222" MODIFIED="1603399913579">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flight Training Operations Manual (406.61)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        required for FTU offering integrated course
+      </li>
+      <li>
+        required for FTU operating with a sub-base
+      </li>
+      <li>
+        shall meet personnel licensing standards
+      </li>
+      <li>
+        needs to be submitted to TC
+      </li>
+      <li>
+        needs to be approved by TC (personnel licensing standards)
+      </li>
+      <li>
+        needs to be updated and distributed according to standards (CFI, ACFI, CI, PRM)
+      </li>
+      <li>
+        master list of holders to be kept by CFI
+      </li>
+      <li>
+        shall be made available to operation control personnel, FI, students, dispatchers
+      </li>
+      <li>
+        amendments to be included by holders
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1602702552628" ID="ID_578560252" MODIFIED="1602702558151" TEXT="Division VII - Training"/>
-<node CREATED="1602702575444" ID="ID_263017236" MODIFIED="1602702583994" TEXT="Division VIII - Integrated Course"/>
+<node CREATED="1603315225565" ID="ID_284514748" MODIFIED="1603399901509">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Training Manual (406.62)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        required for FTU offering integrated course
+      </li>
+      <li>
+        needs to be updated according to standards
+      </li>
+      <li>
+        needs to be submitted to TC
+      </li>
+      <li>
+        needs to be approved by TC (personnel licensing standards)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
+<node CREATED="1603399931037" ID="ID_1748122837" MODIFIED="1603400063454">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Certificate of Enrolment (406.63)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        required for FTU offering integrated course
+      </li>
+      <li>
+        trainees shall receive certificate of enrolment
+      </li>
+      <li>
+        FTU maintains list of enrolled trainees
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1603400098151" ID="ID_203673189" MODIFIED="1603400169999">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Course Completion Certificate (406.64)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        required for FTU offering integrated course
+      </li>
+      <li>
+        trainees shall receive course completion certificate
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1602702552628" FOLDED="true" ID="ID_578560252" MODIFIED="1603402052931" TEXT="Division VII - Training">
+<node CREATED="1603400204462" ID="ID_671922655" MODIFIED="1603402000014">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Operational Personnel Training Program (406.71)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        competency check to be performed by CFI or designated FI
+      </li>
+      <li>
+        competency check for FIs providing integrated course training
+      </li>
+      <li>
+        applicable to FTUs with flight training operations manual (integrated course, sub-base)
+
+        <ul>
+          <li>
+            indoctrination training
+
+            <ul>
+              <li>
+                responsibilities, reporting, competency
+              </li>
+              <li>
+                review of FTOM and TM
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        FIs providing integrated course course training
+
+        <ul>
+          <li>
+            indoctrination training
+
+            <ul>
+              <li>
+                review and briefing of FTOM and TM
+              </li>
+              <li>
+                aircraft competency check for each training aircraft
+              </li>
+            </ul>
+          </li>
+          <li>
+            annual recurrency
+
+            <ul>
+              <li>
+                competency check for one training aircraft, or
+              </li>
+              <li>
+                annual in-flight monitoring, or
+              </li>
+              <li>
+                flight test for FI, ME, or IR, or
+              </li>
+              <li>
+                competency or pilot proficiency check
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1602702575444" FOLDED="true" ID="ID_263017236" MODIFIED="1603402317016" TEXT="Division VIII - Integrated Course">
+<node CREATED="1603402057873" ID="ID_68834696" MODIFIED="1603402175036">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Requirements (406.75)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        FTU with integrated course
+      </li>
+      <li>
+        supervised by CFI
+      </li>
+      <li>
+        in accordance with personnel licensing standards
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1603402188252" ID="ID_837011853" MODIFIED="1603402246672">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Prerequisite (406.76)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        applicants require secondary school diploma or equivalent
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1603402267217" ID="ID_1391205957" MODIFIED="1603402313241">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Transfer (406.77)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        applicant requires prior assessment by other FTU
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1603402364306" ID="ID_1357434038" MODIFIED="1603402374032" TEXT="Conduct of Flight Tests (408)"/>
 </node>
 <node CREATED="1601687037693" ID="ID_35577576" MODIFIED="1603149994501">
 <richcontent TYPE="NODE"><html>
@@ -2161,8 +2403,7 @@
       Part VI - General Operating and Flight Rules
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1601686500988" ID="ID_739673680" MODIFIED="1602709875472" POSITION="right" TEXT="Standards">
@@ -2191,8 +2432,7 @@
       Standard 625 - Aircraft Equipment and Maintenance
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1603147612188" ID="ID_468422142" MODIFIED="1603147621025" TEXT="Appendix A - Elementary Work"/>
 <node CREATED="1603147941679" ID="ID_1954081529" MODIFIED="1603147950423" TEXT="Appendix B - Maintenance Schedules"/>
 </node>
