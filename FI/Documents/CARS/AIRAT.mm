@@ -24,7 +24,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1601686478539" ID="ID_446566040" MODIFIED="1602709875471" POSITION="left" TEXT="CARs">
-<node CREATED="1601687030791" ID="ID_1799555625" MODIFIED="1602708482005" TEXT="Part IV - Personal Licensing and Training">
+<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1603476857823" TEXT="Part IV - Personal Licensing and Training">
 <node CREATED="1602707724103" FOLDED="true" ID="ID_1776012256" MODIFIED="1602883189346" TEXT="Division I - General">
 <node CREATED="1602707910811" ID="ID_1886031404" MODIFIED="1602707920723" TEXT="Interpretation (400.01)"/>
 </node>
@@ -124,8 +124,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602355279925" FOLDED="true" ID="ID_1595026383" MODIFIED="1603146074574" TEXT="Flight Crew Permits, Licenses and Ratings (401)">
-<node CREATED="1602708590722" FOLDED="true" ID="ID_1160141317" MODIFIED="1603142559579" TEXT="Division I - General">
+<node CREATED="1602355279925" FOLDED="true" ID="ID_1595026383" MODIFIED="1603473663880" TEXT="Flight Crew Permits, Licenses and Ratings (401)">
+<node CREATED="1602708590722" FOLDED="true" ID="ID_1160141317" MODIFIED="1603473412725" TEXT="Division I - General">
 <node CREATED="1602709384041" ID="ID_751706782" MODIFIED="1602709424319">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -253,7 +253,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602708627848" FOLDED="true" ID="ID_326761546" MODIFIED="1603142564599" TEXT="Division II - Testing">
+<node CREATED="1602708627848" FOLDED="true" ID="ID_326761546" MODIFIED="1603473657545" TEXT="Division II - Testing">
 <node CREATED="1602718619099" ID="ID_1553268553" MODIFIED="1602718625162" TEXT="Examination Prerequisites (401.13)"/>
 <node CREATED="1602718665641" ID="ID_1650594142" MODIFIED="1602718673187" TEXT="Flight Test Prerequisites (401.14)"/>
 <node CREATED="1602718825133" ID="ID_1519249816" MODIFIED="1602718934498">
@@ -654,7 +654,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602709080421" FOLDED="true" ID="ID_1527399858" MODIFIED="1603145055103" TEXT="Division XVIII - Flight Instructor Rating - Aeroplane">
+<node CREATED="1602709080421" FOLDED="true" ID="ID_1527399858" MODIFIED="1603473644626" TEXT="Division XVIII - Flight Instructor Rating - Aeroplane">
 <node CREATED="1602884425409" ID="ID_289891587" MODIFIED="1603142948014">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2154,8 +2154,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603315225565" ID="ID_284514748" MODIFIED="1603399901509">
 <richcontent TYPE="NODE"><html>
@@ -2184,8 +2183,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603399931037" ID="ID_1748122837" MODIFIED="1603400063454">
 <richcontent TYPE="NODE"><html>
@@ -2211,8 +2209,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603400098151" ID="ID_203673189" MODIFIED="1603400169999">
 <richcontent TYPE="NODE"><html>
@@ -2235,8 +2232,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1602702552628" FOLDED="true" ID="ID_578560252" MODIFIED="1603402052931" TEXT="Division VII - Training">
@@ -2315,8 +2311,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1602702575444" FOLDED="true" ID="ID_263017236" MODIFIED="1603402317016" TEXT="Division VIII - Integrated Course">
@@ -2344,8 +2339,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603402188252" ID="ID_837011853" MODIFIED="1603402246672">
 <richcontent TYPE="NODE"><html>
@@ -2365,8 +2359,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603402267217" ID="ID_1391205957" MODIFIED="1603402313241">
 <richcontent TYPE="NODE"><html>
@@ -2386,12 +2379,173 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1603402364306" FOLDED="true" ID="ID_1357434038" MODIFIED="1603476825021" TEXT="Conduct of Flight Tests (408)">
+<node CREATED="1603473345356" ID="ID_958577068" MODIFIED="1603473421420">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Interpretation (408.01)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        applicable <b>standard</b>&#160;<b>428</b>
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
+<node CREATED="1603473464572" ID="ID_604150138" MODIFIED="1603473470326" TEXT="Application (408.02)"/>
+<node CREATED="1603473490295" ID="ID_421942680" MODIFIED="1603473594828">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Record of Flight Test (408.11)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        TC maintains flight test records
+
+        <ul>
+          <li>
+            assessment of each flight test item
+          </li>
+          <li>
+            overall results
+          </li>
+          <li>
+            passed or failed
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
+<node CREATED="1603473682960" ID="ID_1785815844" MODIFIED="1603473688278" TEXT="Prerequisite for Flight Test (408.12)"/>
+<node CREATED="1603473969494" ID="ID_1967632672" MODIFIED="1603473976055" TEXT="Aircraft and Equipment Required for a Flight Test (408.13)"/>
+<node CREATED="1603474011967" ID="ID_135733102" MODIFIED="1603474968445">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flight Test (408.14)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        PCR(UL), RPP(A), PPL(A), PPL(H): <b>50</b>%
+      </li>
+      <li>
+        CPL(A) 70%, CPL(H) 70%, MER(A): <b>70</b>%
+      </li>
+      <li>
+        IR <b>60</b>%
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1603402364306" ID="ID_1357434038" MODIFIED="1603402374032" TEXT="Conduct of Flight Tests (408)"/>
+<node CREATED="1603474341032" ID="ID_157718675" MODIFIED="1603474644832">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Conduct of a Flight Test (408.15,16)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1603474691745" ID="ID_51327025" MODIFIED="1603474938143">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Incomplete Flight Test (408.17)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        continuation only covers incomplete items
+      </li>
+      <li>
+        continuation within <b>60</b>&#160;days for PCR(UL)
+      </li>
+      <li>
+        continuation within <b>30</b>&#160;days, otherwise
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1603475005496" ID="ID_1548631920" MODIFIED="1603475689880">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Failure and Re-test - Schedules 1 to 8 to Flight Testing Standards (408.18)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        fail (<b>1</b>) if tolerances are exceeded by <b>more than double</b>
+      </li>
+      <li>
+        <i>example: altitude +/-100, deviation +210</i>
+      </li>
+      <li>
+        partial <b>initial</b>&#160;flight test possible with maximum <b>2</b>&#160;failed air items
+      </li>
+      <li>
+        partial flight test within <b>60</b>&#160;days for PCR(UL)
+      </li>
+      <li>
+        partial flight test within <b>30</b>&#160;days, otherwise
+      </li>
+      <li>
+        partial IR <b>renewal</b>&#160;flight test possible with maximum <b>1</b>&#160;failed air item
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1603475738840" ID="ID_264085848" MODIFIED="1603475754583" TEXT="Failure of a Flight Test - Schedules 9 to 18 to Flight Testing Standards (408.19)"/>
+</node>
 </node>
 <node CREATED="1601687037693" ID="ID_35577576" MODIFIED="1603149994501">
 <richcontent TYPE="NODE"><html>
