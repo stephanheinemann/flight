@@ -23,13 +23,13 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1601686478539" FOLDED="true" ID="ID_446566040" MODIFIED="1603839033826" POSITION="left" TEXT="CARs">
-<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1603492538858" TEXT="Part IV - Personal Licensing and Training">
+<node CREATED="1601686478539" ID="ID_446566040" MODIFIED="1603839857430" POSITION="left" TEXT="CARs">
+<node CREATED="1601687030791" ID="ID_1799555625" MODIFIED="1603839861509" TEXT="Part IV - Personal Licensing and Training">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1602707724103" FOLDED="true" ID="ID_1776012256" MODIFIED="1602883189346" TEXT="Division I - General">
 <node CREATED="1602707910811" ID="ID_1886031404" MODIFIED="1602707920723" TEXT="Interpretation (400.01)"/>
 </node>
-<node CREATED="1602707773941" FOLDED="true" ID="ID_517561237" MODIFIED="1602883186825" TEXT="Division II - Examinations">
+<node CREATED="1602707773941" FOLDED="true" ID="ID_517561237" MODIFIED="1603839871050" TEXT="Division II - Examinations">
 <node CREATED="1602707958711" ID="ID_1623188055" MODIFIED="1602707964658" TEXT="Examination Rules (400.02)"/>
 <node CREATED="1601927950343" ID="ID_500012379" MODIFIED="1601928484704">
 <richcontent TYPE="NODE"><html>
@@ -103,7 +103,7 @@
 <node CREATED="1602708057848" ID="ID_1895472062" MODIFIED="1602708062760" TEXT="Authorization to Operate Flight Training Service Under CUSMA (400.05)"/>
 </node>
 <node CREATED="1602707827576" ID="ID_1289165360" MODIFIED="1602707836972" TEXT="Division iV - [Reserved]"/>
-<node CREATED="1602707840721" FOLDED="true" ID="ID_1881326472" MODIFIED="1602883191940" TEXT="Division V - Change of Information">
+<node CREATED="1602707840721" FOLDED="true" ID="ID_1881326472" MODIFIED="1603839884243" TEXT="Division V - Change of Information">
 <node CREATED="1601928721719" ID="ID_196376399" MODIFIED="1601928842627">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -125,8 +125,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602355279925" FOLDED="true" ID="ID_1595026383" MODIFIED="1603492529716" TEXT="Flight Crew Permits, Licenses and Ratings (401)">
-<node CREATED="1602708590722" FOLDED="true" ID="ID_1160141317" MODIFIED="1603473412725" TEXT="Division I - General">
+<node CREATED="1602355279925" ID="ID_1595026383" MODIFIED="1603839887144" TEXT="Flight Crew Permits, Licenses and Ratings (401)">
+<node CREATED="1602708590722" ID="ID_1160141317" MODIFIED="1603839896074" TEXT="Division I - General">
 <node CREATED="1602709384041" ID="ID_751706782" MODIFIED="1602709424319">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -254,7 +254,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602708627848" FOLDED="true" ID="ID_326761546" MODIFIED="1603473657545" TEXT="Division II - Testing">
+<node CREATED="1602708627848" FOLDED="true" ID="ID_326761546" MODIFIED="1603839894649" TEXT="Division II - Testing">
 <node CREATED="1602718619099" ID="ID_1553268553" MODIFIED="1602718625162" TEXT="Examination Prerequisites (401.13)"/>
 <node CREATED="1602718665641" ID="ID_1650594142" MODIFIED="1602718673187" TEXT="Flight Test Prerequisites (401.14)"/>
 <node CREATED="1602718825133" ID="ID_1519249816" MODIFIED="1602718934498">
@@ -2555,7 +2555,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1601686500988" FOLDED="true" ID="ID_739673680" MODIFIED="1603839033829" POSITION="right" TEXT="Standards">
+<node CREATED="1601686500988" ID="ID_739673680" MODIFIED="1603839113381" POSITION="right" TEXT="Standards">
 <node CREATED="1602630518462" ID="ID_1213825687" MODIFIED="1602630533620">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2567,8 +2567,163 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1603491738084" ID="ID_1671307345" MODIFIED="1603491748594" TEXT="Division I - General">
-<node CREATED="1603492397579" ID="ID_1564225874" MODIFIED="1603492409710" TEXT="Recency Requirements (421.05)"/>
+<node CREATED="1603491738084" FOLDED="true" ID="ID_1671307345" MODIFIED="1603842937938" TEXT="Division I - General">
+<node CREATED="1603492397579" ID="ID_1564225874" MODIFIED="1603842099705">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Recency Requirements (421.05)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        <b>12</b>&#160;months recency
+
+        <ul>
+          <li>
+            flight review
+          </li>
+        </ul>
+      </li>
+      <li>
+        <b>24</b>&#160;months recency
+
+        <ul>
+          <li>
+            TC safety seminar, <i>or</i>
+          </li>
+          <li>
+            TC-approved recurrency training program, <i>or</i>
+          </li>
+          <li>
+            TC self-paced study program, <i>or</i>
+          </li>
+          <li>
+            training program or PPC (air operators), <i>or</i>
+          </li>
+          <li>
+            skill requirement completion for permit, license, rating, <i>or</i>
+          </li>
+          <li>
+            written exam for permit, license, rating
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1603839403007" ID="ID_1829023533" MODIFIED="1603839516593">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Issue and Endorsement of Flight Crew Permits, Licences and Ratings (421.06)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        citizenship, age, photograph, language proficiency
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1603840387809" ID="ID_257582223" MODIFIED="1603840642995">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Validation of Foreign Licences (421.07)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        license of contracting state
+      </li>
+      <li>
+        letter requesting license validation and purpose
+      </li>
+      <li>
+        <b>1</b>&#160;year validation or shorter if requested
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1603841035976" ID="ID_1001753232" MODIFIED="1603841303773">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Personal Logs (421.08)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        loss of personal log (declaration only applicable up to CPL)
+      </li>
+      <li>
+        lack of personal log for foreign license holders
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1603841325988" ID="ID_956692125" MODIFIED="1603842901244">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Airline Transport Licence Training (Pilot-in-command Under Supervision) (421.11)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        at least<b>&#160;1</b>&#160;take-off and landing per <b>10</b>&#160;hours PICUS flight time
+      </li>
+      <li>
+        ATPL(A) applicant credited up to <b>100</b>&#160;PICUS provided <b>150</b>&#160;PIC hours
+      </li>
+      <li>
+        ATPL(H) applicant credited up to <b>150</b>&#160;PICUS provided <b>100</b>&#160;&#160;PIC hours
+      </li>
+      <li>
+        maximum <b>50</b>% PICUS credit of actual PICUS hours only
+      </li>
+      <li>
+        PICUS within <b>12</b>&#160;months preceding ATPL application only
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1603491792578" ID="ID_598183191" MODIFIED="1603491807946" TEXT="Division II - Testing"/>
 <node CREATED="1603491812679" ID="ID_1671629388" MODIFIED="1603491827863" TEXT="Division III - Student Pilot Permits"/>
