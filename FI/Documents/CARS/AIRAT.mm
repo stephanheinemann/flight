@@ -2567,7 +2567,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1603491738084" FOLDED="true" ID="ID_1671307345" MODIFIED="1603842937938" TEXT="Division I - General">
+<node CREATED="1603491738084" FOLDED="true" ID="ID_1671307345" MODIFIED="1603909746157" TEXT="Division I - General">
 <node CREATED="1603492397579" ID="ID_1564225874" MODIFIED="1603842099705">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2616,8 +2616,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603839403007" ID="ID_1829023533" MODIFIED="1603839516593">
 <richcontent TYPE="NODE"><html>
@@ -2637,8 +2636,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603840387809" ID="ID_257582223" MODIFIED="1603840642995">
 <richcontent TYPE="NODE"><html>
@@ -2664,8 +2662,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603841035976" ID="ID_1001753232" MODIFIED="1603841303773">
 <richcontent TYPE="NODE"><html>
@@ -2688,8 +2685,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1603841325988" ID="ID_956692125" MODIFIED="1603842901244">
 <richcontent TYPE="NODE"><html>
@@ -2721,15 +2717,321 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1603491792578" FOLDED="true" ID="ID_598183191" MODIFIED="1603915367013" TEXT="Division II - Testing">
+<node CREATED="1603909834069" ID="ID_1522155184" MODIFIED="1603914743739">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Examination Prerequisites (421.13)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        medical fitness
+      </li>
+      <li>
+        proof of identification
+      </li>
+      <li>
+        letter of recommendation (if applicable)
+
+        <ul>
+          <li>
+            issued within <b>60</b>&#160;days prior written examinations
+          </li>
+        </ul>
+      </li>
+      <li>
+        proof of training and experience (if applicable)
+
+        <ul>
+          <li>
+            PP(GY), RPP(A), PPL: <b>10</b>&#160;hours or valid PP(UL)
+          </li>
+          <li>
+            C4 FI - AIRAF: ground school and <b>50</b>% training
+          </li>
+          <li>
+            C1/2 FI - AIRAT: <b>50</b>% experience requirement
+          </li>
+          <li>
+            IR - INRAT: <b>20</b>&#160;hours instrument time
+          </li>
+          <li>
+            ATPL(A) integrated: ground school and MIFR flight test
+          </li>
+          <li>
+            <i>otherwise</i>&#160;<b>50</b>% experience requirement
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1603911301219" ID="ID_1686334328" MODIFIED="1603915032658">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flight Test Prerequisites (421.14)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        medical fitness
+      </li>
+      <li>
+        proof of identification
+      </li>
+      <li>
+        letter of recommendation (if applicable)
+
+        <ul>
+          <li>
+            issued within <b>30</b>&#160;days prior flight test
+          </li>
+        </ul>
+      </li>
+      <li>
+        CPL (not integrated): passed written examination
+      </li>
+      <li>
+        PP(GY), PPL: <b>35</b>&#160;hours
+      </li>
+      <li>
+        PCR(UL), RPP(A), IR, FI: <b>100</b>% experience requirement
+      </li>
+      <li>
+        FI(UL): <b>25</b>&#160;hours
+      </li>
+      <li>
+        otherwise <b>75</b>% experience requirement
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1603915097714" ID="ID_258926117" MODIFIED="1603915104656" TEXT="Failure of a Flight Test (421.16)"/>
+<node CREATED="1603915155467" ID="ID_820906539" MODIFIED="1603915261453">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Failure of a Flight Test for a Rating Renewal (421.17)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        suspension or down-grading
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1603915300561" ID="ID_675386998" MODIFIED="1603915355871">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Examiner&#8217;s Endorsement of Personal Log - Gliders and Balloons (421.18)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        method of launch / inflation
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
 </node>
-<node CREATED="1603491792578" ID="ID_598183191" MODIFIED="1603491807946" TEXT="Division II - Testing"/>
-<node CREATED="1603491812679" ID="ID_1671629388" MODIFIED="1603491827863" TEXT="Division III - Student Pilot Permits"/>
-<node CREATED="1603491837371" ID="ID_412797028" MODIFIED="1603491845134" TEXT="Division IV - Pilot Permits"/>
+<node CREATED="1603491812679" FOLDED="true" ID="ID_1671629388" MODIFIED="1603920539785" TEXT="Division III - Student Pilot Permits">
+<node CREATED="1603915400472" ID="ID_1229888696" MODIFIED="1603919985100">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Student Pilot Permit - Requirements (421.19)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        applicable to GY, UL, GL, BL, A, H
+      </li>
+      <li>
+        citizenship, age: <b>14</b>
+      </li>
+      <li>
+        medical fitness
+
+        <ul>
+          <li>
+            GY, BL, H: <b>1</b>, <b>3</b>
+          </li>
+          <li>
+            A, UL, GL: <b>1</b>, <b>3</b>, <b>4</b>
+          </li>
+        </ul>
+      </li>
+      <li>
+        knowledge (written exam)
+
+        <ul>
+          <li>
+            UL: <b>90</b>% corrected to <b>100</b>% by FI(UL), FI(A)
+          </li>
+          <li>
+            GL: passed examination statement by FI(GL)
+          </li>
+          <li>
+            <i>otherwise</i>&#160;<b>90</b>% corrected to <b>100</b>% by FI(A), TC (PSTAR, ROC)
+          </li>
+        </ul>
+      </li>
+      <li>
+        experience and skill (instructor assessment)
+      </li>
+      <li>
+        issue (TC delegate)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1603491837371" ID="ID_412797028" MODIFIED="1603491845134" TEXT="Division IV - Pilot Permits">
+<node CREATED="1603919649532" ID="ID_614397863" MODIFIED="1603921075134">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Gyroplane - Requirements (421.20)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        age: <b>17</b>
+      </li>
+      <li>
+        medical fitness: <b>1</b>, <b>3</b>
+      </li>
+      <li>
+        knowledge: <b>40</b>&#160;hours ground school, <b>60</b>% GYROP
+      </li>
+      <li>
+        experience:
+
+        <ul>
+          <li>
+            <b>45</b>&#160;hours instruction
+          </li>
+          <li>
+            <b>12</b>&#160;DL (<b>2</b>&#160;XC)
+          </li>
+          <li>
+            <b>12</b>&#160;SL (<b>3</b>&#160;XC, <b>60</b>&#160;NM, <b>2</b>&#160;FSTOL)
+          </li>
+        </ul>
+      </li>
+      <li>
+        skill: assessment within <b>12</b>&#160;months preceding application
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1603920499851" ID="ID_1055558974" MODIFIED="1603920505928" TEXT="Ultra-light Aeroplane - Requirement (421.21)"/>
+<node CREATED="1603920526165" ID="ID_1407540418" MODIFIED="1603920531992" TEXT="Recreational - Aeroplane - Requirements (421.22)"/>
+</node>
 <node CREATED="1603491848549" ID="ID_922026930" MODIFIED="1603491875957" TEXT="Division V - Pilot Licence"/>
-<node CREATED="1603491881276" ID="ID_1870814399" MODIFIED="1603491891717" TEXT="Division VI - Private Pilot Licence"/>
+<node CREATED="1603491881276" ID="ID_1870814399" MODIFIED="1603491891717" TEXT="Division VI - Private Pilot Licence">
+<node CREATED="1603920607140" ID="ID_1385616112" MODIFIED="1603921083634">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Aeroplanes - Requirements (421.26)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        age: <b>17</b>
+      </li>
+      <li>
+        medical fitness: <b>1</b>, <b>3</b>
+      </li>
+      <li>
+        knowledge: <b>40</b>&#160;hours ground school, <b>60</b>% PPAER
+      </li>
+      <li>
+        experience:
+
+        <ul>
+          <li>
+            <b>45</b>&#160;hours instruction
+          </li>
+          <li>
+            <b>17</b>&#160;DL (<b>3</b>&#160;XC, <b>5</b>&#160;IT (<b>3</b>&#160;SIM))
+          </li>
+          <li>
+            <b>12</b>&#160;SL (<b>5</b>&#160;XC, <b>150</b>&#160;&#160;NM, <b>2</b>&#160;FSTOL)
+          </li>
+        </ul>
+      </li>
+      <li>
+        skill: flight test within <b>12</b>&#160;months preceding application
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node CREATED="1603491899955" ID="ID_1921926935" MODIFIED="1603491911309" TEXT="Division VII - Commercial Pilot Licence"/>
 <node CREATED="1603491918760" ID="ID_1219281581" MODIFIED="1603491930693" TEXT="Division VIII - Airline Transport Pilot Licence"/>
 <node CREATED="1603491940358" ID="ID_481560815" MODIFIED="1603491952574" TEXT="Division IX - Flight Engineer Licence"/>
