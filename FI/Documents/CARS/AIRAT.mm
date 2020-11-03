@@ -3076,7 +3076,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491848549" FOLDED="true" ID="ID_922026930" MODIFIED="1604092117392" TEXT="Division V - Pilot Licence">
+<node CREATED="1603491848549" FOLDED="true" ID="ID_922026930" MODIFIED="1604359967108" TEXT="Division V - Pilot Licence">
 <node CREATED="1604090622721" ID="ID_1184240377" MODIFIED="1604091742157">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3193,8 +3193,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491881276" FOLDED="true" ID="ID_1870814399" MODIFIED="1604109217183" TEXT="Division VI - Private Pilot Licence">
-<node CREATED="1603920607140" ID="ID_1385616112" MODIFIED="1604105385929">
+<node CREATED="1603491881276" FOLDED="true" ID="ID_1870814399" MODIFIED="1604359970733" TEXT="Division VI - Private Pilot Licence">
+<node CREATED="1603920607140" ID="ID_1385616112" MODIFIED="1604359953921">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3224,7 +3224,7 @@
             <b>45</b>&#160;hours instruction
           </li>
           <li>
-            <b>17</b>&#160;DL (<b>3</b>&#160;XC, <b>5</b>&#160;IT (<b>3</b>&#160;SIM))
+            <b>17</b>&#160;DL (<b>3</b>&#160;XC, <b>5</b>&#160;IT [<b>3</b>&#160;SIM])
           </li>
           <li>
             <b>12</b>&#160;SL (<b>5</b>&#160;XC (<b>150</b>&#160;&#160;NM, <b>2</b>&#160;FSTOL))
@@ -3242,7 +3242,7 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1604105079826" ID="ID_956352367" MODIFIED="1604105431904">
+<node CREATED="1604105079826" ID="ID_956352367" MODIFIED="1604359942127">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3269,10 +3269,10 @@
 
         <ul>
           <li>
-            <b>45</b>&#160;hours instruction (<b>5</b>&#160;SIM)
+            <b>45</b>&#160;hours instruction [<b>5</b>&#160;SIM]
           </li>
           <li>
-            <b>17</b>&#160;DL (<b>3</b>&#160;XC, <b>5</b>&#160;IT (<b>3</b>&#160;SIM))
+            <b>17</b>&#160;DL (<b>3</b>&#160;XC, <b>5</b>&#160;IT [<b>3</b>&#160;SIM])
           </li>
           <li>
             <b>12</b>&#160;SL (<b>5</b>&#160;XC (<b>100</b>&#160;NM, <b>2</b>&#160;FSTOL))
@@ -3291,8 +3291,8 @@
 </richcontent>
 </node>
 </node>
-<node CREATED="1603491899955" ID="ID_1921926935" MODIFIED="1603491911309" TEXT="Division VII - Commercial Pilot Licence">
-<node CREATED="1604105496779" ID="ID_112213341" MODIFIED="1604106195250">
+<node CREATED="1603491899955" FOLDED="true" ID="ID_1921926935" MODIFIED="1604363313804" TEXT="Division VII - Commercial Pilot Licence">
+<node CREATED="1604105496779" ID="ID_112213341" MODIFIED="1604359916020">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3325,7 +3325,7 @@
             <b>65</b>&#160;hours instruction
           </li>
           <li>
-            <b>35</b>&#160;DL (<b>5</b>&#160;NT (<b>2</b>&#160;XC), <b>5</b>&#160;(-NT XC) XC, <b>20</b>&#160;IT (<b>10</b>&#160;SIM))
+            <b>35</b>&#160;DL (<b>5</b>&#160;NT (<b>2</b>&#160;XC), <b>5</b>&#160;(-NT XC) XC, <b>20</b>&#160;IT [<b>10</b>&#160;SIM])
           </li>
           <li>
             <b>30</b>&#160;SL (<b>5</b>&#160;NT (<b>10</b>&#160;CIR TOL), <b>25</b>&#160;SL (<b>300</b>&#160;NM XC, <b>3</b>&#160;TOL))
@@ -3343,8 +3343,198 @@
 </html>
 </richcontent>
 </node>
+<node CREATED="1604359230127" ID="ID_1812918546" MODIFIED="1604363154086">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Helicopters - Requirements (421.31)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        age: <b>18</b>
+      </li>
+      <li>
+        medical fitness: <b>1</b>
+      </li>
+      <li>
+        knowledge: <b>40</b>&#160;<i>PPL(H)</i>&#160;/ <b>80</b>&#160;hours ground school, <b>60</b>% CPHEL
+      </li>
+      <li>
+        experience:
+
+        <ul>
+          <li>
+            <b>100</b>&#160;(<b>35</b>&#160;PIC (<b>10</b>&#160;XC))
+          </li>
+          <li>
+            <i>with PPL(H)</i>
+
+            <ul>
+              <li>
+                <b>60</b>&#160;hours instruction
+              </li>
+              <li>
+                <b>37</b>&#160;DL (<b>15</b>&#160;DL (<b>5</b>&#160;XC), <b>5</b>&#160;NT (<b>2</b>&#160;XC), <b>10</b>&#160;IT [<b>5</b>&#160;SIM])
+              </li>
+              <li>
+                <b>23</b>&#160;SL (<b>2</b>&#160;XC (<b>45</b>&#160;min, <b>3</b>&#160;TOL), <b>5</b>&#160;NT (<b>10</b>&#160;CIR TOL))
+              </li>
+            </ul>
+          </li>
+          <li>
+            <i>without PPL(H)</i>
+
+            <ul>
+              <li>
+                <b>100</b>&#160;hours instruction
+              </li>
+              <li>
+                <b>55</b>&#160;DL (<b>5</b>&#160;XC, <b>10</b>&#160;IT [<b>5</b>&#160;SIM])
+              </li>
+              <li>
+                <b>35</b>&#160;SL (XC (<b>2</b>&#160;h, <b>3</b>&#160;TOL))
+              </li>
+              <li>
+                restricted to <i>daylight only</i>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        skill: flight test within <b>12</b>&#160;months preceding application
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1603491918760" ID="ID_1219281581" MODIFIED="1603491930693" TEXT="Division VIII - Airline Transport Pilot Licence"/>
+</node>
+<node CREATED="1603491918760" ID="ID_1219281581" MODIFIED="1603491930693" TEXT="Division VIII - Airline Transport Pilot Licence">
+<node CREATED="1604363331204" ID="ID_714911322" MODIFIED="1604364255537">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Aeroplanes - Requirements (421.34)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        age: <b>21</b>
+      </li>
+      <li>
+        medical fitness: <b>1</b>
+      </li>
+      <li>
+        knowledge: <b>70</b>% SAMRA, <b>70</b>% SARON, INRAT
+      </li>
+      <li>
+        experience:
+
+        <ul>
+          <li>
+            CPL(A), <b>1500</b>&#160;TOT (<b>900</b>&#160;AER)
+          </li>
+          <li>
+            <b>250</b>&#160;PIC [<b>100</b>&#160;PICUS] (<b>100</b>&#160;XC (<b>25</b>&#160;NT))
+          </li>
+          <li>
+            <b>100</b>&#160;NT (<b>30</b>&#160;AER)
+          </li>
+          <li>
+            <b>100</b>&#160;PIC XC | <b>200</b>&#160;COP XC
+          </li>
+          <li>
+            <b>75</b>&#160;IT [<b>25</b>&#160;SIM] [<b>35</b>&#160;HEL]
+          </li>
+        </ul>
+      </li>
+      <li>
+        skill:
+
+        <ul>
+          <li>
+            MIFR flight test within <b>12</b>&#160;months preceding application
+          </li>
+        </ul>
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1604363371165" ID="ID_1045410600" MODIFIED="1604364731878">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Helicopters - Requirement (421.35)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        age: <b>21</b>
+      </li>
+      <li>
+        medical fitness: <b>1</b>
+      </li>
+      <li>
+        knowledge: <b>70</b>% HAMRA, <b>70</b>% HARON
+      </li>
+      <li>
+        experience:
+
+        <ul>
+          <li>
+            CPL(H)+N, <b>1000</b>&#160;TOT (<b>600</b>&#160;HEL)
+          </li>
+          <li>
+            <b>250</b>&#160;PIC [<b>150</b>&#160;PICUS]
+          </li>
+          <li>
+            <b>50</b>&#160;NT (<b>15</b>&#160;HEL)
+          </li>
+          <li>
+            <b>200</b>&#160;XC (<b>100</b>&#160;PIC | PICUS)
+          </li>
+          <li>
+            <b>30</b>&#160;IT [<b>10</b>&#160;SIM] [<b>15</b>&#160;AER]
+          </li>
+        </ul>
+      </li>
+      <li>
+        skill: assessment within <b>12</b>&#160;months preceding application
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node CREATED="1603491940358" ID="ID_481560815" MODIFIED="1603491952574" TEXT="Division IX - Flight Engineer Licence"/>
 <node CREATED="1603491961218" ID="ID_1335948724" MODIFIED="1603491969251" TEXT="Division X - Aeroplane Class Ratings"/>
 <node CREATED="1603491980063" ID="ID_1680839003" MODIFIED="1603491989946" TEXT="Division XI - Aircraft Type Ratings"/>
