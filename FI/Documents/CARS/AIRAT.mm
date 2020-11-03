@@ -3193,7 +3193,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491881276" FOLDED="true" ID="ID_1870814399" MODIFIED="1604359970733" TEXT="Division VI - Private Pilot Licence">
+<node CREATED="1603491881276" FOLDED="true" ID="ID_1870814399" MODIFIED="1604431672891" TEXT="Division VI - Private Pilot Licence">
 <node CREATED="1603920607140" ID="ID_1385616112" MODIFIED="1604359953921">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3239,8 +3239,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1604105079826" ID="ID_956352367" MODIFIED="1604359942127">
 <richcontent TYPE="NODE"><html>
@@ -3287,11 +3286,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1603491899955" FOLDED="true" ID="ID_1921926935" MODIFIED="1604363313804" TEXT="Division VII - Commercial Pilot Licence">
+<node CREATED="1603491899955" FOLDED="true" ID="ID_1921926935" MODIFIED="1604431680117" TEXT="Division VII - Commercial Pilot Licence">
 <node CREATED="1604105496779" ID="ID_112213341" MODIFIED="1604359916020">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3340,10 +3338,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1604359230127" ID="ID_1812918546" MODIFIED="1604363154086">
+<node CREATED="1604359230127" ID="ID_1812918546" MODIFIED="1604431648002">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3383,7 +3380,7 @@
                 <b>37</b>&#160;DL (<b>15</b>&#160;DL (<b>5</b>&#160;XC), <b>5</b>&#160;NT (<b>2</b>&#160;XC), <b>10</b>&#160;IT [<b>5</b>&#160;SIM])
               </li>
               <li>
-                <b>23</b>&#160;SL (<b>2</b>&#160;XC (<b>45</b>&#160;min, <b>3</b>&#160;TOL), <b>5</b>&#160;NT (<b>10</b>&#160;CIR TOL))
+                <b>23</b>&#160;SL (<b>2</b>&#160;XC (<b>45</b>&#160;min D, <b>3</b>&#160;TOL), <b>5</b>&#160;NT (<b>10</b>&#160;CIR TOL))
               </li>
             </ul>
           </li>
@@ -3398,7 +3395,7 @@
                 <b>55</b>&#160;DL (<b>5</b>&#160;XC, <b>10</b>&#160;IT [<b>5</b>&#160;SIM])
               </li>
               <li>
-                <b>35</b>&#160;SL (XC (<b>2</b>&#160;h, <b>3</b>&#160;TOL))
+                <b>35</b>&#160;SL (XC (<b>2</b>&#160;h D, <b>3</b>&#160;TOL))
               </li>
               <li>
                 restricted to <i>daylight only</i>
@@ -3419,8 +3416,8 @@
 </richcontent>
 </node>
 </node>
-<node CREATED="1603491918760" ID="ID_1219281581" MODIFIED="1603491930693" TEXT="Division VIII - Airline Transport Pilot Licence">
-<node CREATED="1604363331204" ID="ID_714911322" MODIFIED="1604364255537">
+<node CREATED="1603491918760" FOLDED="true" ID="ID_1219281581" MODIFIED="1604431598691" TEXT="Division VIII - Airline Transport Pilot Licence">
+<node CREATED="1604363331204" ID="ID_714911322" MODIFIED="1604431177577">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3447,7 +3444,7 @@
 
         <ul>
           <li>
-            CPL(A), <b>1500</b>&#160;TOT (<b>900</b>&#160;AER)
+            CPL(A), <b>1500</b>&#160;TT (<b>900</b>&#160;AER)
           </li>
           <li>
             <b>250</b>&#160;PIC [<b>100</b>&#160;PICUS] (<b>100</b>&#160;XC (<b>25</b>&#160;NT))
@@ -3480,7 +3477,7 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1604363371165" ID="ID_1045410600" MODIFIED="1604364731878">
+<node CREATED="1604363371165" ID="ID_1045410600" MODIFIED="1604431189019">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3507,7 +3504,7 @@
 
         <ul>
           <li>
-            CPL(H)+N, <b>1000</b>&#160;TOT (<b>600</b>&#160;HEL)
+            CPL(H)+N, <b>1000</b>&#160;TT (<b>600</b>&#160;HEL)
           </li>
           <li>
             <b>250</b>&#160;PIC [<b>150</b>&#160;PICUS]
@@ -3535,9 +3532,195 @@
 </richcontent>
 </node>
 </node>
-<node CREATED="1603491940358" ID="ID_481560815" MODIFIED="1603491952574" TEXT="Division IX - Flight Engineer Licence"/>
-<node CREATED="1603491961218" ID="ID_1335948724" MODIFIED="1603491969251" TEXT="Division X - Aeroplane Class Ratings"/>
-<node CREATED="1603491980063" ID="ID_1680839003" MODIFIED="1603491989946" TEXT="Division XI - Aircraft Type Ratings"/>
+<node CREATED="1603491940358" FOLDED="true" ID="ID_481560815" MODIFIED="1604431589785" TEXT="Division IX - Flight Engineer Licence">
+<node CREATED="1604430063908" ID="ID_46703484" MODIFIED="1604430882207">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Requirements (421.37)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        age: <b>18</b>
+      </li>
+      <li>
+        medical fitness: <b>1</b>
+      </li>
+      <li>
+        knowledge: approved flight engineer course, <b>60</b>% FLENG
+      </li>
+      <li>
+        experience:
+
+        <ul>
+          <li>
+            <b>100</b>&#160;FEUS [<b>50</b>&#160;SIM]
+          </li>
+          <li>
+            CPL or higher: <b>50</b>&#160;FEUS [<b>25</b>&#160;SIM]
+          </li>
+        </ul>
+      </li>
+      <li>
+        skill: letter of certification within <b>12</b>&#160;months preceding application
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1603491961218" FOLDED="true" ID="ID_1335948724" MODIFIED="1604431686958" TEXT="Division X - Aeroplane Class Ratings">
+<node CREATED="1604430967860" ID="ID_1806071232" MODIFIED="1604431575279">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Requirements (421.38)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        Seaplane Rating
+
+        <ul>
+          <li>
+            <b>7</b>&#160;TT (<b>5</b>&#160;DL, <b>5</b>&#160;SLTOL)
+          </li>
+          <li>
+            qualification flight within <b>12</b>&#160;months preceding application
+          </li>
+        </ul>
+      </li>
+      <li>
+        Landplane Rating
+
+        <ul>
+          <li>
+            <b>3</b>&#160;TT (<b>2</b>&#160;DL, <b>5</b>&#160;SLTOL)
+          </li>
+        </ul>
+      </li>
+      <li>
+        Multi-Engine Rating
+
+        <ul>
+          <li>
+            flight test (standard 428)
+          </li>
+        </ul>
+      </li>
+      <li>
+        Multi-Engine CLT Rating
+
+        <ul>
+          <li>
+            flight test (standard 428)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1603491980063" ID="ID_1680839003" MODIFIED="1603491989946" TEXT="Division XI - Aircraft Type Ratings">
+<node CREATED="1604431751854" ID="ID_552563481" MODIFIED="1604445959901">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Blanket and Individual Type Ratings (421.40)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        individual type ratings
+
+        <ul>
+          <li>
+            multi-crew aircraft
+
+            <ul>
+              <li>
+                ground instruction, flight training
+              </li>
+              <li>
+                PPL, CPL: <b>24 </b>months preceding application <b>70</b>% IATRA, <i>or</i>
+              </li>
+              <li>
+                ATPL applicant: <b>24</b>&#160;months preceding application <b>70</b>% SAMRA, SARON, <i>or</i>
+              </li>
+              <li>
+                ATPL
+              </li>
+              <li>
+                <b>250</b>&#160;AER
+              </li>
+              <li>
+                <b>12</b>&#160;months preceding application PPC / LOE
+              </li>
+            </ul>
+          </li>
+          <li>
+            multi-crew cruise relief
+
+            <ul>
+              <li>
+                ground instruction, flight training
+              </li>
+              <li>
+                CPL: <b>24</b>&#160;months preceding application <b>70</b>% IATRA, <i>or</i>
+              </li>
+              <li>
+                ATPL applicant: <b>24</b>&#160;months preceding application <b>70</b>% SAMRA, SARON, <i>or</i>
+              </li>
+              <li>
+                ATPL
+              </li>
+              <li>
+                <b>250</b>&#160;AER
+              </li>
+              <li>
+                <b>12</b>&#160;months preceding application PPC
+              </li>
+            </ul>
+          </li>
+          <li>
+            high-performance aircraft
+          </li>
+          <li>
+            second officer or flight engineer aircraft
+          </li>
+          <li>
+            non blanket type rating aircraft
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node CREATED="1603491999071" ID="ID_1354967365" MODIFIED="1603492013716" TEXT="Division XII - Night Rating"/>
 <node CREATED="1603492033296" ID="ID_875617576" MODIFIED="1603492048759" TEXT="Division XIII - VOTT Rating"/>
 <node CREATED="1603492054408" ID="ID_1386588732" MODIFIED="1603492068867" TEXT="Division XIV - Instrument Ratings"/>
