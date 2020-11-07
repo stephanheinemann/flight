@@ -3289,7 +3289,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491899955" FOLDED="true" ID="ID_1921926935" MODIFIED="1604701829406" TEXT="Division VII - Commercial Pilot Licence">
+<node CREATED="1603491899955" FOLDED="true" ID="ID_1921926935" MODIFIED="1604775750803" TEXT="Division VII - Commercial Pilot Licence">
 <node CREATED="1604105496779" ID="ID_112213341" MODIFIED="1604359916020">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4062,7 +4062,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603492122039" FOLDED="true" ID="ID_410878373" MODIFIED="1604711129680" TEXT="Division XVII - Flight Instructor Ratings - Aeroplane and Helicopter">
+<node CREATED="1603492122039" FOLDED="true" ID="ID_410878373" MODIFIED="1604779734245" TEXT="Division XVII - Flight Instructor Ratings - Aeroplane and Helicopter">
 <node CREATED="1604702540023" ID="ID_1311027735" MODIFIED="1604707250012">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4087,8 +4087,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1604706388380" ID="ID_1059085226" MODIFIED="1604707269845">
 <richcontent TYPE="NODE"><html>
@@ -4114,8 +4113,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1604706924833" ID="ID_1729128179" MODIFIED="1604707286668">
 <richcontent TYPE="NODE"><html>
@@ -4132,8 +4130,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1604707513923" ID="ID_1598281190" MODIFIED="1604707975914">
 <richcontent TYPE="NODE"><html>
@@ -4165,8 +4162,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1604709372637" ID="ID_1490620583" MODIFIED="1604710248518">
 <richcontent TYPE="NODE"><html>
@@ -4228,8 +4224,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1604710282135" ID="ID_542926581" MODIFIED="1604711062171">
 <richcontent TYPE="NODE"><html>
@@ -4282,11 +4277,201 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1603492154484" ID="ID_942732626" MODIFIED="1603492174863" TEXT="Division XVIII - Flight Instructor Rating - Aeroplane">
+<node CREATED="1604775141301" ID="ID_599426956" MODIFIED="1604775760999">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Class 4 - Aeroplane - Requirements (421.69)
+    </p>
+    <ul>
+      <li>
+        prerequisites:
+
+        <ul>
+          <li>
+            CPL(A), CPL(A)/IR integrated course, ATPL(A)
+          </li>
+          <li>
+            CPL(A) written and flight test before FI ground school
+          </li>
+        </ul>
+      </li>
+      <li>
+        knowledge: <b>25</b>&#160;hours ground school, <b>70</b>% AIRAF
+      </li>
+      <li>
+        experience: <b>30</b>&#160;DL (<b>5</b>&#160;IT [<b>5</b>&#160;SIM])
+      </li>
+      <li>
+        skill: flight test
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1604775200093" ID="ID_1121599993" MODIFIED="1604779455234">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Class 3 - Aeroplane - Requirements (421.70)
+    </p>
+    <ul>
+      <li>
+        prerequisites: C4 FI(A)
+      </li>
+      <li>
+        knowledge: letter of recommendation by C1 FI(A)
+      </li>
+      <li>
+        experience: <b>100</b>&#160;FI(A)
+      </li>
+      <li>
+        skill:
+
+        <ul>
+          <li>
+            <b>3</b>&#160;first solo recommendations
+          </li>
+          <li>
+            <b>3</b>&#160;passed flight test recommendations (<b>50</b>% of last <b>10</b>&#160;&#160;DL)
+          </li>
+          <li>
+            <i>follow-up not eligible to upgrade</i>
+          </li>
+        </ul>
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      <i>Class 3 FI can be obtained directly for DND / contracting foreign state </i>
+    </p>
+    <p>
+      <i>flight instructors if either <b>750</b>&#160;FI(A) or <b>300</b>&#160;FI(A) with <b>10</b>&#160;&#160;ground </i>
+    </p>
+    <p>
+      <i>instruction: <b>70</b>% AIRAF, flight test, C1 FI(A) recommendation</i>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1604775233979" ID="ID_166836411" MODIFIED="1604783899272">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Class 2 - Aeroplane - Requirements (421.71)
+    </p>
+    <ul>
+      <li>
+        prerequisites: within <b>12</b>&#160;months preceding application C3 FI(A)
+      </li>
+      <li>
+        knowledge: within <b>24</b>&#160;months preceding application <b>70</b>% AIRAT
+      </li>
+      <li>
+        experience:
+
+        <ul>
+          <li>
+            <b>500</b>&#160;FI(A) (<b>400</b>&#160;DL towards pilot licenses / mil wing standards)
+          </li>
+          <li>
+            <b>10</b>&#160;flight test recommendations (maximum <b>3</b>&#160;RPP)
+          </li>
+          <li>
+            <i>only <b>5</b>&#160;flight test recommendations or DND FI(A)</i>
+          </li>
+        </ul>
+      </li>
+      <li>
+        skill:
+
+        <ul>
+          <li>
+            flight test
+          </li>
+          <li>
+            <i>follow-up not eligible to upgrade</i>
+          </li>
+        </ul>
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1604775266286" ID="ID_978845594" MODIFIED="1604783886068">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Class 1 - Aeroplane - Requirements (421.72)
+    </p>
+    <ul>
+      <li>
+        prerequisites: within <b>12</b>&#160;months preceding applicatin C2 FI(A)
+      </li>
+      <li>
+        knowledge: within <b>24</b>&#160;months preceding application <b>80</b>% AIRAT
+      </li>
+      <li>
+        experience:
+
+        <ul>
+          <li>
+            <b>750</b>&#160;FI(A) (<b>600</b>&#160;DL towards pilot licenses / mil wing standards)
+          </li>
+          <li>
+            <b>10</b>&#160;flight test recommendations (maximum <b>3</b>&#160;RPP)
+          </li>
+        </ul>
+      </li>
+      <li>
+        skill:
+
+        <ul>
+          <li>
+            flight test
+          </li>
+          <li>
+            <i>follow-up or previous flight test failure not eligible to upgrade</i>
+          </li>
+        </ul>
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
 </node>
-<node CREATED="1603492154484" ID="ID_942732626" MODIFIED="1603492174863" TEXT="Division XVIII - Flight Instructor Rating - Aeroplane"/>
 <node CREATED="1603492179921" ID="ID_1830581932" MODIFIED="1603492207378" TEXT="Division XIX - Flight Instructor Rating - Helicopter"/>
 <node CREATED="1603492212517" ID="ID_567285209" MODIFIED="1603492254134" TEXT="Division XX - Flight Instructor Ratings - Glider, Ballon and Gyroplane"/>
 <node CREATED="1603492265958" ID="ID_631115498" MODIFIED="1603492295813" TEXT="Division XXI - Flight Instructor Rating - Ultra-Light Aeroplane"/>
