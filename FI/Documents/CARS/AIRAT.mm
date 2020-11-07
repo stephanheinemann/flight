@@ -3289,7 +3289,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491899955" FOLDED="true" ID="ID_1921926935" MODIFIED="1604431680117" TEXT="Division VII - Commercial Pilot Licence">
+<node CREATED="1603491899955" FOLDED="true" ID="ID_1921926935" MODIFIED="1604701829406" TEXT="Division VII - Commercial Pilot Licence">
 <node CREATED="1604105496779" ID="ID_112213341" MODIFIED="1604359916020">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3575,7 +3575,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491961218" FOLDED="true" ID="ID_1335948724" MODIFIED="1604431686958" TEXT="Division X - Aeroplane Class Ratings">
+<node CREATED="1603491961218" FOLDED="true" ID="ID_1335948724" MODIFIED="1604701953405" TEXT="Division X - Aeroplane Class Ratings">
 <node CREATED="1604430967860" ID="ID_1806071232" MODIFIED="1604431575279">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3633,7 +3633,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491980063" FOLDED="true" ID="ID_1680839003" MODIFIED="1604515223495" TEXT="Division XI - Aircraft Type Ratings">
+<node CREATED="1603491980063" FOLDED="true" ID="ID_1680839003" MODIFIED="1604701928456" TEXT="Division XI - Aircraft Type Ratings">
 <node CREATED="1604431751854" ID="ID_552563481" MODIFIED="1604515186969">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3820,11 +3820,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1603491999071" FOLDED="true" ID="ID_1354967365" MODIFIED="1604516419158" TEXT="Division XII - Night Rating">
+<node CREATED="1603491999071" FOLDED="true" ID="ID_1354967365" MODIFIED="1604701922584" TEXT="Division XII - Night Rating">
 <node CREATED="1604515260457" ID="ID_1790177735" MODIFIED="1604516387718">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3870,11 +3869,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1603492033296" FOLDED="true" ID="ID_875617576" MODIFIED="1604516646412" TEXT="Division XIII - VOTT Rating">
+<node CREATED="1603492033296" FOLDED="true" ID="ID_875617576" MODIFIED="1604701902157" TEXT="Division XIII - VOTT Rating">
 <node CREATED="1604516426092" ID="ID_1756622965" MODIFIED="1604516615498">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3905,12 +3903,11 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1603492054408" ID="ID_1386588732" MODIFIED="1603492068867" TEXT="Division XIV - Instrument Ratings">
-<node CREATED="1604516650043" ID="ID_1002594145" MODIFIED="1604517347178">
+<node CREATED="1603492054408" FOLDED="true" ID="ID_1386588732" MODIFIED="1604702384851" TEXT="Division XIV - Instrument Ratings">
+<node CREATED="1604516650043" ID="ID_1002594145" MODIFIED="1604551509702">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3942,7 +3939,346 @@
         </ul>
       </li>
       <li>
-        skill: flight test or PPC (<i>IPC not mentioned</i>)
+        skill: flight test or PPC
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1604551525988" ID="ID_1691454412" MODIFIED="1604551624793">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Period of Validity (421.48)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        <b>24</b>&#160;months
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1604551560551" ID="ID_280088670" MODIFIED="1604551864943">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Renewal of Instrument Rating (421.49)
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        flight test, LOE, PPC
+      </li>
+      <li>
+        <i>does not mention IPC and infinite validity of INRAT</i>
+      </li>
+      <li>
+        <i>does not mention IFR 6-6-6 currency requirement</i>
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+</node>
+<node CREATED="1603492074311" FOLDED="true" ID="ID_784837027" MODIFIED="1604702370390">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Division XV - Second Officer Rating
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1604701217241" ID="ID_1638623032" MODIFIED="1604701504781">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Requirements (421.52)
+    </p>
+    <ul>
+      <li>
+        within <b>12</b>&#160;months preceding application
+
+        <ul>
+          <li>
+            second officer training
+          </li>
+          <li>
+            PPC
+          </li>
+        </ul>
+      </li>
+      <li>
+        <i>no implicit pilot privileges</i>
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1603492095794" FOLDED="true" ID="ID_550265811" MODIFIED="1604702485888" TEXT="Division XVI - Passenger-Carrying Rating - Ultra-Light">
+<node CREATED="1604701541970" ID="ID_616479873" MODIFIED="1604702362311">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Requirements (421.55)
+    </p>
+    <ul>
+      <li>
+        medical fitness: <b>1</b>, <b>3</b>, <b>4</b>
+      </li>
+      <li>
+        experience: <b>25</b>&#160;instruction (<b>15</b>&#160;DL (<b>2</b>&#160;XC), 5&#160;SL)
+      </li>
+      <li>
+        skill: within <b>12</b>&#160;months preceding application flight test
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1603492122039" FOLDED="true" ID="ID_410878373" MODIFIED="1604711129680" TEXT="Division XVII - Flight Instructor Ratings - Aeroplane and Helicopter">
+<node CREATED="1604702540023" ID="ID_1311027735" MODIFIED="1604707250012">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Class 4 Supervision Requirement (421.62)
+    </p>
+    <ul>
+      <li>
+        class 1/2 supervision (training program)
+      </li>
+      <li>
+        progress checks (at least before first solo and flight test)
+      </li>
+      <li>
+        training record (<i>Instructors Training Record while under Direct Supervision</i>)
+      </li>
+      <li>
+        first solo and flight test approval (PTR)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1604706388380" ID="ID_1059085226" MODIFIED="1604707269845">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Class 1 or 2 - Supervision of the Holder of a Class 4 Flight Instructor Rating (421.63)
+    </p>
+    <ul>
+      <li>
+        review training program (flight training manual and flight instructor guide)
+      </li>
+      <li>
+        schedule and conduct progress checks (at least before first solo and flight test)
+      </li>
+      <li>
+        review training record (<i>Instructors Training Record while under Direct Supervision</i>)
+      </li>
+      <li>
+        countersign PTR for first solo and flight test recommendation
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1604706924833" ID="ID_1729128179" MODIFIED="1604707286668">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Class 4 - Record Keeping (421.64)
+    </p>
+    <ul>
+      <li>
+        training record (<i>Instructors Training Record while under Direct Supervision)</i>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1604707513923" ID="ID_1598281190" MODIFIED="1604707975914">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Period of Validity - Aeroplane and Helicopter (421.65)
+    </p>
+    <ul>
+      <li>
+        class 4: <b>1</b>&#160;year (1st day of the 13th month)
+      </li>
+      <li>
+        class 3: <b>2</b>&#160;years (1st day of the 25th month)
+      </li>
+      <li>
+        class 2: <b>3</b>&#160;years (1st day of the 37th month)
+      </li>
+      <li>
+        class 1: <b>4</b>&#160;years (1st day of the 49th month)
+      </li>
+      <li>
+        aerobatic 2: <b>3</b>&#160;years (1st day of the 37th month)
+      </li>
+      <li>
+        aerobatic 1: <b>4</b>&#160;years (1st day of the 49th month)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1604709372637" ID="ID_1490620583" MODIFIED="1604710248518">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Renewal of Flight Instructor Rating (421.66)
+    </p>
+    <ul>
+      <li>
+        flight test (within 90 days prior expiry), <i>or</i>
+      </li>
+      <li>
+        flight instructor refresher course (within 90 days prior expiry), <i>or</i>
+      </li>
+      <li>
+        within <b>24</b>&#160;months preceding renewal
+
+        <ul>
+          <li>
+            <b>300</b>&#160;hours FI experience
+          </li>
+          <li>
+            <b>80</b>% first attempt pass rate (based on at least <b>5</b>)
+          </li>
+        </ul>
+      </li>
+      <li>
+        maximum <b>2</b>&#160;consecutive renewals other than flight test
+      </li>
+      <li>
+        valid within preceding <b>12</b>&#160;months
+
+        <ul>
+          <li>
+            flight test
+          </li>
+        </ul>
+      </li>
+      <li>
+        valid within preceding <b>24</b>&#160;months
+
+        <ul>
+          <li>
+            class 1 recommendation, flight test
+          </li>
+        </ul>
+      </li>
+      <li>
+        not valid within preceding <b>24</b>&#160;months
+
+        <ul>
+          <li>
+            class 1 recommendation, AIRAT/AIRAF, flight test
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1604710282135" ID="ID_542926581" MODIFIED="1604711062171">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flight Test Record (421.67)
+    </p>
+    <ul>
+      <li>
+        maintenance
+      </li>
+      <li>
+        evaluation
+
+        <ul>
+          <li>
+            follow-up for <b>3</b>&#160;failures in <b>10</b>&#160;recommendations or less
+          </li>
+        </ul>
+      </li>
+      <li>
+        follow-up action
+
+        <ul>
+          <li>
+            action if flight instructor performance contributing
+          </li>
+          <li>
+            follow-up plan (flight training operations manual)
+
+            <ul>
+              <li>
+                ground / in-flight instruction observation
+              </li>
+              <li>
+                CFI consultation
+              </li>
+              <li>
+                remedial flight or ground school instruction
+              </li>
+            </ul>
+          </li>
+          <li>
+            <b>2</b>&#160;failures of <b>5</b>&#160;flight tests following: possible FI flight test
+          </li>
+        </ul>
       </li>
     </ul>
   </body>
@@ -3950,9 +4286,6 @@
 </richcontent>
 </node>
 </node>
-<node CREATED="1603492074311" ID="ID_784837027" MODIFIED="1603492091525" TEXT="Division XV - Second Officer Rating"/>
-<node CREATED="1603492095794" ID="ID_550265811" MODIFIED="1603492117723" TEXT="Division XVI - Passenger-Carrying Rating - Ultra-Light"/>
-<node CREATED="1603492122039" ID="ID_410878373" MODIFIED="1603492149336" TEXT="Division XVII - Flight Instructor Ratings - Aeroplane and Helicopter"/>
 <node CREATED="1603492154484" ID="ID_942732626" MODIFIED="1603492174863" TEXT="Division XVIII - Flight Instructor Rating - Aeroplane"/>
 <node CREATED="1603492179921" ID="ID_1830581932" MODIFIED="1603492207378" TEXT="Division XIX - Flight Instructor Rating - Helicopter"/>
 <node CREATED="1603492212517" ID="ID_567285209" MODIFIED="1603492254134" TEXT="Division XX - Flight Instructor Ratings - Glider, Ballon and Gyroplane"/>
