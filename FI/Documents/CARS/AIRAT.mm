@@ -22,7 +22,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1605042449922" ID="ID_823618308" MODIFIED="1605151650524">
+<node CREATED="1605042449922" FOLDED="true" ID="ID_823618308" MODIFIED="1605218972938">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -58,8 +58,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1605044885592" ID="ID_727092077" MODIFIED="1605148064398">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -78,8 +77,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605044941103" ID="ID_1622350815" MODIFIED="1605148482611">
 <richcontent TYPE="NODE"><html>
@@ -99,8 +97,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605044961232" ID="ID_283282728" MODIFIED="1605148593878">
 <richcontent TYPE="NODE"><html>
@@ -123,8 +120,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605044981540" ID="ID_27281896" MODIFIED="1605151161755">
 <richcontent TYPE="NODE"><html>
@@ -171,8 +167,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605044998015" ID="ID_1675518679" MODIFIED="1605146701324">
 <richcontent TYPE="NODE"><html>
@@ -189,8 +184,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605045011809" ID="ID_232522300" MODIFIED="1605151489202">
 <richcontent TYPE="NODE"><html>
@@ -210,8 +204,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605045026215" ID="ID_93282650" MODIFIED="1605151611792">
 <richcontent TYPE="NODE"><html>
@@ -231,8 +224,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1605044873375" ID="ID_67425793" MODIFIED="1605148400221">
@@ -259,11 +251,191 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1605045051113" ID="ID_1473530673" MODIFIED="1605212596261">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Oral Questions
+    </p>
+    <ul>
+      <li>
+        promote mental activity
+      </li>
+      <li>
+        arouse and maintain student interest
+      </li>
+      <li>
+        guide thought
+      </li>
+      <li>
+        evaluate learning
+      </li>
+      <li>
+        qualities of good questions
+
+        <ul>
+          <li>
+            easily understood
+          </li>
+          <li>
+            composed of common words
+          </li>
+          <li>
+            thought provoking (how? why?)
+          </li>
+          <li>
+            emphasize major teaching points
+          </li>
+        </ul>
+      </li>
+      <li>
+        questioning procedure
+
+        <ul>
+          <li>
+            ask the question
+          </li>
+          <li>
+            pause
+          </li>
+          <li>
+            name the student
+          </li>
+          <li>
+            listen to the answer
+          </li>
+          <li>
+            confirm the correct response (discuss the answer)
+          </li>
+        </ul>
+      </li>
+      <li>
+        handling answers
+
+        <ul>
+          <li>
+            discourage group answers
+          </li>
+          <li>
+            do not make it a habit to repeat answers
+          </li>
+          <li>
+            give credit for good answers
+          </li>
+        </ul>
+      </li>
+      <li>
+        handling questions
+
+        <ul>
+          <li>
+            encourage questions
+          </li>
+          <li>
+            pass questions to other students (occasionally)
+          </li>
+          <li>
+            reject unrelated questions (defer)
+          </li>
+          <li>
+            do not bluff (acknowledge unknowns)
+          </li>
+          <li>
+            ensure question is heard by everyone
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1605045051113" ID="ID_1473530673" MODIFIED="1605045054090" TEXT="Oral Questions"/>
-<node CREATED="1605045089851" ID="ID_142106825" MODIFIED="1605045099073" TEXT="Demonstration-Performance Method"/>
+<node CREATED="1605045089851" ID="ID_142106825" MODIFIED="1605215839795">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Demonstration-Performance Method
+    </p>
+    <ul>
+      <li>
+        explanation
+      </li>
+      <li>
+        demonstration (perfect)
+      </li>
+      <li>
+        student performance (observe <i>without</i>&#160;explaining)
+      </li>
+      <li>
+        instructor supervision
+      </li>
+      <li>
+        evaluation
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605215900814" ID="ID_1418402403" MODIFIED="1605218940096">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Instructional Techniques
+    </p>
+    <ul>
+      <li>
+        prepare lesson plan
+      </li>
+      <li>
+        prepare classroom / teaching area before lesson
+      </li>
+      <li>
+        prepare training devices / aids before lesson
+      </li>
+      <li>
+        prepare students for learning (readiness)
+      </li>
+      <li>
+        start at students level of understanding (threshold knowledge, review)
+      </li>
+      <li>
+        proceed at students rate of comprehension (<b>8</b>&#160;to <b>12</b>&#160;&#160;minute stages)
+      </li>
+      <li>
+        identify and emphasize major points (need to know <i>versus</i>&#160;nice to know)
+      </li>
+      <li>
+        give clear explanations and demonstrations (relationship, rationale)
+      </li>
+      <li>
+        use visual aids effectively (<b>75</b>% visual learning, <b>13</b>% auditory learning)
+      </li>
+      <li>
+        vary rate, volume and pitch of voice (intensity)
+      </li>
+      <li>
+        obtain student feedback (eye contact)
+      </li>
+      <li>
+        provide for maximum student activity (exercise, supervision: primacy)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1605045139831" ID="ID_293817292" MODIFIED="1605045144934" TEXT="Developmental Teaching"/>
 <node CREATED="1605045163181" ID="ID_1352987692" MODIFIED="1605045167361" TEXT="Student Progress"/>
 <node CREATED="1605045189553" ID="ID_1268950095" MODIFIED="1605045200350" TEXT="Individual Differences"/>
