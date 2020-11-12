@@ -22,6 +22,252 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1605042449922" ID="ID_823618308" MODIFIED="1605151650524">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Learning Factors
+    </p>
+    <ul>
+      <li>
+        <b>PERRIER</b>
+      </li>
+      <li>
+        Primacy
+      </li>
+      <li>
+        Effect
+      </li>
+      <li>
+        Readiness
+      </li>
+      <li>
+        Relationship
+      </li>
+      <li>
+        Intensity
+      </li>
+      <li>
+        Exercise
+      </li>
+      <li>
+        Recency
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1605044885592" ID="ID_727092077" MODIFIED="1605148064398">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Readiness
+    </p>
+    <ul>
+      <li>
+        mental, physical, emotional
+      </li>
+      <li>
+        contents, purpose, benefit, expectation (motivation)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605044941103" ID="ID_1622350815" MODIFIED="1605148482611">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Primacy
+    </p>
+    <ul>
+      <li>
+        correct (perfect) instruction
+      </li>
+      <li>
+        perfect demonstration, <i>no (tight)</i>&#160;error tolerance initially
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605044961232" ID="ID_283282728" MODIFIED="1605148593878">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Relationship
+    </p>
+    <ul>
+      <li>
+        logical sequence
+      </li>
+      <li>
+        known to unknown, easy to difficult, simple to complex
+      </li>
+      <li>
+        threshold knowledge, review
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605044981540" ID="ID_27281896" MODIFIED="1605151161755">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Exercise
+    </p>
+    <ul>
+      <li>
+        meaningful activity
+      </li>
+      <li>
+        application, problem solving, challenges (how? why?)
+      </li>
+      <li>
+        levels of learning
+
+        <ul>
+          <li>
+            familiarization (briefings, listen)
+          </li>
+          <li>
+            knowledge (lectures, listen)
+          </li>
+          <li>
+            comprehension (developmentally question, answer &amp; ask)
+          </li>
+          <li>
+            application (demonstrate and explain, imitate &amp; practice)
+          </li>
+          <li>
+            analysis (exercise, decompose)
+          </li>
+          <li>
+            synthesis (exercise, compose)
+          </li>
+          <li>
+            evaluation (test, record &amp; conclude)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605044998015" ID="ID_1675518679" MODIFIED="1605146701324">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Intensity
+    </p>
+    <ul>
+      <li>
+        dramatic, unexpected, realistic scenarios
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605045011809" ID="ID_232522300" MODIFIED="1605151489202">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Effect
+    </p>
+    <ul>
+      <li>
+        satisfaction (motivation, achievement)
+      </li>
+      <li>
+        participation, accomplishment, feedback, success
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605045026215" ID="ID_93282650" MODIFIED="1605151611792">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Recency
+    </p>
+    <ul>
+      <li>
+        summarize and practise (review)
+      </li>
+      <li>
+        continuous and iterative reinforcement
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1605044873375" ID="ID_67425793" MODIFIED="1605148400221">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Curve of Remembering
+    </p>
+    <ul>
+      <li>
+        first significant loss between <b>24</b>&#160;to <b>48</b>&#160;hours following instruction
+      </li>
+      <li>
+        less than <b>70</b>% after <b>2</b>&#160;days
+      </li>
+      <li>
+        approximately <b>40</b>% after <b>1</b>&#160;month
+      </li>
+      <li>
+        review after <b>2</b>&#160;days, <b>7</b>&#160;days, <b>28</b>&#160;days to retain knowledge
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605045051113" ID="ID_1473530673" MODIFIED="1605045054090" TEXT="Oral Questions"/>
+<node CREATED="1605045089851" ID="ID_142106825" MODIFIED="1605045099073" TEXT="Demonstration-Performance Method"/>
+<node CREATED="1605045139831" ID="ID_293817292" MODIFIED="1605045144934" TEXT="Developmental Teaching"/>
+<node CREATED="1605045163181" ID="ID_1352987692" MODIFIED="1605045167361" TEXT="Student Progress"/>
+<node CREATED="1605045189553" ID="ID_1268950095" MODIFIED="1605045200350" TEXT="Individual Differences"/>
+<node CREATED="1605045230373" ID="ID_1237228516" MODIFIED="1605045242436" TEXT="Student-Instructor Relationship"/>
 </node>
 <node CREATED="1601686478539" ID="ID_446566040" MODIFIED="1603839857430" POSITION="left" TEXT="CARs">
 <node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1604518081810" TEXT="Part IV - Personal Licensing and Training">
@@ -3415,7 +3661,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491918760" FOLDED="true" ID="ID_1219281581" MODIFIED="1604431598691" TEXT="Division VIII - Airline Transport Pilot Licence">
+<node CREATED="1603491918760" FOLDED="true" ID="ID_1219281581" MODIFIED="1604792894249" TEXT="Division VIII - Airline Transport Pilot Licence">
 <node CREATED="1604363331204" ID="ID_714911322" MODIFIED="1604431177577">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4280,8 +4526,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603492154484" ID="ID_942732626" MODIFIED="1603492174863" TEXT="Division XVIII - Flight Instructor Rating - Aeroplane">
-<node CREATED="1604775141301" ID="ID_599426956" MODIFIED="1604775760999">
+<node CREATED="1603492154484" FOLDED="true" ID="ID_942732626" MODIFIED="1605041792367" TEXT="Division XVIII - Flight Instructor Rating - Aeroplane">
+<node CREATED="1604775141301" ID="ID_599426956" MODIFIED="1605041489365">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4296,7 +4542,10 @@
 
         <ul>
           <li>
-            CPL(A), CPL(A)/IR integrated course, ATPL(A)
+            CPL(A)&#160; <b>200</b>&#160;TT (<b>20</b>&#160;IT [<b>10</b>&#160;SIM]) <i>or</i>&#160; ATPL(A), <i>or</i>
+          </li>
+          <li>
+            CPL(A)/IR integrated course
           </li>
           <li>
             CPL(A) written and flight test before FI ground school
@@ -4307,7 +4556,7 @@
         knowledge: <b>25</b>&#160;hours ground school, <b>70</b>% AIRAF
       </li>
       <li>
-        experience: <b>30</b>&#160;DL (<b>5</b>&#160;IT [<b>5</b>&#160;SIM])
+        experience: <b>30</b>&#160;DL FI(A) (<b>5</b>&#160;IT [<b>5</b>&#160;SIM])
       </li>
       <li>
         skill: flight test
@@ -4319,7 +4568,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1604775200093" ID="ID_1121599993" MODIFIED="1604779455234">
+<node CREATED="1604775200093" ID="ID_1121599993" MODIFIED="1605041539956">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4346,7 +4595,7 @@
             <b>3</b>&#160;first solo recommendations
           </li>
           <li>
-            <b>3</b>&#160;passed flight test recommendations (<b>50</b>% of last <b>10</b>&#160;&#160;DL)
+            <b>3</b>&#160;passed flight test recommendations (<b>50</b>% of last <b>10</b>&#160;&#160;DL FI(A))
           </li>
           <li>
             <i>follow-up not eligible to upgrade</i>
@@ -4420,8 +4669,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1604775266286" ID="ID_978845594" MODIFIED="1604783886068">
 <richcontent TYPE="NODE"><html>
@@ -4468,11 +4716,71 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1603492179921" ID="ID_1830581932" MODIFIED="1603492207378" TEXT="Division XIX - Flight Instructor Rating - Helicopter"/>
+<node CREATED="1603492179921" ID="ID_1830581932" MODIFIED="1603492207378" TEXT="Division XIX - Flight Instructor Rating - Helicopter">
+<node CREATED="1604792223570" ID="ID_1139881581" MODIFIED="1605041673543">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Class 4 - Helicopter - Requirement (421.77)
+    </p>
+    <ul>
+      <li>
+        prerequisites: CPL(H), <b>250</b>&#160;PIC (<b>15</b>&#160;IT [<b>10</b>&#160; SIM])
+      </li>
+      <li>
+        knowledge: <b>25</b>&#160;hours ground school, <b>70</b>% HIRAF, FIREN
+      </li>
+      <li>
+        experience: <b>30</b>&#160;DL FI(A) (<b>5</b>&#160;IT [<b>5</b>&#160;SIM])
+      </li>
+      <li>
+        skill: flight test
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1604792271433" ID="ID_1963140673" MODIFIED="1605041779735">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Class 3 - Helicopter - Requirements (421.78)
+    </p>
+    <ul>
+      <li>
+        prerequisites: C4 FI(H)
+      </li>
+      <li>
+        knowledge
+      </li>
+      <li>
+        experience
+      </li>
+      <li>
+        skill
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1604792299669" ID="ID_1902993465" MODIFIED="1604792305879" TEXT="Class 2 - Helicopter - Requirements (421.79)"/>
+<node CREATED="1604792322959" ID="ID_616672244" MODIFIED="1604792333769" TEXT="Class 1 - Helicopter - Requirements (421.80)"/>
+</node>
 <node CREATED="1603492212517" ID="ID_567285209" MODIFIED="1603492254134" TEXT="Division XX - Flight Instructor Ratings - Glider, Ballon and Gyroplane"/>
 <node CREATED="1603492265958" ID="ID_631115498" MODIFIED="1603492295813" TEXT="Division XXI - Flight Instructor Rating - Ultra-Light Aeroplane"/>
 <node CREATED="1603492301682" ID="ID_665327400" MODIFIED="1603492324235" TEXT="Division XXII - Flight Instructor Rating - Aeroplane Aerobatic"/>
@@ -4481,7 +4789,7 @@
 <node CREATED="1602628822216" ID="ID_1481549891" MODIFIED="1602628834294" TEXT="Standard 425 - Flight Training"/>
 <node CREATED="1602628861361" ID="ID_1453884026" MODIFIED="1602628869957" TEXT="Standard 426 - Flight Training Units"/>
 <node CREATED="1602630467417" ID="ID_1985176486" MODIFIED="1602630479044" TEXT="Standard 428 - Conduct of Flight Tests"/>
-<node CREATED="1603147512804" FOLDED="true" ID="ID_79966893" MODIFIED="1603147954324">
+<node CREATED="1603147512804" FOLDED="true" ID="ID_79966893" MODIFIED="1605041909915">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4496,7 +4804,7 @@
 <node CREATED="1603147941679" ID="ID_1954081529" MODIFIED="1603147950423" TEXT="Appendix B - Maintenance Schedules"/>
 </node>
 </node>
-<node CREATED="1601687056181" FOLDED="true" ID="ID_1522117251" MODIFIED="1603839033831" POSITION="left" TEXT="Exam Preparation">
+<node CREATED="1601687056181" ID="ID_1522117251" MODIFIED="1605041921722" POSITION="left" TEXT="Exam Preparation">
 <node CREATED="1601687084749" ID="ID_230562098" MODIFIED="1601687089374" TEXT="Culhane"/>
 <node CREATED="1602348141673" ID="ID_623059859" MODIFIED="1602348212344">
 <richcontent TYPE="NODE"><html>
