@@ -436,10 +436,232 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1605045139831" ID="ID_293817292" MODIFIED="1605045144934" TEXT="Developmental Teaching"/>
-<node CREATED="1605045163181" ID="ID_1352987692" MODIFIED="1605045167361" TEXT="Student Progress"/>
-<node CREATED="1605045189553" ID="ID_1268950095" MODIFIED="1605045200350" TEXT="Individual Differences"/>
-<node CREATED="1605045230373" ID="ID_1237228516" MODIFIED="1605045242436" TEXT="Student-Instructor Relationship"/>
+<node CREATED="1605045139831" ID="ID_293817292" MODIFIED="1605221126152">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Developmental Teaching
+    </p>
+    <ul>
+      <li>
+        student-centered approach (small groups and individuals)
+      </li>
+      <li>
+        can be combined with explanations
+      </li>
+      <li>
+        satisfies all learning factors
+      </li>
+      <li>
+        permit adequate discussions
+      </li>
+      <li>
+        guide thoughts with questions (careful planning)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605045163181" ID="ID_1352987692" MODIFIED="1605221591480">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Student Progress
+    </p>
+    <ul>
+      <li>
+        rates of learning
+      </li>
+      <li>
+        advances and plateaus
+      </li>
+      <li>
+        rate of learning affected by
+
+        <ul>
+          <li>
+            diversions
+          </li>
+          <li>
+            lagging motivation
+          </li>
+          <li>
+            emotional disturbances
+          </li>
+          <li>
+            upset training schedule
+          </li>
+          <li>
+            weather
+          </li>
+          <li>
+            equipment breakdown
+          </li>
+          <li>
+            unavoidable absences
+          </li>
+        </ul>
+      </li>
+      <li>
+        evaluate reversals carefully (correct faulty habits or patterns)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605045189553" ID="ID_1268950095" MODIFIED="1605226518908">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Individual Differences
+    </p>
+    <ul>
+      <li>
+        different learning rates
+      </li>
+      <li>
+        personality differences (attitude, interest)
+      </li>
+      <li>
+        emotions (mild, strong, disruptive)
+      </li>
+      <li>
+        strong emotional tension (coping <i>versus</i>&#160;escaping)
+      </li>
+      <li>
+        emotional escape mechanisms
+
+        <ul>
+          <li>
+            projection
+          </li>
+          <li>
+            rationalization
+          </li>
+          <li>
+            resignation
+          </li>
+          <li>
+            flight
+          </li>
+          <li>
+            aggression
+          </li>
+        </ul>
+      </li>
+      <li>
+        meeting the differences
+
+        <ul>
+          <li>
+            nervous or underconfident (support)
+          </li>
+          <li>
+            overconfident or conceited (challenge)
+          </li>
+          <li>
+            forgetful (patience)
+          </li>
+          <li>
+            inconsistent (analysis, self-analysis)
+          </li>
+          <li>
+            slow starters and fast starters (standards)
+          </li>
+          <li>
+            immature (potential to grow)
+          </li>
+          <li>
+            air sickness (relieve, distraction)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605045230373" ID="ID_1237228516" MODIFIED="1605227934111">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Student-Instructor Relationship
+    </p>
+    <ul>
+      <li>
+        discipline and respect
+      </li>
+      <li>
+        leadership (assertiveness, approachability)
+      </li>
+      <li>
+        support and co-operation increases loyalty and respect
+      </li>
+      <li>
+        assertiveness: fair, firm and friendly
+      </li>
+      <li>
+        attitudes
+
+        <ul>
+          <li>
+            inspire, be decisive, be interested
+          </li>
+          <li>
+            correct and coach respectfully
+          </li>
+          <li>
+            be honest and acknowledge own shortcomings, never bluff
+          </li>
+          <li>
+            be enthusiastic and encourage initiative and self-reliance
+          </li>
+          <li>
+            be impartial and fair
+          </li>
+          <li>
+            use humor (moderately)
+          </li>
+          <li>
+            if in doubt request independent progress check (co-instructor)
+          </li>
+          <li>
+            emphasize standard operating procedures
+          </li>
+          <li>
+            distinct clearly between intelligent confidence and foolhardiness
+          </li>
+          <li>
+            plan, brief and de-brief all solo missions
+          </li>
+          <li>
+            be present on check ride briefings if possible
+          </li>
+          <li>
+            maintain professionalism
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605227989559" ID="ID_1976536503" MODIFIED="1605227997350" TEXT="Analysis of Student Performance"/>
 </node>
 <node CREATED="1601686478539" ID="ID_446566040" MODIFIED="1603839857430" POSITION="left" TEXT="CARs">
 <node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1604518081810" TEXT="Part IV - Personal Licensing and Training">
