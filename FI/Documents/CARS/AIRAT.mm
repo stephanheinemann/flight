@@ -352,8 +352,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605045089851" ID="ID_142106825" MODIFIED="1605215839795">
 <richcontent TYPE="NODE"><html>
@@ -382,10 +381,9 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1605215900814" ID="ID_1418402403" MODIFIED="1605218940096">
+<node CREATED="1605215900814" ID="ID_1418402403" MODIFIED="1605293056112">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -411,7 +409,7 @@
         start at students level of understanding (threshold knowledge, review)
       </li>
       <li>
-        proceed at students rate of comprehension (<b>8</b>&#160;to <b>12</b>&#160;&#160;minute stages)
+        proceed at students rate of comprehension (<b>8</b>&#160;to <b>12</b>&#160;&#160;minute stages, review)
       </li>
       <li>
         identify and emphasize major points (need to know <i>versus</i>&#160;nice to know)
@@ -463,8 +461,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605045163181" ID="ID_1352987692" MODIFIED="1605221591480">
 <richcontent TYPE="NODE"><html>
@@ -514,8 +511,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605045189553" ID="ID_1268950095" MODIFIED="1605226518908">
 <richcontent TYPE="NODE"><html>
@@ -589,8 +585,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605045230373" ID="ID_1237228516" MODIFIED="1605227934111">
 <richcontent TYPE="NODE"><html>
@@ -658,10 +653,229 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+<node CREATED="1605227989559" ID="ID_1976536503" MODIFIED="1605233571370">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Analysis of Student Performance
+    </p>
+    <ul>
+      <li>
+        strengths, weaknesses, suggestions for improvement
+      </li>
+      <li>
+        air:
+
+        <ul>
+          <li>
+            identify strengths
+          </li>
+          <li>
+            pin-point <b>one</b>&#160;major weakness
+          </li>
+          <li>
+            suggest remedy for weakness
+          </li>
+        </ul>
+      </li>
+      <li>
+        ground:
+
+        <ul>
+          <li>
+            identify strengths
+          </li>
+          <li>
+            identify a maximum of <b>three</b>&#160;major weaknesses
+          </li>
+          <li>
+            suggest remedy for weaknesses
+          </li>
+        </ul>
+      </li>
+      <li>
+        prioritize weaknesses to achieve the maximum improvement first
+      </li>
+      <li>
+        one weakness as root cause for many problems
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+<node CREATED="1605233620655" ID="ID_45050337" MODIFIED="1605243565435">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Effective Analysis Characteristics
+    </p>
+    <ul>
+      <li>
+        unbiased objectivity
+      </li>
+      <li>
+        consistency (e.g., standard operating procedures)
+      </li>
+      <li>
+        avoid dogmatic approach (e.g., there is some room within SOPs)
+      </li>
+      <li>
+        honesty
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1605233042301" ID="ID_1985758087" MODIFIED="1605294467740">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Types of Instruction
+    </p>
+    <ul>
+      <li>
+        classroom instruction
+
+        <ul>
+          <li>
+            written exam preparation
+          </li>
+          <li>
+            study and reference guide
+          </li>
+        </ul>
+      </li>
+      <li>
+        preparatory ground instruction (PGI)
+
+        <ul>
+          <li>
+            how to perform exercises
+          </li>
+          <li>
+            ideally within <b>24</b>&#160;hours prior flight
+          </li>
+        </ul>
+      </li>
+      <li>
+        flight instruction
+
+        <ul>
+          <li>
+            pre-flight (what? how? safety considerations)
+          </li>
+          <li>
+            in-flight (control transfer, demonstration - explanation - practice)
+          </li>
+          <li>
+            post-flight (feeback, suggestions for improvement, outlook)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1605227989559" ID="ID_1976536503" MODIFIED="1605227997350" TEXT="Analysis of Student Performance"/>
+<node CREATED="1605294570303" ID="ID_172214988" MODIFIED="1605294850075">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flight Safety
+    </p>
+    <ul>
+      <li>
+        attitude, supervision, enforcement, training
+      </li>
+      <li>
+        airmanship, flight discipline
+      </li>
+      <li>
+        observe, identify, eliminate (firm and consistent action)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605233200795" ID="ID_1286269211" MODIFIED="1605295426301">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Checklist for Good Instruction
+    </p>
+    <ul>
+      <li>
+        requirements and expectations
+      </li>
+      <li>
+        teaching points, rationale for new skills
+      </li>
+      <li>
+        overall (big) picture and relationship
+      </li>
+      <li>
+        threshold knowledge test
+      </li>
+      <li>
+        stages with separation and review
+      </li>
+      <li>
+        obtain and respond to feedback
+      </li>
+      <li>
+        enthusiastic presentation
+      </li>
+      <li>
+        training (visual) aids
+      </li>
+      <li>
+        meaningful practice and exercise
+      </li>
+      <li>
+        clear and simple wording with logical sequence
+      </li>
+      <li>
+        challenge and confirm
+      </li>
+      <li>
+        review, summarize, re-emphasize
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605295457631" ID="ID_1660435857" MODIFIED="1605295478715">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ground and Air Instruction Syllabus
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1601686478539" ID="ID_446566040" MODIFIED="1603839857430" POSITION="left" TEXT="CARs">
 <node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1604518081810" TEXT="Part IV - Personal Licensing and Training">
