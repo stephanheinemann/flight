@@ -875,6 +875,64 @@
   </body>
 </html>
 </richcontent>
+<node CREATED="1605296630365" ID="ID_1028656101" MODIFIED="1605296707607">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Exercises
+    </p>
+    <ul>
+      <li>
+        objective
+      </li>
+      <li>
+        motivation
+      </li>
+      <li>
+        essential background knowledge
+      </li>
+      <li>
+        advise to instructors
+      </li>
+      <li>
+        instruction and student practice
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1605296878955" ID="ID_31406968" MODIFIED="1605296911298">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (1) Familiarization
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605296914973" ID="ID_593236865" MODIFIED="1605296938973" TEXT="(2) Aircraft Familiarization and Preparation for Flight"/>
+<node CREATED="1605297107051" ID="ID_1012455569" MODIFIED="1605297113901" TEXT="(3) Ancillary Controls"/>
+<node CREATED="1605297439657" ID="ID_1181269057" MODIFIED="1605297447402" TEXT="(4) Taxiing"/>
+<node CREATED="1605303014195" ID="ID_1274255081" MODIFIED="1605303021539" TEXT="(5) Attitudes and Movements"/>
+<node CREATED="1605303342806" ID="ID_1868468575" MODIFIED="1605303350233" TEXT="(6) Straight and Level Flight"/>
+<node CREATED="1605303879362" ID="ID_1024582707" MODIFIED="1605303884458" TEXT="(7) Climbing"/>
+<node CREATED="1605304196810" ID="ID_851542000" MODIFIED="1605304203797" TEXT="(8) Descending"/>
+<node CREATED="1605304609692" ID="ID_67696831" MODIFIED="1605304614778" TEXT="(9) Turns"/>
+<node CREATED="1605305498932" ID="ID_226598318" MODIFIED="1605305508316" TEXT="(10) Flight for Range and Endurance"/>
+<node CREATED="1605308373898" ID="ID_1337192522" MODIFIED="1605308378965" TEXT="(11) Slow Flight"/>
+<node CREATED="1605308938350" ID="ID_4346944" MODIFIED="1605308943020" TEXT="(12) Stalls"/>
+<node CREATED="1605309176936" ID="ID_1860915775" MODIFIED="1605309182534" TEXT="(13) Spinning"/>
+<node CREATED="1605309535561" ID="ID_1185575379" MODIFIED="1605309541641" TEXT="(14) Spiral Dives"/>
+<node CREATED="1605309692700" ID="ID_1528131000" MODIFIED="1605309699383" TEXT="(15) Slipping"/>
+</node>
+<node CREATED="1605296715096" ID="ID_1412980524" MODIFIED="1605296718293" TEXT="Lesson Plans"/>
 </node>
 </node>
 <node CREATED="1601686478539" ID="ID_446566040" MODIFIED="1603839857430" POSITION="left" TEXT="CARs">
