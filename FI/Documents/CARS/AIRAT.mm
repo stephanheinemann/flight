@@ -11,7 +11,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1601686463519" ID="ID_1382913323" MODIFIED="1601686475036" POSITION="right">
+<node CREATED="1601686463519" ID="ID_1382913323" MODIFIED="1605396427360" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -431,8 +431,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605045139831" ID="ID_293817292" MODIFIED="1605221126152">
 <richcontent TYPE="NODE"><html>
@@ -655,7 +654,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1605227989559" ID="ID_1976536503" MODIFIED="1605233571370">
+<node CREATED="1605227989559" FOLDED="true" ID="ID_1976536503" MODIFIED="1605396418249">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -785,8 +784,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605294570303" ID="ID_172214988" MODIFIED="1605294850075">
 <richcontent TYPE="NODE"><html>
@@ -809,8 +807,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605233200795" ID="ID_1286269211" MODIFIED="1605295426301">
 <richcontent TYPE="NODE"><html>
@@ -860,8 +857,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605295457631" ID="ID_1660435857" MODIFIED="1605295478715">
 <richcontent TYPE="NODE"><html>
@@ -873,9 +869,8 @@
       Ground and Air Instruction Syllabus
     </p>
   </body>
-</html>
-</richcontent>
-<node CREATED="1605296630365" ID="ID_1028656101" MODIFIED="1605296707607">
+</html></richcontent>
+<node CREATED="1605296630365" FOLDED="true" ID="ID_1028656101" MODIFIED="1605396399998">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -902,8 +897,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1605296878955" ID="ID_31406968" MODIFIED="1605296911298">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -914,8 +908,7 @@
       (1) Familiarization
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605296914973" ID="ID_593236865" MODIFIED="1605296938973" TEXT="(2) Aircraft Familiarization and Preparation for Flight"/>
 <node CREATED="1605297107051" ID="ID_1012455569" MODIFIED="1605297113901" TEXT="(3) Ancillary Controls"/>
@@ -931,6 +924,215 @@
 <node CREATED="1605309176936" ID="ID_1860915775" MODIFIED="1605309182534" TEXT="(13) Spinning"/>
 <node CREATED="1605309535561" ID="ID_1185575379" MODIFIED="1605309541641" TEXT="(14) Spiral Dives"/>
 <node CREATED="1605309692700" ID="ID_1528131000" MODIFIED="1605309699383" TEXT="(15) Slipping"/>
+<node CREATED="1605314653809" ID="ID_1750181801" MODIFIED="1605314661366" TEXT="(16) Take-Off"/>
+<node CREATED="1605315408160" ID="ID_158194486" MODIFIED="1605315430400">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (17) Circuit
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1605315727866" ID="ID_1719484686" MODIFIED="1605315735942" TEXT="(18) Approach and Landing"/>
+<node CREATED="1605388847500" ID="ID_1627931393" MODIFIED="1605388854080" TEXT="(19) First Solo"/>
+<node CREATED="1605389176315" ID="ID_1640327548" MODIFIED="1605389185732" TEXT="(20) Illusions Created by Drift"/>
+<node CREATED="1605389532827" ID="ID_1852003939" MODIFIED="1605389570436" TEXT="(21) Precautionary Landings"/>
+<node CREATED="1605390193435" FOLDED="true" ID="ID_167705285" MODIFIED="1605393969195" TEXT="(22) Forced Landings">
+<node CREATED="1605392668299" ID="ID_213321005" MODIFIED="1605392893948">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Rules of Thumb
+    </p>
+    <ul>
+      <li>
+        rate of descent: <b>500</b>&#160;ft / min
+      </li>
+      <li>
+        altitude loss during standard rate turn:
+
+        <ul>
+          <li>
+            <b>500 </b>ft<b>&#160;/ 180 </b>deg
+          </li>
+          <li>
+            <b>1000 </b>ft<b>&#160;/ 360 </b>deg
+          </li>
+        </ul>
+      </li>
+      <li>
+        desirable key points:
+
+        <ul>
+          <li>
+            <b>2000</b>&#160;ft above field
+          </li>
+          <li>
+            <b>1000</b>&#160;ft abeam threshold
+          </li>
+          <li>
+            <b>500</b>&#160;ft final
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1605391526110" ID="ID_331110161" MODIFIED="1605391532602" TEXT="(23) Pilot Navigation"/>
+<node CREATED="1605392077347" FOLDED="true" ID="ID_507045710" MODIFIED="1605394536003" TEXT="(24) Instrument Flying">
+<node CREATED="1605393916764" ID="ID_885128686" MODIFIED="1605393957305">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      References
+    </p>
+    <ul>
+      <li>
+        <i>Instrument Procedures Manual (TP 2076)</i>
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1605392423503" ID="ID_31957359" MODIFIED="1605393597124">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Rules of Thumb
+    </p>
+    <ul>
+      <li>
+        airspeed changes: <b>100 </b>RPM<b>&#160;</b>~<b>&#160;5 </b>KIAS
+      </li>
+      <li>
+        standard rate turn: IAS / <b>10</b>&#160;+ <b>7</b>
+      </li>
+      <li>
+        standard rate turn: <b>3 </b>deg / s, <b>30</b>&#160;deg / <b>10</b>&#160;s, <b>360 </b>deg / <b>2</b>&#160;min
+      </li>
+      <li>
+        standard rate turn anticipation: BA&#160;/<b>&#160;2</b>
+      </li>
+      <li>
+        standard rate turn radius: <b>1</b>% GS
+      </li>
+      <li>
+        attitude changes (pitch): <b>1</b>&#160;deg ~ <b>100</b>&#160;ft / min, <b>5</b>&#160;KIAS
+      </li>
+      <li>
+        power changes: <b>100</b>&#160;RPM ~ <b>100</b>&#160;ft / min, <b>5</b>&#160;KIAS
+      </li>
+      <li>
+        level anticipation: <b>10</b>%<b>&#160;</b>VS
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605393326510" ID="ID_1267873049" MODIFIED="1605393443609">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Questions
+    </p>
+    <ul>
+      <li>
+        What information do I need?
+      </li>
+      <li>
+        Which instruments gives me the needed information?
+      </li>
+      <li>
+        Is the information reliable?
+      </li>
+      <li>
+        <i>What performance is supposed to be constant? (monitor)</i>
+      </li>
+      <li>
+        <i>What performance is supposed to change? (verify tendency and rate)</i>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605393896279" ID="ID_775676310" MODIFIED="1605393901003" TEXT="Full Panel"/>
+<node CREATED="1605393904392" ID="ID_1078136424" MODIFIED="1605393908719" TEXT="Partial Panel"/>
+<node CREATED="1605394122398" ID="ID_1634063558" MODIFIED="1605394128143" TEXT="Unusual Attitudes"/>
+<node CREATED="1605394238546" ID="ID_150908940" MODIFIED="1605394244156" TEXT="Radio Aids to Navigation"/>
+</node>
+<node CREATED="1605394539331" FOLDED="true" ID="ID_1839844049" MODIFIED="1605396036547" TEXT="(25) Night Flying">
+<node CREATED="1605394916194" ID="ID_1550369175" MODIFIED="1605395535224">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      References
+    </p>
+    <ul>
+      <li>
+        <i>The Pilot's Guide to Medical Human Factors</i>
+      </li>
+      <li>
+        <i>Human Factors for Aviation - Basic Handbook (TP 12863)</i>
+      </li>
+      <li>
+        Human Factors for Aviation - Advanced Handbook <i>(TP 12864)</i>
+      </li>
+      <li>
+        <i>Human Factors for Aviation - Instructors Guide (TP 12865)</i>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1605396040690" FOLDED="true" ID="ID_330245864" MODIFIED="1605396236074" TEXT="(26) Seaplanes">
+<node CREATED="1605396051422" ID="ID_1382880946" MODIFIED="1605396102528">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      References
+    </p>
+    <ul>
+      <li>
+        <i>Instructor Guide - Seaplane Rating (TP 12668E)</i>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1605396239520" ID="ID_42288057" MODIFIED="1605396245448" TEXT="(27) Skiplanes"/>
+<node CREATED="1605396292792" ID="ID_1436689337" MODIFIED="1605396299079" TEXT="(28) Type Conversion"/>
+<node CREATED="1605396339608" ID="ID_587176521" MODIFIED="1605396346936" TEXT="(29) Emergency Procedures"/>
 </node>
 <node CREATED="1605296715096" ID="ID_1412980524" MODIFIED="1605296718293" TEXT="Lesson Plans"/>
 </node>
@@ -3467,7 +3669,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1601686500988" ID="ID_739673680" MODIFIED="1603839113381" POSITION="right" TEXT="Standards">
+<node CREATED="1601686500988" ID="ID_739673680" MODIFIED="1605395693787" POSITION="right" TEXT="Standards">
 <node CREATED="1602630518462" ID="ID_1213825687" MODIFIED="1602630533620">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5556,5 +5758,23 @@
 </node>
 </node>
 <node CREATED="1602706873438" ID="ID_161498626" MODIFIED="1602706879003" POSITION="right" TEXT="Flight Training Manual"/>
+<node CREATED="1605395593307" ID="ID_1446099046" MODIFIED="1605395679153" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      References
+    </p>
+    <ul>
+      <li>
+        <a href="https://tc.canada.ca/en/aviation/publications/air-publications-abstracts">Transport Canada publications</a>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </map>
