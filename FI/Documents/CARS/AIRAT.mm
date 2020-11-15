@@ -11,7 +11,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1601686463519" ID="ID_1382913323" MODIFIED="1605396427360" POSITION="right">
+<node CREATED="1601686463519" FOLDED="true" ID="ID_1382913323" MODIFIED="1605471447907" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,6 +22,7 @@
     </p>
   </body>
 </html></richcontent>
+<icon BUILTIN="button_ok"/>
 <node CREATED="1605042449922" FOLDED="true" ID="ID_823618308" MODIFIED="1605218972938">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -859,7 +860,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1605295457631" ID="ID_1660435857" MODIFIED="1605295478715">
+<node CREATED="1605295457631" FOLDED="true" ID="ID_1660435857" MODIFIED="1605468647545">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -870,7 +871,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1605296630365" FOLDED="true" ID="ID_1028656101" MODIFIED="1605396399998">
+<node CREATED="1605296630365" FOLDED="true" ID="ID_1028656101" MODIFIED="1605468645978">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -984,8 +985,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1605391526110" ID="ID_331110161" MODIFIED="1605391532602" TEXT="(23) Pilot Navigation"/>
@@ -1043,8 +1043,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605393326510" ID="ID_1267873049" MODIFIED="1605393443609">
 <richcontent TYPE="NODE"><html>
@@ -1073,8 +1072,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605393896279" ID="ID_775676310" MODIFIED="1605393901003" TEXT="Full Panel"/>
 <node CREATED="1605393904392" ID="ID_1078136424" MODIFIED="1605393908719" TEXT="Partial Panel"/>
@@ -1106,8 +1104,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1605396040690" FOLDED="true" ID="ID_330245864" MODIFIED="1605396236074" TEXT="(26) Seaplanes">
@@ -1126,8 +1123,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1605396239520" ID="ID_42288057" MODIFIED="1605396245448" TEXT="(27) Skiplanes"/>
@@ -3670,7 +3666,7 @@
 </node>
 </node>
 <node CREATED="1601686500988" ID="ID_739673680" MODIFIED="1605395693787" POSITION="right" TEXT="Standards">
-<node CREATED="1602630518462" ID="ID_1213825687" MODIFIED="1602630533620">
+<node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1605471430912">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5394,7 +5390,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603492154484" FOLDED="true" ID="ID_942732626" MODIFIED="1605041792367" TEXT="Division XVIII - Flight Instructor Rating - Aeroplane">
+<node CREATED="1603492154484" FOLDED="true" ID="ID_942732626" MODIFIED="1605470473944" TEXT="Division XVIII - Flight Instructor Rating - Aeroplane">
 <node CREATED="1604775141301" ID="ID_599426956" MODIFIED="1605041489365">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5436,7 +5432,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1604775200093" ID="ID_1121599993" MODIFIED="1605041539956">
+<node CREATED="1604775200093" ID="ID_1121599993" MODIFIED="1605469285787">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5463,7 +5459,7 @@
             <b>3</b>&#160;first solo recommendations
           </li>
           <li>
-            <b>3</b>&#160;passed flight test recommendations (<b>50</b>% of last <b>10</b>&#160;&#160;DL FI(A))
+            <b>3</b>&#160;passed flight test recommendations (<b>50</b>% of last <b>10</b>&#160;FI(A))
           </li>
           <li>
             <i>follow-up not eligible to upgrade</i>
@@ -5478,18 +5474,19 @@
       
     </p>
     <p>
-      <i>Class 3 FI can be obtained directly for DND / contracting foreign state </i>
+      <i>Class 3 FI(A) can be obtained directly for DND / contracting foreign state </i>
     </p>
     <p>
       <i>flight instructors if either <b>750</b>&#160;FI(A) or <b>300</b>&#160;FI(A) with <b>10</b>&#160;&#160;ground </i>
     </p>
     <p>
-      <i>instruction: <b>70</b>% AIRAF, flight test, C1 FI(A) recommendation</i>
+      <i>instruction: <b>70</b>% AIRAF, C1 FI(A) recommendation, flight test</i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1604775233979" ID="ID_166836411" MODIFIED="1604783899272">
+<node CREATED="1604775233979" ID="ID_166836411" MODIFIED="1605468937201">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5510,13 +5507,13 @@
 
         <ul>
           <li>
-            <b>500</b>&#160;FI(A) (<b>400</b>&#160;DL towards pilot licenses / mil wing standards)
+            <b>500</b>&#160;FI(A) (<b>400</b>&#160;towards pilot licenses / mil wing standards)
           </li>
           <li>
             <b>10</b>&#160;flight test recommendations (maximum <b>3</b>&#160;RPP)
           </li>
           <li>
-            <i>only <b>5</b>&#160;flight test recommendations or DND FI(A)</i>
+            <i>only <b>5</b>&#160;flight test recommendations for DND FI(A)</i>
           </li>
         </ul>
       </li>
@@ -5537,9 +5534,10 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1604775266286" ID="ID_978845594" MODIFIED="1604783886068">
+<node CREATED="1604775266286" ID="ID_978845594" MODIFIED="1605468990557">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5560,7 +5558,7 @@
 
         <ul>
           <li>
-            <b>750</b>&#160;FI(A) (<b>600</b>&#160;DL towards pilot licenses / mil wing standards)
+            <b>750</b>&#160;FI(A) (<b>600</b>&#160;towards pilot licenses / mil wing standards)
           </li>
           <li>
             <b>10</b>&#160;flight test recommendations (maximum <b>3</b>&#160;RPP)
@@ -5584,10 +5582,11 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
-<node CREATED="1603492179921" ID="ID_1830581932" MODIFIED="1603492207378" TEXT="Division XIX - Flight Instructor Rating - Helicopter">
+<node CREATED="1603492179921" FOLDED="true" ID="ID_1830581932" MODIFIED="1605470470875" TEXT="Division XIX - Flight Instructor Rating - Helicopter">
 <node CREATED="1604792223570" ID="ID_1139881581" MODIFIED="1605041673543">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5617,7 +5616,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1604792271433" ID="ID_1963140673" MODIFIED="1605041779735">
+<node CREATED="1604792271433" ID="ID_1963140673" MODIFIED="1605469739347">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5631,33 +5630,231 @@
         prerequisites: C4 FI(H)
       </li>
       <li>
-        knowledge
+        knowledge: letter of recommendation by C1 FI(H)
       </li>
       <li>
-        experience
+        experience: <b>100</b>&#160;FI(H)
       </li>
       <li>
-        skill
+        skill:
+
+        <ul>
+          <li>
+            <b>3</b>&#160;first solo recommendations
+          </li>
+          <li>
+            <b>3</b>&#160;passed flight test recommendations (<b>50</b>% of last <b>10</b>&#160;FI(A))
+          </li>
+          <li>
+            <i>follow-up not eligible to upgrade</i>
+          </li>
+        </ul>
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      <i>Class 3 FI(H) can be obtained directly for DND / contracting foreign state </i>
+    </p>
+    <p>
+      <i>flight instructors if either <b>750</b>&#160;FI(H) or <b>300</b>&#160;FI(A) with <b>10</b>&#160;ground </i>
+    </p>
+    <p>
+      <i>instruction: <b>70</b>% HIRAF, FIREN, C1 FI(H) recommendation, flight test</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1604792299669" ID="ID_1902993465" MODIFIED="1605470150358">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Class 2 - Helicopter - Requirements (421.79)
+    </p>
+    <ul>
+      <li>
+        prerequisites: within <b>12</b>&#160;months preceding application C3 FI(H)
+      </li>
+      <li>
+        knowledge: within <b>12</b>&#160;months preceding application <b>70</b>% HIRAT
+      </li>
+      <li>
+        experience:
+
+        <ul>
+          <li>
+            <b>500</b>&#160;FI(H) (<b>400</b>&#160;towards pilot licenses / mil wing standards)
+          </li>
+          <li>
+            <b>10</b>&#160;flight test recommendations PPL(H) or CPL(H)
+          </li>
+        </ul>
+      </li>
+      <li>
+        skill:
+
+        <ul>
+          <li>
+            flight test
+          </li>
+          <li>
+            <i>follow-up not eligible to upgrade</i>
+          </li>
+        </ul>
       </li>
       <li>
         credits
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1604792299669" ID="ID_1902993465" MODIFIED="1604792305879" TEXT="Class 2 - Helicopter - Requirements (421.79)"/>
-<node CREATED="1604792322959" ID="ID_616672244" MODIFIED="1604792333769" TEXT="Class 1 - Helicopter - Requirements (421.80)"/>
+<node CREATED="1604792322959" ID="ID_616672244" MODIFIED="1605470448031">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Class 1 - Helicopter - Requirements (421.80)
+    </p>
+    <ul>
+      <li>
+        prerequisites: within <b>12</b>&#160;months preceding application C2 FI(H)
+      </li>
+      <li>
+        knowledge: within <b>12</b>&#160;months preceding application <b>80</b>% HIRAT
+      </li>
+      <li>
+        experience:
+
+        <ul>
+          <li>
+            <b>750</b>&#160;FI(H) (<b>600</b>&#160;towards pilot licenses / mil wing standards)
+          </li>
+          <li>
+            <b>10</b>&#160;flight test recommendations PPL(H) or CPL(H)
+          </li>
+        </ul>
+      </li>
+      <li>
+        skill:
+
+        <ul>
+          <li>
+            flight test
+          </li>
+          <li>
+            <i>follow-up or previous flight test failure not eligible to upgrade</i>
+          </li>
+        </ul>
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1603492212517" ID="ID_567285209" MODIFIED="1603492254134" TEXT="Division XX - Flight Instructor Ratings - Glider, Ballon and Gyroplane"/>
 <node CREATED="1603492265958" ID="ID_631115498" MODIFIED="1603492295813" TEXT="Division XXI - Flight Instructor Rating - Ultra-Light Aeroplane"/>
-<node CREATED="1603492301682" ID="ID_665327400" MODIFIED="1603492324235" TEXT="Division XXII - Flight Instructor Rating - Aeroplane Aerobatic"/>
+<node CREATED="1603492301682" FOLDED="true" ID="ID_665327400" MODIFIED="1605471425978" TEXT="Division XXII - Flight Instructor Rating - Aeroplane Aerobatic">
+<node CREATED="1605470575939" ID="ID_357011849" MODIFIED="1605470902350">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Class 2 Rating - Requirements (421.91)
+    </p>
+    <ul>
+      <li>
+        prerequisites: CPL(A) or ATPL(A), competency certification by C1 or C2 FI(AB)
+      </li>
+      <li>
+        knowledge: <b>15</b>&#160;hours ground school
+      </li>
+      <li>
+        experience: <b>10</b>&#160;DL FI(AB)
+      </li>
+      <li>
+        skill: flight test
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605470614949" ID="ID_196617038" MODIFIED="1605471420525">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Class 1 Rating - Requirements (421.92)
+    </p>
+    <ul>
+      <li>
+        prerequisites:
+
+        <ul>
+          <li>
+            within <b>12</b>&#160;months preceding application C2 FI(AB), <i>or</i>
+          </li>
+          <li>
+            within <b>12</b>&#160;months preceding application C1 FI, competency certification by C1 or C2 FI(AB)
+          </li>
+        </ul>
+      </li>
+      <li>
+        knowledge: <b>10</b>&#160;hours ground school, <b>80</b>% FITEN
+      </li>
+      <li>
+        experience:
+
+        <ul>
+          <li>
+            <b>50</b>&#160;FI(AB)
+          </li>
+          <li>
+            C1 FI, competency certification
+          </li>
+        </ul>
+      </li>
+      <li>
+        skill: flight test
+      </li>
+      <li>
+        credits
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node CREATED="1603492328593" ID="ID_1235250747" MODIFIED="1603492347628" TEXT="Division XXIII - Flight Instructor Rating - Glider Aerobatic"/>
 </node>
 <node CREATED="1602628822216" ID="ID_1481549891" MODIFIED="1602628834294" TEXT="Standard 425 - Flight Training"/>
 <node CREATED="1602628861361" ID="ID_1453884026" MODIFIED="1602628869957" TEXT="Standard 426 - Flight Training Units"/>
 <node CREATED="1602630467417" ID="ID_1985176486" MODIFIED="1602630479044" TEXT="Standard 428 - Conduct of Flight Tests"/>
-<node CREATED="1603147512804" FOLDED="true" ID="ID_79966893" MODIFIED="1605041909915">
+<node CREATED="1603147512804" FOLDED="true" ID="ID_79966893" MODIFIED="1605471506562">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5686,7 +5883,9 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1602348183541" ID="ID_1440743899" MODIFIED="1602348200585" TEXT="NavPath Slide Review"/>
+<node CREATED="1602348183541" ID="ID_1440743899" MODIFIED="1605471478652" TEXT="NavPath Slide Review">
+<icon BUILTIN="button_ok"/>
+</node>
 <node CREATED="1602628894783" ID="ID_618125190" MODIFIED="1602628910887" TEXT="Class 2 Flight Test Memo"/>
 <node CREATED="1602633541900" ID="ID_594574549" MODIFIED="1603491302759">
 <richcontent TYPE="NODE"><html>
@@ -5773,8 +5972,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </map>
