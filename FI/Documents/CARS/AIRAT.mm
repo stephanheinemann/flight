@@ -11,7 +11,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1601686463519" FOLDED="true" ID="ID_1382913323" MODIFIED="1605471447907" POSITION="right">
+<node CREATED="1601686463519" FOLDED="true" ID="ID_1382913323" MODIFIED="1605547875926" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1134,7 +1134,7 @@
 </node>
 </node>
 <node CREATED="1601686478539" ID="ID_446566040" MODIFIED="1603839857430" POSITION="left" TEXT="CARs">
-<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1604518081810" TEXT="Part IV - Personal Licensing and Training">
+<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1605560992457" TEXT="Part IV - Personal Licensing and Training">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1602707724103" FOLDED="true" ID="ID_1776012256" MODIFIED="1602883189346" TEXT="Division I - General">
 <node CREATED="1602707910811" ID="ID_1886031404" MODIFIED="1602707920723" TEXT="Interpretation (400.01)"/>
@@ -1235,8 +1235,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602355279925" ID="ID_1595026383" MODIFIED="1604517358804" TEXT="Flight Crew Permits, Licenses and Ratings (401)">
-<node CREATED="1602708590722" FOLDED="true" ID="ID_1160141317" MODIFIED="1604092248566" TEXT="Division I - General">
+<node CREATED="1602355279925" FOLDED="true" ID="ID_1595026383" MODIFIED="1605549670444" TEXT="Flight Crew Permits, Licenses and Ratings (401)">
+<node CREATED="1602708590722" FOLDED="true" ID="ID_1160141317" MODIFIED="1605549645699" TEXT="Division I - General">
 <node CREATED="1602709384041" ID="ID_751706782" MODIFIED="1602709424319">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1364,7 +1364,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602708627848" FOLDED="true" ID="ID_326761546" MODIFIED="1603839894649" TEXT="Division II - Testing">
+<node CREATED="1602708627848" FOLDED="true" ID="ID_326761546" MODIFIED="1605549374518" TEXT="Division II - Testing">
 <node CREATED="1602718619099" ID="ID_1553268553" MODIFIED="1602718625162" TEXT="Examination Prerequisites (401.13)"/>
 <node CREATED="1602718665641" ID="ID_1650594142" MODIFIED="1602718673187" TEXT="Flight Test Prerequisites (401.14)"/>
 <node CREATED="1602718825133" ID="ID_1519249816" MODIFIED="1602718934498">
@@ -1400,7 +1400,7 @@
 <node CREATED="1602719573422" ID="ID_120091614" MODIFIED="1602719599617" TEXT="Recreational - Aeroplanes - Privileges (401.22)"/>
 <node CREATED="1602719698689" ID="ID_528850096" MODIFIED="1602719722484" TEXT="Recreational - Helicopters - Privileges (401.23)"/>
 </node>
-<node CREATED="1602708693785" FOLDED="true" ID="ID_1273904181" MODIFIED="1602882257315" TEXT="Division V - Pilot License">
+<node CREATED="1602708693785" FOLDED="true" ID="ID_1273904181" MODIFIED="1605549655339" TEXT="Division V - Pilot License">
 <node CREATED="1602786427284" ID="ID_1536182149" MODIFIED="1602786440774" TEXT="Gliders - Privileges (401.24)"/>
 <node CREATED="1602786461836" ID="ID_442100314" MODIFIED="1602786475115" TEXT="Balloons - Privileges (401.25)"/>
 </node>
@@ -1452,14 +1452,14 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602708742023" FOLDED="true" ID="ID_444083766" MODIFIED="1602882271459" TEXT="Division VII - Commercial Pilot License">
+<node CREATED="1602708742023" FOLDED="true" ID="ID_444083766" MODIFIED="1605549379700" TEXT="Division VII - Commercial Pilot License">
 <node CREATED="1602787776112" ID="ID_945912719" MODIFIED="1602787804699" TEXT="Aeroplanes - Privileges and Requirements (401.30)"/>
 <node CREATED="1602788058211" ID="ID_204996080" MODIFIED="1602788076842" TEXT="Helicopters - Privileges and Requirements (401.31)"/>
 </node>
-<node CREATED="1602708770404" FOLDED="true" ID="ID_567889652" MODIFIED="1602882275172" TEXT="Division VII.1 - Multi-Crew Pilot License">
+<node CREATED="1602708770404" FOLDED="true" ID="ID_567889652" MODIFIED="1605549382558" TEXT="Division VII.1 - Multi-Crew Pilot License">
 <node CREATED="1602788662185" ID="ID_1815822224" MODIFIED="1602788674846" TEXT="Aeroplanes - Privileges (401.32)"/>
 </node>
-<node CREATED="1602708796580" FOLDED="true" ID="ID_1251944507" MODIFIED="1603142517616" TEXT="Division VIII - Airline Transport Pilot License">
+<node CREATED="1602708796580" FOLDED="true" ID="ID_1251944507" MODIFIED="1605549386199" TEXT="Division VIII - Airline Transport Pilot License">
 <node CREATED="1602788824420" ID="ID_669167188" MODIFIED="1602788837825" TEXT="Aeroplanes - Privileges (401.34)"/>
 <node CREATED="1602788930152" ID="ID_471561292" MODIFIED="1602788945148" TEXT="Helicopters - Privileges (401.35)"/>
 </node>
@@ -1515,7 +1515,7 @@
 <node CREATED="1602882024223" ID="ID_1411892631" MODIFIED="1602882029229" TEXT="Blanket and Individual Type Ratings (401.40)"/>
 <node CREATED="1602882067277" ID="ID_1033251754" MODIFIED="1602882073084" TEXT="Privileges (401.41)"/>
 </node>
-<node CREATED="1602708882590" FOLDED="true" ID="ID_1990947185" MODIFIED="1602883594937" TEXT="Division XII - Night Rating">
+<node CREATED="1602708882590" FOLDED="true" ID="ID_1990947185" MODIFIED="1605549394988" TEXT="Division XII - Night Rating">
 <node CREATED="1602882104908" ID="ID_1030916322" MODIFIED="1602883464484">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1538,7 +1538,7 @@
 </node>
 <node CREATED="1602882168243" ID="ID_1718818383" MODIFIED="1602882173698" TEXT="Privileges (401.43)"/>
 </node>
-<node CREATED="1602708906153" FOLDED="true" ID="ID_712814393" MODIFIED="1604517380786" TEXT="Division XIII - VFR OTT Rating">
+<node CREATED="1602708906153" FOLDED="true" ID="ID_712814393" MODIFIED="1605549662926" TEXT="Division XIII - VFR OTT Rating">
 <node CREATED="1602882222774" ID="ID_36918600" MODIFIED="1602883478126">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1561,7 +1561,7 @@
 </node>
 <node CREATED="1602882319405" ID="ID_1966278621" MODIFIED="1602882326669" TEXT="Privileges (401.45)"/>
 </node>
-<node CREATED="1602708926764" FOLDED="true" ID="ID_119526590" MODIFIED="1604517377120" TEXT="Division XIV - Instrument Rating">
+<node CREATED="1602708926764" FOLDED="true" ID="ID_119526590" MODIFIED="1605549406291" TEXT="Division XIV - Instrument Rating">
 <node CREATED="1602882390624" ID="ID_1548147665" MODIFIED="1602883500115">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1638,7 +1638,7 @@
 </node>
 <node CREATED="1602882678648" ID="ID_1788870779" MODIFIED="1602882686231" TEXT="Privileges (401.53)"/>
 </node>
-<node CREATED="1602708972053" FOLDED="true" ID="ID_311204254" MODIFIED="1603142503236" TEXT="Division XVI - Passenger-Carrying Rating - Ultra-Light Aeroplane">
+<node CREATED="1602708972053" FOLDED="true" ID="ID_311204254" MODIFIED="1605549411901" TEXT="Division XVI - Passenger-Carrying Rating - Ultra-Light Aeroplane">
 <node CREATED="1602882719511" ID="ID_627933120" MODIFIED="1602882724988" TEXT="Rating (401.55)"/>
 <node CREATED="1602882750250" ID="ID_1187894764" MODIFIED="1602882880140">
 <richcontent TYPE="NODE"><html>
@@ -1765,7 +1765,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602709080421" FOLDED="true" ID="ID_1527399858" MODIFIED="1603473644626" TEXT="Division XVIII - Flight Instructor Rating - Aeroplane">
+<node CREATED="1602709080421" FOLDED="true" ID="ID_1527399858" MODIFIED="1605549467731" TEXT="Division XVIII - Flight Instructor Rating - Aeroplane">
 <node CREATED="1602884425409" ID="ID_289891587" MODIFIED="1603142948014">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2323,7 +2323,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602709265493" FOLDED="true" ID="ID_1409475765" MODIFIED="1603145956315" TEXT="Division XXIII - Flight Instructor Rating - Glider - Aerobatic">
+<node CREATED="1602709265493" FOLDED="true" ID="ID_1409475765" MODIFIED="1605549667244" TEXT="Division XXIII - Flight Instructor Rating - Glider - Aerobatic">
 <node CREATED="1603145531092" ID="ID_58574928" MODIFIED="1603145635982">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2521,8 +2521,8 @@
 <node CREATED="1602707674470" ID="ID_47525395" MODIFIED="1602707679230" TEXT="Examination for Renewal of a Medical Certificate or for Permission to Continue to Exercise the Privileges of a Permit, Licence or Rating (404.18)"/>
 </node>
 </node>
-<node CREATED="1602355392724" FOLDED="true" ID="ID_1569390396" MODIFIED="1603148834729" TEXT="Flight Training (405)">
-<node CREATED="1602704540698" FOLDED="true" ID="ID_876992129" MODIFIED="1603148833227" TEXT="Division I - General">
+<node CREATED="1602355392724" FOLDED="true" ID="ID_1569390396" MODIFIED="1605560990690" TEXT="Flight Training (405)">
+<node CREATED="1602704540698" FOLDED="true" ID="ID_876992129" MODIFIED="1605549689973" TEXT="Division I - General">
 <node CREATED="1602704707212" ID="ID_1204145360" MODIFIED="1602704745407">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2545,13 +2545,13 @@
 </node>
 <node CREATED="1602704778787" ID="ID_984703567" MODIFIED="1602704784456" TEXT="Application (405.02)"/>
 </node>
-<node CREATED="1602704559902" FOLDED="true" ID="ID_1592458161" MODIFIED="1603148829654" TEXT="Division II - Flight Training Program">
+<node CREATED="1602704559902" FOLDED="true" ID="ID_1592458161" MODIFIED="1605549707890" TEXT="Division II - Flight Training Program">
 <node CREATED="1602704817295" ID="ID_151306106" MODIFIED="1602704822715" TEXT="Flight Training Program (405.11)"/>
 <node CREATED="1602704843498" ID="ID_1540303701" MODIFIED="1602704848638" TEXT="Flight Training Program Approval (405.12)"/>
 <node CREATED="1602704869682" ID="ID_1476239856" MODIFIED="1602704875720" TEXT="Flight Training Program Outline (405.13)"/>
 <node CREATED="1602704898378" ID="ID_353406188" MODIFIED="1602704903980" TEXT="Flight Training Program Requirements (405.14)"/>
 </node>
-<node CREATED="1602704620699" FOLDED="true" ID="ID_1789134644" MODIFIED="1603148821622" TEXT="Division III - Personell and Aircraft">
+<node CREATED="1602704620699" FOLDED="true" ID="ID_1789134644" MODIFIED="1605549706818" TEXT="Division III - Personell and Aircraft">
 <node CREATED="1602704955195" ID="ID_1805368868" MODIFIED="1602704981135">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2568,7 +2568,7 @@
 <node CREATED="1602705054530" ID="ID_479862282" MODIFIED="1602705060050" TEXT="Training Aircraft Requirements (405.23)"/>
 <node CREATED="1602705086091" ID="ID_1704860256" MODIFIED="1602705091647" TEXT="Flight Training at Aerodrome (405.24)"/>
 </node>
-<node CREATED="1602704655962" FOLDED="true" ID="ID_36180372" MODIFIED="1603148825945" TEXT="Division IV - Flight Traininig Operations">
+<node CREATED="1602704655962" FOLDED="true" ID="ID_36180372" MODIFIED="1605549705805" TEXT="Division IV - Flight Traininig Operations">
 <node CREATED="1602705118755" ID="ID_1893709437" MODIFIED="1602705124660" TEXT="Training Flight Briefings (405.31)"/>
 <node CREATED="1602705143513" ID="ID_1181151458" MODIFIED="1602705149311" TEXT="Authorization of Training Flight (405.32)"/>
 <node CREATED="1602705171676" ID="ID_1247108337" MODIFIED="1602705176615" TEXT="Pilot Training Record (405.33)"/>
@@ -3666,7 +3666,7 @@
 </node>
 </node>
 <node CREATED="1601686500988" ID="ID_739673680" MODIFIED="1605395693787" POSITION="right" TEXT="Standards">
-<node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1605471430912">
+<node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1605560984218">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4034,7 +4034,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491837371" FOLDED="true" ID="ID_412797028" MODIFIED="1604092035607" TEXT="Division IV - Pilot Permits">
+<node CREATED="1603491837371" FOLDED="true" ID="ID_412797028" MODIFIED="1605554416190" TEXT="Division IV - Pilot Permits">
 <node CREATED="1603919649532" ID="ID_614397863" MODIFIED="1604092005044">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4186,7 +4186,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491848549" FOLDED="true" ID="ID_922026930" MODIFIED="1604359967108" TEXT="Division V - Pilot Licence">
+<node CREATED="1603491848549" FOLDED="true" ID="ID_922026930" MODIFIED="1605554695586" TEXT="Division V - Pilot Licence">
 <node CREATED="1604090622721" ID="ID_1184240377" MODIFIED="1604091742157">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4303,7 +4303,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491881276" FOLDED="true" ID="ID_1870814399" MODIFIED="1604431672891" TEXT="Division VI - Private Pilot Licence">
+<node CREATED="1603491881276" FOLDED="true" ID="ID_1870814399" MODIFIED="1605549191784" TEXT="Division VI - Private Pilot Licence">
 <node CREATED="1603920607140" ID="ID_1385616112" MODIFIED="1604359953921">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4399,7 +4399,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491899955" FOLDED="true" ID="ID_1921926935" MODIFIED="1604775750803" TEXT="Division VII - Commercial Pilot Licence">
+<node CREATED="1603491899955" FOLDED="true" ID="ID_1921926935" MODIFIED="1605549250407" TEXT="Division VII - Commercial Pilot Licence">
 <node CREATED="1604105496779" ID="ID_112213341" MODIFIED="1604359916020">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5016,7 +5016,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603492054408" FOLDED="true" ID="ID_1386588732" MODIFIED="1604702384851" TEXT="Division XIV - Instrument Ratings">
+<node CREATED="1603492054408" FOLDED="true" ID="ID_1386588732" MODIFIED="1605554977125" TEXT="Division XIV - Instrument Ratings">
 <node CREATED="1604516650043" ID="ID_1002594145" MODIFIED="1604551509702">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5483,8 +5483,7 @@
       <i>instruction: <b>70</b>% AIRAF, C1 FI(A) recommendation, flight test</i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1604775233979" ID="ID_166836411" MODIFIED="1605468937201">
 <richcontent TYPE="NODE"><html>
@@ -5534,8 +5533,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1604775266286" ID="ID_978845594" MODIFIED="1605468990557">
 <richcontent TYPE="NODE"><html>
@@ -5582,8 +5580,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1603492179921" FOLDED="true" ID="ID_1830581932" MODIFIED="1605470470875" TEXT="Division XIX - Flight Instructor Rating - Helicopter">
@@ -5667,8 +5664,7 @@
       <i>instruction: <b>70</b>% HIRAF, FIREN, C1 FI(H) recommendation, flight test</i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1604792299669" ID="ID_1902993465" MODIFIED="1605470150358">
 <richcontent TYPE="NODE"><html>
@@ -5715,8 +5711,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1604792322959" ID="ID_616672244" MODIFIED="1605470448031">
 <richcontent TYPE="NODE"><html>
@@ -5763,13 +5758,12 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1603492212517" ID="ID_567285209" MODIFIED="1603492254134" TEXT="Division XX - Flight Instructor Ratings - Glider, Ballon and Gyroplane"/>
 <node CREATED="1603492265958" ID="ID_631115498" MODIFIED="1603492295813" TEXT="Division XXI - Flight Instructor Rating - Ultra-Light Aeroplane"/>
-<node CREATED="1603492301682" FOLDED="true" ID="ID_665327400" MODIFIED="1605471425978" TEXT="Division XXII - Flight Instructor Rating - Aeroplane Aerobatic">
+<node CREATED="1603492301682" FOLDED="true" ID="ID_665327400" MODIFIED="1605549273992" TEXT="Division XXII - Flight Instructor Rating - Aeroplane Aerobatic">
 <node CREATED="1605470575939" ID="ID_357011849" MODIFIED="1605470902350">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5797,8 +5791,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605470614949" ID="ID_196617038" MODIFIED="1605471420525">
 <richcontent TYPE="NODE"><html>
@@ -5845,13 +5838,310 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1603492328593" ID="ID_1235250747" MODIFIED="1603492347628" TEXT="Division XXIII - Flight Instructor Rating - Glider Aerobatic"/>
 </node>
-<node CREATED="1602628822216" ID="ID_1481549891" MODIFIED="1602628834294" TEXT="Standard 425 - Flight Training"/>
+<node CREATED="1602628822216" FOLDED="true" ID="ID_1481549891" MODIFIED="1605560981370" TEXT="Standard 425 - Flight Training">
+<node CREATED="1605549483507" FOLDED="true" ID="ID_1730357707" MODIFIED="1605557799688" TEXT="Division II - Flight Training Program">
+<node CREATED="1605549509398" ID="ID_10633819" MODIFIED="1605549967681">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Flight Training Program Outline (425.13)
+    </p>
+    <ul>
+      <li>
+        provided to each trainee:
+      </li>
+      <li>
+        program name, program requirements
+      </li>
+      <li>
+        study and reference guide, flight test guide
+      </li>
+      <li>
+        minimum dual and solo training WX conditions
+      </li>
+      <li>
+        required fuel reserves and practice areas
+      </li>
+      <li>
+        defect reporting and aircraft securing
+      </li>
+      <li>
+        forced landing procedures and safety considerations
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1605549535993" FOLDED="true" ID="ID_555171141" MODIFIED="1605560975594" TEXT="Division III - Personnell and Aircraft">
+<node CREATED="1605549562337" ID="ID_1637892285" MODIFIED="1605557626386">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Qualifications of Flight Instructors (425.21)
+    </p>
+    <ul>
+      <li>
+        training towards PP or PL
+
+        <ul>
+          <li>
+            FI(A) with&#160;<b>50</b>&#160;OC, <i>or</i>
+          </li>
+          <li>
+            FI(H) with <b>10</b>&#160;OT
+          </li>
+        </ul>
+      </li>
+      <li>
+        training towards CPL with integrated course
+
+        <ul>
+          <li>
+            FI(A) with&#160;<b>500</b>&#160;TT(A)&#160;&#160;(<b>200</b>&#160;FI(A)) or ATPL(A)
+          </li>
+          <li>
+            FI(H)
+          </li>
+        </ul>
+      </li>
+      <li>
+        training towards seaplane / aerial work with integrated course
+
+        <ul>
+          <li>
+            CFI authorization and FTO manual requirements
+          </li>
+        </ul>
+      </li>
+      <li>
+        training towards MCC
+
+        <ul>
+          <li>
+            multi-crew aircraft qualification (type rating)
+          </li>
+          <li>
+            human factors and CRM proficiency / recency
+          </li>
+        </ul>
+      </li>
+      <li>
+        training towards night rating
+
+        <ul>
+          <li>
+            FI(A) / FI(H)
+          </li>
+        </ul>
+      </li>
+      <li>
+        training towards MER
+
+        <ul>
+          <li>
+            CPL(A) or ATPL(A) with <b>50</b>&#160;OC (<b>10</b>&#160;OT)
+          </li>
+        </ul>
+      </li>
+      <li>
+        training towards land or seaplane class rating
+
+        <ul>
+          <li>
+            CPL(A) or ATPL(A) with <b>50</b>&#160;OC LAND / SEA
+          </li>
+        </ul>
+      </li>
+      <li>
+        training towards individual type rating
+
+        <ul>
+          <li>
+            CPL(A) or ATPL(A) with <b>50</b>&#160;OC (<b>10</b>&#160;OT), <i>or</i>
+          </li>
+          <li>
+            CPL(H) or ATPL(H) with <b>10</b>&#160;OT, <i>or</i>
+          </li>
+          <li>
+            for PP(GY): TC authorization, <i>or</i>
+          </li>
+          <li>
+            for SPP(GY): FI(GY) with <b>50</b>&#160;GY (<b>10</b>&#160;OT), or FI(A) / FI(H) with TC authorization
+          </li>
+          <li>
+            for PL(BL), SPP(BL): FI(BL)
+          </li>
+        </ul>
+      </li>
+      <li>
+        training towards VOTT: FI(A) / FI(H)
+      </li>
+      <li>
+        training towards IR
+
+        <ul>
+          <li>
+            CPL(A) or ATPL(A) / CPL(H) or ATPL(H)
+          </li>
+          <li>
+            FI(A) / FI(H), <i>or</i>
+          </li>
+          <li>
+            <b>500</b>&#160;PIC (<b>100</b>&#160;OG (<b>10</b>&#160;OT G1))
+          </li>
+        </ul>
+      </li>
+      <li>
+        training of aerobatics: FI(A-A) / FI(GL-A)
+      </li>
+      <li>
+        ground school towards FI: FI(A) / FI(H) with TC authorization
+      </li>
+      <li>
+        flight training towards FI: C1 FI(A) / C1 FI(H)
+      </li>
+      <li>
+        training towards FI(A-A): C1 FI(A-A)
+      </li>
+      <li>
+        training towards FI(GL): FI(GL)
+      </li>
+      <li>
+        training towards FI(GL-A): FI(GL-A)
+      </li>
+      <li>
+        training towards FI(BL): FI(BL)
+      </li>
+      <li>
+        training towards FI(GY): FI(GY)
+      </li>
+      <li>
+        training towards FI(UL): FI(UL) <i>or</i>&#160;FI(A)
+      </li>
+      <li>
+        training using FTD / SIM: FI as applicable and operational instruction
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605549592073" ID="ID_1955571404" MODIFIED="1605560548775">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Training Aircraft Requirements (425.23)
+    </p>
+    <ul>
+      <li>
+        training aircraft
+
+        <ul>
+          <li>
+            according to 605 DVFR, NVFR, IFR, VMC, IMC
+          </li>
+          <li>
+            turn and slip indicator, <i>or</i>&#160;turn coordinator
+          </li>
+        </ul>
+      </li>
+      <li>
+        dual training aircraft
+
+        <ul>
+          <li>
+            two seats
+          </li>
+          <li>
+            flight and power controls easily accessible from both seats (ultralight exempt if student received sufficient ground instruction)
+          </li>
+          <li>
+            helicopter requires intercom
+          </li>
+        </ul>
+      </li>
+      <li>
+        PPL, CPL training aircraft
+
+        <ul>
+          <li>
+            equipment according to applicable flight test standards
+          </li>
+        </ul>
+      </li>
+      <li>
+        VOTT training aircraft
+
+        <ul>
+          <li>
+            according to 605 VOTT
+          </li>
+          <li>
+            ADF, VOR, <i>or</i>&#160;GNSS
+          </li>
+        </ul>
+      </li>
+      <li>
+        NVFR training aircraft
+
+        <ul>
+          <li>
+            according to 605 NVFR
+          </li>
+        </ul>
+      </li>
+      <li>
+        IFR training aircraft
+
+        <ul>
+          <li>
+            according to 605 IFR
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1605557733782" FOLDED="true" ID="ID_1165147552" MODIFIED="1605560978118" TEXT="Division IV - Flight Training Operations">
+<node CREATED="1605557758727" ID="ID_214356910" MODIFIED="1605560964021">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Pilot Training Record (425.33)
+    </p>
+    <ul>
+      <li>
+        according to applicable forms (aeroplane and helicopter)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
 <node CREATED="1602628861361" ID="ID_1453884026" MODIFIED="1602628869957" TEXT="Standard 426 - Flight Training Units"/>
 <node CREATED="1602630467417" ID="ID_1985176486" MODIFIED="1602630479044" TEXT="Standard 428 - Conduct of Flight Tests"/>
 <node CREATED="1603147512804" FOLDED="true" ID="ID_79966893" MODIFIED="1605471506562">
@@ -5957,7 +6247,7 @@
 </node>
 </node>
 <node CREATED="1602706873438" ID="ID_161498626" MODIFIED="1602706879003" POSITION="right" TEXT="Flight Training Manual"/>
-<node CREATED="1605395593307" ID="ID_1446099046" MODIFIED="1605395679153" POSITION="left">
+<node CREATED="1605395593307" ID="ID_1446099046" MODIFIED="1605560905170" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5970,9 +6260,13 @@
       <li>
         <a href="https://tc.canada.ca/en/aviation/publications/air-publications-abstracts">Transport Canada publications</a>
       </li>
+      <li>
+        <a href="https://tc.canada.ca/sites/default/files/migrated/tp12862e.pdf">How to start a flight training unit? (TP 12862E)</a>
+      </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </map>
