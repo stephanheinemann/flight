@@ -2636,7 +2636,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1605575358439" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1605641928408" POSITION="left" TEXT="Practical Procedures">
 <node CREATED="1580232275260" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1598027700042">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3226,7 +3226,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1605574624099" ID="ID_1317914704" MODIFIED="1605575330002">
+<node CREATED="1605574624099" ID="ID_1317914704" MODIFIED="1605641920931">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3260,6 +3260,24 @@
           </li>
           <li>
             <i>Victoria Terminal, FHDP, <font color="#ff0000">5000</font>, <font color="#0000ff">Heading 060</font></i>
+          </li>
+        </ul>
+      </li>
+      <li>
+        callouts:
+
+        <ul>
+          <li>
+            CDI Navigation Source (GNSS, VOR, ADF)
+          </li>
+          <li>
+            AP Mode (mode awareness)
+          </li>
+          <li>
+            100' above minimum, minimum
+          </li>
+          <li>
+            continue, go-around
           </li>
         </ul>
       </li>
