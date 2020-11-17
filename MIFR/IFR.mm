@@ -1,7 +1,7 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1579633293459" ID="ID_637111351" MODIFIED="1579633300923" TEXT="IFR">
-<node CREATED="1579633398684" FOLDED="true" ID="ID_59338447" MODIFIED="1602286655400" POSITION="right" TEXT="General">
+<node CREATED="1579633398684" FOLDED="true" ID="ID_59338447" MODIFIED="1605575358348" POSITION="right" TEXT="General">
 <node CREATED="1579644863953" ID="ID_1122055925" MODIFIED="1579644877096" TEXT="Air Traffic Control (ATC) Clearance"/>
 <node CREATED="1579644898252" FOLDED="true" ID="ID_1705905435" MODIFIED="1600453688151">
 <richcontent TYPE="NODE"><html>
@@ -177,7 +177,7 @@
 </node>
 <node CREATED="1579645689253" ID="ID_80744334" MODIFIED="1579645696519" TEXT="Development of Instrument Procedures"/>
 </node>
-<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1602286655421" POSITION="left" TEXT="Departure Procedures">
+<node CREATED="1579633414558" FOLDED="true" ID="ID_654204230" MODIFIED="1605575358358" POSITION="left" TEXT="Departure Procedures">
 <node CREATED="1579645753810" ID="ID_1034102258" MODIFIED="1579645765446" TEXT="Aerodrome Operations"/>
 <node CREATED="1579645777165" ID="ID_948846528" MODIFIED="1579645790319" TEXT="Automatic Terminal Information System (ATIS) Broadcast"/>
 <node CREATED="1579645820876" ID="ID_1542868492" MODIFIED="1579645824944" TEXT="Initial Contact"/>
@@ -720,7 +720,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1602286655429" POSITION="right" TEXT="En Route Procedures">
+<node CREATED="1579633433848" FOLDED="true" ID="ID_1247278460" MODIFIED="1605575358362" POSITION="right" TEXT="En Route Procedures">
 <node CREATED="1579811215993" ID="ID_1170940779" MODIFIED="1579811219032" TEXT="Position Reports"/>
 <node CREATED="1579811805490" ID="ID_1221424960" MODIFIED="1581708542639">
 <richcontent TYPE="NODE"><html>
@@ -878,7 +878,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1602286655474" POSITION="left" TEXT="Arrival Procedures">
+<node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1605575358396" POSITION="left" TEXT="Arrival Procedures">
 <node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
 <node CREATED="1579902101136" ID="ID_1440343756" MODIFIED="1601921770931" TEXT="STAR, MSA, and TAA">
 <node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1581704144363">
@@ -2318,7 +2318,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579633476953" FOLDED="true" ID="ID_66824391" MODIFIED="1603149447283" POSITION="right" TEXT="Holding Procedures">
+<node CREATED="1579633476953" FOLDED="true" ID="ID_66824391" MODIFIED="1605575358405" POSITION="right" TEXT="Holding Procedures">
 <node CREATED="1581698162634" ID="ID_1555241956" MODIFIED="1581699112664">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2636,7 +2636,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1602286799532" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1605575358439" POSITION="left" TEXT="Practical Procedures">
 <node CREATED="1580232275260" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1598027700042">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3226,8 +3226,50 @@
 </html></richcontent>
 </node>
 </node>
+<node CREATED="1605574624099" ID="ID_1317914704" MODIFIED="1605575330002">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Communications
+    </p>
+    <ul>
+      <li>
+        state both <b><font color="#0000ff">lateral</font></b>&#160;and <b><font color="#ff0000">vertical</font></b>&#160;clearances during handovers
+      </li>
+      <li>
+        departure:
+
+        <ul>
+          <li>
+            <i>Victoria Departure, FHDP, <font color="#ff0000">Passing 1000</font>, <font color="#ff0000">Climbing&#160;3000</font>, <font color="#0000ff">Victoria Five Departure</font></i>
+          </li>
+        </ul>
+      </li>
+      <li>
+        enroute:
+
+        <ul>
+          <li>
+            <i>Victoria Terminal, FHDP, <font color="#ff0000">5000</font>,<font color="#0000ff">&#160;Direct HUH</font></i>
+          </li>
+          <li>
+            <i>Victoria Terminal, FHDP, <font color="#ff0000">5000</font>, <font color="#0000ff">V495</font></i>
+          </li>
+          <li>
+            <i>Victoria Terminal, FHDP, <font color="#ff0000">5000</font>, <font color="#0000ff">Heading 060</font></i>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1602286655514" POSITION="right">
+</node>
+<node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1605575358444" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3554,7 +3596,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1602286632758" FOLDED="true" ID="ID_1597719984" MODIFIED="1602286661743" POSITION="left" TEXT="Career">
+<node CREATED="1602286632758" FOLDED="true" ID="ID_1597719984" MODIFIED="1605575358446" POSITION="left" TEXT="Career">
 <node CREATED="1580500672430" ID="ID_393965596" MODIFIED="1600801288123">
 <richcontent TYPE="NODE"><html>
   <head>
