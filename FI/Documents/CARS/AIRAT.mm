@@ -11,7 +11,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1601686463519" FOLDED="true" ID="ID_1382913323" MODIFIED="1605547875926" POSITION="right">
+<node CREATED="1601686463519" FOLDED="true" ID="ID_1382913323" MODIFIED="1605571137529" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -860,7 +860,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1605295457631" FOLDED="true" ID="ID_1660435857" MODIFIED="1605468647545">
+<node CREATED="1605295457631" FOLDED="true" ID="ID_1660435857" MODIFIED="1605571112999">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -871,7 +871,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1605296630365" FOLDED="true" ID="ID_1028656101" MODIFIED="1605468645978">
+<node CREATED="1605296630365" FOLDED="true" ID="ID_1028656101" MODIFIED="1605571110484">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3666,7 +3666,7 @@
 </node>
 </node>
 <node CREATED="1601686500988" ID="ID_739673680" MODIFIED="1605395693787" POSITION="right" TEXT="Standards">
-<node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1605560984218">
+<node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1605569699847">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5843,7 +5843,7 @@
 </node>
 <node CREATED="1603492328593" ID="ID_1235250747" MODIFIED="1603492347628" TEXT="Division XXIII - Flight Instructor Rating - Glider Aerobatic"/>
 </node>
-<node CREATED="1602628822216" FOLDED="true" ID="ID_1481549891" MODIFIED="1605560981370" TEXT="Standard 425 - Flight Training">
+<node CREATED="1602628822216" FOLDED="true" ID="ID_1481549891" MODIFIED="1605569709861" TEXT="Standard 425 - Flight Training">
 <node CREATED="1605549483507" FOLDED="true" ID="ID_1730357707" MODIFIED="1605557799688" TEXT="Division II - Flight Training Program">
 <node CREATED="1605549509398" ID="ID_10633819" MODIFIED="1605549967681">
 <richcontent TYPE="NODE"><html>
@@ -5878,11 +5878,10 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1605549535993" FOLDED="true" ID="ID_555171141" MODIFIED="1605560975594" TEXT="Division III - Personnell and Aircraft">
+<node CREATED="1605549535993" FOLDED="true" ID="ID_555171141" MODIFIED="1605569707877" TEXT="Division III - Personnel and Aircraft">
 <node CREATED="1605549562337" ID="ID_1637892285" MODIFIED="1605557626386">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6036,8 +6035,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605549592073" ID="ID_1955571404" MODIFIED="1605560548775">
 <richcontent TYPE="NODE"><html>
@@ -6117,8 +6115,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1605557733782" FOLDED="true" ID="ID_1165147552" MODIFIED="1605560978118" TEXT="Division IV - Flight Training Operations">
@@ -6137,12 +6134,73 @@
       </li>
     </ul>
   </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1602628861361" ID="ID_1453884026" MODIFIED="1602628869957" TEXT="Standard 426 - Flight Training Units">
+<node CREATED="1605569634981" ID="ID_1973493255" MODIFIED="1605569641071" TEXT="Division II - Certification">
+<node CREATED="1605569910529" ID="ID_1367492566" MODIFIED="1605569916425" TEXT="Issuance or Amendment of Flight Training Unit Operator Certificate (426.11)"/>
+<node CREATED="1605569954975" ID="ID_664549311" MODIFIED="1605569961319" TEXT="Quality Assurance Program (426.14)"/>
+</node>
+<node CREATED="1605569659576" ID="ID_1295374391" MODIFIED="1605569679550" TEXT="Division III - Personnel">
+<node CREATED="1605569980680" ID="ID_1789393673" MODIFIED="1605569986654" TEXT="Appointment of Chief Flight Instructor (426.21)"/>
+<node CREATED="1605570006316" ID="ID_75238117" MODIFIED="1605570012403" TEXT="Requirements for Chief Flight Instructor (426.22)"/>
+<node CREATED="1605570042346" ID="ID_1126520946" MODIFIED="1605570049770" TEXT="Requirements for Assistant Chief Flight Instructor (426.22.1)"/>
+<node CREATED="1605570069870" ID="ID_1006623841" MODIFIED="1605570077083" TEXT="Requirements for Check Instructor (426.22.3)"/>
+<node CREATED="1605570113860" ID="ID_1986633598" MODIFIED="1605570138971" TEXT="Requirements for Ground Instructor (426.24)"/>
+<node CREATED="1605570156441" ID="ID_1213795477" MODIFIED="1605570162872" TEXT="Instructor Records (426.25)"/>
+</node>
+<node CREATED="1605569730432" ID="ID_575830342" MODIFIED="1605569736091" TEXT="Division IV - Aircraft">
+<node CREATED="1605570196712" ID="ID_1071816993" MODIFIED="1605570219609" TEXT="Person Responsible for Maintenance Control System (426.36)"/>
+<node CREATED="1605570240011" ID="ID_175706038" MODIFIED="1605570247224" TEXT="Maintenance Personnel and Facilities (426.37)"/>
+<node CREATED="1605570265323" ID="ID_373804375" MODIFIED="1605570272241" TEXT="Maintenance Control Manual (426.38)"/>
+<node CREATED="1605570291816" ID="ID_1277261150" MODIFIED="1605570299909" TEXT="Maintenance Arrangements (426.39)"/>
+<node CREATED="1605570322699" ID="ID_1463278057" MODIFIED="1605570331947" TEXT="Defect Recording, Rectification and Control Procedures (426.40)"/>
+<node CREATED="1605570359696" ID="ID_486063432" MODIFIED="1605570366560" TEXT="Training Program (426.45)"/>
+<node CREATED="1605570389392" ID="ID_40104784" MODIFIED="1605570397049" TEXT="Maintenance Personnel Records (426.46)"/>
+<node CREATED="1605570423301" ID="ID_109771647" MODIFIED="1605570430996" TEXT="Quality Assurance Program (426.47)"/>
+</node>
+<node CREATED="1605569772160" ID="ID_1443779834" MODIFIED="1605569785624" TEXT="Division V - Flight Training Operations">
+<node CREATED="1605570453665" ID="ID_1616742048" MODIFIED="1605570459803" TEXT="Operational Control System (426.50)"/>
+<node CREATED="1605570489855" ID="ID_411886040" MODIFIED="1605570496757" TEXT="Facilities at Base of Operations (426.52)"/>
+<node CREATED="1605570521480" ID="ID_1472155284" MODIFIED="1605570529589" TEXT="Daily Flight Record (426.56)"/>
+<node CREATED="1605570561061" ID="ID_1094685000" MODIFIED="1605570581912" TEXT="Requirements for a Flight Training Operations Manual (426.61)"/>
+<node CREATED="1605570606986" ID="ID_1553214962" MODIFIED="1605570625789" TEXT="Training Manual (426.62)"/>
+<node CREATED="1605570667389" ID="ID_1770308407" MODIFIED="1605570683517" TEXT="Contents of Certificate of Enrolment (426.63)"/>
+<node CREATED="1605570748191" ID="ID_1993117329" MODIFIED="1605570758025" TEXT="Contents of Course Completion Certificate (426.64)"/>
+</node>
+<node CREATED="1605569827194" ID="ID_78060628" MODIFIED="1605571037977" TEXT="Division VIII - Integrated Course">
+<node CREATED="1605570788585" FOLDED="true" ID="ID_1470550405" MODIFIED="1605571040001">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Requirements (426.75)
+    </p>
+    <ul>
+      <li>
+        CPL(A)
+      </li>
+      <li>
+        CPL(A)/IR
+      </li>
+      <li>
+        ATPL(A)
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
+<node CREATED="1605571009349" ID="ID_302681027" MODIFIED="1605571015801" TEXT="CPL(A)"/>
+<node CREATED="1605571018670" ID="ID_486450148" MODIFIED="1605571024207" TEXT="CPL(A)/IR"/>
+<node CREATED="1605571027741" ID="ID_163154053" MODIFIED="1605571032650" TEXT="ATPL(A)"/>
+</node>
+<node CREATED="1605570836750" ID="ID_134659713" MODIFIED="1605570844633" TEXT="Equivalency (426.76)"/>
 </node>
 </node>
-</node>
-<node CREATED="1602628861361" ID="ID_1453884026" MODIFIED="1602628869957" TEXT="Standard 426 - Flight Training Units"/>
 <node CREATED="1602630467417" ID="ID_1985176486" MODIFIED="1602630479044" TEXT="Standard 428 - Conduct of Flight Tests"/>
 <node CREATED="1603147512804" FOLDED="true" ID="ID_79966893" MODIFIED="1605471506562">
 <richcontent TYPE="NODE"><html>
@@ -6265,8 +6323,8 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
+<node CREATED="1605571179474" ID="ID_741532711" MODIFIED="1605571186980" POSITION="right" TEXT="Study and Reference Guides"/>
 </node>
 </map>
