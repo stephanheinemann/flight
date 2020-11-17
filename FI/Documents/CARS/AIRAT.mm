@@ -1134,12 +1134,12 @@
 </node>
 </node>
 <node CREATED="1601686478539" ID="ID_446566040" MODIFIED="1603839857430" POSITION="left" TEXT="CARs">
-<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1605560992457" TEXT="Part IV - Personal Licensing and Training">
+<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1605645506309" TEXT="Part IV - Personal Licensing and Training">
 <icon BUILTIN="button_ok"/>
-<node CREATED="1602707724103" FOLDED="true" ID="ID_1776012256" MODIFIED="1602883189346" TEXT="Division I - General">
+<node CREATED="1602707724103" FOLDED="true" ID="ID_1776012256" MODIFIED="1605645437232" TEXT="Division I - General">
 <node CREATED="1602707910811" ID="ID_1886031404" MODIFIED="1602707920723" TEXT="Interpretation (400.01)"/>
 </node>
-<node CREATED="1602707773941" FOLDED="true" ID="ID_517561237" MODIFIED="1603839871050" TEXT="Division II - Examinations">
+<node CREATED="1602707773941" FOLDED="true" ID="ID_517561237" MODIFIED="1605645458889" TEXT="Division II - Examinations">
 <node CREATED="1602707958711" ID="ID_1623188055" MODIFIED="1602707964658" TEXT="Examination Rules (400.02)"/>
 <node CREATED="1601927950343" ID="ID_500012379" MODIFIED="1601928484704">
 <richcontent TYPE="NODE"><html>
@@ -2574,7 +2574,7 @@
 <node CREATED="1602705171676" ID="ID_1247108337" MODIFIED="1602705176615" TEXT="Pilot Training Record (405.33)"/>
 </node>
 </node>
-<node CREATED="1602355414543" FOLDED="true" ID="ID_1039927574" MODIFIED="1603402353623" TEXT="Flight Training Units (406)">
+<node CREATED="1602355414543" FOLDED="true" ID="ID_1039927574" MODIFIED="1605645504600" TEXT="Flight Training Units (406)">
 <node CREATED="1602702307374" FOLDED="true" ID="ID_1591047712" MODIFIED="1602883256300">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3212,7 +3212,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602702513171" FOLDED="true" ID="ID_1843714321" MODIFIED="1603402054546">
+<node CREATED="1602702513171" FOLDED="true" ID="ID_1843714321" MODIFIED="1605645500560">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3346,7 +3346,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602702552628" FOLDED="true" ID="ID_578560252" MODIFIED="1603402052931" TEXT="Division VII - Training">
+<node CREATED="1602702552628" FOLDED="true" ID="ID_578560252" MODIFIED="1605645502938" TEXT="Division VII - Training">
 <node CREATED="1603400204462" ID="ID_671922655" MODIFIED="1603402000014">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3666,7 +3666,7 @@
 </node>
 </node>
 <node CREATED="1601686500988" ID="ID_739673680" MODIFIED="1605395693787" POSITION="right" TEXT="Standards">
-<node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1605569699847">
+<node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1605645637803">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4186,7 +4186,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491848549" FOLDED="true" ID="ID_922026930" MODIFIED="1605554695586" TEXT="Division V - Pilot Licence">
+<node CREATED="1603491848549" FOLDED="true" ID="ID_922026930" MODIFIED="1605645604730" TEXT="Division V - Pilot Licence">
 <node CREATED="1604090622721" ID="ID_1184240377" MODIFIED="1604091742157">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5016,7 +5016,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603492054408" FOLDED="true" ID="ID_1386588732" MODIFIED="1605554977125" TEXT="Division XIV - Instrument Ratings">
+<node CREATED="1603492054408" FOLDED="true" ID="ID_1386588732" MODIFIED="1605645608829" TEXT="Division XIV - Instrument Ratings">
 <node CREATED="1604516650043" ID="ID_1002594145" MODIFIED="1604551509702">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5172,7 +5172,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603492122039" FOLDED="true" ID="ID_410878373" MODIFIED="1604779734245" TEXT="Division XVII - Flight Instructor Ratings - Aeroplane and Helicopter">
+<node CREATED="1603492122039" FOLDED="true" ID="ID_410878373" MODIFIED="1605645636109" TEXT="Division XVII - Flight Instructor Ratings - Aeroplane and Helicopter">
 <node CREATED="1604702540023" ID="ID_1311027735" MODIFIED="1604707250012">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5390,7 +5390,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603492154484" FOLDED="true" ID="ID_942732626" MODIFIED="1605470473944" TEXT="Division XVIII - Flight Instructor Rating - Aeroplane">
+<node CREATED="1603492154484" FOLDED="true" ID="ID_942732626" MODIFIED="1605645615690" TEXT="Division XVIII - Flight Instructor Rating - Aeroplane">
 <node CREATED="1604775141301" ID="ID_599426956" MODIFIED="1605041489365">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6139,21 +6139,503 @@
 </node>
 </node>
 <node CREATED="1602628861361" ID="ID_1453884026" MODIFIED="1602628869957" TEXT="Standard 426 - Flight Training Units">
-<node CREATED="1605569634981" ID="ID_1973493255" MODIFIED="1605569641071" TEXT="Division II - Certification">
-<node CREATED="1605569910529" ID="ID_1367492566" MODIFIED="1605569916425" TEXT="Issuance or Amendment of Flight Training Unit Operator Certificate (426.11)"/>
-<node CREATED="1605569954975" ID="ID_664549311" MODIFIED="1605569961319" TEXT="Quality Assurance Program (426.14)"/>
+<node CREATED="1605569634981" FOLDED="true" ID="ID_1973493255" MODIFIED="1605643926965" TEXT="Division II - Certification">
+<node CREATED="1605569910529" ID="ID_1367492566" MODIFIED="1605643575490">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Issuance or Amendment of Flight Training Unit Operator Certificate (426.11)
+    </p>
+    <ul>
+      <li>
+        application package:
+
+        <ul>
+          <li>
+            state of intent, application form, base location and approval
+          </li>
+          <li>
+            owner, CFI, PRM
+          </li>
+          <li>
+            aircraft, type of flight training, solo cross country routes
+          </li>
+          <li>
+            flight training program, maintenance control system, liability insurance
+          </li>
+          <li>
+            integrated courses: flight training operations and training manual
+          </li>
+        </ul>
+      </li>
+      <li>
+        conditions:
+
+        <ul>
+          <li>
+            management organization
+          </li>
+          <li>
+            full-time: CFI, maintenance manager, flight and ground instructors
+          </li>
+          <li>
+            properly equipped aircraft and qualified crew
+          </li>
+          <li>
+            operational control system
+          </li>
+          <li>
+            training program
+          </li>
+          <li>
+            legal custody of at least one aircraft
+          </li>
+          <li>
+            integrated courses: legal custody of at least one aircraft per class
+          </li>
+          <li>
+            integrated courses: flight training operations and training manual
+          </li>
+        </ul>
+      </li>
+      <li>
+        satellite base application package:
+
+        <ul>
+          <li>
+            satellite base location and approval
+          </li>
+          <li>
+            person responsible for flight training
+          </li>
+          <li>
+            aircraft, type of flight training, solo cross country routes
+          </li>
+          <li>
+            flight training program, maintenance arrangements
+          </li>
+          <li>
+            period of operation
+          </li>
+          <li>
+            CFI responsibility statement
+          </li>
+        </ul>
+      </li>
+      <li>
+        sub-base application package
+
+        <ul>
+          <li>
+            application form, sub-base location and approval
+          </li>
+          <li>
+            ACFI, PRM
+          </li>
+          <li>
+            aircraft, type of flight training, solo cross country routes
+          </li>
+          <li>
+            flight training program, maintenance control system, liability insurance
+          </li>
+          <li>
+            flight training operations manual
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1605569659576" ID="ID_1295374391" MODIFIED="1605569679550" TEXT="Division III - Personnel">
-<node CREATED="1605569980680" ID="ID_1789393673" MODIFIED="1605569986654" TEXT="Appointment of Chief Flight Instructor (426.21)"/>
-<node CREATED="1605570006316" ID="ID_75238117" MODIFIED="1605570012403" TEXT="Requirements for Chief Flight Instructor (426.22)"/>
-<node CREATED="1605570042346" ID="ID_1126520946" MODIFIED="1605570049770" TEXT="Requirements for Assistant Chief Flight Instructor (426.22.1)"/>
-<node CREATED="1605570069870" ID="ID_1006623841" MODIFIED="1605570077083" TEXT="Requirements for Check Instructor (426.22.3)"/>
-<node CREATED="1605570113860" ID="ID_1986633598" MODIFIED="1605570138971" TEXT="Requirements for Ground Instructor (426.24)"/>
-<node CREATED="1605570156441" ID="ID_1213795477" MODIFIED="1605570162872" TEXT="Instructor Records (426.25)"/>
+<node CREATED="1605569954975" ID="ID_664549311" MODIFIED="1605643846267">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Quality Assurance Program (426.14)
+    </p>
+    <ul>
+      <li>
+        initial audit
+      </li>
+      <li>
+        <b>12</b>&#160;months recurrent audit
+      </li>
+      <li>
+        records of internal findings and actions
+      </li>
+      <li>
+        audit finding communication procedures
+      </li>
+      <li>
+        follow-up procedures
+      </li>
+      <li>
+        record keeping system (audits, findings, actions, follow-ups)
+      </li>
+      <li>
+        records to be kept for <b>2</b>&#160;audit cycles
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1605569659576" FOLDED="true" ID="ID_1295374391" MODIFIED="1605649429160" TEXT="Division III - Personnel">
+<node CREATED="1605569980680" ID="ID_1789393673" MODIFIED="1605644216169">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Appointment of Chief Flight Instructor (426.21)
+    </p>
+    <ul>
+      <li>
+        up to <b>60</b>&#160;days without CFI <i>if</i>
+
+        <ul>
+          <li>
+            extenuating circumstances
+          </li>
+          <li>
+            functioning supervision and operational control
+          </li>
+          <li>
+            public interest and uncompromised safety
+          </li>
+        </ul>
+      </li>
+      <li>
+        up to <b>6</b>&#160;months with CFI without valid medical <i>if</i>
+
+        <ul>
+          <li>
+            remains full-time employee
+          </li>
+          <li>
+            performs all ground duties
+          </li>
+          <li>
+            delegates all air duties to qualified staff
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605570006316" ID="ID_75238117" MODIFIED="1605649388223">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Requirements for Chief Flight Instructor (426.22)
+    </p>
+    <ul>
+      <li>
+        qualifications:
+
+        <ul>
+          <li>
+            C1 or C2 FI for training category aircraft
+          </li>
+          <li>
+            C3 FI <i>if</i>&#160;sole flight instructor
+          </li>
+          <li>
+            FI <i>if</i>&#160;training towards BL, GL, GY, UL
+          </li>
+          <li>
+            qualified trainer <i>if</i>&#160;no FI required for authorized training
+          </li>
+        </ul>
+      </li>
+      <li>
+        responsibilities:
+
+        <ul>
+          <li>
+            operational control system (daily flight record)
+          </li>
+          <li>
+            overall pilot training
+          </li>
+          <li>
+            instructor supervision, direct and delegation of C4 supervision
+          </li>
+          <li>
+            ground instructors, content and quality of ground instruction
+          </li>
+          <li>
+            PTRs, course reports, ratings and license applications
+          </li>
+          <li>
+            flight instructor guide and training manual conformity
+          </li>
+          <li>
+            aviation and training publications availability
+          </li>
+          <li>
+            solo checkout procedures
+          </li>
+          <li>
+            flight safety decisions
+          </li>
+          <li>
+            ratings, licenses, medical validity of instructors (instructor records)
+          </li>
+          <li>
+            distribution of regulations and standards updates
+          </li>
+          <li>
+            dissemination of safety, occurrence, incident, accident repots
+          </li>
+          <li>
+            integrated courses: flight training operations and training manuals
+          </li>
+          <li>
+            TC liaison
+          </li>
+          <li>
+            delegation of duties to ACFI
+          </li>
+          <li>
+            plan of action for flight test records and follow-ups
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605570042346" ID="ID_1126520946" MODIFIED="1605648308124">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Requirements for Assistant Chief Flight Instructor (426.22.1)
+    </p>
+    <ul>
+      <li>
+        C1, C2, or C3 FI for training category aircraft without&#160;follow-up action
+      </li>
+      <li>
+        qualified trainer <i>if</i>&#160;no FI required for authorized training
+      </li>
+      <li>
+        duties as delegated by the CFI
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605570069870" ID="ID_1006623841" MODIFIED="1605648676788">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Requirements for Check Instructor (426.22.3)
+    </p>
+    <ul>
+      <li>
+        qualifications (integrated courses):
+
+        <ul>
+          <li>
+            C1 or C2 FI for training category aircraft without follow-up action
+          </li>
+        </ul>
+      </li>
+      <li>
+        responsibilities (integrated courses):
+
+        <ul>
+          <li>
+            reports to CFI or ACFI
+          </li>
+          <li>
+            progress checks according to flight training operations and training manuals (not own students or recommendations)
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605570113860" ID="ID_1986633598" MODIFIED="1605648812150">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Requirements for Ground Instructor (426.24)
+    </p>
+    <ul>
+      <li>
+        demonstrate aviation experience and competency to CFI, ACFI, or CI
+      </li>
+      <li>
+        briefed about duties and responsibilities by CFI, ACFI, or CI
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605570156441" ID="ID_1213795477" MODIFIED="1605649338205">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Instructor Records (426.25)
+    </p>
+    <ul>
+      <li>
+        ground instructors
+
+        <ul>
+          <li>
+            name
+          </li>
+          <li>
+            date of appointment
+          </li>
+          <li>
+            record of demonstrated competency briefing
+          </li>
+        </ul>
+      </li>
+      <li>
+        flight instructors
+
+        <ul>
+          <li>
+            name
+          </li>
+          <li>
+            permit, license number, ratings and endorsements
+          </li>
+          <li>
+            next medical exam
+          </li>
+          <li>
+            dates and outcome of any training, flight test, examination
+          </li>
+        </ul>
+      </li>
+      <li>
+        operational personnel
+
+        <ul>
+          <li>
+            name
+          </li>
+          <li>
+            permit, license number, ratings and endorsements
+          </li>
+          <li>
+            next medical exam
+          </li>
+          <li>
+            dates and outcome of any training, flight test, examination
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1605569730432" ID="ID_575830342" MODIFIED="1605569736091" TEXT="Division IV - Aircraft">
-<node CREATED="1605570196712" ID="ID_1071816993" MODIFIED="1605570219609" TEXT="Person Responsible for Maintenance Control System (426.36)"/>
-<node CREATED="1605570240011" ID="ID_175706038" MODIFIED="1605570247224" TEXT="Maintenance Personnel and Facilities (426.37)"/>
+<node CREATED="1605570196712" ID="ID_1071816993" MODIFIED="1605651056295">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Person Responsible for Maintenance Control System (426.36)
+    </p>
+    <ul>
+      <li>
+        PRM knowledge requirements (TC interview):
+
+        <ul>
+          <li>
+            duties and responsibilities
+          </li>
+          <li>
+            duties of functional assignees
+          </li>
+          <li>
+            responsibilities of FTU in relation to AMO
+          </li>
+          <li>
+            maintenance schedule reference data
+          </li>
+          <li>
+            fleet sampling, repetitive inspections, reliability program
+          </li>
+          <li>
+            mandatory maintenance control, defect control
+          </li>
+          <li>
+            technical dispatch, maintenance release, elementary work control
+          </li>
+          <li>
+            record keeping, quality assurance
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605570240011" ID="ID_175706038" MODIFIED="1605651049159">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Maintenance Personnel and Facilities (426.37)
+    </p>
+    <ul>
+      <li>
+        personnel requirements:
+      </li>
+      <li>
+        facility requirements:
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1605570265323" ID="ID_373804375" MODIFIED="1605570272241" TEXT="Maintenance Control Manual (426.38)"/>
 <node CREATED="1605570291816" ID="ID_1277261150" MODIFIED="1605570299909" TEXT="Maintenance Arrangements (426.39)"/>
 <node CREATED="1605570322699" ID="ID_1463278057" MODIFIED="1605570331947" TEXT="Defect Recording, Rectification and Control Procedures (426.40)"/>
@@ -6192,8 +6674,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1605571009349" ID="ID_302681027" MODIFIED="1605571015801" TEXT="CPL(A)"/>
 <node CREATED="1605571018670" ID="ID_486450148" MODIFIED="1605571024207" TEXT="CPL(A)/IR"/>
 <node CREATED="1605571027741" ID="ID_163154053" MODIFIED="1605571032650" TEXT="ATPL(A)"/>
@@ -6217,7 +6698,7 @@
 <node CREATED="1603147941679" ID="ID_1954081529" MODIFIED="1603147950423" TEXT="Appendix B - Maintenance Schedules"/>
 </node>
 </node>
-<node CREATED="1601687056181" ID="ID_1522117251" MODIFIED="1605041921722" POSITION="left" TEXT="Exam Preparation">
+<node CREATED="1601687056181" FOLDED="true" ID="ID_1522117251" MODIFIED="1605645687656" POSITION="left" TEXT="Exam Preparation">
 <node CREATED="1601687084749" ID="ID_230562098" MODIFIED="1601687089374" TEXT="Culhane"/>
 <node CREATED="1602348141673" ID="ID_623059859" MODIFIED="1602348212344">
 <richcontent TYPE="NODE"><html>
