@@ -1134,7 +1134,7 @@
 </node>
 </node>
 <node CREATED="1601686478539" ID="ID_446566040" MODIFIED="1603839857430" POSITION="left" TEXT="CARs">
-<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1605645506309" TEXT="Part IV - Personal Licensing and Training">
+<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1605651742926" TEXT="Part IV - Personal Licensing and Training">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1602707724103" FOLDED="true" ID="ID_1776012256" MODIFIED="1605645437232" TEXT="Division I - General">
 <node CREATED="1602707910811" ID="ID_1886031404" MODIFIED="1602707920723" TEXT="Interpretation (400.01)"/>
@@ -2574,7 +2574,7 @@
 <node CREATED="1602705171676" ID="ID_1247108337" MODIFIED="1602705176615" TEXT="Pilot Training Record (405.33)"/>
 </node>
 </node>
-<node CREATED="1602355414543" FOLDED="true" ID="ID_1039927574" MODIFIED="1605645504600" TEXT="Flight Training Units (406)">
+<node CREATED="1602355414543" FOLDED="true" ID="ID_1039927574" MODIFIED="1605651741422" TEXT="Flight Training Units (406)">
 <node CREATED="1602702307374" FOLDED="true" ID="ID_1591047712" MODIFIED="1602883256300">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2871,7 +2871,7 @@
 </node>
 <node CREATED="1602703637131" ID="ID_540748155" MODIFIED="1602703643748" TEXT="Aircraft Familiarization (406.26)"/>
 </node>
-<node CREATED="1602702429189" FOLDED="true" ID="ID_1089969837" MODIFIED="1603148781725" TEXT="Division IV - Aircraft">
+<node CREATED="1602702429189" FOLDED="true" ID="ID_1089969837" MODIFIED="1605651738231" TEXT="Division IV - Aircraft">
 <node CREATED="1602703670587" ID="ID_1922325367" MODIFIED="1602703677232" TEXT="Aircraft Registration Requirements (406.31)"/>
 <node CREATED="1602703712170" ID="ID_1285957680" MODIFIED="1602703719007" TEXT="Aircraft Flight Authority (406.32)"/>
 <node CREATED="1602703749259" ID="ID_1201108614" MODIFIED="1602703754841" TEXT="Safety Belt and Shoulder Harness Requirements (406.33)"/>
@@ -3066,7 +3066,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602702482555" FOLDED="true" ID="ID_1593431273" MODIFIED="1603149925167" TEXT="Division V - Flight Training Operations">
+<node CREATED="1602702482555" FOLDED="true" ID="ID_1593431273" MODIFIED="1605651739793" TEXT="Division V - Flight Training Operations">
 <node CREATED="1603148919119" ID="ID_231094577" MODIFIED="1603148932717">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6288,7 +6288,7 @@
 </richcontent>
 </node>
 </node>
-<node CREATED="1605569659576" FOLDED="true" ID="ID_1295374391" MODIFIED="1605649429160" TEXT="Division III - Personnel">
+<node CREATED="1605569659576" FOLDED="true" ID="ID_1295374391" MODIFIED="1605652392033" TEXT="Division III - Personnel">
 <node CREATED="1605569980680" ID="ID_1789393673" MODIFIED="1605644216169">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6569,7 +6569,7 @@
 </richcontent>
 </node>
 </node>
-<node CREATED="1605569730432" ID="ID_575830342" MODIFIED="1605569736091" TEXT="Division IV - Aircraft">
+<node CREATED="1605569730432" FOLDED="true" ID="ID_575830342" MODIFIED="1605657549577" TEXT="Division IV - Aircraft">
 <node CREATED="1605570196712" ID="ID_1071816993" MODIFIED="1605651056295">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6615,7 +6615,7 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1605570240011" ID="ID_175706038" MODIFIED="1605651049159">
+<node CREATED="1605570240011" ID="ID_175706038" MODIFIED="1605652182976">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6626,27 +6626,387 @@
     </p>
     <ul>
       <li>
-        personnel requirements:
+        personnel requirements (sufficient for):
+
+        <ul>
+          <li>
+            maintenance schedule establishment
+          </li>
+          <li>
+            maintenance and elementary work
+          </li>
+          <li>
+            AD compliance
+          </li>
+          <li>
+            quality assurance program
+          </li>
+          <li>
+            aircraft dispatch (parts, defect control, conformity, operating rules)
+          </li>
+          <li>
+            elementary work authorizations
+          </li>
+          <li>
+            AMO liaison
+          </li>
+          <li>
+            MCM development and currency
+          </li>
+        </ul>
       </li>
       <li>
         facility requirements:
+
+        <ul>
+          <li>
+            fixed address business location
+          </li>
+          <li>
+            communication facilities
+          </li>
+          <li>
+            maintenance boards, files or computer system
+          </li>
+          <li>
+            elementary work equipment and tools
+          </li>
+          <li>
+            supplies and spare parts
+          </li>
+          <li>
+            secure and dry storage for aircraft and records
+          </li>
+        </ul>
       </li>
     </ul>
   </body>
 </html>
 </richcontent>
 </node>
-<node CREATED="1605570265323" ID="ID_373804375" MODIFIED="1605570272241" TEXT="Maintenance Control Manual (426.38)"/>
-<node CREATED="1605570291816" ID="ID_1277261150" MODIFIED="1605570299909" TEXT="Maintenance Arrangements (426.39)"/>
-<node CREATED="1605570322699" ID="ID_1463278057" MODIFIED="1605570331947" TEXT="Defect Recording, Rectification and Control Procedures (426.40)"/>
-<node CREATED="1605570359696" ID="ID_486063432" MODIFIED="1605570366560" TEXT="Training Program (426.45)"/>
-<node CREATED="1605570389392" ID="ID_40104784" MODIFIED="1605570397049" TEXT="Maintenance Personnel Records (426.46)"/>
-<node CREATED="1605570423301" ID="ID_109771647" MODIFIED="1605570430996" TEXT="Quality Assurance Program (426.47)"/>
+<node CREATED="1605570265323" ID="ID_373804375" MODIFIED="1605653883632">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Maintenance Control Manual (426.38)
+    </p>
+    <ul>
+      <li>
+        table of contents
+      </li>
+      <li>
+        amendment control page (history), effective pages
+      </li>
+      <li>
+        FTU legal, trade names and address
+      </li>
+      <li>
+        main and satellite base locations
+      </li>
+      <li>
+        aircraft categories, classes, types, numbers
+      </li>
+      <li>
+        FTU MCM compliance statement
+      </li>
+      <li>
+        maintenance control functions (individuals / chart)
+      </li>
+      <li>
+        MCM amendment procedure
+      </li>
+      <li>
+        distribution system and subscribers
+      </li>
+      <li>
+        detailed procedures manuals, maintenance performance rules
+      </li>
+      <li>
+        technical records procedures
+      </li>
+      <li>
+        special maintenance procedures (versus manufacturer recommendations)
+      </li>
+      <li>
+        maintenance schedule, AD, defect resolution requirements
+      </li>
+      <li>
+        maintenance arrangements (external AMO)
+      </li>
+      <li>
+        elementary work maintenance requirements and training
+      </li>
+      <li>
+        weighing procedures (empty weight and balance)
+      </li>
+      <li>
+        technical dispatch, defect, service difficulty procedures
+      </li>
+      <li>
+        evaluation program
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605570291816" ID="ID_1277261150" MODIFIED="1605654223069">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Maintenance Arrangements (426.39)
+    </p>
+    <ul>
+      <li>
+        maintenance specification
+      </li>
+      <li>
+        applicable MCM parts, maintenance and records
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605570322699" ID="ID_1463278057" MODIFIED="1605654364261">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Defect Recording, Rectification and Control Procedures (426.40)
+    </p>
+    <ul>
+      <li>
+        highlight and easily identify recurring defects
+      </li>
+      <li>
+        review methodology of previous repairs
+      </li>
+      <li>
+        <b>3</b>&#160;failures within <b>15</b>&#160;flight segments
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605570359696" ID="ID_486063432" MODIFIED="1605654823063">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Training Program (426.45)
+    </p>
+    <ul>
+      <li>
+        regulations, standards, FTU procedures, human factors
+      </li>
+      <li>
+        training program contents:
+
+        <ul>
+          <li>
+            initial and update elementary work training
+          </li>
+          <li>
+            additional training following a finding
+          </li>
+          <li>
+            safety information distribution
+          </li>
+        </ul>
+      </li>
+      <li>
+        human factors training
+      </li>
+      <li>
+        handling of fuels and dangerous goods
+      </li>
+      <li>
+        initial training update cycle: maximum <b>3</b>&#160;years
+      </li>
+      <li>
+        training requirement may be met by AMO training program
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605570389392" ID="ID_40104784" MODIFIED="1605656684305">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Maintenance Personnel Records (426.46)
+    </p>
+    <ul>
+      <li>
+        assignments
+      </li>
+      <li>
+        qualifications
+      </li>
+      <li>
+        authorizations
+      </li>
+      <li>
+        trainings
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605570423301" ID="ID_109771647" MODIFIED="1605657533366">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Quality Assurance Program (426.47)
+    </p>
+    <ul>
+      <li>
+        periodic and unbiased verification of MCM procedures
+      </li>
+      <li>
+        regulations and MCM compliance assessment
+      </li>
+      <li>
+        progressive or segmented audits possible (within audit interval)
+      </li>
+      <li>
+        random audits while activities in progress
+      </li>
+      <li>
+        FTU internal or external QA personnel
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1605569772160" ID="ID_1443779834" MODIFIED="1605569785624" TEXT="Division V - Flight Training Operations">
-<node CREATED="1605570453665" ID="ID_1616742048" MODIFIED="1605570459803" TEXT="Operational Control System (426.50)"/>
-<node CREATED="1605570489855" ID="ID_411886040" MODIFIED="1605570496757" TEXT="Facilities at Base of Operations (426.52)"/>
-<node CREATED="1605570521480" ID="ID_1472155284" MODIFIED="1605570529589" TEXT="Daily Flight Record (426.56)"/>
+<node CREATED="1605570453665" ID="ID_1616742048" MODIFIED="1605658067884">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Operational Control System (426.50)
+    </p>
+    <ul>
+      <li>
+        flight following procedures and training
+      </li>
+      <li>
+        flight authorization and preparation
+      </li>
+      <li>
+        PIC deferred defect advisory (tags)
+      </li>
+      <li>
+        operational and procedural information dissemination
+      </li>
+      <li>
+        fuel and oil requirements, weight and balance system
+      </li>
+      <li>
+        accident or incident reporting system
+      </li>
+      <li>
+        missing or overdue procedures
+      </li>
+      <li>
+        checklists
+      </li>
+      <li>
+        maintenance discrepancy reporting
+      </li>
+      <li>
+        aircraft locations (main, satellite, sub-base)
+      </li>
+      <li>
+        aircraft mandatory ground communication equipment (dispatch)
+      </li>
+      <li>
+        flight follower on duty during training operations, PIC flight watch
+      </li>
+      <li>
+        daily flight records and conformity
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605570489855" ID="ID_411886040" MODIFIED="1605659383827">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Facilities at Base of Operations (426.52)
+    </p>
+    <ul>
+      <li>
+        FSS communication facilities (phone)
+      </li>
+      <li>
+        adequate classrooms, training aids
+      </li>
+      <li>
+        planning, briefing, de-briefing rooms / spaces
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1605570521480" ID="ID_1472155284" MODIFIED="1605659546520">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Daily Flight Record (426.56)
+    </p>
+    <ul>
+      <li>
+        date, aircraft registration, PIC, trainee
+      </li>
+      <li>
+        exercise / lesson plan
+      </li>
+      <li>
+        PIC and trainee authorization / acknowledgment
+      </li>
+      <li>
+        time up, down, air time, flight time
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1605570561061" ID="ID_1094685000" MODIFIED="1605570581912" TEXT="Requirements for a Flight Training Operations Manual (426.61)"/>
 <node CREATED="1605570606986" ID="ID_1553214962" MODIFIED="1605570625789" TEXT="Training Manual (426.62)"/>
 <node CREATED="1605570667389" ID="ID_1770308407" MODIFIED="1605570683517" TEXT="Contents of Certificate of Enrolment (426.63)"/>
