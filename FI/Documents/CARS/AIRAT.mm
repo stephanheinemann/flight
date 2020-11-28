@@ -3693,8 +3693,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1601686500988" FOLDED="true" ID="ID_739673680" MODIFIED="1606521896518" POSITION="right" TEXT="Standards">
-<node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1606521896515">
+<node CREATED="1601686500988" FOLDED="true" ID="ID_739673680" MODIFIED="1606602860977" POSITION="right" TEXT="Standards">
+<node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1606602853361">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3859,8 +3859,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491792578" FOLDED="true" ID="ID_598183191" MODIFIED="1606519946816" TEXT="Division II - Testing">
-<node CREATED="1603909834069" ID="ID_1522155184" MODIFIED="1606519941199">
+<node CREATED="1603491792578" FOLDED="true" ID="ID_598183191" MODIFIED="1606602860974" TEXT="Division II - Testing">
+<node CREATED="1603909834069" ID="ID_1522155184" MODIFIED="1606602814327">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3893,7 +3893,7 @@
 
         <ul>
           <li>
-            PP(GY), RPP(A), PPL: <b>10</b>&#160;hours or valid PP(UL)
+            PP(GY), RPP(A), PPL: ground school and <b>10</b>&#160;hours or valid PP(UL)
           </li>
           <li>
             C4 FI - AIRAF: ground school and <b>50</b>% training
@@ -3902,7 +3902,7 @@
             C1/2 FI - AIRAT: <b>50</b>% experience requirement
           </li>
           <li>
-            IR - INRAT: <b>20</b>&#160;hours instrument time
+            IR - INRAT: <b>20</b>&#160;hours (<b>50</b>%) instrument time
           </li>
           <li>
             ATPL(A) integrated: ground school and MIFR flight test
@@ -3914,7 +3914,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1603911301219" ID="ID_1686334328" MODIFIED="1606519344412">
@@ -4679,7 +4680,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491940358" FOLDED="true" ID="ID_481560815" MODIFIED="1605730052087" TEXT="Division IX - Flight Engineer Licence">
+<node CREATED="1603491940358" FOLDED="true" ID="ID_481560815" MODIFIED="1606602860975" TEXT="Division IX - Flight Engineer Licence">
 <node CREATED="1604430063908" ID="ID_46703484" MODIFIED="1605730050618">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4784,8 +4785,8 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1603491980063" FOLDED="true" ID="ID_1680839003" MODIFIED="1606347156523" TEXT="Division XI - Aircraft Type Ratings">
-<node CREATED="1604431751854" ID="ID_552563481" MODIFIED="1604515186969">
+<node CREATED="1603491980063" FOLDED="true" ID="ID_1680839003" MODIFIED="1606599402670" TEXT="Division XI - Aircraft Type Ratings">
+<node CREATED="1604431751854" ID="ID_552563481" MODIFIED="1606599271453">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4807,22 +4808,40 @@
 
             <ul>
               <li>
-                ground instruction, flight training
+                knowledge:
+
+                <ul>
+                  <li>
+                    ground instruction
+                  </li>
+                  <li>
+                    PPL(A), CPL(A): within <b>24 </b>months preceding application <b>70</b>% IATRA, <i>or</i>
+                  </li>
+                  <li>
+                    ATPL(A) applicant: within <b>24</b>&#160;months preceding application <b>70</b>% SAMRA, SARON, <i>or</i>
+                  </li>
+                  <li>
+                    ATPL(A) integrated: within <b>5</b>&#160;years preceding application <b>70</b>% SAMRA, SARON, or
+                  </li>
+                  <li>
+                    ATPL(A)
+                  </li>
+                </ul>
               </li>
               <li>
-                PPL(A), CPL(A): within <b>24 </b>months preceding application <b>70</b>% IATRA, <i>or</i>
-              </li>
-              <li>
-                ATPL(A) applicant: within <b>24</b>&#160;months preceding application <b>70</b>% SAMRA, SARON, <i>or</i>
-              </li>
-              <li>
-                ATPL(A)
-              </li>
-              <li>
-                <b>250</b>&#160;AER
-              </li>
-              <li>
-                within <b>12</b>&#160;months preceding application PPC / LOE
+                <b>&#160;</b>experience and skill:
+
+                <ul>
+                  <li>
+                    <b>250</b>&#160;AER
+                  </li>
+                  <li>
+                    flight training
+                  </li>
+                  <li>
+                    within <b>12</b>&#160;months preceding application PPC / LOE (AQP)
+                  </li>
+                </ul>
               </li>
             </ul>
           </li>
@@ -4831,22 +4850,37 @@
 
             <ul>
               <li>
-                ground instruction, flight training
+                knowledge:
+
+                <ul>
+                  <li>
+                    ground instruction
+                  </li>
+                  <li>
+                    CPL(A): within <b>24</b>&#160;months preceding application <b>70</b>% IATRA, <i>or</i>
+                  </li>
+                  <li>
+                    ATPL(A) applicant: within <b>24</b>&#160;months preceding application <b>70</b>% SAMRA, SARON, <i>or</i>
+                  </li>
+                  <li>
+                    ATPL(A)
+                  </li>
+                </ul>
               </li>
               <li>
-                CPL(A): within <b>24</b>&#160;months preceding application <b>70</b>% IATRA, <i>or</i>
-              </li>
-              <li>
-                ATPL(A) applicant: within <b>24</b>&#160;months preceding application <b>70</b>% SAMRA, SARON, <i>or</i>
-              </li>
-              <li>
-                ATPL(A)
-              </li>
-              <li>
-                <b>250</b>&#160;AER
-              </li>
-              <li>
-                within <b>12</b>&#160;months preceding application PPC
+                experience and skill:
+
+                <ul>
+                  <li>
+                    <b>250</b>&#160;AER
+                  </li>
+                  <li>
+                    flight training
+                  </li>
+                  <li>
+                    within <b>12</b>&#160;months preceding application PPC
+                  </li>
+                </ul>
               </li>
             </ul>
           </li>
@@ -4855,13 +4889,28 @@
 
             <ul>
               <li>
-                ground instruction, flight training
+                knowledge:
+
+                <ul>
+                  <li>
+                    ground instruction
+                  </li>
+                </ul>
               </li>
               <li>
-                <b>200</b>&#160;AER
-              </li>
-              <li>
-                within <b>12</b>&#160;months preceding application qualification flight
+                experience and skill:
+
+                <ul>
+                  <li>
+                    <b>200</b>&#160;AER
+                  </li>
+                  <li>
+                    flight training
+                  </li>
+                  <li>
+                    within <b>12</b>&#160;months preceding application qualification flight
+                  </li>
+                </ul>
               </li>
             </ul>
           </li>
@@ -4870,14 +4919,20 @@
 
             <ul>
               <li>
-                within <b>12</b>&#160;months preceding application
+                experience:
 
                 <ul>
                   <li>
-                    approved training program
+                    within <b>12</b>&#160;months preceding application approved training program
                   </li>
+                </ul>
+              </li>
+              <li>
+                skill:
+
+                <ul>
                   <li>
-                    aircraft proficiency check
+                    within <b>12</b>&#160;months preceding application aircraft proficiency check
                   </li>
                 </ul>
               </li>
@@ -4888,16 +4943,22 @@
 
             <ul>
               <li>
-                within <b>12</b>&#160;months preceding application
+                experience:
 
                 <ul>
                   <li>
-                    approved training program
+                    within <b>12</b>&#160;months preceding application approved training program
                   </li>
                 </ul>
               </li>
               <li>
-                aircraft proficiency check
+                skill:
+
+                <ul>
+                  <li>
+                    second officer proficiency check
+                  </li>
+                </ul>
               </li>
             </ul>
           </li>
@@ -5146,7 +5207,7 @@
 <icon BUILTIN="messagebox_warning"/>
 </node>
 </node>
-<node CREATED="1603492074311" FOLDED="true" ID="ID_784837027" MODIFIED="1605911015111">
+<node CREATED="1603492074311" FOLDED="true" ID="ID_784837027" MODIFIED="1606602860976">
 <richcontent TYPE="NODE"><html>
   <head>
     
