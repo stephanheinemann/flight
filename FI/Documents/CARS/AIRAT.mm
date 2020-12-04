@@ -3696,7 +3696,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1601686500988" FOLDED="true" ID="ID_739673680" MODIFIED="1606602860977" POSITION="right" TEXT="Standards">
+<node CREATED="1601686500988" ID="ID_739673680" MODIFIED="1606875714243" POSITION="right" TEXT="Standards">
 <node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1606602853361">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5952,7 +5952,7 @@
 </node>
 <node CREATED="1603492328593" ID="ID_1235250747" MODIFIED="1603492347628" TEXT="Division XXIII - Flight Instructor Rating - Glider Aerobatic"/>
 </node>
-<node CREATED="1602628822216" FOLDED="true" ID="ID_1481549891" MODIFIED="1605911163091" TEXT="Standard 425 - Flight Training">
+<node CREATED="1602628822216" ID="ID_1481549891" MODIFIED="1606875717688" TEXT="Standard 425 - Flight Training">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1605549483507" FOLDED="true" ID="ID_1730357707" MODIFIED="1605910528166" TEXT="Division II - Flight Training Program">
 <node CREATED="1605549509398" ID="ID_10633819" MODIFIED="1605549967681">
@@ -5991,8 +5991,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1605549535993" FOLDED="true" ID="ID_555171141" MODIFIED="1605911163091" TEXT="Division III - Personnel and Aircraft">
-<node CREATED="1605549562337" ID="ID_1637892285" MODIFIED="1605911131807">
+<node CREATED="1605549535993" ID="ID_555171141" MODIFIED="1606875720845" TEXT="Division III - Personnel and Aircraft">
+<node CREATED="1605549562337" ID="ID_1637892285" MODIFIED="1606876092258">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6019,7 +6019,7 @@
 
         <ul>
           <li>
-            FI(A) with&#160;<b>500</b>&#160;TT(A)&#160;&#160;(<b>200</b>&#160;FI(A)) or ATPL(A)
+            FI(A) with&#160;<b>500</b>&#160;TT(A)&#160;&#160;(<b>200</b>&#160;FI(A)) or ATPL(A))
           </li>
           <li>
             FI(H)
@@ -6145,7 +6145,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1605549592073" ID="ID_1955571404" MODIFIED="1605560548775">
 <richcontent TYPE="NODE"><html>
