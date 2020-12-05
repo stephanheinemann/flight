@@ -1138,8 +1138,8 @@
 <node CREATED="1605296715096" ID="ID_1412980524" MODIFIED="1605296718293" TEXT="Lesson Plans"/>
 </node>
 </node>
-<node CREATED="1601686478539" FOLDED="true" ID="ID_446566040" MODIFIED="1607134662219" POSITION="left" TEXT="CARs">
-<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1607134662218" TEXT="Part IV - Personal Licensing and Training">
+<node CREATED="1601686478539" FOLDED="true" ID="ID_446566040" MODIFIED="1607194104095" POSITION="left" TEXT="CARs">
+<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1607194104094" TEXT="Part IV - Personal Licensing and Training">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1602707724103" FOLDED="true" ID="ID_1776012256" MODIFIED="1605645437232" TEXT="Division I - General">
 <node CREATED="1602707910811" ID="ID_1886031404" MODIFIED="1602707920723" TEXT="Interpretation (400.01)"/>
@@ -2608,7 +2608,7 @@
 <node CREATED="1602705171676" ID="ID_1247108337" MODIFIED="1602705176615" TEXT="Pilot Training Record (405.33)"/>
 </node>
 </node>
-<node CREATED="1602355414543" FOLDED="true" ID="ID_1039927574" MODIFIED="1606335687390" TEXT="Flight Training Units (406)">
+<node CREATED="1602355414543" FOLDED="true" ID="ID_1039927574" MODIFIED="1607194104093" TEXT="Flight Training Units (406)">
 <node CREATED="1602702307374" FOLDED="true" ID="ID_1591047712" MODIFIED="1602883256300">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3100,7 +3100,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602702482555" FOLDED="true" ID="ID_1593431273" MODIFIED="1605651739793" TEXT="Division V - Flight Training Operations">
+<node CREATED="1602702482555" FOLDED="true" ID="ID_1593431273" MODIFIED="1607194098590" TEXT="Division V - Flight Training Operations">
 <node CREATED="1603148919119" ID="ID_231094577" MODIFIED="1603148932717">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3178,7 +3178,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1603149548967" ID="ID_1738860494" MODIFIED="1603149921972">
+<node CREATED="1603149548967" ID="ID_1738860494" MODIFIED="1607193933574">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3197,6 +3197,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 <node CREATED="1603149618696" ID="ID_802720619" MODIFIED="1603149681667">
 <richcontent TYPE="NODE"><html>
@@ -3219,7 +3220,7 @@
 </html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 </node>
-<node CREATED="1603149703005" ID="ID_620625598" MODIFIED="1603149884081">
+<node CREATED="1603149703005" ID="ID_620625598" MODIFIED="1607194093989">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3244,6 +3245,7 @@
     </ul>
   </body>
 </html></richcontent>
+<icon BUILTIN="help"/>
 </node>
 </node>
 <node CREATED="1602702513171" FOLDED="true" ID="ID_1843714321" MODIFIED="1605645500560">
@@ -3699,7 +3701,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1601686500988" FOLDED="true" ID="ID_739673680" MODIFIED="1607136782952" POSITION="right" TEXT="Standards">
+<node CREATED="1601686500988" FOLDED="true" ID="ID_739673680" MODIFIED="1607193770795" POSITION="right" TEXT="Standards">
 <node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1607136782951">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4227,8 +4229,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 </node>
@@ -5164,8 +5165,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1604551525988" ID="ID_1691454412" MODIFIED="1607134643225">
@@ -6260,9 +6260,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1602628861361" FOLDED="true" ID="ID_1453884026" MODIFIED="1607124325330" TEXT="Standard 426 - Flight Training Units">
+<node CREATED="1602628861361" FOLDED="true" ID="ID_1453884026" MODIFIED="1607193770791" TEXT="Standard 426 - Flight Training Units">
 <icon BUILTIN="button_ok"/>
-<node CREATED="1605569634981" FOLDED="true" ID="ID_1973493255" MODIFIED="1605910912848" TEXT="Division II - Certification">
+<node CREATED="1605569634981" FOLDED="true" ID="ID_1973493255" MODIFIED="1607193753768" TEXT="Division II - Certification">
 <node CREATED="1605569910529" ID="ID_1367492566" MODIFIED="1605643575490">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6684,7 +6684,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1605569730432" FOLDED="true" ID="ID_575830342" MODIFIED="1607124325327" TEXT="Division IV - Aircraft">
+<node CREATED="1605569730432" FOLDED="true" ID="ID_575830342" MODIFIED="1607193759416" TEXT="Division IV - Aircraft">
 <node CREATED="1605570196712" ID="ID_1071816993" MODIFIED="1605651056295">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -7008,7 +7008,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1605569772160" FOLDED="true" ID="ID_1443779834" MODIFIED="1605910928217" TEXT="Division V - Flight Training Operations">
+<node CREATED="1605569772160" FOLDED="true" ID="ID_1443779834" MODIFIED="1607193770788" TEXT="Division V - Flight Training Operations">
 <node CREATED="1605570453665" ID="ID_1616742048" MODIFIED="1605658067884">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -7632,7 +7632,84 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602348247050" ID="ID_904553130" MODIFIED="1602348259187" POSITION="right" TEXT="Flight Test Guides"/>
+<node CREATED="1602348247050" FOLDED="true" ID="ID_904553130" MODIFIED="1607192925659" POSITION="right" TEXT="Flight Test Guides">
+<node CREATED="1607192675343" ID="ID_1036388505" MODIFIED="1607192904097">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Recreational Pilot Permit
+    </p>
+    <ul>
+      <li>
+        pass mark <b>42</b>&#160;(<b>50</b>%)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
+</node>
+<node CREATED="1607192700954" ID="ID_1675898161" MODIFIED="1607192909632">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Private Pilot License
+    </p>
+    <ul>
+      <li>
+        pass mark <b>62</b>&#160;(<b>50</b>%)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
+</node>
+<node CREATED="1607192709467" ID="ID_846770360" MODIFIED="1607192915840">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Commercial Pilot License
+    </p>
+    <ul>
+      <li>
+        pass mark <b>93 </b>or <b>81</b>&#160;(integrated course)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
+</node>
+<node CREATED="1607192718234" ID="ID_924994234" MODIFIED="1607192922264">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Instrument Rating
+    </p>
+    <ul>
+      <li>
+        pass mark <b>39</b>&#160;(<b>60</b>%)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
+</node>
+</node>
 <node CREATED="1602348569417" FOLDED="true" ID="ID_1190188854" MODIFIED="1603839033833" POSITION="left" TEXT="Deadlines">
 <node CREATED="1602348577982" ID="ID_1128194867" MODIFIED="1602611906421">
 <richcontent TYPE="NODE"><html>
