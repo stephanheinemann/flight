@@ -3701,8 +3701,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1601686500988" FOLDED="true" ID="ID_739673680" MODIFIED="1607193770795" POSITION="right" TEXT="Standards">
-<node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1607136782951">
+<node CREATED="1601686500988" FOLDED="true" ID="ID_739673680" MODIFIED="1607287602350" POSITION="right" TEXT="Standards">
+<node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1607285398916">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -4447,7 +4447,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491899955" FOLDED="true" ID="ID_1921926935" MODIFIED="1606349098033" TEXT="Division VII - Commercial Pilot Licence">
+<node CREATED="1603491899955" FOLDED="true" ID="ID_1921926935" MODIFIED="1607285398911" TEXT="Division VII - Commercial Pilot Licence">
 <node CREATED="1604105496779" ID="ID_112213341" MODIFIED="1606348878128">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5093,7 +5093,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1603492033296" FOLDED="true" ID="ID_875617576" MODIFIED="1606521896514" TEXT="Division XIII - VOTT Rating">
+<node CREATED="1603492033296" FOLDED="true" ID="ID_875617576" MODIFIED="1607287602336" TEXT="Division XIII - VOTT Rating">
 <node CREATED="1604516426092" ID="ID_1756622965" MODIFIED="1606521889403">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -5964,7 +5964,7 @@
 </node>
 <node CREATED="1603492328593" ID="ID_1235250747" MODIFIED="1603492347628" TEXT="Division XXIII - Flight Instructor Rating - Glider Aerobatic"/>
 </node>
-<node CREATED="1602628822216" FOLDED="true" ID="ID_1481549891" MODIFIED="1607134662235" TEXT="Standard 425 - Flight Training">
+<node CREATED="1602628822216" FOLDED="true" ID="ID_1481549891" MODIFIED="1607287602348" TEXT="Standard 425 - Flight Training">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1605549483507" FOLDED="true" ID="ID_1730357707" MODIFIED="1605910528166" TEXT="Division II - Flight Training Program">
 <node CREATED="1605549509398" ID="ID_10633819" MODIFIED="1605549967681">
@@ -6003,8 +6003,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1605549535993" FOLDED="true" ID="ID_555171141" MODIFIED="1607134662234" TEXT="Division III - Personnel and Aircraft">
-<node CREATED="1605549562337" ID="ID_1637892285" MODIFIED="1606876092258">
+<node CREATED="1605549535993" FOLDED="true" ID="ID_555171141" MODIFIED="1607287602348" TEXT="Division III - Personnel and Aircraft">
+<node CREATED="1605549562337" ID="ID_1637892285" MODIFIED="1607285321058">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6115,7 +6115,7 @@
 
         <ul>
           <li>
-            CPL(A) or ATPL(A) / CPL(H) or ATPL(H)
+            CPL(A) or ATPL(A) / CPL(H) or ATPL(H) <i>with</i>
           </li>
           <li>
             FI(A) / FI(H), <i>or</i>
@@ -6157,7 +6157,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1605549592073" ID="ID_1955571404" MODIFIED="1605560548775">
 <richcontent TYPE="NODE"><html>
@@ -7632,7 +7633,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1602348247050" FOLDED="true" ID="ID_904553130" MODIFIED="1607192925659" POSITION="right" TEXT="Flight Test Guides">
+<node CREATED="1602348247050" FOLDED="true" ID="ID_904553130" MODIFIED="1607287620244" POSITION="right" TEXT="Flight Test Guides">
 <node CREATED="1607192675343" ID="ID_1036388505" MODIFIED="1607192904097">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -7648,8 +7649,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1607192700954" ID="ID_1675898161" MODIFIED="1607192909632">
@@ -7667,8 +7667,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1607192709467" ID="ID_846770360" MODIFIED="1607192915840">
@@ -7686,8 +7685,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1607192718234" ID="ID_924994234" MODIFIED="1607192922264">
@@ -7705,12 +7703,11 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1602348569417" FOLDED="true" ID="ID_1190188854" MODIFIED="1603839033833" POSITION="left" TEXT="Deadlines">
+<node CREATED="1602348569417" FOLDED="true" ID="ID_1190188854" MODIFIED="1607287631218" POSITION="left" TEXT="Deadlines">
 <node CREATED="1602348577982" ID="ID_1128194867" MODIFIED="1602611906421">
 <richcontent TYPE="NODE"><html>
   <head>
