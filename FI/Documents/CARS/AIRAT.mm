@@ -1138,13 +1138,13 @@
 <node CREATED="1605296715096" ID="ID_1412980524" MODIFIED="1605296718293" TEXT="Lesson Plans"/>
 </node>
 </node>
-<node CREATED="1601686478539" FOLDED="true" ID="ID_446566040" MODIFIED="1607194104095" POSITION="left" TEXT="CARs">
-<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1607194104094" TEXT="Part IV - Personal Licensing and Training">
+<node CREATED="1601686478539" FOLDED="true" ID="ID_446566040" MODIFIED="1607466188367" POSITION="left" TEXT="CARs">
+<node CREATED="1601687030791" FOLDED="true" ID="ID_1799555625" MODIFIED="1607466188365" TEXT="Part IV - Personal Licensing and Training">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1602707724103" FOLDED="true" ID="ID_1776012256" MODIFIED="1605645437232" TEXT="Division I - General">
 <node CREATED="1602707910811" ID="ID_1886031404" MODIFIED="1602707920723" TEXT="Interpretation (400.01)"/>
 </node>
-<node CREATED="1602707773941" FOLDED="true" ID="ID_517561237" MODIFIED="1607124346076" TEXT="Division II - Examinations">
+<node CREATED="1602707773941" FOLDED="true" ID="ID_517561237" MODIFIED="1607466188364" TEXT="Division II - Examinations">
 <node CREATED="1602707958711" ID="ID_1623188055" MODIFIED="1606335886873">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1166,7 +1166,7 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1601927950343" ID="ID_500012379" MODIFIED="1606336724958">
+<node CREATED="1601927950343" ID="ID_500012379" MODIFIED="1607465838966">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1190,7 +1190,7 @@
             <b>70</b>% or higher obtained for type rating
           </li>
           <li>
-            <b>70</b>% or higher obtained for senior commercial pilot
+            <b>70</b>% or higher obtained for (former) senior commercial pilot (obsolete)
           </li>
           <li>
             <b>5</b>&#160;years for integrated ATPL written
@@ -1202,7 +1202,8 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1601928318731" ID="ID_632412376" MODIFIED="1606336973841">
@@ -3701,8 +3702,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1601686500988" FOLDED="true" ID="ID_739673680" MODIFIED="1607287602350" POSITION="right" TEXT="Standards">
-<node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1607285398916">
+<node CREATED="1601686500988" FOLDED="true" ID="ID_739673680" MODIFIED="1607467040206" POSITION="right" TEXT="Standards">
+<node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1607466188370">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -6157,8 +6158,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1605549592073" ID="ID_1955571404" MODIFIED="1605560548775">
 <richcontent TYPE="NODE"><html>
