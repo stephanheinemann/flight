@@ -46,7 +46,7 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1579645256451" ID="ID_355525268" MODIFIED="1600453693915" TEXT="IFR Separation">
+<node CREATED="1579645256451" FOLDED="true" ID="ID_355525268" MODIFIED="1607539252177" TEXT="IFR Separation">
 <node CREATED="1579636165195" ID="ID_316886654" MODIFIED="1581708457658">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -329,7 +329,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1579642122387" ID="ID_15581158" MODIFIED="1600365296281">
+<node CREATED="1579642122387" FOLDED="true" ID="ID_15581158" MODIFIED="1607539252177">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -477,7 +477,7 @@
 </html></richcontent>
 </node>
 <node CREATED="1579644760443" ID="ID_77314256" MODIFIED="1579644770079" TEXT="Alerting Service for Uncontrolled Airports"/>
-<node CREATED="1600365369617" ID="ID_1586590438" MODIFIED="1600389861648">
+<node CREATED="1600365369617" FOLDED="true" ID="ID_1586590438" MODIFIED="1607539252179">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -525,7 +525,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node CREATED="1600365508127" ID="ID_1967124099" MODIFIED="1600368045194">
+<node CREATED="1600365508127" FOLDED="true" ID="ID_1967124099" MODIFIED="1607539252178">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -880,7 +880,7 @@
 </node>
 <node CREATED="1579633454131" FOLDED="true" ID="ID_307271175" MODIFIED="1605575358396" POSITION="left" TEXT="Arrival Procedures">
 <node CREATED="1579902070142" ID="ID_1679347722" MODIFIED="1579902074522" TEXT="ATIS Broadcasts"/>
-<node CREATED="1579902101136" ID="ID_1440343756" MODIFIED="1601921770931" TEXT="STAR, MSA, and TAA">
+<node CREATED="1579902101136" FOLDED="true" ID="ID_1440343756" MODIFIED="1607539252180" TEXT="STAR, MSA, and TAA">
 <node CREATED="1579902238003" ID="ID_1587614557" MODIFIED="1581704144363">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -935,7 +935,7 @@
 </html></richcontent>
 <icon BUILTIN="help"/>
 </node>
-<node CREATED="1579902359091" ID="ID_1858405094" MODIFIED="1600454739880">
+<node CREATED="1579902359091" FOLDED="true" ID="ID_1858405094" MODIFIED="1607539252179">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2029,7 +2029,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1581004905331" ID="ID_1472974950" MODIFIED="1598027658375">
+<node CREATED="1581004905331" FOLDED="true" ID="ID_1472974950" MODIFIED="1607539252180">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2636,8 +2636,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1605641928408" POSITION="left" TEXT="Practical Procedures">
-<node CREATED="1580232275260" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1598027700042">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1607539252222" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1580232275260" FOLDED="true" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1607539252185">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2879,7 +2879,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1580242496504" ID="ID_1271336510" MODIFIED="1600539087313">
+<node CREATED="1580242496504" FOLDED="true" ID="ID_1271336510" MODIFIED="1607539252190">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2908,7 +2908,7 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="help"/>
-<node CREATED="1600196278933" ID="ID_1967800735" MODIFIED="1601922638927">
+<node CREATED="1600196278933" ID="ID_1967800735" MODIFIED="1607539242816">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2928,18 +2928,37 @@
         radials, bearings, arcs, procedure turns
       </li>
       <li>
-        <b>XTD</b>&#160;[NM] <b>=</b>&#160;<b>GS</b>&#160;[KTS] <b>/ 100 </b>(1% of GS)
+        <b>XTD</b>&#160;[NM] <b>=</b>&#160;<b>GS</b>&#160;[KTS] <b>/ 200 </b>(0.5% of GS)
+
+        <ul>
+          <li>
+            0.6 = 120 / 200 -&gt; initiate standard rate turn 0.6 NM XTD
+          </li>
+        </ul>
       </li>
       <li>
-        1.2 = 120 / 100 -&gt; initiate standard rate turn 1.2 NM XTD
+        derivation follows diameter for standard rate turn
+      </li>
+      <li>
+        diameter = circumference / pi
+
+        <ul>
+          <li>
+            120 KGS -&gt; 4 NM circumference -&gt; 1.2 NM diameter (1% GS)
+          </li>
+          <li>
+            1.2 NM diameter -&gt; 0.6 radius (0.5% GS)
+          </li>
+        </ul>
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1580326684086" ID="ID_612458635" MODIFIED="1600539234288">
+<node CREATED="1580326684086" FOLDED="true" ID="ID_612458635" MODIFIED="1607539252194">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3076,7 +3095,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1600196703468" ID="ID_1883704705" MODIFIED="1600366255072">
+<node CREATED="1600196703468" FOLDED="true" ID="ID_1883704705" MODIFIED="1607539252199">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3283,8 +3302,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1579917609714" FOLDED="true" ID="ID_1560993791" MODIFIED="1605575358444" POSITION="right">
