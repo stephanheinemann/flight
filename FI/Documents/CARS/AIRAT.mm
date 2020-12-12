@@ -1202,8 +1202,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1601928318731" ID="ID_632412376" MODIFIED="1606336973841">
@@ -3702,8 +3701,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1601686500988" FOLDED="true" ID="ID_739673680" MODIFIED="1607467040206" POSITION="right" TEXT="Standards">
-<node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1607466188370">
+<node CREATED="1601686500988" FOLDED="true" ID="ID_739673680" MODIFIED="1607803777756" POSITION="right" TEXT="Standards">
+<node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1607803777754">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3715,7 +3714,7 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="button_ok"/>
-<node CREATED="1603491738084" FOLDED="true" ID="ID_1671307345" MODIFIED="1606335675792" TEXT="Division I - General">
+<node CREATED="1603491738084" FOLDED="true" ID="ID_1671307345" MODIFIED="1607803769627" TEXT="Division I - General">
 <node CREATED="1603492397579" ID="ID_1564225874" MODIFIED="1603842099705">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3868,7 +3867,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491792578" FOLDED="true" ID="ID_598183191" MODIFIED="1607134741922" TEXT="Division II - Testing">
+<node CREATED="1603491792578" FOLDED="true" ID="ID_598183191" MODIFIED="1607803777752" TEXT="Division II - Testing">
 <node CREATED="1603909834069" ID="ID_1522155184" MODIFIED="1606602814327">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -4016,7 +4015,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1603491812679" FOLDED="true" ID="ID_1671629388" MODIFIED="1606335415811" TEXT="Division III - Student Pilot Permits">
+<node CREATED="1603491812679" FOLDED="true" ID="ID_1671629388" MODIFIED="1607803772415" TEXT="Division III - Student Pilot Permits">
 <node CREATED="1603915400472" ID="ID_1229888696" MODIFIED="1606334754747">
 <richcontent TYPE="NODE"><html>
   <head>
