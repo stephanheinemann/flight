@@ -3617,8 +3617,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1603474341032" ID="ID_157718675" MODIFIED="1603474644832">
@@ -3712,7 +3711,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1601686500988" FOLDED="true" ID="ID_739673680" MODIFIED="1607996786437" POSITION="right" TEXT="Standards">
+<node CREATED="1601686500988" FOLDED="true" ID="ID_739673680" MODIFIED="1608665123193" POSITION="right" TEXT="Standards">
 <node CREATED="1602630518462" FOLDED="true" ID="ID_1213825687" MODIFIED="1607996786385">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -6274,9 +6273,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1602628861361" FOLDED="true" ID="ID_1453884026" MODIFIED="1607996786432" TEXT="Standard 426 - Flight Training Units">
+<node CREATED="1602628861361" FOLDED="true" ID="ID_1453884026" MODIFIED="1608665123185" TEXT="Standard 426 - Flight Training Units">
 <icon BUILTIN="button_ok"/>
-<node CREATED="1605569634981" FOLDED="true" ID="ID_1973493255" MODIFIED="1607996786399" TEXT="Division II - Certification">
+<node CREATED="1605569634981" FOLDED="true" ID="ID_1973493255" MODIFIED="1608663620433" TEXT="Division II - Certification">
 <node CREATED="1605569910529" ID="ID_1367492566" MODIFIED="1605643575490">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -7594,7 +7593,7 @@
 <node CREATED="1605901969843" ID="ID_1637647465" MODIFIED="1605901976095" TEXT="Appendix I - Specification Tables"/>
 </node>
 </node>
-<node CREATED="1601687056181" FOLDED="true" ID="ID_1522117251" MODIFIED="1607995293861" POSITION="left" TEXT="Exam Preparation">
+<node CREATED="1601687056181" FOLDED="true" ID="ID_1522117251" MODIFIED="1608665123207" POSITION="left" TEXT="Exam Preparation">
 <node CREATED="1601687084749" ID="ID_230562098" MODIFIED="1607995265335" TEXT="Culhane">
 <icon BUILTIN="button_ok"/>
 </node>
@@ -7650,6 +7649,39 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1608663279275" ID="ID_1697984024" MODIFIED="1608663435867">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Dave Gagliardi Comments
+    </p>
+    <ul>
+      <li>
+        CARS and standards
+      </li>
+      <li>
+        C4 supervision and guidance (support scenarios / strategies)
+      </li>
+      <li>
+        CFI replacement scenario
+      </li>
+      <li>
+        operational control
+      </li>
+      <li>
+        PGI effective presentation
+      </li>
+      <li>
+        in-depth how questions&#160;
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1602348247050" FOLDED="true" ID="ID_904553130" MODIFIED="1607996786439" POSITION="right" TEXT="Flight Test Guides">
