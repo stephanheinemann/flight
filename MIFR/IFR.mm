@@ -2636,7 +2636,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1607539252222" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1611078883484" POSITION="left" TEXT="Practical Procedures">
 <node CREATED="1580232275260" FOLDED="true" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1607539252185">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2879,7 +2879,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1580242496504" FOLDED="true" ID="ID_1271336510" MODIFIED="1607539252190">
+<node CREATED="1580242496504" FOLDED="true" ID="ID_1271336510" MODIFIED="1611078878921">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2902,11 +2902,12 @@
         half-standard rate (bank angle = <b>IAS / 20 + 7</b>)
       </li>
       <li>
-        <b>180</b>&#160;deg turn <b>radius</b>&#160;equals <b>1% TAS</b>&#160;[NM] in no wind
+        <b>180</b>&#160;deg turn <b>radius</b>&#160;equals <b>0.5% TAS</b>&#160;[NM] in no wind
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <icon BUILTIN="help"/>
 <node CREATED="1600196278933" ID="ID_1967800735" MODIFIED="1607539242816">
 <richcontent TYPE="NODE"><html>
@@ -2953,8 +2954,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 </node>
 </node>
@@ -3095,7 +3095,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1600196703468" FOLDED="true" ID="ID_1883704705" MODIFIED="1607539252199">
+<node CREATED="1600196703468" FOLDED="true" ID="ID_1883704705" MODIFIED="1611078870882">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3169,7 +3169,7 @@
         published lead radials based on faster GS
       </li>
       <li>
-        apply <b>1% GS</b>&#160;lead in and lead out
+        apply <b>0.5% GS</b>&#160;lead in and lead out
       </li>
       <li>
         remain within <b>0.1</b>&#160;<b>DME</b>&#160;of the arc
@@ -3179,8 +3179,9 @@
       </li>
     </ul>
   </body>
-</html></richcontent>
-<node CREATED="1600197928797" ID="ID_1155614633" MODIFIED="1600198583419">
+</html>
+</richcontent>
+<node CREATED="1600197928797" ID="ID_1155614633" MODIFIED="1611078868222">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3209,14 +3210,15 @@
         useful to establish lead in XTD to intercept final radial
       </li>
       <li>
-        1% of 120 = 1.2
+        0.5% of 120 = 0.6
       </li>
       <li>
-        15 DME arc -&gt; 1.2 * 4 deg = 5 deg radial lead in
+        15 DME arc -&gt; 0.6 * 4 deg = 2.4 ~ 3 deg radial lead in
       </li>
     </ul>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1600366261645" ID="ID_690657015" MODIFIED="1602286777393">
 <richcontent TYPE="NODE"><html>
