@@ -2636,8 +2636,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1611078883484" POSITION="left" TEXT="Practical Procedures">
-<node CREATED="1580232275260" FOLDED="true" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1607539252185">
+<node CREATED="1579815802154" FOLDED="true" ID="ID_971957458" MODIFIED="1611611652435" POSITION="left" TEXT="Practical Procedures">
+<node CREATED="1580232275260" FOLDED="true" ID="ID_1364330056" LINK="BoldMethod/Holding%20Pattern%20Entries%20Boldmethod%20Live%20-%20YouTube.webm" MODIFIED="1611611641759">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2879,7 +2879,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1580242496504" FOLDED="true" ID="ID_1271336510" MODIFIED="1611078878921">
+<node CREATED="1580242496504" FOLDED="true" ID="ID_1271336510" MODIFIED="1611611524844">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2906,8 +2906,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="help"/>
 <node CREATED="1600196278933" ID="ID_1967800735" MODIFIED="1607539242816">
 <richcontent TYPE="NODE"><html>
@@ -3179,8 +3178,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1600197928797" ID="ID_1155614633" MODIFIED="1611078868222">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3217,8 +3215,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1600366261645" ID="ID_690657015" MODIFIED="1602286777393">
 <richcontent TYPE="NODE"><html>
